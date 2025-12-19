@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "18-12-25 00:42:45.814",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "x": "10821",
-      "y": "10201",
-      "z": "0",
-      "hours_survived": 10,
-      "event_type": "level_up",
-      "skill": "Blunt",
-      "level": "3"
-    },
-    {
       "timestamp": "18-12-25 01:06:39.984",
       "steam_id": "76561198044597580",
       "username": "Captain",
@@ -710,6 +698,18 @@
       "z": "1",
       "hours_survived": 115,
       "event_type": "login"
+    },
+    {
+      "timestamp": "19-12-25 15:47:05.694",
+      "steam_id": "76561198014472311",
+      "username": "SOBS",
+      "x": "10341",
+      "y": "9314",
+      "z": "0",
+      "hours_survived": 129,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1014,5 +1014,5 @@
       "text": "awosome"
     }
   ],
-  "timestamp": "2025-12-19T15:45:01.290057"
+  "timestamp": "2025-12-19T15:50:01.686798"
 }

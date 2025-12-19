@@ -249,7 +249,7 @@
     "SOBS": {
       "username": "SOBS",
       "steam_id": "76561198014472311",
-      "total_hours": 115,
+      "total_hours": 129,
       "deaths": 0,
       "skills": {},
       "level_ups": [
@@ -267,9 +267,14 @@
           "skill": "Blunt",
           "level": "2",
           "timestamp": "19-12-25 02:36:48.022"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "3",
+          "timestamp": "19-12-25 15:47:05.694"
         }
       ],
-      "last_seen": "19-12-25 15:10:28.615",
+      "last_seen": "19-12-25 15:47:05.694",
       "connections": 4
     },
     "Kessel": {
@@ -336,5 +341,5 @@
     }
   },
   "total_players": 7,
-  "timestamp": "2025-12-19T15:45:01.284213"
+  "timestamp": "2025-12-19T15:50:01.680958"
 }
