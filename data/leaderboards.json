@@ -37,11 +37,60 @@
     }
   ],
   "skills": {
-    "Strength": [
+    "Lightfoot": [
       {
         "username": "Captain",
-        "skill": "Strength",
-        "level": 5
+        "skill": "Lightfoot",
+        "level": 2
+      }
+    ],
+    "Blunt": [
+      {
+        "username": "Captain",
+        "skill": "Blunt",
+        "level": 0
+      }
+    ],
+    "Farming": [
+      {
+        "username": "Captain",
+        "skill": "Farming",
+        "level": 0
+      }
+    ],
+    "Sprinting": [
+      {
+        "username": "Captain",
+        "skill": "Sprinting",
+        "level": 0
+      }
+    ],
+    "Mechanics": [
+      {
+        "username": "Captain",
+        "skill": "Mechanics",
+        "level": 1
+      }
+    ],
+    "Cooking": [
+      {
+        "username": "Captain",
+        "skill": "Cooking",
+        "level": 0
+      }
+    ],
+    "Blacksmith": [
+      {
+        "username": "Captain",
+        "skill": "Blacksmith",
+        "level": 0
+      }
+    ],
+    "Reloading": [
+      {
+        "username": "Captain",
+        "skill": "Reloading",
+        "level": 0
       }
     ],
     "Electricity": [
@@ -49,20 +98,6 @@
         "username": "Captain",
         "skill": "Electricity",
         "level": 0
-      }
-    ],
-    "Aiming": [
-      {
-        "username": "Captain",
-        "skill": "Aiming",
-        "level": 0
-      }
-    ],
-    "Fitness": [
-      {
-        "username": "Captain",
-        "skill": "Fitness",
-        "level": 7
       }
     ],
     "Axe": [
@@ -79,52 +114,10 @@
         "level": 2
       }
     ],
-    "Trapping": [
+    "Woodwork": [
       {
         "username": "Captain",
-        "skill": "Trapping",
-        "level": 0
-      }
-    ],
-    "Reloading": [
-      {
-        "username": "Captain",
-        "skill": "Reloading",
-        "level": 0
-      }
-    ],
-    "Sprinting": [
-      {
-        "username": "Captain",
-        "skill": "Sprinting",
-        "level": 0
-      }
-    ],
-    "Blunt": [
-      {
-        "username": "Captain",
-        "skill": "Blunt",
-        "level": 0
-      }
-    ],
-    "Blacksmith": [
-      {
-        "username": "Captain",
-        "skill": "Blacksmith",
-        "level": 0
-      }
-    ],
-    "MetalWelding": [
-      {
-        "username": "Captain",
-        "skill": "MetalWelding",
-        "level": 0
-      }
-    ],
-    "Farming": [
-      {
-        "username": "Captain",
-        "skill": "Farming",
+        "skill": "Woodwork",
         "level": 0
       }
     ],
@@ -135,24 +128,17 @@
         "level": 0
       }
     ],
-    "Doctor": [
+    "Trapping": [
       {
         "username": "Captain",
-        "skill": "Doctor",
+        "skill": "Trapping",
         "level": 0
       }
     ],
-    "Mechanics": [
+    "MetalWelding": [
       {
         "username": "Captain",
-        "skill": "Mechanics",
-        "level": 1
-      }
-    ],
-    "Woodwork": [
-      {
-        "username": "Captain",
-        "skill": "Woodwork",
+        "skill": "MetalWelding",
         "level": 0
       }
     ],
@@ -163,11 +149,25 @@
         "level": 2
       }
     ],
-    "Lightfoot": [
+    "Strength": [
       {
         "username": "Captain",
-        "skill": "Lightfoot",
-        "level": 2
+        "skill": "Strength",
+        "level": 5
+      }
+    ],
+    "Doctor": [
+      {
+        "username": "Captain",
+        "skill": "Doctor",
+        "level": 0
+      }
+    ],
+    "Fitness": [
+      {
+        "username": "Captain",
+        "skill": "Fitness",
+        "level": 7
       }
     ],
     "Fishing": [
@@ -177,13 +177,13 @@
         "level": 0
       }
     ],
-    "Cooking": [
+    "Aiming": [
       {
         "username": "Captain",
-        "skill": "Cooking",
+        "skill": "Aiming",
         "level": 0
       }
     ]
   },
-  "timestamp": "2025-12-19T10:15:01.798942"
+  "timestamp": "2025-12-19T10:20:01.065471"
 }
