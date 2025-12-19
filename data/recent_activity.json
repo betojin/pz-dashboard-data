@@ -1,39 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "18-12-25 03:56:07.534",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "18-12-25 03:57:03.574",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "fully connected",
-      "x": "10872",
-      "y": "9489",
-      "z": "0"
-    },
-    {
-      "timestamp": "18-12-25 05:44:15.038",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "disconnected",
-      "x": "10114",
-      "y": "8241",
-      "z": "0"
-    },
-    {
-      "timestamp": "18-12-25 05:44:30.307",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "disconnected",
-      "x": "10114",
-      "y": "8242",
-      "z": "0"
-    },
-    {
       "timestamp": "18-12-25 07:41:36.276",
       "steam_id": "76561199092197924",
       "username": "NotMyFishyy",
@@ -356,19 +323,36 @@
       "x": "10098",
       "y": "8261",
       "z": "2"
+    },
+    {
+      "timestamp": "19-12-25 07:18:10.733",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "19-12-25 07:18:10.734",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "19-12-25 07:18:18.028",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "19-12-25 07:18:59.943",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "fully connected",
+      "x": "10114",
+      "y": "8241",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "18-12-25 00:30:38.216",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "x": "10604",
-      "y": "10019",
-      "z": "0",
-      "hours_survived": 9,
-      "event_type": "login"
-    },
     {
       "timestamp": "18-12-25 00:36:14.386",
       "steam_id": "76561199163725035",
@@ -711,6 +695,16 @@
       "z": "0",
       "hours_survived": 63,
       "event_type": "login"
+    },
+    {
+      "timestamp": "19-12-25 07:19:00.585",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "10114",
+      "y": "8241",
+      "z": "0",
+      "hours_survived": 54,
+      "event_type": "login"
     }
   ],
   "chat_messages": [
@@ -1015,5 +1009,5 @@
       "text": "awosome"
     }
   ],
-  "timestamp": "2025-12-19T07:15:01.122972"
+  "timestamp": "2025-12-19T07:20:01.485679"
 }
