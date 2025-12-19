@@ -6,14 +6,14 @@
       "deaths": 2
     },
     {
+      "username": "Molotov Kid",
+      "hours": 63,
+      "deaths": 2
+    },
+    {
       "username": "SOBS",
       "hours": 57,
       "deaths": 0
-    },
-    {
-      "username": "Molotov Kid",
-      "hours": 55,
-      "deaths": 2
     },
     {
       "username": "BetoJin",
@@ -37,53 +37,18 @@
     }
   ],
   "skills": {
-    "Mechanics": [
+    "Woodwork": [
       {
         "username": "Captain",
-        "skill": "Mechanics",
-        "level": 1
-      }
-    ],
-    "Aiming": [
-      {
-        "username": "Captain",
-        "skill": "Aiming",
+        "skill": "Woodwork",
         "level": 0
       }
     ],
-    "Fitness": [
+    "Electricity": [
       {
         "username": "Captain",
-        "skill": "Fitness",
-        "level": 7
-      }
-    ],
-    "Strength": [
-      {
-        "username": "Captain",
-        "skill": "Strength",
-        "level": 5
-      }
-    ],
-    "Doctor": [
-      {
-        "username": "Captain",
-        "skill": "Doctor",
+        "skill": "Electricity",
         "level": 0
-      }
-    ],
-    "Blunt": [
-      {
-        "username": "Captain",
-        "skill": "Blunt",
-        "level": 0
-      }
-    ],
-    "Nimble": [
-      {
-        "username": "Captain",
-        "skill": "Nimble",
-        "level": 2
       }
     ],
     "Sneak": [
@@ -93,18 +58,11 @@
         "level": 2
       }
     ],
-    "Farming": [
+    "Sprinting": [
       {
         "username": "Captain",
-        "skill": "Farming",
+        "skill": "Sprinting",
         "level": 0
-      }
-    ],
-    "Lightfoot": [
-      {
-        "username": "Captain",
-        "skill": "Lightfoot",
-        "level": 2
       }
     ],
     "Axe": [
@@ -121,31 +79,17 @@
         "level": 0
       }
     ],
-    "Reloading": [
+    "Fitness": [
       {
         "username": "Captain",
-        "skill": "Reloading",
-        "level": 0
+        "skill": "Fitness",
+        "level": 7
       }
     ],
-    "Woodwork": [
+    "Farming": [
       {
         "username": "Captain",
-        "skill": "Woodwork",
-        "level": 0
-      }
-    ],
-    "Sprinting": [
-      {
-        "username": "Captain",
-        "skill": "Sprinting",
-        "level": 0
-      }
-    ],
-    "Trapping": [
-      {
-        "username": "Captain",
-        "skill": "Trapping",
+        "skill": "Farming",
         "level": 0
       }
     ],
@@ -156,17 +100,59 @@
         "level": 0
       }
     ],
-    "Electricity": [
+    "Aiming": [
       {
         "username": "Captain",
-        "skill": "Electricity",
+        "skill": "Aiming",
         "level": 0
+      }
+    ],
+    "Trapping": [
+      {
+        "username": "Captain",
+        "skill": "Trapping",
+        "level": 0
+      }
+    ],
+    "Mechanics": [
+      {
+        "username": "Captain",
+        "skill": "Mechanics",
+        "level": 1
+      }
+    ],
+    "Strength": [
+      {
+        "username": "Captain",
+        "skill": "Strength",
+        "level": 5
+      }
+    ],
+    "Cooking": [
+      {
+        "username": "Captain",
+        "skill": "Cooking",
+        "level": 0
+      }
+    ],
+    "Lightfoot": [
+      {
+        "username": "Captain",
+        "skill": "Lightfoot",
+        "level": 2
       }
     ],
     "Blacksmith": [
       {
         "username": "Captain",
         "skill": "Blacksmith",
+        "level": 0
+      }
+    ],
+    "Reloading": [
+      {
+        "username": "Captain",
+        "skill": "Reloading",
         "level": 0
       }
     ],
@@ -177,13 +163,27 @@
         "level": 0
       }
     ],
-    "Cooking": [
+    "Doctor": [
       {
         "username": "Captain",
-        "skill": "Cooking",
+        "skill": "Doctor",
+        "level": 0
+      }
+    ],
+    "Nimble": [
+      {
+        "username": "Captain",
+        "skill": "Nimble",
+        "level": 2
+      }
+    ],
+    "Blunt": [
+      {
+        "username": "Captain",
+        "skill": "Blunt",
         "level": 0
       }
     ]
   },
-  "timestamp": "2025-12-19T07:05:01.518356"
+  "timestamp": "2025-12-19T07:10:01.792279"
 }

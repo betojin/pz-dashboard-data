@@ -1,30 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "18-12-25 03:50:02.595",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "18-12-25 03:51:03.472",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "18-12-25 03:51:03.473",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "18-12-25 03:51:10.332",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "18-12-25 03:52:23.747",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -353,21 +329,36 @@
       "x": "10099",
       "y": "8258",
       "z": "0"
+    },
+    {
+      "timestamp": "19-12-25 07:06:59.275",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "19-12-25 07:06:59.275",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "19-12-25 07:07:22.252",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "19-12-25 07:08:33.168",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "fully connected",
+      "x": "10099",
+      "y": "8258",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "18-12-25 00:30:21.783",
-      "steam_id": "76561198044597580",
-      "username": "Captain",
-      "x": "11909",
-      "y": "6898",
-      "z": "0",
-      "hours_survived": 113,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "1"
-    },
     {
       "timestamp": "18-12-25 00:30:38.216",
       "steam_id": "76561199251232344",
@@ -710,6 +701,16 @@
       "z": "0",
       "hours_survived": 55,
       "event_type": "login"
+    },
+    {
+      "timestamp": "19-12-25 07:08:39.332",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "x": "10099",
+      "y": "8258",
+      "z": "0",
+      "hours_survived": 63,
+      "event_type": "login"
     }
   ],
   "chat_messages": [
@@ -1014,5 +1015,5 @@
       "text": "awosome"
     }
   ],
-  "timestamp": "2025-12-19T07:05:01.520822"
+  "timestamp": "2025-12-19T07:10:01.794842"
 }
