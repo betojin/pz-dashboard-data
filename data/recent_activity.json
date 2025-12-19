@@ -1,36 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "18-12-25 23:58:17.743",
-      "steam_id": "76561198044597580",
-      "username": "Captain",
-      "action": "fully connected",
-      "x": "10608",
-      "y": "10231",
-      "z": "0"
-    },
-    {
-      "timestamp": "19-12-25 00:00:28.019",
-      "steam_id": "76561198044597580",
-      "username": "Captain",
-      "action": "disconnected",
-      "x": "10606",
-      "y": "10230",
-      "z": "0"
-    },
-    {
-      "timestamp": "19-12-25 02:24:31.806",
-      "steam_id": "76561198014472311",
-      "username": "SOBS",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "19-12-25 02:24:31.807",
-      "steam_id": "76561198014472311",
-      "username": "SOBS",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "19-12-25 02:24:51.853",
       "steam_id": "76561198014472311",
       "username": "SOBS",
@@ -359,21 +329,36 @@
       "x": "10608",
       "y": "10232",
       "z": "0"
+    },
+    {
+      "timestamp": "19-12-25 22:17:15.077",
+      "steam_id": "76561198044597580",
+      "username": "Captain",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "19-12-25 22:17:15.077",
+      "steam_id": "76561198044597580",
+      "username": "Captain",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "19-12-25 22:17:22.433",
+      "steam_id": "76561198044597580",
+      "username": "Captain",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "19-12-25 22:18:05.691",
+      "steam_id": "76561198044597580",
+      "username": "Captain",
+      "action": "fully connected",
+      "x": "10608",
+      "y": "10232",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "18-12-25 01:16:15.431",
-      "steam_id": "76561198044597580",
-      "username": "Captain",
-      "x": "10668",
-      "y": "10450",
-      "z": "0",
-      "hours_survived": 131,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "2"
-    },
     {
       "timestamp": "18-12-25 01:22:11.728",
       "steam_id": "76561198044597580",
@@ -710,21 +695,19 @@
       "z": "0",
       "hours_survived": 6,
       "event_type": "login"
+    },
+    {
+      "timestamp": "19-12-25 22:18:06.409",
+      "steam_id": "76561198044597580",
+      "username": "Captain",
+      "x": "10608",
+      "y": "10232",
+      "z": "0",
+      "hours_survived": 6,
+      "event_type": "login"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "19-12-25 03:33:53.984",
-      "chat_type": "General",
-      "author": "SOBS",
-      "text": "almost there"
-    },
-    {
-      "timestamp": "19-12-25 03:33:53.984",
-      "chat_type": "General",
-      "author": "SOBS",
-      "text": "almost there"
-    },
     {
       "timestamp": "19-12-25 03:42:52.806",
       "chat_type": "General",
@@ -1012,7 +995,19 @@
       "chat_type": "General",
       "author": "SOBS",
       "text": "awosome"
+    },
+    {
+      "timestamp": "19-12-25 22:19:28.667",
+      "chat_type": "Local",
+      "author": "Captain",
+      "text": "aa"
+    },
+    {
+      "timestamp": "19-12-25 22:19:28.668",
+      "chat_type": "Local",
+      "author": "Captain",
+      "text": "aa"
     }
   ],
-  "timestamp": "2025-12-19T22:15:01.252074"
+  "timestamp": "2025-12-19T22:20:01.510401"
 }
