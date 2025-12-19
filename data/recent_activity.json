@@ -1,42 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "18-12-25 23:21:51.345",
-      "steam_id": "76561198044597580",
-      "username": "Captain",
-      "action": "fully connected",
-      "x": "10608",
-      "y": "10231",
-      "z": "0"
-    },
-    {
-      "timestamp": "18-12-25 23:57:14.543",
-      "steam_id": "76561198044597580",
-      "username": "Captain",
-      "action": "disconnected",
-      "x": "2581",
-      "y": "10921",
-      "z": "0"
-    },
-    {
-      "timestamp": "18-12-25 23:57:40.336",
-      "steam_id": "76561198044597580",
-      "username": "Captain",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "18-12-25 23:57:40.337",
-      "steam_id": "76561198044597580",
-      "username": "Captain",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "18-12-25 23:57:47.984",
-      "steam_id": "76561198044597580",
-      "username": "Captain",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "18-12-25 23:58:17.743",
       "steam_id": "76561198044597580",
       "username": "Captain",
@@ -359,19 +323,45 @@
       "steam_id": "76561198044597580",
       "username": "Captain",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "19-12-25 21:57:46.576",
+      "steam_id": "76561198044597580",
+      "username": "Captain",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "19-12-25 21:57:46.577",
+      "steam_id": "76561198044597580",
+      "username": "Captain",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "19-12-25 21:57:54.019",
+      "steam_id": "76561198044597580",
+      "username": "Captain",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "19-12-25 21:58:29.373",
+      "steam_id": "76561198044597580",
+      "username": "Captain",
+      "action": "fully connected",
+      "x": "10608",
+      "y": "10231",
+      "z": "0"
+    },
+    {
+      "timestamp": "19-12-25 21:58:55.304",
+      "steam_id": "76561198044597580",
+      "username": "Captain",
+      "action": "disconnected",
+      "x": "10608",
+      "y": "10232",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "18-12-25 01:06:39.984",
-      "steam_id": "76561198044597580",
-      "username": "Captain",
-      "x": "10641",
-      "y": "10408",
-      "z": "0",
-      "hours_survived": 127,
-      "event_type": "login"
-    },
     {
       "timestamp": "18-12-25 01:16:15.431",
       "steam_id": "76561198044597580",
@@ -710,6 +700,16 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "3"
+    },
+    {
+      "timestamp": "19-12-25 21:58:30.704",
+      "steam_id": "76561198044597580",
+      "username": "Captain",
+      "x": "10608",
+      "y": "10231",
+      "z": "0",
+      "hours_survived": 6,
+      "event_type": "login"
     }
   ],
   "chat_messages": [
@@ -1014,5 +1014,5 @@
       "text": "awosome"
     }
   ],
-  "timestamp": "2025-12-19T21:55:01.946480"
+  "timestamp": "2025-12-19T22:00:01.321407"
 }
