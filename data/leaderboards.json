@@ -37,87 +37,10 @@
     }
   ],
   "skills": {
-    "Fishing": [
-      {
-        "username": "Captain",
-        "skill": "Fishing",
-        "level": 0
-      }
-    ],
-    "Woodwork": [
-      {
-        "username": "Captain",
-        "skill": "Woodwork",
-        "level": 0
-      }
-    ],
     "Electricity": [
       {
         "username": "Captain",
         "skill": "Electricity",
-        "level": 0
-      }
-    ],
-    "Strength": [
-      {
-        "username": "Captain",
-        "skill": "Strength",
-        "level": 5
-      }
-    ],
-    "Axe": [
-      {
-        "username": "Captain",
-        "skill": "Axe",
-        "level": 0
-      }
-    ],
-    "Sneak": [
-      {
-        "username": "Captain",
-        "skill": "Sneak",
-        "level": 2
-      }
-    ],
-    "Doctor": [
-      {
-        "username": "Captain",
-        "skill": "Doctor",
-        "level": 0
-      }
-    ],
-    "Trapping": [
-      {
-        "username": "Captain",
-        "skill": "Trapping",
-        "level": 0
-      }
-    ],
-    "Blunt": [
-      {
-        "username": "Captain",
-        "skill": "Blunt",
-        "level": 0
-      }
-    ],
-    "Farming": [
-      {
-        "username": "Captain",
-        "skill": "Farming",
-        "level": 0
-      }
-    ],
-    "Lightfoot": [
-      {
-        "username": "Captain",
-        "skill": "Lightfoot",
-        "level": 2
-      }
-    ],
-    "Sprinting": [
-      {
-        "username": "Captain",
-        "skill": "Sprinting",
         "level": 0
       }
     ],
@@ -128,10 +51,10 @@
         "level": 0
       }
     ],
-    "MetalWelding": [
+    "Axe": [
       {
         "username": "Captain",
-        "skill": "MetalWelding",
+        "skill": "Axe",
         "level": 0
       }
     ],
@@ -142,6 +65,13 @@
         "level": 2
       }
     ],
+    "Lightfoot": [
+      {
+        "username": "Captain",
+        "skill": "Lightfoot",
+        "level": 2
+      }
+    ],
     "Mechanics": [
       {
         "username": "Captain",
@@ -149,24 +79,52 @@
         "level": 1
       }
     ],
-    "PlantScavenging": [
+    "Fishing": [
       {
         "username": "Captain",
-        "skill": "PlantScavenging",
+        "skill": "Fishing",
         "level": 0
       }
     ],
-    "Aiming": [
+    "Blunt": [
       {
         "username": "Captain",
-        "skill": "Aiming",
+        "skill": "Blunt",
         "level": 0
+      }
+    ],
+    "Sneak": [
+      {
+        "username": "Captain",
+        "skill": "Sneak",
+        "level": 2
       }
     ],
     "Blacksmith": [
       {
         "username": "Captain",
         "skill": "Blacksmith",
+        "level": 0
+      }
+    ],
+    "Farming": [
+      {
+        "username": "Captain",
+        "skill": "Farming",
+        "level": 0
+      }
+    ],
+    "MetalWelding": [
+      {
+        "username": "Captain",
+        "skill": "MetalWelding",
+        "level": 0
+      }
+    ],
+    "Trapping": [
+      {
+        "username": "Captain",
+        "skill": "Trapping",
         "level": 0
       }
     ],
@@ -177,13 +135,55 @@
         "level": 0
       }
     ],
+    "Woodwork": [
+      {
+        "username": "Captain",
+        "skill": "Woodwork",
+        "level": 0
+      }
+    ],
+    "Aiming": [
+      {
+        "username": "Captain",
+        "skill": "Aiming",
+        "level": 0
+      }
+    ],
     "Fitness": [
       {
         "username": "Captain",
         "skill": "Fitness",
         "level": 7
       }
+    ],
+    "Sprinting": [
+      {
+        "username": "Captain",
+        "skill": "Sprinting",
+        "level": 0
+      }
+    ],
+    "Doctor": [
+      {
+        "username": "Captain",
+        "skill": "Doctor",
+        "level": 0
+      }
+    ],
+    "Strength": [
+      {
+        "username": "Captain",
+        "skill": "Strength",
+        "level": 5
+      }
+    ],
+    "PlantScavenging": [
+      {
+        "username": "Captain",
+        "skill": "PlantScavenging",
+        "level": 0
+      }
     ]
   },
-  "timestamp": "2025-12-19T11:20:01.254336"
+  "timestamp": "2025-12-19T11:25:01.530103"
 }
