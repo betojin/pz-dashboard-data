@@ -37,74 +37,18 @@
     }
   ],
   "skills": {
-    "Lightfoot": [
+    "Fitness": [
       {
         "username": "Captain",
-        "skill": "Lightfoot",
-        "level": 2
+        "skill": "Fitness",
+        "level": 7
       }
     ],
-    "Aiming": [
+    "MetalWelding": [
       {
         "username": "Captain",
-        "skill": "Aiming",
+        "skill": "MetalWelding",
         "level": 0
-      }
-    ],
-    "Sprinting": [
-      {
-        "username": "Captain",
-        "skill": "Sprinting",
-        "level": 0
-      }
-    ],
-    "Mechanics": [
-      {
-        "username": "Captain",
-        "skill": "Mechanics",
-        "level": 1
-      }
-    ],
-    "PlantScavenging": [
-      {
-        "username": "Captain",
-        "skill": "PlantScavenging",
-        "level": 0
-      }
-    ],
-    "Doctor": [
-      {
-        "username": "Captain",
-        "skill": "Doctor",
-        "level": 0
-      }
-    ],
-    "Electricity": [
-      {
-        "username": "Captain",
-        "skill": "Electricity",
-        "level": 0
-      }
-    ],
-    "Cooking": [
-      {
-        "username": "Captain",
-        "skill": "Cooking",
-        "level": 0
-      }
-    ],
-    "Reloading": [
-      {
-        "username": "Captain",
-        "skill": "Reloading",
-        "level": 0
-      }
-    ],
-    "Strength": [
-      {
-        "username": "Captain",
-        "skill": "Strength",
-        "level": 5
       }
     ],
     "Blacksmith": [
@@ -114,24 +58,17 @@
         "level": 0
       }
     ],
-    "Fitness": [
+    "Lightfoot": [
       {
         "username": "Captain",
-        "skill": "Fitness",
-        "level": 7
+        "skill": "Lightfoot",
+        "level": 2
       }
     ],
-    "Farming": [
+    "Sprinting": [
       {
         "username": "Captain",
-        "skill": "Farming",
-        "level": 0
-      }
-    ],
-    "Fishing": [
-      {
-        "username": "Captain",
-        "skill": "Fishing",
+        "skill": "Sprinting",
         "level": 0
       }
     ],
@@ -142,24 +79,24 @@
         "level": 2
       }
     ],
-    "Trapping": [
+    "PlantScavenging": [
       {
         "username": "Captain",
-        "skill": "Trapping",
+        "skill": "PlantScavenging",
         "level": 0
       }
     ],
-    "Blunt": [
+    "Strength": [
       {
         "username": "Captain",
-        "skill": "Blunt",
-        "level": 0
+        "skill": "Strength",
+        "level": 5
       }
     ],
-    "Woodwork": [
+    "Reloading": [
       {
         "username": "Captain",
-        "skill": "Woodwork",
+        "skill": "Reloading",
         "level": 0
       }
     ],
@@ -170,10 +107,38 @@
         "level": 0
       }
     ],
-    "MetalWelding": [
+    "Aiming": [
       {
         "username": "Captain",
-        "skill": "MetalWelding",
+        "skill": "Aiming",
+        "level": 0
+      }
+    ],
+    "Electricity": [
+      {
+        "username": "Captain",
+        "skill": "Electricity",
+        "level": 0
+      }
+    ],
+    "Woodwork": [
+      {
+        "username": "Captain",
+        "skill": "Woodwork",
+        "level": 0
+      }
+    ],
+    "Blunt": [
+      {
+        "username": "Captain",
+        "skill": "Blunt",
+        "level": 0
+      }
+    ],
+    "Trapping": [
+      {
+        "username": "Captain",
+        "skill": "Trapping",
         "level": 0
       }
     ],
@@ -183,7 +148,42 @@
         "skill": "Sneak",
         "level": 2
       }
+    ],
+    "Mechanics": [
+      {
+        "username": "Captain",
+        "skill": "Mechanics",
+        "level": 1
+      }
+    ],
+    "Fishing": [
+      {
+        "username": "Captain",
+        "skill": "Fishing",
+        "level": 0
+      }
+    ],
+    "Farming": [
+      {
+        "username": "Captain",
+        "skill": "Farming",
+        "level": 0
+      }
+    ],
+    "Cooking": [
+      {
+        "username": "Captain",
+        "skill": "Cooking",
+        "level": 0
+      }
+    ],
+    "Doctor": [
+      {
+        "username": "Captain",
+        "skill": "Doctor",
+        "level": 0
+      }
     ]
   },
-  "timestamp": "2025-12-19T10:00:01.854665"
+  "timestamp": "2025-12-19T10:05:01.159065"
 }
