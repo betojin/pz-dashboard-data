@@ -37,101 +37,10 @@
     }
   ],
   "skills": {
-    "Strength": [
-      {
-        "username": "Captain",
-        "skill": "Strength",
-        "level": 5
-      }
-    ],
-    "PlantScavenging": [
-      {
-        "username": "Captain",
-        "skill": "PlantScavenging",
-        "level": 0
-      }
-    ],
-    "Fitness": [
-      {
-        "username": "Captain",
-        "skill": "Fitness",
-        "level": 7
-      }
-    ],
-    "Electricity": [
-      {
-        "username": "Captain",
-        "skill": "Electricity",
-        "level": 0
-      }
-    ],
-    "Sneak": [
-      {
-        "username": "Captain",
-        "skill": "Sneak",
-        "level": 2
-      }
-    ],
-    "Trapping": [
-      {
-        "username": "Captain",
-        "skill": "Trapping",
-        "level": 0
-      }
-    ],
     "Blacksmith": [
       {
         "username": "Captain",
         "skill": "Blacksmith",
-        "level": 0
-      }
-    ],
-    "Doctor": [
-      {
-        "username": "Captain",
-        "skill": "Doctor",
-        "level": 0
-      }
-    ],
-    "Sprinting": [
-      {
-        "username": "Captain",
-        "skill": "Sprinting",
-        "level": 0
-      }
-    ],
-    "Farming": [
-      {
-        "username": "Captain",
-        "skill": "Farming",
-        "level": 0
-      }
-    ],
-    "Aiming": [
-      {
-        "username": "Captain",
-        "skill": "Aiming",
-        "level": 0
-      }
-    ],
-    "Lightfoot": [
-      {
-        "username": "Captain",
-        "skill": "Lightfoot",
-        "level": 2
-      }
-    ],
-    "Reloading": [
-      {
-        "username": "Captain",
-        "skill": "Reloading",
-        "level": 0
-      }
-    ],
-    "Cooking": [
-      {
-        "username": "Captain",
-        "skill": "Cooking",
         "level": 0
       }
     ],
@@ -149,10 +58,17 @@
         "level": 0
       }
     ],
-    "Axe": [
+    "Reloading": [
       {
         "username": "Captain",
-        "skill": "Axe",
+        "skill": "Reloading",
+        "level": 0
+      }
+    ],
+    "Fishing": [
+      {
+        "username": "Captain",
+        "skill": "Fishing",
         "level": 0
       }
     ],
@@ -163,11 +79,32 @@
         "level": 0
       }
     ],
+    "Aiming": [
+      {
+        "username": "Captain",
+        "skill": "Aiming",
+        "level": 0
+      }
+    ],
+    "Trapping": [
+      {
+        "username": "Captain",
+        "skill": "Trapping",
+        "level": 0
+      }
+    ],
     "Nimble": [
       {
         "username": "Captain",
         "skill": "Nimble",
         "level": 2
+      }
+    ],
+    "Doctor": [
+      {
+        "username": "Captain",
+        "skill": "Doctor",
+        "level": 0
       }
     ],
     "MetalWelding": [
@@ -177,13 +114,76 @@
         "level": 0
       }
     ],
-    "Fishing": [
+    "Farming": [
       {
         "username": "Captain",
-        "skill": "Fishing",
+        "skill": "Farming",
+        "level": 0
+      }
+    ],
+    "Cooking": [
+      {
+        "username": "Captain",
+        "skill": "Cooking",
+        "level": 0
+      }
+    ],
+    "Strength": [
+      {
+        "username": "Captain",
+        "skill": "Strength",
+        "level": 5
+      }
+    ],
+    "PlantScavenging": [
+      {
+        "username": "Captain",
+        "skill": "PlantScavenging",
+        "level": 0
+      }
+    ],
+    "Sprinting": [
+      {
+        "username": "Captain",
+        "skill": "Sprinting",
+        "level": 0
+      }
+    ],
+    "Lightfoot": [
+      {
+        "username": "Captain",
+        "skill": "Lightfoot",
+        "level": 2
+      }
+    ],
+    "Axe": [
+      {
+        "username": "Captain",
+        "skill": "Axe",
+        "level": 0
+      }
+    ],
+    "Sneak": [
+      {
+        "username": "Captain",
+        "skill": "Sneak",
+        "level": 2
+      }
+    ],
+    "Fitness": [
+      {
+        "username": "Captain",
+        "skill": "Fitness",
+        "level": 7
+      }
+    ],
+    "Electricity": [
+      {
+        "username": "Captain",
+        "skill": "Electricity",
         "level": 0
       }
     ]
   },
-  "timestamp": "2025-12-19T16:10:01.245685"
+  "timestamp": "2025-12-19T16:15:01.576658"
 }
