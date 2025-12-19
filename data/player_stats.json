@@ -1,0 +1,340 @@
+{
+  "players": {
+    "Sully": {
+      "username": "Sully",
+      "steam_id": "76561198119296623",
+      "total_hours": 43,
+      "deaths": 0,
+      "skills": {},
+      "level_ups": [
+        {
+          "skill": "Blunt",
+          "level": "1",
+          "timestamp": "17-12-25 06:33:25.112"
+        },
+        {
+          "skill": "Blunt",
+          "level": "2",
+          "timestamp": "17-12-25 06:44:24.077"
+        },
+        {
+          "skill": "Blunt",
+          "level": "3",
+          "timestamp": "17-12-25 07:02:15.578"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "17-12-25 07:03:44.950"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "17-12-25 07:21:21.175"
+        },
+        {
+          "skill": "SmallBlunt",
+          "level": "1",
+          "timestamp": "17-12-25 07:24:21.952"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "17-12-25 07:38:57.658"
+        }
+      ],
+      "last_seen": "17-12-25 07:38:57.658",
+      "connections": 1
+    },
+    "BetoJin": {
+      "username": "BetoJin",
+      "steam_id": "76561198065774641",
+      "total_hours": 44,
+      "deaths": 1,
+      "skills": {},
+      "level_ups": [
+        {
+          "skill": "Blunt",
+          "level": "1",
+          "timestamp": "17-12-25 06:11:02.846"
+        },
+        {
+          "skill": "Blunt",
+          "level": "1",
+          "timestamp": "17-12-25 06:20:18.903"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "17-12-25 06:35:00.350"
+        },
+        {
+          "skill": "Blunt",
+          "level": "2",
+          "timestamp": "18-12-25 04:05:20.499"
+        },
+        {
+          "skill": "Axe",
+          "level": "1",
+          "timestamp": "18-12-25 05:12:02.625"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "18-12-25 05:20:29.621"
+        }
+      ],
+      "last_seen": "18-12-25 05:20:29.621",
+      "connections": 3
+    },
+    "Molotov Kid": {
+      "username": "Molotov Kid",
+      "steam_id": "76561199163725035",
+      "total_hours": 55,
+      "deaths": 2,
+      "skills": {},
+      "level_ups": [
+        {
+          "skill": "Doctor",
+          "level": "1",
+          "timestamp": "17-12-25 06:56:27.387"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "17-12-25 07:03:29.087"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "17-12-25 07:31:51.561"
+        },
+        {
+          "skill": "Blunt",
+          "level": "3",
+          "timestamp": "18-12-25 00:42:45.814"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "19-12-25 03:12:19.591"
+        }
+      ],
+      "last_seen": "19-12-25 04:41:28.687",
+      "connections": 6
+    },
+    "Captain": {
+      "username": "Captain",
+      "steam_id": "76561198044597580",
+      "total_hours": 133,
+      "deaths": 2,
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1
+      },
+      "level_ups": [
+        {
+          "skill": "Blunt",
+          "level": "2",
+          "timestamp": "17-12-25 16:22:31.530"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "17-12-25 16:27:41.155"
+        },
+        {
+          "skill": "Blunt",
+          "level": "3",
+          "timestamp": "17-12-25 16:45:13.757"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "17-12-25 17:26:59.571"
+        },
+        {
+          "skill": "Blunt",
+          "level": "1",
+          "timestamp": "17-12-25 17:37:03.253"
+        },
+        {
+          "skill": "Blunt",
+          "level": "2",
+          "timestamp": "17-12-25 17:48:19.004"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "17-12-25 17:51:32.070"
+        },
+        {
+          "skill": "Blunt",
+          "level": "3",
+          "timestamp": "17-12-25 18:15:38.332"
+        },
+        {
+          "skill": "Blunt",
+          "level": "4",
+          "timestamp": "17-12-25 18:41:22.600"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "2",
+          "timestamp": "17-12-25 20:19:58.571"
+        },
+        {
+          "skill": "Blunt",
+          "level": "5",
+          "timestamp": "17-12-25 20:40:09.777"
+        },
+        {
+          "skill": "Doctor",
+          "level": "1",
+          "timestamp": "17-12-25 22:03:51.844"
+        },
+        {
+          "skill": "Axe",
+          "level": "1",
+          "timestamp": "18-12-25 00:30:21.783"
+        },
+        {
+          "skill": "Axe",
+          "level": "2",
+          "timestamp": "18-12-25 01:16:15.431"
+        },
+        {
+          "skill": "Axe",
+          "level": "1",
+          "timestamp": "18-12-25 20:36:16.346"
+        },
+        {
+          "skill": "Axe",
+          "level": "2",
+          "timestamp": "18-12-25 21:02:30.015"
+        },
+        {
+          "skill": "Axe",
+          "level": "1",
+          "timestamp": "18-12-25 23:25:56.544"
+        },
+        {
+          "skill": "Axe",
+          "level": "2",
+          "timestamp": "18-12-25 23:48:23.602"
+        }
+      ],
+      "last_seen": "18-12-25 23:58:17.976",
+      "connections": 17
+    },
+    "SOBS": {
+      "username": "SOBS",
+      "steam_id": "76561198014472311",
+      "total_hours": 57,
+      "deaths": 0,
+      "skills": {},
+      "level_ups": [
+        {
+          "skill": "Blunt",
+          "level": "1",
+          "timestamp": "17-12-25 19:43:42.100"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "17-12-25 20:20:45.975"
+        },
+        {
+          "skill": "Blunt",
+          "level": "2",
+          "timestamp": "19-12-25 02:36:48.022"
+        }
+      ],
+      "last_seen": "19-12-25 02:36:48.022",
+      "connections": 3
+    },
+    "Kessel": {
+      "username": "Kessel",
+      "steam_id": "76561199251232344",
+      "total_hours": 13,
+      "deaths": 0,
+      "skills": {},
+      "level_ups": [
+        {
+          "skill": "Cooking",
+          "level": "1",
+          "timestamp": "17-12-25 20:27:23.247"
+        },
+        {
+          "skill": "Blunt",
+          "level": "1",
+          "timestamp": "17-12-25 20:36:28.014"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "17-12-25 20:40:15.234"
+        },
+        {
+          "skill": "Blunt",
+          "level": "2",
+          "timestamp": "17-12-25 20:40:39.430"
+        },
+        {
+          "skill": "Blunt",
+          "level": "3",
+          "timestamp": "18-12-25 00:38:53.068"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "18-12-25 00:39:11.964"
+        }
+      ],
+      "last_seen": "18-12-25 00:39:11.964",
+      "connections": 3
+    },
+    "Boba": {
+      "username": "Boba",
+      "steam_id": "76561199317533255",
+      "total_hours": 41,
+      "deaths": 0,
+      "skills": {},
+      "level_ups": [
+        {
+          "skill": "Blunt",
+          "level": "1",
+          "timestamp": "18-12-25 04:24:13.026"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "18-12-25 05:39:56.659"
+        }
+      ],
+      "last_seen": "18-12-25 05:39:56.659",
+      "connections": 1
+    }
+  },
+  "total_players": 7,
+  "timestamp": "2025-12-19T06:44:07.893936"
+}
