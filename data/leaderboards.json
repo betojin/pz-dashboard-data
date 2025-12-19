@@ -37,38 +37,17 @@
     }
   ],
   "skills": {
-    "Farming": [
+    "Axe": [
       {
         "username": "Captain",
-        "skill": "Farming",
+        "skill": "Axe",
         "level": 0
       }
     ],
-    "Blunt": [
+    "Fishing": [
       {
         "username": "Captain",
-        "skill": "Blunt",
-        "level": 0
-      }
-    ],
-    "Fitness": [
-      {
-        "username": "Captain",
-        "skill": "Fitness",
-        "level": 7
-      }
-    ],
-    "Blacksmith": [
-      {
-        "username": "Captain",
-        "skill": "Blacksmith",
-        "level": 0
-      }
-    ],
-    "Reloading": [
-      {
-        "username": "Captain",
-        "skill": "Reloading",
+        "skill": "Fishing",
         "level": 0
       }
     ],
@@ -79,6 +58,41 @@
         "level": 1
       }
     ],
+    "Fitness": [
+      {
+        "username": "Captain",
+        "skill": "Fitness",
+        "level": 7
+      }
+    ],
+    "Sprinting": [
+      {
+        "username": "Captain",
+        "skill": "Sprinting",
+        "level": 0
+      }
+    ],
+    "Nimble": [
+      {
+        "username": "Captain",
+        "skill": "Nimble",
+        "level": 2
+      }
+    ],
+    "Sneak": [
+      {
+        "username": "Captain",
+        "skill": "Sneak",
+        "level": 2
+      }
+    ],
+    "Lightfoot": [
+      {
+        "username": "Captain",
+        "skill": "Lightfoot",
+        "level": 2
+      }
+    ],
     "Aiming": [
       {
         "username": "Captain",
@@ -86,10 +100,17 @@
         "level": 0
       }
     ],
-    "Axe": [
+    "Blunt": [
       {
         "username": "Captain",
-        "skill": "Axe",
+        "skill": "Blunt",
+        "level": 0
+      }
+    ],
+    "Farming": [
+      {
+        "username": "Captain",
+        "skill": "Farming",
         "level": 0
       }
     ],
@@ -107,17 +128,10 @@
         "level": 0
       }
     ],
-    "Sneak": [
+    "Doctor": [
       {
         "username": "Captain",
-        "skill": "Sneak",
-        "level": 2
-      }
-    ],
-    "MetalWelding": [
-      {
-        "username": "Captain",
-        "skill": "MetalWelding",
+        "skill": "Doctor",
         "level": 0
       }
     ],
@@ -128,31 +142,17 @@
         "level": 5
       }
     ],
-    "Doctor": [
+    "MetalWelding": [
       {
         "username": "Captain",
-        "skill": "Doctor",
+        "skill": "MetalWelding",
         "level": 0
       }
     ],
-    "Lightfoot": [
+    "Reloading": [
       {
         "username": "Captain",
-        "skill": "Lightfoot",
-        "level": 2
-      }
-    ],
-    "Nimble": [
-      {
-        "username": "Captain",
-        "skill": "Nimble",
-        "level": 2
-      }
-    ],
-    "Cooking": [
-      {
-        "username": "Captain",
-        "skill": "Cooking",
+        "skill": "Reloading",
         "level": 0
       }
     ],
@@ -163,10 +163,10 @@
         "level": 0
       }
     ],
-    "Fishing": [
+    "Cooking": [
       {
         "username": "Captain",
-        "skill": "Fishing",
+        "skill": "Cooking",
         "level": 0
       }
     ],
@@ -177,13 +177,13 @@
         "level": 0
       }
     ],
-    "Sprinting": [
+    "Blacksmith": [
       {
         "username": "Captain",
-        "skill": "Sprinting",
+        "skill": "Blacksmith",
         "level": 0
       }
     ]
   },
-  "timestamp": "2025-12-19T21:45:01.281171"
+  "timestamp": "2025-12-19T21:50:01.603536"
 }
