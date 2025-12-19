@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "18-12-25 21:53:08.711",
-      "steam_id": "76561198044597580",
-      "username": "Captain",
-      "action": "fully connected",
-      "x": "10597",
-      "y": "10214",
-      "z": "0"
-    },
-    {
       "timestamp": "18-12-25 21:54:25.068",
       "steam_id": "76561198044597580",
       "username": "Captain",
@@ -359,21 +350,18 @@
       "steam_id": "76561198014472311",
       "username": "SOBS",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "19-12-25 15:10:20.060",
+      "steam_id": "76561198014472311",
+      "username": "SOBS",
+      "action": "fully connected",
+      "x": "10083",
+      "y": "8255",
+      "z": "1"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "18-12-25 00:39:11.964",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "x": "10709",
-      "y": "9818",
-      "z": "0",
-      "hours_survived": 13,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "2"
-    },
     {
       "timestamp": "18-12-25 00:42:45.814",
       "steam_id": "76561199163725035",
@@ -712,6 +700,16 @@
       "z": "0",
       "hours_survived": 59,
       "event_type": "login"
+    },
+    {
+      "timestamp": "19-12-25 15:10:28.615",
+      "steam_id": "76561198014472311",
+      "username": "SOBS",
+      "x": "10083",
+      "y": "8255",
+      "z": "1",
+      "hours_survived": 115,
+      "event_type": "login"
     }
   ],
   "chat_messages": [
@@ -1016,5 +1014,5 @@
       "text": "awosome"
     }
   ],
-  "timestamp": "2025-12-19T15:10:01.055187"
+  "timestamp": "2025-12-19T15:15:01.592876"
 }
