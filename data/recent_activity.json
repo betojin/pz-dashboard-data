@@ -1,42 +1,5 @@
 {
-  "user_events": [
-    {
-      "timestamp": "20-12-25 22:21:36.866",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "20-12-25 22:21:36.867",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "20-12-25 22:21:42.571",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "20-12-25 22:22:09.668",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "fully connected",
-      "x": "10850",
-      "y": "9850",
-      "z": "0"
-    },
-    {
-      "timestamp": "20-12-25 22:26:18.726",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "disconnected",
-      "x": "10850",
-      "y": "9850",
-      "z": "0"
-    }
-  ],
+  "user_events": [],
   "perk_events": [
     {
       "timestamp": "20-12-25 22:22:09.856",
@@ -87,5 +50,5 @@
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-20T22:30:01.102091"
+  "timestamp": "2025-12-20T22:35:01.371650"
 }
