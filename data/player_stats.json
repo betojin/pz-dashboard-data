@@ -347,14 +347,25 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 0,
+      "total_hours": 19,
       "deaths": 0,
       "skills": {},
-      "level_ups": [],
-      "last_seen": "20-12-25 00:39:22.247",
+      "level_ups": [
+        {
+          "skill": "Cooking",
+          "level": "1",
+          "timestamp": "20-12-25 01:27:56.319"
+        },
+        {
+          "skill": "Cooking",
+          "level": "2",
+          "timestamp": "20-12-25 01:28:36.820"
+        }
+      ],
+      "last_seen": "20-12-25 01:28:36.820",
       "connections": 1
     }
   },
   "total_players": 8,
-  "timestamp": "2025-12-20T01:25:01.977711"
+  "timestamp": "2025-12-20T01:30:01.279511"
 }

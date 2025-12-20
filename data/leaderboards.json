@@ -31,17 +31,24 @@
       "deaths": 0
     },
     {
-      "username": "Kessel",
-      "hours": 13,
+      "username": "Firestorm3050",
+      "hours": 19,
       "deaths": 0
     },
     {
-      "username": "Firestorm3050",
-      "hours": 0,
+      "username": "Kessel",
+      "hours": 13,
       "deaths": 0
     }
   ],
   "skills": {
+    "Axe": [
+      {
+        "username": "Captain",
+        "skill": "Axe",
+        "level": 0
+      }
+    ],
     "Sneak": [
       {
         "username": "Captain",
@@ -63,32 +70,11 @@
         "level": 0
       }
     ],
-    "Farming": [
+    "Mechanics": [
       {
         "username": "Captain",
-        "skill": "Farming",
-        "level": 0
-      }
-    ],
-    "Reloading": [
-      {
-        "username": "Captain",
-        "skill": "Reloading",
-        "level": 0
-      }
-    ],
-    "Nimble": [
-      {
-        "username": "Captain",
-        "skill": "Nimble",
-        "level": 2
-      }
-    ],
-    "Sprinting": [
-      {
-        "username": "Captain",
-        "skill": "Sprinting",
-        "level": 0
+        "skill": "Mechanics",
+        "level": 1
       }
     ],
     "Strength": [
@@ -98,10 +84,10 @@
         "level": 5
       }
     ],
-    "Doctor": [
+    "Sprinting": [
       {
         "username": "Captain",
-        "skill": "Doctor",
+        "skill": "Sprinting",
         "level": 0
       }
     ],
@@ -112,10 +98,80 @@
         "level": 0
       }
     ],
+    "PlantScavenging": [
+      {
+        "username": "Captain",
+        "skill": "PlantScavenging",
+        "level": 0
+      }
+    ],
     "Woodwork": [
       {
         "username": "Captain",
         "skill": "Woodwork",
+        "level": 0
+      }
+    ],
+    "Trapping": [
+      {
+        "username": "Captain",
+        "skill": "Trapping",
+        "level": 0
+      }
+    ],
+    "Nimble": [
+      {
+        "username": "Captain",
+        "skill": "Nimble",
+        "level": 2
+      }
+    ],
+    "Reloading": [
+      {
+        "username": "Captain",
+        "skill": "Reloading",
+        "level": 0
+      }
+    ],
+    "Farming": [
+      {
+        "username": "Captain",
+        "skill": "Farming",
+        "level": 0
+      }
+    ],
+    "Blacksmith": [
+      {
+        "username": "Captain",
+        "skill": "Blacksmith",
+        "level": 0
+      }
+    ],
+    "Doctor": [
+      {
+        "username": "Captain",
+        "skill": "Doctor",
+        "level": 0
+      }
+    ],
+    "Aiming": [
+      {
+        "username": "Captain",
+        "skill": "Aiming",
+        "level": 0
+      }
+    ],
+    "Lightfoot": [
+      {
+        "username": "Captain",
+        "skill": "Lightfoot",
+        "level": 2
+      }
+    ],
+    "Blunt": [
+      {
+        "username": "Captain",
+        "skill": "Blunt",
         "level": 0
       }
     ],
@@ -132,63 +188,7 @@
         "skill": "Cooking",
         "level": 0
       }
-    ],
-    "Lightfoot": [
-      {
-        "username": "Captain",
-        "skill": "Lightfoot",
-        "level": 2
-      }
-    ],
-    "Blacksmith": [
-      {
-        "username": "Captain",
-        "skill": "Blacksmith",
-        "level": 0
-      }
-    ],
-    "Mechanics": [
-      {
-        "username": "Captain",
-        "skill": "Mechanics",
-        "level": 1
-      }
-    ],
-    "Axe": [
-      {
-        "username": "Captain",
-        "skill": "Axe",
-        "level": 0
-      }
-    ],
-    "Aiming": [
-      {
-        "username": "Captain",
-        "skill": "Aiming",
-        "level": 0
-      }
-    ],
-    "Blunt": [
-      {
-        "username": "Captain",
-        "skill": "Blunt",
-        "level": 0
-      }
-    ],
-    "Trapping": [
-      {
-        "username": "Captain",
-        "skill": "Trapping",
-        "level": 0
-      }
-    ],
-    "PlantScavenging": [
-      {
-        "username": "Captain",
-        "skill": "PlantScavenging",
-        "level": 0
-      }
     ]
   },
-  "timestamp": "2025-12-20T01:25:01.981177"
+  "timestamp": "2025-12-20T01:30:01.282909"
 }
