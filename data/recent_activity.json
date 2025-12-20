@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "19-12-25 07:50:26.762",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "19-12-25 07:50:35.341",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -355,6 +349,15 @@
       "action": "fully connected",
       "x": "10110",
       "y": "8240",
+      "z": "0"
+    },
+    {
+      "timestamp": "20-12-25 09:05:58.709",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "disconnected",
+      "x": "11644",
+      "y": "8108",
       "z": "0"
     }
   ],
@@ -1673,5 +1676,5 @@
       "text": "flat stones make axes and other useful tools, large stones are a pain, but they make the workstations (dont need at this base)"
     }
   ],
-  "timestamp": "2025-12-20T09:05:02.061615"
+  "timestamp": "2025-12-20T09:10:01.379060"
 }
