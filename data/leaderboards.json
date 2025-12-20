@@ -42,17 +42,10 @@
     }
   ],
   "skills": {
-    "Fishing": [
+    "Trapping": [
       {
         "username": "Captain",
-        "skill": "Fishing",
-        "level": 0
-      }
-    ],
-    "Reloading": [
-      {
-        "username": "Captain",
-        "skill": "Reloading",
+        "skill": "Trapping",
         "level": 0
       }
     ],
@@ -63,31 +56,38 @@
         "level": 0
       }
     ],
-    "Sprinting": [
+    "Strength": [
       {
         "username": "Captain",
-        "skill": "Sprinting",
+        "skill": "Strength",
+        "level": 5
+      }
+    ],
+    "Fitness": [
+      {
+        "username": "Captain",
+        "skill": "Fitness",
+        "level": 7
+      }
+    ],
+    "Nimble": [
+      {
+        "username": "Captain",
+        "skill": "Nimble",
+        "level": 2
+      }
+    ],
+    "PlantScavenging": [
+      {
+        "username": "Captain",
+        "skill": "PlantScavenging",
         "level": 0
       }
     ],
-    "Electricity": [
+    "MetalWelding": [
       {
         "username": "Captain",
-        "skill": "Electricity",
-        "level": 0
-      }
-    ],
-    "Farming": [
-      {
-        "username": "Captain",
-        "skill": "Farming",
-        "level": 0
-      }
-    ],
-    "Aiming": [
-      {
-        "username": "Captain",
-        "skill": "Aiming",
+        "skill": "MetalWelding",
         "level": 0
       }
     ],
@@ -98,10 +98,31 @@
         "level": 0
       }
     ],
-    "Blunt": [
+    "Sneak": [
       {
         "username": "Captain",
-        "skill": "Blunt",
+        "skill": "Sneak",
+        "level": 2
+      }
+    ],
+    "Woodwork": [
+      {
+        "username": "Captain",
+        "skill": "Woodwork",
+        "level": 0
+      }
+    ],
+    "Aiming": [
+      {
+        "username": "Captain",
+        "skill": "Aiming",
+        "level": 0
+      }
+    ],
+    "Electricity": [
+      {
+        "username": "Captain",
+        "skill": "Electricity",
         "level": 0
       }
     ],
@@ -112,59 +133,45 @@
         "level": 0
       }
     ],
-    "Fitness": [
+    "Blunt": [
       {
         "username": "Captain",
-        "skill": "Fitness",
-        "level": 7
+        "skill": "Blunt",
+        "level": 0
       }
     ],
-    "Strength": [
+    "Sprinting": [
       {
         "username": "Captain",
-        "skill": "Strength",
-        "level": 5
+        "skill": "Sprinting",
+        "level": 0
+      }
+    ],
+    "Fishing": [
+      {
+        "username": "Captain",
+        "skill": "Fishing",
+        "level": 0
+      }
+    ],
+    "Mechanics": [
+      {
+        "username": "Captain",
+        "skill": "Mechanics",
+        "level": 1
+      }
+    ],
+    "Reloading": [
+      {
+        "username": "Captain",
+        "skill": "Reloading",
+        "level": 0
       }
     ],
     "Blacksmith": [
       {
         "username": "Captain",
         "skill": "Blacksmith",
-        "level": 0
-      }
-    ],
-    "PlantScavenging": [
-      {
-        "username": "Captain",
-        "skill": "PlantScavenging",
-        "level": 0
-      }
-    ],
-    "Trapping": [
-      {
-        "username": "Captain",
-        "skill": "Trapping",
-        "level": 0
-      }
-    ],
-    "Woodwork": [
-      {
-        "username": "Captain",
-        "skill": "Woodwork",
-        "level": 0
-      }
-    ],
-    "Nimble": [
-      {
-        "username": "Captain",
-        "skill": "Nimble",
-        "level": 2
-      }
-    ],
-    "MetalWelding": [
-      {
-        "username": "Captain",
-        "skill": "MetalWelding",
         "level": 0
       }
     ],
@@ -175,20 +182,13 @@
         "level": 2
       }
     ],
-    "Mechanics": [
+    "Farming": [
       {
         "username": "Captain",
-        "skill": "Mechanics",
-        "level": 1
-      }
-    ],
-    "Sneak": [
-      {
-        "username": "Captain",
-        "skill": "Sneak",
-        "level": 2
+        "skill": "Farming",
+        "level": 0
       }
     ]
   },
-  "timestamp": "2025-12-20T04:35:01.501801"
+  "timestamp": "2025-12-20T04:40:01.761520"
 }
