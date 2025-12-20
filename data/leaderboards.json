@@ -42,54 +42,16 @@
     }
   ],
   "skills": {
-    "Electricity": [
-      {
-        "username": "Captain",
-        "skill": "Electricity",
-        "level": 0
-      }
-    ],
-    "Woodwork": [
-      {
-        "username": "Captain",
-        "skill": "Woodwork",
-        "level": 0
-      }
-    ],
-    "Sprinting": [
-      {
-        "username": "SOBS",
-        "skill": "Sprinting",
-        "level": 3
-      },
-      {
-        "username": "Captain",
-        "skill": "Sprinting",
-        "level": 2
-      },
-      {
-        "username": "Sully",
-        "skill": "Sprinting",
-        "level": 1
-      },
+    "Doctor": [
       {
         "username": "Molotov Kid",
-        "skill": "Sprinting",
+        "skill": "Doctor",
         "level": 1
-      }
-    ],
-    "Fitness": [
+      },
       {
         "username": "Captain",
-        "skill": "Fitness",
-        "level": 7
-      }
-    ],
-    "Farming": [
-      {
-        "username": "Captain",
-        "skill": "Farming",
-        "level": 0
+        "skill": "Doctor",
+        "level": 1
       }
     ],
     "Trapping": [
@@ -99,10 +61,71 @@
         "level": 0
       }
     ],
-    "PlantScavenging": [
+    "Fishing": [
       {
         "username": "Captain",
-        "skill": "PlantScavenging",
+        "skill": "Fishing",
+        "level": 0
+      }
+    ],
+    "Maintenance": [
+      {
+        "username": "Sully",
+        "skill": "Maintenance",
+        "level": 2
+      },
+      {
+        "username": "BetoJin",
+        "skill": "Maintenance",
+        "level": 2
+      },
+      {
+        "username": "Molotov Kid",
+        "skill": "Maintenance",
+        "level": 2
+      },
+      {
+        "username": "Captain",
+        "skill": "Maintenance",
+        "level": 2
+      },
+      {
+        "username": "Kessel",
+        "skill": "Maintenance",
+        "level": 2
+      },
+      {
+        "username": "SOBS",
+        "skill": "Maintenance",
+        "level": 1
+      },
+      {
+        "username": "Boba",
+        "skill": "Maintenance",
+        "level": 1
+      }
+    ],
+    "Cooking": [
+      {
+        "username": "Firestorm3050",
+        "skill": "Cooking",
+        "level": 2
+      },
+      {
+        "username": "Kessel",
+        "skill": "Cooking",
+        "level": 1
+      },
+      {
+        "username": "Captain",
+        "skill": "Cooking",
+        "level": 0
+      }
+    ],
+    "Electricity": [
+      {
+        "username": "Captain",
+        "skill": "Electricity",
         "level": 0
       }
     ],
@@ -113,11 +136,51 @@
         "level": 0
       }
     ],
-    "Fishing": [
+    "Aiming": [
       {
         "username": "Captain",
-        "skill": "Fishing",
+        "skill": "Aiming",
         "level": 0
+      }
+    ],
+    "Fitness": [
+      {
+        "username": "Captain",
+        "skill": "Fitness",
+        "level": 7
+      }
+    ],
+    "PlantScavenging": [
+      {
+        "username": "Captain",
+        "skill": "PlantScavenging",
+        "level": 0
+      }
+    ],
+    "Blacksmith": [
+      {
+        "username": "Captain",
+        "skill": "Blacksmith",
+        "level": 0
+      }
+    ],
+    "Axe": [
+      {
+        "username": "Captain",
+        "skill": "Axe",
+        "level": 2
+      },
+      {
+        "username": "BetoJin",
+        "skill": "Axe",
+        "level": 1
+      }
+    ],
+    "Strength": [
+      {
+        "username": "Captain",
+        "skill": "Strength",
+        "level": 5
       }
     ],
     "Blunt": [
@@ -157,16 +220,33 @@
         "level": 1
       }
     ],
-    "Axe": [
+    "Sprinting": [
+      {
+        "username": "SOBS",
+        "skill": "Sprinting",
+        "level": 3
+      },
       {
         "username": "Captain",
-        "skill": "Axe",
+        "skill": "Sprinting",
         "level": 2
       },
       {
-        "username": "BetoJin",
-        "skill": "Axe",
+        "username": "Sully",
+        "skill": "Sprinting",
         "level": 1
+      },
+      {
+        "username": "Molotov Kid",
+        "skill": "Sprinting",
+        "level": 1
+      }
+    ],
+    "Farming": [
+      {
+        "username": "Captain",
+        "skill": "Farming",
+        "level": 0
       }
     ],
     "MetalWelding": [
@@ -183,25 +263,11 @@
         "level": 1
       }
     ],
-    "Blacksmith": [
+    "Woodwork": [
       {
         "username": "Captain",
-        "skill": "Blacksmith",
+        "skill": "Woodwork",
         "level": 0
-      }
-    ],
-    "Lightfoot": [
-      {
-        "username": "Captain",
-        "skill": "Lightfoot",
-        "level": 2
-      }
-    ],
-    "Strength": [
-      {
-        "username": "Captain",
-        "skill": "Strength",
-        "level": 5
       }
     ],
     "Nimble": [
@@ -211,28 +277,11 @@
         "level": 2
       }
     ],
-    "Cooking": [
+    "SmallBlunt": [
       {
-        "username": "Firestorm3050",
-        "skill": "Cooking",
-        "level": 2
-      },
-      {
-        "username": "Kessel",
-        "skill": "Cooking",
+        "username": "Sully",
+        "skill": "SmallBlunt",
         "level": 1
-      },
-      {
-        "username": "Captain",
-        "skill": "Cooking",
-        "level": 0
-      }
-    ],
-    "Aiming": [
-      {
-        "username": "Captain",
-        "skill": "Aiming",
-        "level": 0
       }
     ],
     "Sneak": [
@@ -242,62 +291,13 @@
         "level": 2
       }
     ],
-    "Doctor": [
-      {
-        "username": "Molotov Kid",
-        "skill": "Doctor",
-        "level": 1
-      },
+    "Lightfoot": [
       {
         "username": "Captain",
-        "skill": "Doctor",
-        "level": 1
-      }
-    ],
-    "SmallBlunt": [
-      {
-        "username": "Sully",
-        "skill": "SmallBlunt",
-        "level": 1
-      }
-    ],
-    "Maintenance": [
-      {
-        "username": "Sully",
-        "skill": "Maintenance",
+        "skill": "Lightfoot",
         "level": 2
-      },
-      {
-        "username": "BetoJin",
-        "skill": "Maintenance",
-        "level": 2
-      },
-      {
-        "username": "Molotov Kid",
-        "skill": "Maintenance",
-        "level": 2
-      },
-      {
-        "username": "Captain",
-        "skill": "Maintenance",
-        "level": 2
-      },
-      {
-        "username": "Kessel",
-        "skill": "Maintenance",
-        "level": 2
-      },
-      {
-        "username": "SOBS",
-        "skill": "Maintenance",
-        "level": 1
-      },
-      {
-        "username": "Boba",
-        "skill": "Maintenance",
-        "level": 1
       }
     ]
   },
-  "timestamp": "2025-12-20T05:38:47.889541"
+  "timestamp": "2025-12-20T05:40:01.605880"
 }
