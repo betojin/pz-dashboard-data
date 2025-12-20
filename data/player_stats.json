@@ -6,6 +6,9 @@
       "total_hours": 69,
       "deaths": 0,
       "skills": {
+        "Blunt": 3,
+        "Maintenance": 2,
+        "SmallBlunt": 1,
         "Sprinting": 1
       },
       "level_ups": [
@@ -46,8 +49,7 @@
         }
       ],
       "last_seen": "20-12-25 02:23:06.825",
-      "connections": 2,
-      "is_dead": 0
+      "connections": 2
     },
     "BetoJin": {
       "username": "BetoJin",
@@ -55,6 +57,8 @@
       "total_hours": 59,
       "deaths": 1,
       "skills": {
+        "Blunt": 2,
+        "Maintenance": 2,
         "Axe": 1
       },
       "level_ups": [
@@ -90,8 +94,7 @@
         }
       ],
       "last_seen": "19-12-25 07:50:35.489",
-      "connections": 6,
-      "is_dead": 0
+      "connections": 6
     },
     "Molotov Kid": {
       "username": "Molotov Kid",
@@ -99,6 +102,9 @@
       "total_hours": 72,
       "deaths": 2,
       "skills": {
+        "Doctor": 1,
+        "Maintenance": 2,
+        "Blunt": 3,
         "Sprinting": 1
       },
       "level_ups": [
@@ -134,8 +140,7 @@
         }
       ],
       "last_seen": "20-12-25 01:06:25.878",
-      "connections": 9,
-      "is_dead": 0
+      "connections": 9
     },
     "Captain": {
       "username": "Captain",
@@ -143,7 +148,28 @@
       "total_hours": 133,
       "deaths": 2,
       "skills": {
-        "Lightfoot": 2
+        "Blunt": 5,
+        "Maintenance": 2,
+        "Sprinting": 2,
+        "Doctor": 1,
+        "Axe": 2,
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 5,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1
       },
       "level_ups": [
         {
@@ -238,8 +264,7 @@
         }
       ],
       "last_seen": "19-12-25 22:18:06.409",
-      "connections": 19,
-      "is_dead": 0
+      "connections": 19
     },
     "SOBS": {
       "username": "SOBS",
@@ -247,7 +272,9 @@
       "total_hours": 129,
       "deaths": 0,
       "skills": {
-        "Maintenance": 1
+        "Blunt": 2,
+        "Maintenance": 1,
+        "Sprinting": 3
       },
       "level_ups": [
         {
@@ -272,8 +299,7 @@
         }
       ],
       "last_seen": "19-12-25 15:47:05.694",
-      "connections": 4,
-      "is_dead": 0
+      "connections": 4
     },
     "Kessel": {
       "username": "Kessel",
@@ -281,6 +307,8 @@
       "total_hours": 13,
       "deaths": 0,
       "skills": {
+        "Cooking": 1,
+        "Blunt": 3,
         "Maintenance": 2
       },
       "level_ups": [
@@ -316,8 +344,7 @@
         }
       ],
       "last_seen": "18-12-25 00:39:11.964",
-      "connections": 3,
-      "is_dead": 0
+      "connections": 3
     },
     "Boba": {
       "username": "Boba",
@@ -325,6 +352,7 @@
       "total_hours": 41,
       "deaths": 0,
       "skills": {
+        "Blunt": 1,
         "Maintenance": 1
       },
       "level_ups": [
@@ -340,8 +368,7 @@
         }
       ],
       "last_seen": "18-12-25 05:39:56.659",
-      "connections": 1,
-      "is_dead": 0
+      "connections": 1
     },
     "Firestorm3050": {
       "username": "Firestorm3050",
@@ -349,7 +376,6 @@
       "total_hours": 29,
       "deaths": 0,
       "skills": {
-        "Axe": 1,
         "Cooking": 2
       },
       "level_ups": [
@@ -365,36 +391,9 @@
         }
       ],
       "last_seen": "20-12-25 02:30:51.708",
-      "connections": 2,
-      "is_dead": 0
-    },
-    "admin": {
-      "username": "admin",
-      "steam_id": "",
-      "total_hours": 0,
-      "deaths": 0,
-      "skills": {
-        "Fitness": 5
-      },
-      "level_ups": [],
-      "last_seen": "",
-      "is_dead": 0,
-      "role_id": 7,
-      "last_connection_db": "2025-12-17 05:26:56"
-    },
-    "NotMyFishyy": {
-      "username": "NotMyFishyy",
-      "steam_id": "",
-      "total_hours": 0,
-      "deaths": 0,
-      "skills": {
-        "Lightfoot": 2
-      },
-      "level_ups": [],
-      "last_seen": "",
-      "is_dead": 0
+      "connections": 2
     }
   },
-  "total_players": 10,
-  "timestamp": "2025-12-20T05:31:49.020534"
+  "total_players": 8,
+  "timestamp": "2025-12-20T05:32:21.147205"
 }
