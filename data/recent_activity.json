@@ -1,39 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "19-12-25 04:41:27.487",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "fully connected",
-      "x": "10113",
-      "y": "8225",
-      "z": "0"
-    },
-    {
-      "timestamp": "19-12-25 05:01:15.735",
-      "steam_id": "76561198014472311",
-      "username": "SOBS",
-      "action": "disconnected",
-      "x": "10083",
-      "y": "8255",
-      "z": "1"
-    },
-    {
-      "timestamp": "19-12-25 05:01:52.977",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "disconnected",
-      "x": "10099",
-      "y": "8258",
-      "z": "0"
-    },
-    {
-      "timestamp": "19-12-25 07:06:59.275",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "19-12-25 07:06:59.275",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -359,19 +326,36 @@
       "x": "10854",
       "y": "9894",
       "z": "0"
+    },
+    {
+      "timestamp": "20-12-25 01:01:22.475",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "20-12-25 01:01:22.476",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "20-12-25 01:01:47.518",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "20-12-25 01:02:36.876",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "fully connected",
+      "x": "10081",
+      "y": "8274",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "18-12-25 03:52:24.312",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "10611",
-      "y": "9309",
-      "z": "1",
-      "hours_survived": 9,
-      "event_type": "login"
-    },
     {
       "timestamp": "18-12-25 03:57:04.300",
       "steam_id": "76561199317533255",
@@ -708,45 +692,19 @@
       "z": "0",
       "hours_survived": 0,
       "event_type": "login"
+    },
+    {
+      "timestamp": "20-12-25 01:02:40.246",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "x": "10081",
+      "y": "8274",
+      "z": "0",
+      "hours_survived": 71,
+      "event_type": "login"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "19-12-25 03:42:52.806",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "im getting there in a bit, still grabbing stuff"
-    },
-    {
-      "timestamp": "19-12-25 03:42:52.806",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "im getting there in a bit, still grabbing stuff"
-    },
-    {
-      "timestamp": "19-12-25 03:43:13.456",
-      "chat_type": "General",
-      "author": "SOBS",
-      "text": "sounds good we need all we can get"
-    },
-    {
-      "timestamp": "19-12-25 03:43:13.456",
-      "chat_type": "General",
-      "author": "SOBS",
-      "text": "sounds good we need all we can get"
-    },
-    {
-      "timestamp": "19-12-25 03:43:22.920",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "yeah, lots of guns but not the right ammo"
-    },
-    {
-      "timestamp": "19-12-25 03:43:22.921",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "yeah, lots of guns but not the right ammo"
-    },
     {
       "timestamp": "19-12-25 03:43:26.062",
       "chat_type": "General",
@@ -1010,7 +968,43 @@
       "chat_type": "Local",
       "author": "Captain",
       "text": "aa"
+    },
+    {
+      "timestamp": "20-12-25 01:04:26.762",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "oh hey lol"
+    },
+    {
+      "timestamp": "20-12-25 01:04:26.762",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "oh hey lol"
+    },
+    {
+      "timestamp": "20-12-25 01:04:36.288",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "lost the power cord for my mic so no voice"
+    },
+    {
+      "timestamp": "20-12-25 01:04:36.289",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "lost the power cord for my mic so no voice"
+    },
+    {
+      "timestamp": "20-12-25 01:04:59.040",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "i bring mostly skillbooks and wilderness mag as loot, some ammo"
+    },
+    {
+      "timestamp": "20-12-25 01:04:59.040",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "i bring mostly skillbooks and wilderness mag as loot, some ammo"
     }
   ],
-  "timestamp": "2025-12-20T01:00:01.408155"
+  "timestamp": "2025-12-20T01:05:01.690226"
 }

@@ -1,6 +1,15 @@
 {
-  "count": 1,
+  "count": 2,
   "players": [
+    {
+      "username": "Molotov Kid",
+      "steam_id": "76561199163725035",
+      "connected_at": "20-12-25 01:02:36.876",
+      "x": "10081",
+      "y": "8274",
+      "z": "0",
+      "online": true
+    },
     {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
@@ -11,5 +20,5 @@
       "online": true
     }
   ],
-  "timestamp": "2025-12-20T01:00:01.403555"
+  "timestamp": "2025-12-20T01:05:01.685594"
 }
