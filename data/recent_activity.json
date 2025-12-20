@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "19-12-25 04:40:33.324",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "19-12-25 04:40:49.073",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "19-12-25 04:41:27.487",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -356,19 +344,24 @@
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "20-12-25 00:38:32.171",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "20-12-25 00:39:21.686",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "fully connected",
+      "x": "10854",
+      "y": "9894",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "18-12-25 01:24:37.287",
-      "steam_id": "76561198044597580",
-      "username": "Captain",
-      "x": "10976",
-      "y": "9785",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
     {
       "timestamp": "18-12-25 03:52:24.312",
       "steam_id": "76561198065774641",
@@ -705,6 +698,16 @@
       "z": "2",
       "hours_survived": 65,
       "event_type": "login"
+    },
+    {
+      "timestamp": "20-12-25 00:39:22.247",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10854",
+      "y": "9894",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "login"
     }
   ],
   "chat_messages": [
@@ -1009,5 +1012,5 @@
       "text": "aa"
     }
   ],
-  "timestamp": "2025-12-20T00:35:02.011384"
+  "timestamp": "2025-12-20T00:40:01.302997"
 }
