@@ -42,59 +42,24 @@
     }
   ],
   "skills": {
-    "Mechanics": [
+    "Strength": [
       {
         "username": "Captain",
-        "skill": "Mechanics",
-        "level": 1
+        "skill": "Strength",
+        "level": 5
       }
     ],
-    "Aiming": [
+    "PlantScavenging": [
       {
         "username": "Captain",
-        "skill": "Aiming",
+        "skill": "PlantScavenging",
         "level": 0
       }
     ],
-    "Fishing": [
+    "MetalWelding": [
       {
         "username": "Captain",
-        "skill": "Fishing",
-        "level": 0
-      }
-    ],
-    "Reloading": [
-      {
-        "username": "Captain",
-        "skill": "Reloading",
-        "level": 0
-      }
-    ],
-    "Doctor": [
-      {
-        "username": "Captain",
-        "skill": "Doctor",
-        "level": 0
-      }
-    ],
-    "Blunt": [
-      {
-        "username": "Captain",
-        "skill": "Blunt",
-        "level": 0
-      }
-    ],
-    "Lightfoot": [
-      {
-        "username": "Captain",
-        "skill": "Lightfoot",
-        "level": 2
-      }
-    ],
-    "Cooking": [
-      {
-        "username": "Captain",
-        "skill": "Cooking",
+        "skill": "MetalWelding",
         "level": 0
       }
     ],
@@ -105,24 +70,10 @@
         "level": 2
       }
     ],
-    "Woodwork": [
+    "Aiming": [
       {
         "username": "Captain",
-        "skill": "Woodwork",
-        "level": 0
-      }
-    ],
-    "PlantScavenging": [
-      {
-        "username": "Captain",
-        "skill": "PlantScavenging",
-        "level": 0
-      }
-    ],
-    "Sprinting": [
-      {
-        "username": "Captain",
-        "skill": "Sprinting",
+        "skill": "Aiming",
         "level": 0
       }
     ],
@@ -133,24 +84,73 @@
         "level": 2
       }
     ],
-    "Strength": [
+    "Woodwork": [
       {
         "username": "Captain",
-        "skill": "Strength",
-        "level": 5
-      }
-    ],
-    "Blacksmith": [
-      {
-        "username": "Captain",
-        "skill": "Blacksmith",
+        "skill": "Woodwork",
         "level": 0
       }
     ],
-    "Electricity": [
+    "Blunt": [
       {
         "username": "Captain",
-        "skill": "Electricity",
+        "skill": "Blunt",
+        "level": 0
+      }
+    ],
+    "Mechanics": [
+      {
+        "username": "Captain",
+        "skill": "Mechanics",
+        "level": 1
+      }
+    ],
+    "Farming": [
+      {
+        "username": "Captain",
+        "skill": "Farming",
+        "level": 0
+      }
+    ],
+    "Lightfoot": [
+      {
+        "username": "Captain",
+        "skill": "Lightfoot",
+        "level": 2
+      }
+    ],
+    "Reloading": [
+      {
+        "username": "Captain",
+        "skill": "Reloading",
+        "level": 0
+      }
+    ],
+    "Trapping": [
+      {
+        "username": "Captain",
+        "skill": "Trapping",
+        "level": 0
+      }
+    ],
+    "Fishing": [
+      {
+        "username": "Captain",
+        "skill": "Fishing",
+        "level": 0
+      }
+    ],
+    "Doctor": [
+      {
+        "username": "Captain",
+        "skill": "Doctor",
+        "level": 0
+      }
+    ],
+    "Cooking": [
+      {
+        "username": "Captain",
+        "skill": "Cooking",
         "level": 0
       }
     ],
@@ -161,34 +161,34 @@
         "level": 0
       }
     ],
+    "Sprinting": [
+      {
+        "username": "Captain",
+        "skill": "Sprinting",
+        "level": 0
+      }
+    ],
+    "Electricity": [
+      {
+        "username": "Captain",
+        "skill": "Electricity",
+        "level": 0
+      }
+    ],
+    "Blacksmith": [
+      {
+        "username": "Captain",
+        "skill": "Blacksmith",
+        "level": 0
+      }
+    ],
     "Fitness": [
       {
         "username": "Captain",
         "skill": "Fitness",
         "level": 7
       }
-    ],
-    "Trapping": [
-      {
-        "username": "Captain",
-        "skill": "Trapping",
-        "level": 0
-      }
-    ],
-    "Farming": [
-      {
-        "username": "Captain",
-        "skill": "Farming",
-        "level": 0
-      }
-    ],
-    "MetalWelding": [
-      {
-        "username": "Captain",
-        "skill": "MetalWelding",
-        "level": 0
-      }
     ]
   },
-  "timestamp": "2025-12-20T03:50:01.932622"
+  "timestamp": "2025-12-20T03:55:01.216086"
 }
