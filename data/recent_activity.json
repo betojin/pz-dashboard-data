@@ -360,18 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "18-12-25 05:39:56.659",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "10084",
-      "y": "8259",
-      "z": "0",
-      "hours_survived": 41,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "1"
-    },
-    {
       "timestamp": "18-12-25 20:19:22.754",
       "steam_id": "76561198044597580",
       "username": "Captain",
@@ -1369,6 +1357,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "20-12-25 07:30:10.445",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "10068",
+      "y": "8241",
+      "z": "0",
+      "hours_survived": 87,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1673,5 +1673,5 @@
       "text": "flat stones make axes and other useful tools, large stones are a pain, but they make the workstations (dont need at this base)"
     }
   ],
-  "timestamp": "2025-12-20T07:30:01.438943"
+  "timestamp": "2025-12-20T07:35:01.725457"
 }

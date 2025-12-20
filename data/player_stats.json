@@ -132,7 +132,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 59,
+      "total_hours": 87,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -142,7 +142,7 @@
         "Axe": 1,
         "Lightfoot": 2,
         "Nimble": 2,
-        "Sprinting": 0,
+        "Sprinting": 1,
         "Sneak": 2,
         "Woodwork": 0,
         "Aiming": 0,
@@ -201,9 +201,14 @@
           "skill": "Maintenance",
           "level": "2",
           "timestamp": "18-12-25 05:20:29.621"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "20-12-25 07:30:10.445"
         }
       ],
-      "last_seen": "20-12-25 06:21:12.383",
+      "last_seen": "20-12-25 07:30:10.445",
       "connections": 7
     },
     "Molotov Kid": {
@@ -680,5 +685,5 @@
     }
   },
   "total_players": 9,
-  "timestamp": "2025-12-20T07:30:01.428595"
+  "timestamp": "2025-12-20T07:35:01.715832"
 }
