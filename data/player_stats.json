@@ -5,7 +5,12 @@
       "steam_id": "76561198119296623",
       "total_hours": 69,
       "deaths": 0,
-      "skills": {},
+      "skills": {
+        "Blunt": 3,
+        "Maintenance": 2,
+        "SmallBlunt": 1,
+        "Sprinting": 1
+      },
       "level_ups": [
         {
           "skill": "Blunt",
@@ -51,7 +56,11 @@
       "steam_id": "76561198065774641",
       "total_hours": 59,
       "deaths": 1,
-      "skills": {},
+      "skills": {
+        "Blunt": 2,
+        "Maintenance": 2,
+        "Axe": 1
+      },
       "level_ups": [
         {
           "skill": "Blunt",
@@ -92,7 +101,12 @@
       "steam_id": "76561199163725035",
       "total_hours": 72,
       "deaths": 2,
-      "skills": {},
+      "skills": {
+        "Doctor": 1,
+        "Maintenance": 2,
+        "Blunt": 3,
+        "Sprinting": 1
+      },
       "level_ups": [
         {
           "skill": "Doctor",
@@ -134,14 +148,16 @@
       "total_hours": 133,
       "deaths": 2,
       "skills": {
+        "Blunt": 5,
+        "Maintenance": 2,
+        "Sprinting": 2,
+        "Doctor": 1,
+        "Axe": 2,
         "Cooking": 0,
         "Fitness": 7,
         "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
         "Lightfoot": 2,
         "Nimble": 2,
-        "Sprinting": 0,
         "Sneak": 2,
         "Woodwork": 0,
         "Aiming": 0,
@@ -150,7 +166,6 @@
         "Fishing": 0,
         "Trapping": 0,
         "PlantScavenging": 0,
-        "Doctor": 0,
         "Electricity": 0,
         "Blacksmith": 0,
         "MetalWelding": 0,
@@ -256,7 +271,11 @@
       "steam_id": "76561198014472311",
       "total_hours": 129,
       "deaths": 0,
-      "skills": {},
+      "skills": {
+        "Blunt": 2,
+        "Maintenance": 1,
+        "Sprinting": 3
+      },
       "level_ups": [
         {
           "skill": "Blunt",
@@ -287,7 +306,11 @@
       "steam_id": "76561199251232344",
       "total_hours": 13,
       "deaths": 0,
-      "skills": {},
+      "skills": {
+        "Cooking": 1,
+        "Blunt": 3,
+        "Maintenance": 2
+      },
       "level_ups": [
         {
           "skill": "Cooking",
@@ -328,7 +351,10 @@
       "steam_id": "76561199317533255",
       "total_hours": 41,
       "deaths": 0,
-      "skills": {},
+      "skills": {
+        "Blunt": 1,
+        "Maintenance": 1
+      },
       "level_ups": [
         {
           "skill": "Blunt",
@@ -349,7 +375,9 @@
       "steam_id": "76561198031138505",
       "total_hours": 29,
       "deaths": 0,
-      "skills": {},
+      "skills": {
+        "Cooking": 2
+      },
       "level_ups": [
         {
           "skill": "Cooking",
@@ -367,5 +395,5 @@
     }
   },
   "total_players": 8,
-  "timestamp": "2025-12-20T05:20:01.361382"
+  "timestamp": "2025-12-20T05:25:01.611206"
 }
