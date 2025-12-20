@@ -357,16 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "18-12-25 03:57:04.300",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "10872",
-      "y": "9489",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login"
-    },
-    {
       "timestamp": "18-12-25 04:05:20.499",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -702,93 +692,21 @@
       "z": "0",
       "hours_survived": 71,
       "event_type": "login"
+    },
+    {
+      "timestamp": "20-12-25 01:06:25.878",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "x": "10079",
+      "y": "8252",
+      "z": "0",
+      "hours_survived": 72,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "19-12-25 03:43:26.062",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "still good"
-    },
-    {
-      "timestamp": "19-12-25 03:43:26.062",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "still good"
-    },
-    {
-      "timestamp": "19-12-25 03:43:28.546",
-      "chat_type": "General",
-      "author": "SOBS",
-      "text": "ig ot ammo"
-    },
-    {
-      "timestamp": "19-12-25 03:43:28.546",
-      "chat_type": "General",
-      "author": "SOBS",
-      "text": "ig ot ammo"
-    },
-    {
-      "timestamp": "19-12-25 03:43:38.732",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "45 and 38?"
-    },
-    {
-      "timestamp": "19-12-25 03:43:38.732",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "45 and 38?"
-    },
-    {
-      "timestamp": "19-12-25 03:43:42.545",
-      "chat_type": "General",
-      "author": "SOBS",
-      "text": "yes"
-    },
-    {
-      "timestamp": "19-12-25 03:43:42.545",
-      "chat_type": "General",
-      "author": "SOBS",
-      "text": "yes"
-    },
-    {
-      "timestamp": "19-12-25 03:43:43.618",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "ill i got is 9mm"
-    },
-    {
-      "timestamp": "19-12-25 03:43:43.618",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "ill i got is 9mm"
-    },
-    {
-      "timestamp": "19-12-25 03:44:00.523",
-      "chat_type": "General",
-      "author": "SOBS",
-      "text": "i grabbed us much ammo as possible but not many guns"
-    },
-    {
-      "timestamp": "19-12-25 03:44:00.523",
-      "chat_type": "General",
-      "author": "SOBS",
-      "text": "i grabbed us much ammo as possible but not many guns"
-    },
-    {
-      "timestamp": "19-12-25 03:44:50.315",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "almost 60 kilos of stuff in my car, just hope i make it safe"
-    },
-    {
-      "timestamp": "19-12-25 03:44:50.315",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "almost 60 kilos of stuff in my car, just hope i make it safe"
-    },
     {
       "timestamp": "19-12-25 03:45:16.956",
       "chat_type": "General",
@@ -1004,7 +922,91 @@
       "chat_type": "Local",
       "author": "Firestorm3050",
       "text": "i bring mostly skillbooks and wilderness mag as loot, some ammo"
+    },
+    {
+      "timestamp": "20-12-25 01:05:47.112",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "we need to harvest these crops and get them dried out"
+    },
+    {
+      "timestamp": "20-12-25 01:05:47.112",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "we need to harvest these crops and get them dried out"
+    },
+    {
+      "timestamp": "20-12-25 01:08:27.204",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "sunflower seeds can be turned into vegetable oil"
+    },
+    {
+      "timestamp": "20-12-25 01:08:27.204",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "sunflower seeds can be turned into vegetable oil"
+    },
+    {
+      "timestamp": "20-12-25 01:08:42.816",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "we still have some stuff that isnt dead"
+    },
+    {
+      "timestamp": "20-12-25 01:08:42.816",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "we still have some stuff that isnt dead"
+    },
+    {
+      "timestamp": "20-12-25 01:08:53.457",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "i would harvest it all now"
+    },
+    {
+      "timestamp": "20-12-25 01:08:53.457",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "i would harvest it all now"
+    },
+    {
+      "timestamp": "20-12-25 01:08:58.016",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "build drying racks"
+    },
+    {
+      "timestamp": "20-12-25 01:08:58.016",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "build drying racks"
+    },
+    {
+      "timestamp": "20-12-25 01:09:08.829",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "how?"
+    },
+    {
+      "timestamp": "20-12-25 01:09:08.830",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "how?"
+    },
+    {
+      "timestamp": "20-12-25 01:09:48.214",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "it takes actual game day time to dry though. leather is longest at 7 days"
+    },
+    {
+      "timestamp": "20-12-25 01:09:48.214",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "it takes actual game day time to dry though. leather is longest at 7 days"
     }
   ],
-  "timestamp": "2025-12-20T01:05:01.690226"
+  "timestamp": "2025-12-20T01:10:01.962937"
 }

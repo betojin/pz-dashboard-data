@@ -90,7 +90,7 @@
     "Molotov Kid": {
       "username": "Molotov Kid",
       "steam_id": "76561199163725035",
-      "total_hours": 71,
+      "total_hours": 72,
       "deaths": 2,
       "skills": {},
       "level_ups": [
@@ -118,9 +118,14 @@
           "skill": "Maintenance",
           "level": "2",
           "timestamp": "19-12-25 03:12:19.591"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "20-12-25 01:06:25.878"
         }
       ],
-      "last_seen": "20-12-25 01:02:40.246",
+      "last_seen": "20-12-25 01:06:25.878",
       "connections": 9
     },
     "Captain": {
@@ -351,5 +356,5 @@
     }
   },
   "total_players": 8,
-  "timestamp": "2025-12-20T01:05:01.684021"
+  "timestamp": "2025-12-20T01:10:01.956722"
 }
