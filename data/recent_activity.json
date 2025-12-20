@@ -1,30 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "19-12-25 07:08:33.168",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "fully connected",
-      "x": "10099",
-      "y": "8258",
-      "z": "0"
-    },
-    {
-      "timestamp": "19-12-25 07:13:08.381",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "disconnected",
-      "x": "10098",
-      "y": "8261",
-      "z": "2"
-    },
-    {
-      "timestamp": "19-12-25 07:18:10.733",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "19-12-25 07:18:10.734",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -359,6 +335,24 @@
       "x": "10082",
       "y": "8250",
       "z": "0"
+    },
+    {
+      "timestamp": "20-12-25 01:56:42.109",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "20-12-25 01:56:42.110",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "20-12-25 01:56:54.083",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1014,5 +1008,5 @@
       "text": "flat stones make axes and other useful tools, large stones are a pain, but they make the workstations (dont need at this base)"
     }
   ],
-  "timestamp": "2025-12-20T01:55:01.798143"
+  "timestamp": "2025-12-20T02:00:01.062150"
 }
