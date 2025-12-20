@@ -1,6 +1,82 @@
 {
-  "user_events": [],
-  "perk_events": [],
+  "user_events": [
+    {
+      "timestamp": "20-12-25 22:21:36.866",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "20-12-25 22:21:36.867",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "20-12-25 22:21:42.571",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "20-12-25 22:22:09.668",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "fully connected",
+      "x": "10850",
+      "y": "9850",
+      "z": "0"
+    }
+  ],
+  "perk_events": [
+    {
+      "timestamp": "20-12-25 22:22:09.856",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "10850",
+      "y": "9850",
+      "z": "0",
+      "hours_survived": 7,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    }
+  ],
   "chat_messages": [],
-  "timestamp": "2025-12-20T22:20:01.347984"
+  "timestamp": "2025-12-20T22:25:01.740547"
 }
