@@ -231,7 +231,7 @@
     "Molotov Kid": {
       "username": "Molotov Kid",
       "steam_id": "76561199163725035",
-      "total_hours": 20,
+      "total_hours": 26,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -244,7 +244,7 @@
         "Sprinting": 0,
         "Sneak": 1,
         "Woodwork": 0,
-        "Aiming": 3,
+        "Aiming": 4,
         "Reloading": 3,
         "Farming": 0,
         "Fishing": 0,
@@ -275,9 +275,14 @@
           "skill": "Reloading",
           "level": "3",
           "timestamp": "21-12-25 17:56:22.475"
+        },
+        {
+          "skill": "Aiming",
+          "level": "4",
+          "timestamp": "21-12-25 19:28:30.138"
         }
       ],
-      "last_seen": "21-12-25 19:14:36.597",
+      "last_seen": "21-12-25 19:28:30.138",
       "connections": 2
     },
     "CaptainLobo": {
@@ -328,5 +333,5 @@
     }
   },
   "total_players": 6,
-  "timestamp": "2025-12-21T19:25:01.632475"
+  "timestamp": "2025-12-21T19:30:01.853564"
 }
