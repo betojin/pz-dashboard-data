@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 20:18:16.282",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "21-12-25 20:18:45.141",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "21-12-25 20:19:35.984",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -347,56 +335,27 @@
       "x": "8132",
       "y": "11619",
       "z": "1"
+    },
+    {
+      "timestamp": "21-12-25 22:45:20.652",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "5930",
+      "y": "5256",
+      "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 22:45:23.137",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "5814",
+      "y": "5316",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "21-12-25 16:10:13.826",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10878",
-      "y": "10114",
-      "z": "1",
-      "hours_survived": 18,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 1,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 1,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "21-12-25 17:16:19.510",
       "steam_id": "76561199163725035",
@@ -1113,81 +1072,56 @@
       "z": "0",
       "hours_survived": 2,
       "event_type": "died"
+    },
+    {
+      "timestamp": "21-12-25 22:45:23.256",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5814",
+      "y": "5316",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 7,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 1,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "21-12-25 22:34:27.498",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "c mon"
-    },
-    {
-      "timestamp": "21-12-25 22:34:27.498",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "c mon"
-    },
-    {
-      "timestamp": "21-12-25 22:34:47.412",
-      "chat_type": "Local",
-      "author": "CaptainLobo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "21-12-25 22:34:47.412",
-      "chat_type": "Local",
-      "author": "CaptainLobo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "21-12-25 22:35:13.091",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "ill give u the car at the green van"
-    },
-    {
-      "timestamp": "21-12-25 22:35:13.092",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "ill give u the car at the green van"
-    },
-    {
-      "timestamp": "21-12-25 22:35:16.671",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "lets try again lol"
-    },
-    {
-      "timestamp": "21-12-25 22:35:16.671",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "lets try again lol"
-    },
-    {
-      "timestamp": "21-12-25 22:35:17.518",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "sounds good"
-    },
-    {
-      "timestamp": "21-12-25 22:35:17.518",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "sounds good"
-    },
-    {
-      "timestamp": "21-12-25 22:36:20.743",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "i wish you good luck!"
-    },
-    {
-      "timestamp": "21-12-25 22:36:20.743",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "i wish you good luck!"
-    },
     {
       "timestamp": "21-12-25 22:36:34.534",
       "chat_type": "Local",
@@ -1415,7 +1349,79 @@
       "chat_type": "General",
       "author": "BetoJin",
       "text": "LOL"
+    },
+    {
+      "timestamp": "21-12-25 22:45:02.494",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "dont waste its death , you can eat it."
+    },
+    {
+      "timestamp": "21-12-25 22:45:02.494",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "dont waste its death , you can eat it."
+    },
+    {
+      "timestamp": "21-12-25 22:46:28.691",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "\"ooh a gun\" as i slam into the back of an ambulance"
+    },
+    {
+      "timestamp": "21-12-25 22:46:28.691",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "\"ooh a gun\" as i slam into the back of an ambulance"
+    },
+    {
+      "timestamp": "21-12-25 22:46:49.041",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "21-12-25 22:46:49.041",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "21-12-25 22:46:59.343",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "21-12-25 22:46:59.343",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "21-12-25 22:48:39.353",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "21-12-25 22:48:39.354",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "21-12-25 22:49:02.690",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "21-12-25 22:49:02.690",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-21T22:45:01.549363"
+  "timestamp": "2025-12-21T22:50:01.851527"
 }

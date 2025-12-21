@@ -320,7 +320,7 @@
         "Cooking": 0,
         "Fitness": 7,
         "Strength": 7,
-        "Blunt": 1,
+        "Blunt": 0,
         "Axe": 1,
         "Lightfoot": 2,
         "Nimble": 2,
@@ -360,8 +360,8 @@
           "timestamp": "21-12-25 22:04:48.342"
         }
       ],
-      "last_seen": "21-12-25 22:41:05.025",
-      "connections": 6
+      "last_seen": "21-12-25 22:45:23.256",
+      "connections": 7
     },
     "Woofie": {
       "username": "Woofie",
@@ -457,5 +457,5 @@
     }
   },
   "total_players": 8,
-  "timestamp": "2025-12-21T22:45:01.539624"
+  "timestamp": "2025-12-21T22:50:01.842168"
 }
