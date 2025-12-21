@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 07:34:32.424",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "21-12-25 07:34:45.596",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -337,6 +331,15 @@
       "action": "fully connected",
       "x": "8215",
       "y": "11677",
+      "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 20:01:05.842",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "disconnected",
+      "x": "8023",
+      "y": "11424",
       "z": "0"
     }
   ],
@@ -1082,54 +1085,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "21-12-25 19:21:15.988",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "thats good at least"
-    },
-    {
-      "timestamp": "21-12-25 19:21:15.988",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "thats good at least"
-    },
-    {
-      "timestamp": "21-12-25 19:22:51.104",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "uh oh"
-    },
-    {
-      "timestamp": "21-12-25 19:22:51.104",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "uh oh"
-    },
-    {
-      "timestamp": "21-12-25 19:23:43.320",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "let me guess, the heli found you?"
-    },
-    {
-      "timestamp": "21-12-25 19:23:43.320",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "let me guess, the heli found you?"
-    },
-    {
-      "timestamp": "21-12-25 19:24:22.457",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "yeah its in rosewood"
-    },
-    {
-      "timestamp": "21-12-25 19:24:22.458",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "yeah its in rosewood"
-    },
-    {
       "timestamp": "21-12-25 19:24:32.159",
       "chat_type": "General",
       "author": "Molotov Kid",
@@ -1380,7 +1335,55 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "i must not be fighting hard enough then"
+    },
+    {
+      "timestamp": "21-12-25 20:00:11.658",
+      "chat_type": "Local",
+      "author": "Molotov Kid",
+      "text": "oh"
+    },
+    {
+      "timestamp": "21-12-25 20:00:11.658",
+      "chat_type": "Local",
+      "author": "Molotov Kid",
+      "text": "oh"
+    },
+    {
+      "timestamp": "21-12-25 20:00:16.662",
+      "chat_type": "Local",
+      "author": "Molotov Kid",
+      "text": "hello captain"
+    },
+    {
+      "timestamp": "21-12-25 20:00:16.662",
+      "chat_type": "Local",
+      "author": "Molotov Kid",
+      "text": "hello captain"
+    },
+    {
+      "timestamp": "21-12-25 20:00:54.954",
+      "chat_type": "Local",
+      "author": "Molotov Kid",
+      "text": "why are you hiding behind the counter lol"
+    },
+    {
+      "timestamp": "21-12-25 20:00:54.955",
+      "chat_type": "Local",
+      "author": "Molotov Kid",
+      "text": "why are you hiding behind the counter lol"
+    },
+    {
+      "timestamp": "21-12-25 20:02:06.545",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "I was chancing voice to chat button"
+    },
+    {
+      "timestamp": "21-12-25 20:02:06.545",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "I was chancing voice to chat button"
     }
   ],
-  "timestamp": "2025-12-21T20:00:01.668805"
+  "timestamp": "2025-12-21T20:05:01.975717"
 }
