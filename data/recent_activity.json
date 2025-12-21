@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 20:54:49.018",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "21-12-25 20:54:49.019",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -353,21 +347,18 @@
       "x": "10821",
       "y": "9072",
       "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 23:31:04.525",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "disconnected",
+      "x": "10103",
+      "y": "8260",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "21-12-25 18:03:35.834",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10660",
-      "y": "9572",
-      "z": "0",
-      "hours_survived": 63,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "2"
-    },
     {
       "timestamp": "21-12-25 18:26:50.302",
       "steam_id": "76561198031138505",
@@ -1084,6 +1075,18 @@
       "event_type": "level_up",
       "skill": "PlantScavenging",
       "level": "5"
+    },
+    {
+      "timestamp": "21-12-25 23:34:04.978",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "6122",
+      "y": "5326",
+      "z": "0",
+      "hours_survived": 19,
+      "event_type": "level_up",
+      "skill": "Blunt",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1388,5 +1391,5 @@
       "text": "vroom vroom"
     }
   ],
-  "timestamp": "2025-12-21T23:30:01.283343"
+  "timestamp": "2025-12-21T23:35:01.542494"
 }

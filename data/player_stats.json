@@ -320,7 +320,7 @@
         "Cooking": 0,
         "Fitness": 7,
         "Strength": 7,
-        "Blunt": 0,
+        "Blunt": 1,
         "Axe": 1,
         "Lightfoot": 2,
         "Nimble": 2,
@@ -358,9 +358,14 @@
           "skill": "Axe",
           "level": "1",
           "timestamp": "21-12-25 22:04:48.342"
+        },
+        {
+          "skill": "Blunt",
+          "level": "1",
+          "timestamp": "21-12-25 23:34:04.978"
         }
       ],
-      "last_seen": "21-12-25 22:45:23.256",
+      "last_seen": "21-12-25 23:34:04.978",
       "connections": 7
     },
     "Woofie": {
@@ -468,5 +473,5 @@
     }
   },
   "total_players": 8,
-  "timestamp": "2025-12-21T23:30:01.273321"
+  "timestamp": "2025-12-21T23:35:01.532684"
 }
