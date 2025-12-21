@@ -97,7 +97,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 2,
+      "total_hours": 21,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -107,7 +107,7 @@
         "Axe": 0,
         "Lightfoot": 2,
         "Nimble": 2,
-        "Sprinting": 0,
+        "Sprinting": 1,
         "Sneak": 2,
         "Woodwork": 0,
         "Aiming": 0,
@@ -136,11 +136,17 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "21-12-25 06:27:15.352",
+      "level_ups": [
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "21-12-25 07:21:17.330"
+        }
+      ],
+      "last_seen": "21-12-25 07:21:17.330",
       "connections": 2
     }
   },
   "total_players": 3,
-  "timestamp": "2025-12-21T07:20:01.813222"
+  "timestamp": "2025-12-21T07:25:01.052677"
 }
