@@ -7,13 +7,6 @@
     }
   ],
   "skills": {
-    "Axe": [
-      {
-        "username": "BetoJin",
-        "skill": "Axe",
-        "level": 0
-      }
-    ],
     "Woodwork": [
       {
         "username": "BetoJin",
@@ -21,38 +14,17 @@
         "level": 0
       }
     ],
-    "Sneak": [
+    "Blunt": [
       {
         "username": "BetoJin",
-        "skill": "Sneak",
-        "level": 2
-      }
-    ],
-    "MetalWelding": [
-      {
-        "username": "BetoJin",
-        "skill": "MetalWelding",
+        "skill": "Blunt",
         "level": 0
       }
     ],
-    "Butchering": [
+    "Blacksmith": [
       {
         "username": "BetoJin",
-        "skill": "Butchering",
-        "level": 0
-      }
-    ],
-    "SmallBlunt": [
-      {
-        "username": "BetoJin",
-        "skill": "SmallBlunt",
-        "level": 0
-      }
-    ],
-    "Fishing": [
-      {
-        "username": "BetoJin",
-        "skill": "Fishing",
+        "skill": "Blacksmith",
         "level": 0
       }
     ],
@@ -63,52 +35,17 @@
         "level": 5
       }
     ],
-    "Mechanics": [
+    "Lightfoot": [
       {
         "username": "BetoJin",
-        "skill": "Mechanics",
-        "level": 0
-      }
-    ],
-    "LongBlade": [
-      {
-        "username": "BetoJin",
-        "skill": "LongBlade",
-        "level": 0
+        "skill": "Lightfoot",
+        "level": 2
       }
     ],
     "Sprinting": [
       {
         "username": "BetoJin",
         "skill": "Sprinting",
-        "level": 0
-      }
-    ],
-    "Cooking": [
-      {
-        "username": "BetoJin",
-        "skill": "Cooking",
-        "level": 0
-      }
-    ],
-    "Husbandry": [
-      {
-        "username": "BetoJin",
-        "skill": "Husbandry",
-        "level": 0
-      }
-    ],
-    "Trapping": [
-      {
-        "username": "BetoJin",
-        "skill": "Trapping",
-        "level": 0
-      }
-    ],
-    "Carving": [
-      {
-        "username": "BetoJin",
-        "skill": "Carving",
         "level": 0
       }
     ],
@@ -119,38 +56,31 @@
         "level": 0
       }
     ],
-    "Masonry": [
+    "Farming": [
       {
         "username": "BetoJin",
-        "skill": "Masonry",
+        "skill": "Farming",
         "level": 0
       }
     ],
-    "Reloading": [
+    "Tracking": [
       {
         "username": "BetoJin",
-        "skill": "Reloading",
+        "skill": "Tracking",
         "level": 0
       }
     ],
-    "Pottery": [
+    "Axe": [
       {
         "username": "BetoJin",
-        "skill": "Pottery",
+        "skill": "Axe",
         "level": 0
       }
     ],
-    "Tailoring": [
+    "Carving": [
       {
         "username": "BetoJin",
-        "skill": "Tailoring",
-        "level": 0
-      }
-    ],
-    "Blacksmith": [
-      {
-        "username": "BetoJin",
-        "skill": "Blacksmith",
+        "skill": "Carving",
         "level": 0
       }
     ],
@@ -168,11 +98,18 @@
         "level": 0
       }
     ],
-    "Strength": [
+    "Husbandry": [
       {
         "username": "BetoJin",
-        "skill": "Strength",
-        "level": 5
+        "skill": "Husbandry",
+        "level": 0
+      }
+    ],
+    "Butchering": [
+      {
+        "username": "BetoJin",
+        "skill": "Butchering",
+        "level": 0
       }
     ],
     "SmallBlade": [
@@ -182,17 +119,24 @@
         "level": 0
       }
     ],
-    "Farming": [
+    "LongBlade": [
       {
         "username": "BetoJin",
-        "skill": "Farming",
+        "skill": "LongBlade",
         "level": 0
       }
     ],
-    "Aiming": [
+    "SmallBlunt": [
       {
         "username": "BetoJin",
-        "skill": "Aiming",
+        "skill": "SmallBlunt",
+        "level": 0
+      }
+    ],
+    "Trapping": [
+      {
+        "username": "BetoJin",
+        "skill": "Trapping",
         "level": 0
       }
     ],
@@ -203,39 +147,46 @@
         "level": 0
       }
     ],
-    "FlintKnapping": [
+    "Tailoring": [
       {
         "username": "BetoJin",
-        "skill": "FlintKnapping",
+        "skill": "Tailoring",
         "level": 0
       }
     ],
-    "Blunt": [
+    "Strength": [
       {
         "username": "BetoJin",
-        "skill": "Blunt",
+        "skill": "Strength",
+        "level": 5
+      }
+    ],
+    "Fishing": [
+      {
+        "username": "BetoJin",
+        "skill": "Fishing",
         "level": 0
       }
     ],
-    "Lightfoot": [
+    "MetalWelding": [
       {
         "username": "BetoJin",
-        "skill": "Lightfoot",
+        "skill": "MetalWelding",
+        "level": 0
+      }
+    ],
+    "Masonry": [
+      {
+        "username": "BetoJin",
+        "skill": "Masonry",
+        "level": 0
+      }
+    ],
+    "Sneak": [
+      {
+        "username": "BetoJin",
+        "skill": "Sneak",
         "level": 2
-      }
-    ],
-    "Nimble": [
-      {
-        "username": "BetoJin",
-        "skill": "Nimble",
-        "level": 2
-      }
-    ],
-    "PlantScavenging": [
-      {
-        "username": "BetoJin",
-        "skill": "PlantScavenging",
-        "level": 0
       }
     ],
     "Maintenance": [
@@ -245,13 +196,62 @@
         "level": 0
       }
     ],
-    "Tracking": [
+    "FlintKnapping": [
       {
         "username": "BetoJin",
-        "skill": "Tracking",
+        "skill": "FlintKnapping",
+        "level": 0
+      }
+    ],
+    "PlantScavenging": [
+      {
+        "username": "BetoJin",
+        "skill": "PlantScavenging",
+        "level": 0
+      }
+    ],
+    "Mechanics": [
+      {
+        "username": "BetoJin",
+        "skill": "Mechanics",
+        "level": 0
+      }
+    ],
+    "Cooking": [
+      {
+        "username": "BetoJin",
+        "skill": "Cooking",
+        "level": 0
+      }
+    ],
+    "Pottery": [
+      {
+        "username": "BetoJin",
+        "skill": "Pottery",
+        "level": 0
+      }
+    ],
+    "Aiming": [
+      {
+        "username": "BetoJin",
+        "skill": "Aiming",
+        "level": 0
+      }
+    ],
+    "Nimble": [
+      {
+        "username": "BetoJin",
+        "skill": "Nimble",
+        "level": 2
+      }
+    ],
+    "Reloading": [
+      {
+        "username": "BetoJin",
+        "skill": "Reloading",
         "level": 0
       }
     ]
   },
-  "timestamp": "2025-12-21T02:45:01.684514"
+  "timestamp": "2025-12-21T02:50:02.005788"
 }
