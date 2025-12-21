@@ -1,39 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 04:05:43.471",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "disconnected",
-      "x": "10849",
-      "y": "9850",
-      "z": "0"
-    },
-    {
-      "timestamp": "21-12-25 06:14:34.196",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "21-12-25 06:14:34.196",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "21-12-25 06:16:29.901",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "21-12-25 06:16:29.902",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "21-12-25 06:16:53.554",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -335,6 +302,36 @@
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 17:06:18.229",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 17:06:18.230",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "21-12-25 17:06:58.810",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 17:09:12.240",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 17:09:12.241",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -978,5 +975,5 @@
       "text": "night"
     }
   ],
-  "timestamp": "2025-12-21T17:05:01.190360"
+  "timestamp": "2025-12-21T17:10:01.457390"
 }
