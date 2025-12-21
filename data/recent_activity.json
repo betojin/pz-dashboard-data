@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 20:01:05.842",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "disconnected",
-      "x": "8023",
-      "y": "11424",
-      "z": "0"
-    },
-    {
-      "timestamp": "21-12-25 20:08:25.355",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "disconnected",
-      "x": "8023",
-      "y": "11431",
-      "z": "1"
-    },
-    {
       "timestamp": "21-12-25 20:18:16.282",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -347,21 +329,24 @@
       "x": "5452",
       "y": "9667",
       "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 22:33:58.561",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 22:34:35.474",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "5814",
+      "y": "5316",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "21-12-25 09:58:29.911",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10088",
-      "y": "8255",
-      "z": "0",
-      "hours_survived": 83,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "2"
-    },
     {
       "timestamp": "21-12-25 10:00:06.620",
       "steam_id": "76561198119296623",
@@ -1115,141 +1100,56 @@
       "z": "0",
       "hours_survived": 21,
       "event_type": "died"
+    },
+    {
+      "timestamp": "21-12-25 22:34:35.973",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5814",
+      "y": "5316",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 7,
+        "Blunt": 1,
+        "Axe": 1,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 1,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "21-12-25 22:17:01.247",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "powerful bat, uh yeah ure"
-    },
-    {
-      "timestamp": "21-12-25 22:17:01.247",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "powerful bat, uh yeah ure"
-    },
-    {
-      "timestamp": "21-12-25 22:17:04.057",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "i got a hose and gas tank if you want"
-    },
-    {
-      "timestamp": "21-12-25 22:17:04.057",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "i got a hose and gas tank if you want"
-    },
-    {
-      "timestamp": "21-12-25 22:17:40.417",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "loot"
-    },
-    {
-      "timestamp": "21-12-25 22:17:40.417",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "loot"
-    },
-    {
-      "timestamp": "21-12-25 22:17:42.898",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "seems like u need hose now to get gas from cars.."
-    },
-    {
-      "timestamp": "21-12-25 22:17:42.898",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "seems like u need hose now to get gas from cars.."
-    },
-    {
-      "timestamp": "21-12-25 22:17:48.019",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "yup"
-    },
-    {
-      "timestamp": "21-12-25 22:17:48.019",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "yup"
-    },
-    {
-      "timestamp": "21-12-25 22:17:52.521",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "new to me.."
-    },
-    {
-      "timestamp": "21-12-25 22:17:52.521",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "new to me.."
-    },
-    {
-      "timestamp": "21-12-25 22:18:05.411",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "oooh i found the tigerstripe zed"
-    },
-    {
-      "timestamp": "21-12-25 22:18:05.412",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "oooh i found the tigerstripe zed"
-    },
-    {
-      "timestamp": "21-12-25 22:18:55.278",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "here is a weapon"
-    },
-    {
-      "timestamp": "21-12-25 22:18:55.278",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "here is a weapon"
-    },
-    {
-      "timestamp": "21-12-25 22:19:56.648",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "21-12-25 22:19:56.648",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "21-12-25 22:21:11.475",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "21-12-25 22:21:11.476",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "21-12-25 22:22:28.763",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "c mon woofie"
-    },
-    {
-      "timestamp": "21-12-25 22:22:28.764",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "c mon woofie"
-    },
     {
       "timestamp": "21-12-25 22:23:37.809",
       "chat_type": "Local",
@@ -1417,7 +1317,139 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "lets get that gas"
+    },
+    {
+      "timestamp": "21-12-25 22:31:42.404",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "key?"
+    },
+    {
+      "timestamp": "21-12-25 22:31:42.404",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "key?"
+    },
+    {
+      "timestamp": "21-12-25 22:31:44.219",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "what kind of car you want?"
+    },
+    {
+      "timestamp": "21-12-25 22:31:44.219",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "what kind of car you want?"
+    },
+    {
+      "timestamp": "21-12-25 22:31:52.724",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "im burglar so i can get a car for u"
+    },
+    {
+      "timestamp": "21-12-25 22:31:52.724",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "im burglar so i can get a car for u"
+    },
+    {
+      "timestamp": "21-12-25 22:31:58.963",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "functional is literally my only requirement"
+    },
+    {
+      "timestamp": "21-12-25 22:31:58.963",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "functional is literally my only requirement"
+    },
+    {
+      "timestamp": "21-12-25 22:32:08.689",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "ok"
+    },
+    {
+      "timestamp": "21-12-25 22:32:08.689",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "ok"
+    },
+    {
+      "timestamp": "21-12-25 22:33:12.786",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "im hotwiring"
+    },
+    {
+      "timestamp": "21-12-25 22:33:12.786",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "im hotwiring"
+    },
+    {
+      "timestamp": "21-12-25 22:33:48.254",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "this car ok for u?"
+    },
+    {
+      "timestamp": "21-12-25 22:33:48.254",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "this car ok for u?"
+    },
+    {
+      "timestamp": "21-12-25 22:33:52.639",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "oh wow survivor car"
+    },
+    {
+      "timestamp": "21-12-25 22:33:52.639",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "oh wow survivor car"
+    },
+    {
+      "timestamp": "21-12-25 22:33:55.335",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "i wanna get that green van"
+    },
+    {
+      "timestamp": "21-12-25 22:33:55.335",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "i wanna get that green van"
+    },
+    {
+      "timestamp": "21-12-25 22:34:27.498",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "c mon"
+    },
+    {
+      "timestamp": "21-12-25 22:34:27.498",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "c mon"
+    },
+    {
+      "timestamp": "21-12-25 22:34:47.412",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "21-12-25 22:34:47.412",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-21T22:30:01.420504"
+  "timestamp": "2025-12-21T22:35:01.707684"
 }
