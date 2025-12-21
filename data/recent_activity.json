@@ -299,6 +299,15 @@
       "steam_id": "76561198119296623",
       "username": "Sully",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 10:00:06.326",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "fully connected",
+      "x": "10082",
+      "y": "8268",
+      "z": "0"
     }
   ],
   "perk_events": [
@@ -712,6 +721,53 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "2"
+    },
+    {
+      "timestamp": "21-12-25 10:00:06.620",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10082",
+      "y": "8268",
+      "z": "0",
+      "hours_survived": 83,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 9,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 2,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -848,5 +904,5 @@
       "text": "night"
     }
   ],
-  "timestamp": "2025-12-21T10:00:01.555097"
+  "timestamp": "2025-12-21T10:05:01.861784"
 }
