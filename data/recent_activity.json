@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 16:38:45.587",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "21-12-25 16:38:45.588",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -344,66 +338,15 @@
       "steam_id": "76561198864938417",
       "username": "Woofie",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "21-12-25 21:31:45.467",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "21-12-25 06:26:52.010",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "11634",
-      "y": "6826",
-      "z": "0",
-      "hours_survived": 2,
-      "event_type": "died"
-    },
-    {
-      "timestamp": "21-12-25 06:27:15.352",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10944",
-      "y": "9374",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "21-12-25 07:21:17.330",
       "steam_id": "76561198119296623",
@@ -1077,33 +1020,33 @@
       "z": "0",
       "hours_survived": 0,
       "event_type": "created"
+    },
+    {
+      "timestamp": "21-12-25 21:31:25.009",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10651",
+      "y": "10424",
+      "z": "0",
+      "hours_survived": 146,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "1"
+    },
+    {
+      "timestamp": "21-12-25 21:31:29.489",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10651",
+      "y": "10424",
+      "z": "0",
+      "hours_survived": 146,
+      "event_type": "level_up",
+      "skill": "SmallBlunt",
+      "level": "2"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "21-12-25 20:20:00.092",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "ello"
-    },
-    {
-      "timestamp": "21-12-25 20:20:00.092",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "ello"
-    },
-    {
-      "timestamp": "21-12-25 20:20:10.591",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "hiya"
-    },
-    {
-      "timestamp": "21-12-25 20:20:10.591",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "hiya"
-    },
     {
       "timestamp": "21-12-25 20:21:48.884",
       "chat_type": "General",
@@ -1379,7 +1322,31 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "naughty"
+    },
+    {
+      "timestamp": "21-12-25 21:32:14.870",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "and now a bunny suit"
+    },
+    {
+      "timestamp": "21-12-25 21:32:14.870",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "and now a bunny suit"
+    },
+    {
+      "timestamp": "21-12-25 21:32:41.458",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "the universe is telling you something"
+    },
+    {
+      "timestamp": "21-12-25 21:32:41.459",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "the universe is telling you something"
     }
   ],
-  "timestamp": "2025-12-21T21:30:01.724706"
+  "timestamp": "2025-12-21T21:35:01.066020"
 }
