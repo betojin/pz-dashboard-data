@@ -7,87 +7,10 @@
     }
   ],
   "skills": {
-    "Cooking": [
+    "Masonry": [
       {
         "username": "BetoJin",
-        "skill": "Cooking",
-        "level": 0
-      }
-    ],
-    "Woodwork": [
-      {
-        "username": "BetoJin",
-        "skill": "Woodwork",
-        "level": 0
-      }
-    ],
-    "Reloading": [
-      {
-        "username": "BetoJin",
-        "skill": "Reloading",
-        "level": 0
-      }
-    ],
-    "Pottery": [
-      {
-        "username": "BetoJin",
-        "skill": "Pottery",
-        "level": 0
-      }
-    ],
-    "Farming": [
-      {
-        "username": "BetoJin",
-        "skill": "Farming",
-        "level": 0
-      }
-    ],
-    "Glassmaking": [
-      {
-        "username": "BetoJin",
-        "skill": "Glassmaking",
-        "level": 0
-      }
-    ],
-    "Maintenance": [
-      {
-        "username": "BetoJin",
-        "skill": "Maintenance",
-        "level": 0
-      }
-    ],
-    "FlintKnapping": [
-      {
-        "username": "BetoJin",
-        "skill": "FlintKnapping",
-        "level": 0
-      }
-    ],
-    "Sprinting": [
-      {
-        "username": "BetoJin",
-        "skill": "Sprinting",
-        "level": 0
-      }
-    ],
-    "Fishing": [
-      {
-        "username": "BetoJin",
-        "skill": "Fishing",
-        "level": 0
-      }
-    ],
-    "Axe": [
-      {
-        "username": "BetoJin",
-        "skill": "Axe",
-        "level": 0
-      }
-    ],
-    "Tracking": [
-      {
-        "username": "BetoJin",
-        "skill": "Tracking",
+        "skill": "Masonry",
         "level": 0
       }
     ],
@@ -98,45 +21,17 @@
         "level": 0
       }
     ],
-    "Masonry": [
+    "Nimble": [
       {
         "username": "BetoJin",
-        "skill": "Masonry",
-        "level": 0
+        "skill": "Nimble",
+        "level": 2
       }
     ],
-    "Butchering": [
+    "Fishing": [
       {
         "username": "BetoJin",
-        "skill": "Butchering",
-        "level": 0
-      }
-    ],
-    "Blacksmith": [
-      {
-        "username": "BetoJin",
-        "skill": "Blacksmith",
-        "level": 0
-      }
-    ],
-    "Mechanics": [
-      {
-        "username": "BetoJin",
-        "skill": "Mechanics",
-        "level": 0
-      }
-    ],
-    "Blunt": [
-      {
-        "username": "BetoJin",
-        "skill": "Blunt",
-        "level": 0
-      }
-    ],
-    "MetalWelding": [
-      {
-        "username": "BetoJin",
-        "skill": "MetalWelding",
+        "skill": "Fishing",
         "level": 0
       }
     ],
@@ -147,31 +42,24 @@
         "level": 0
       }
     ],
-    "Strength": [
+    "Fitness": [
       {
         "username": "BetoJin",
-        "skill": "Strength",
+        "skill": "Fitness",
         "level": 5
       }
     ],
-    "Tailoring": [
+    "Sprinting": [
       {
         "username": "BetoJin",
-        "skill": "Tailoring",
+        "skill": "Sprinting",
         "level": 0
       }
     ],
-    "Carving": [
+    "Blacksmith": [
       {
         "username": "BetoJin",
-        "skill": "Carving",
-        "level": 0
-      }
-    ],
-    "Trapping": [
-      {
-        "username": "BetoJin",
-        "skill": "Trapping",
+        "skill": "Blacksmith",
         "level": 0
       }
     ],
@@ -182,24 +70,10 @@
         "level": 0
       }
     ],
-    "Electricity": [
+    "FlintKnapping": [
       {
         "username": "BetoJin",
-        "skill": "Electricity",
-        "level": 0
-      }
-    ],
-    "Fitness": [
-      {
-        "username": "BetoJin",
-        "skill": "Fitness",
-        "level": 5
-      }
-    ],
-    "SmallBlunt": [
-      {
-        "username": "BetoJin",
-        "skill": "SmallBlunt",
+        "skill": "FlintKnapping",
         "level": 0
       }
     ],
@@ -210,6 +84,55 @@
         "level": 0
       }
     ],
+    "Glassmaking": [
+      {
+        "username": "BetoJin",
+        "skill": "Glassmaking",
+        "level": 0
+      }
+    ],
+    "Cooking": [
+      {
+        "username": "BetoJin",
+        "skill": "Cooking",
+        "level": 0
+      }
+    ],
+    "Maintenance": [
+      {
+        "username": "BetoJin",
+        "skill": "Maintenance",
+        "level": 0
+      }
+    ],
+    "Tracking": [
+      {
+        "username": "BetoJin",
+        "skill": "Tracking",
+        "level": 0
+      }
+    ],
+    "Tailoring": [
+      {
+        "username": "BetoJin",
+        "skill": "Tailoring",
+        "level": 0
+      }
+    ],
+    "Pottery": [
+      {
+        "username": "BetoJin",
+        "skill": "Pottery",
+        "level": 0
+      }
+    ],
+    "Electricity": [
+      {
+        "username": "BetoJin",
+        "skill": "Electricity",
+        "level": 0
+      }
+    ],
     "Sneak": [
       {
         "username": "BetoJin",
@@ -217,17 +140,17 @@
         "level": 2
       }
     ],
-    "Lightfoot": [
+    "Strength": [
       {
         "username": "BetoJin",
-        "skill": "Lightfoot",
-        "level": 2
+        "skill": "Strength",
+        "level": 5
       }
     ],
-    "LongBlade": [
+    "Trapping": [
       {
         "username": "BetoJin",
-        "skill": "LongBlade",
+        "skill": "Trapping",
         "level": 0
       }
     ],
@@ -238,6 +161,20 @@
         "level": 0
       }
     ],
+    "SmallBlunt": [
+      {
+        "username": "BetoJin",
+        "skill": "SmallBlunt",
+        "level": 0
+      }
+    ],
+    "Reloading": [
+      {
+        "username": "BetoJin",
+        "skill": "Reloading",
+        "level": 0
+      }
+    ],
     "Spear": [
       {
         "username": "BetoJin",
@@ -245,13 +182,76 @@
         "level": 0
       }
     ],
-    "Nimble": [
+    "Lightfoot": [
       {
         "username": "BetoJin",
-        "skill": "Nimble",
+        "skill": "Lightfoot",
         "level": 2
+      }
+    ],
+    "MetalWelding": [
+      {
+        "username": "BetoJin",
+        "skill": "MetalWelding",
+        "level": 0
+      }
+    ],
+    "Butchering": [
+      {
+        "username": "BetoJin",
+        "skill": "Butchering",
+        "level": 0
+      }
+    ],
+    "Farming": [
+      {
+        "username": "BetoJin",
+        "skill": "Farming",
+        "level": 0
+      }
+    ],
+    "Axe": [
+      {
+        "username": "BetoJin",
+        "skill": "Axe",
+        "level": 0
+      }
+    ],
+    "Mechanics": [
+      {
+        "username": "BetoJin",
+        "skill": "Mechanics",
+        "level": 0
+      }
+    ],
+    "Woodwork": [
+      {
+        "username": "BetoJin",
+        "skill": "Woodwork",
+        "level": 0
+      }
+    ],
+    "Carving": [
+      {
+        "username": "BetoJin",
+        "skill": "Carving",
+        "level": 0
+      }
+    ],
+    "LongBlade": [
+      {
+        "username": "BetoJin",
+        "skill": "LongBlade",
+        "level": 0
+      }
+    ],
+    "Blunt": [
+      {
+        "username": "BetoJin",
+        "skill": "Blunt",
+        "level": 0
       }
     ]
   },
-  "timestamp": "2025-12-21T01:35:01.669501"
+  "timestamp": "2025-12-21T01:40:01.911190"
 }
