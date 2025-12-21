@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 07:34:45.596",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "fully connected",
-      "x": "11966",
-      "y": "6908",
-      "z": "0"
-    },
-    {
       "timestamp": "21-12-25 07:53:03.637",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -341,6 +332,15 @@
       "x": "8023",
       "y": "11424",
       "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 20:08:25.355",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "8023",
+      "y": "11431",
+      "z": "1"
     }
   ],
   "perk_events": [
@@ -1385,5 +1385,5 @@
       "text": "I was chancing voice to chat button"
     }
   ],
-  "timestamp": "2025-12-21T20:05:01.975717"
+  "timestamp": "2025-12-21T20:10:01.262064"
 }
