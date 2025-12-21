@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 17:14:36.733",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "21-12-25 17:15:05.562",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "21-12-25 17:16:18.415",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -350,68 +338,24 @@
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 22:01:23.212",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 22:01:25.724",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "fully connected",
+      "x": "8023",
+      "y": "11424",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "21-12-25 07:29:22.193",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "11656",
-      "y": "8025",
-      "z": "0",
-      "hours_survived": 24,
-      "event_type": "level_up",
-      "skill": "Blunt",
-      "level": "1"
-    },
-    {
-      "timestamp": "21-12-25 07:34:45.912",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "11966",
-      "y": "6908",
-      "z": "0",
-      "hours_survived": 26,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 9,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 1,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "21-12-25 08:09:13.481",
       "steam_id": "76561198119296623",
@@ -1085,33 +1029,68 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "21-12-25 22:01:30.454",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "x": "8023",
+      "y": "11424",
+      "z": "0",
+      "hours_survived": 39,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 9,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 1,
+        "Woodwork": 0,
+        "Aiming": 4,
+        "Reloading": 4,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 1,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "21-12-25 22:04:48.342",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "4024",
+      "y": "10781",
+      "z": "0",
+      "hours_survived": 16,
+      "event_type": "level_up",
+      "skill": "Axe",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "21-12-25 21:02:58.493",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "smart!"
-    },
-    {
-      "timestamp": "21-12-25 21:02:58.493",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "smart!"
-    },
-    {
-      "timestamp": "21-12-25 21:09:20.286",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "he crossed the road"
-    },
-    {
-      "timestamp": "21-12-25 21:09:20.286",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "he crossed the road"
-    },
     {
       "timestamp": "21-12-25 21:10:33.608",
       "chat_type": "General",
@@ -1387,7 +1366,31 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "that took ages to build"
+    },
+    {
+      "timestamp": "21-12-25 22:01:54.716",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "okay my powers back on"
+    },
+    {
+      "timestamp": "21-12-25 22:01:54.716",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "okay my powers back on"
+    },
+    {
+      "timestamp": "21-12-25 22:02:12.408",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "nice"
+    },
+    {
+      "timestamp": "21-12-25 22:02:12.408",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "nice"
     }
   ],
-  "timestamp": "2025-12-21T22:00:01.532246"
+  "timestamp": "2025-12-21T22:05:01.872644"
 }
