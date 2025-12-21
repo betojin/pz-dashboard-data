@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 19:13:44.919",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "21-12-25 19:14:33.297",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -350,21 +344,18 @@
       "x": "8215",
       "y": "11677",
       "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 22:17:24.479",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "2488",
+      "y": "10908",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "21-12-25 08:22:09.166",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10878",
-      "y": "10157",
-      "z": "0",
-      "hours_survived": 4,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "1"
-    },
     {
       "timestamp": "21-12-25 09:58:29.911",
       "steam_id": "76561198119296623",
@@ -1120,309 +1111,319 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "21-12-25 22:16:42.859",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "2488",
+      "y": "10908",
+      "z": "0",
+      "hours_survived": 21,
+      "event_type": "died"
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "21-12-25 21:56:42.211",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "yeah! just saw the pics!"
-    },
-    {
-      "timestamp": "21-12-25 21:56:42.211",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "yeah! just saw the pics!"
-    },
-    {
-      "timestamp": "21-12-25 21:56:49.048",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "back"
-    },
-    {
-      "timestamp": "21-12-25 21:56:49.048",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "back"
-    },
-    {
-      "timestamp": "21-12-25 21:56:55.207",
-      "chat_type": "General",
+      "timestamp": "21-12-25 22:15:03.280",
+      "chat_type": "Local",
       "author": "BetoJin",
-      "text": "welcome backk"
+      "text": "just trying to survive"
     },
     {
-      "timestamp": "21-12-25 21:56:55.207",
-      "chat_type": "General",
+      "timestamp": "21-12-25 22:15:03.280",
+      "chat_type": "Local",
       "author": "BetoJin",
-      "text": "welcome backk"
+      "text": "just trying to survive"
     },
     {
-      "timestamp": "21-12-25 21:57:50.622",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "that took ages to build"
-    },
-    {
-      "timestamp": "21-12-25 21:57:50.622",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "that took ages to build"
-    },
-    {
-      "timestamp": "21-12-25 22:01:54.716",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "okay my powers back on"
-    },
-    {
-      "timestamp": "21-12-25 22:01:54.716",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "okay my powers back on"
-    },
-    {
-      "timestamp": "21-12-25 22:02:12.408",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "nice"
-    },
-    {
-      "timestamp": "21-12-25 22:02:12.408",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "nice"
-    },
-    {
-      "timestamp": "21-12-25 22:07:52.756",
-      "chat_type": "General",
+      "timestamp": "21-12-25 22:15:09.095",
+      "chat_type": "Local",
       "author": "Woofie",
-      "text": "meow"
+      "text": "as one does"
     },
     {
-      "timestamp": "21-12-25 22:07:52.756",
-      "chat_type": "General",
+      "timestamp": "21-12-25 22:15:09.096",
+      "chat_type": "Local",
       "author": "Woofie",
-      "text": "meow"
+      "text": "as one does"
     },
     {
-      "timestamp": "21-12-25 22:10:52.241",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "so i am getting a hat duplication glitch happening"
+      "timestamp": "21-12-25 22:15:11.309",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "make a place for myself in this world lol"
     },
     {
-      "timestamp": "21-12-25 22:10:52.241",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "so i am getting a hat duplication glitch happening"
+      "timestamp": "21-12-25 22:15:11.309",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "make a place for myself in this world lol"
     },
     {
-      "timestamp": "21-12-25 22:12:10.142",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "nice half is here"
-    },
-    {
-      "timestamp": "21-12-25 22:12:10.142",
+      "timestamp": "21-12-25 22:15:16.875",
       "chat_type": "General",
       "author": "Molotov Kid",
-      "text": "nice half is here"
+      "text": "capn im headed for doe valley, best of luck with guns unlimited"
     },
     {
-      "timestamp": "21-12-25 22:12:20.640",
+      "timestamp": "21-12-25 22:15:16.876",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "capn im headed for doe valley, best of luck with guns unlimited"
+    },
+    {
+      "timestamp": "21-12-25 22:15:23.674",
       "chat_type": "General",
       "author": "half",
-      "text": "maybe"
+      "text": "how long has the serveer been up?"
     },
     {
-      "timestamp": "21-12-25 22:12:20.640",
+      "timestamp": "21-12-25 22:15:23.674",
       "chat_type": "General",
       "author": "half",
-      "text": "maybe"
+      "text": "how long has the serveer been up?"
     },
     {
-      "timestamp": "21-12-25 22:13:03.845",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "hey kid wana head to the gun store?"
-    },
-    {
-      "timestamp": "21-12-25 22:13:03.845",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "hey kid wana head to the gun store?"
-    },
-    {
-      "timestamp": "21-12-25 22:13:08.904",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "headed there now"
-    },
-    {
-      "timestamp": "21-12-25 22:13:08.904",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "headed there now"
-    },
-    {
-      "timestamp": "21-12-25 22:13:37.817",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "i wish we had vfe"
-    },
-    {
-      "timestamp": "21-12-25 22:13:37.817",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "i wish we had vfe"
-    },
-    {
-      "timestamp": "21-12-25 22:13:41.118",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "bit ahead of you"
-    },
-    {
-      "timestamp": "21-12-25 22:13:41.118",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "bit ahead of you"
-    },
-    {
-      "timestamp": "21-12-25 22:13:52.483",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "doe valley gunstore right?"
-    },
-    {
-      "timestamp": "21-12-25 22:13:52.483",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "doe valley gunstore right?"
-    },
-    {
-      "timestamp": "21-12-25 22:14:12.170",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "unlimeted guns"
-    },
-    {
-      "timestamp": "21-12-25 22:14:12.171",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "unlimeted guns"
-    },
-    {
-      "timestamp": "21-12-25 22:14:24.498",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "what is vfe?"
-    },
-    {
-      "timestamp": "21-12-25 22:14:24.498",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "what is vfe?"
-    },
-    {
-      "timestamp": "21-12-25 22:14:26.239",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "oh i was headed for doe valley"
-    },
-    {
-      "timestamp": "21-12-25 22:14:26.239",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "oh i was headed for doe valley"
-    },
-    {
-      "timestamp": "21-12-25 22:14:26.571",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "oh hauuuu"
-    },
-    {
-      "timestamp": "21-12-25 22:14:26.571",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "oh hauuuu"
-    },
-    {
-      "timestamp": "21-12-25 22:14:32.586",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "vanilla firearms expansion"
-    },
-    {
-      "timestamp": "21-12-25 22:14:32.587",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "vanilla firearms expansion"
-    },
-    {
-      "timestamp": "21-12-25 22:14:32.974",
+      "timestamp": "21-12-25 22:15:25.549",
       "chat_type": "Local",
       "author": "BetoJin",
-      "text": "hello"
+      "text": "are you soloing?"
     },
     {
-      "timestamp": "21-12-25 22:14:32.974",
+      "timestamp": "21-12-25 22:15:25.549",
       "chat_type": "Local",
       "author": "BetoJin",
-      "text": "hello"
+      "text": "are you soloing?"
     },
     {
-      "timestamp": "21-12-25 22:14:37.223",
+      "timestamp": "21-12-25 22:15:27.207",
       "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "thats what we used"
+      "author": "CaptainLobo",
+      "text": "thank you u2"
     },
     {
-      "timestamp": "21-12-25 22:14:37.223",
+      "timestamp": "21-12-25 22:15:27.207",
       "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "thats what we used"
+      "author": "CaptainLobo",
+      "text": "thank you u2"
     },
     {
-      "timestamp": "21-12-25 22:14:43.633",
+      "timestamp": "21-12-25 22:15:34.193",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "or sticking"
+    },
+    {
+      "timestamp": "21-12-25 22:15:34.193",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "or sticking"
+    },
+    {
+      "timestamp": "21-12-25 22:15:38.363",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "2 days i think"
+    },
+    {
+      "timestamp": "21-12-25 22:15:38.365",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "2 days i think"
+    },
+    {
+      "timestamp": "21-12-25 22:15:39.397",
       "chat_type": "Local",
       "author": "Woofie",
-      "text": "how ya doin"
+      "text": "i was gonna see who was around and decide after that"
     },
     {
-      "timestamp": "21-12-25 22:14:43.633",
+      "timestamp": "21-12-25 22:15:39.398",
       "chat_type": "Local",
       "author": "Woofie",
-      "text": "how ya doin"
+      "text": "i was gonna see who was around and decide after that"
     },
     {
-      "timestamp": "21-12-25 22:14:52.851",
+      "timestamp": "21-12-25 22:15:49.764",
       "chat_type": "Local",
       "author": "BetoJin",
-      "text": "good good"
+      "text": "alright ^^"
     },
     {
-      "timestamp": "21-12-25 22:14:52.851",
+      "timestamp": "21-12-25 22:15:49.765",
       "chat_type": "Local",
       "author": "BetoJin",
-      "text": "good good"
+      "text": "alright ^^"
     },
     {
-      "timestamp": "21-12-25 22:14:53.577",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "ahhh ok"
+      "timestamp": "21-12-25 22:16:01.625",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "im ganna go to gas station"
     },
     {
-      "timestamp": "21-12-25 22:14:53.577",
+      "timestamp": "21-12-25 22:16:01.625",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "im ganna go to gas station"
+    },
+    {
+      "timestamp": "21-12-25 22:16:16.800",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "oo"
+    },
+    {
+      "timestamp": "21-12-25 22:16:16.800",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "oo"
+    },
+    {
+      "timestamp": "21-12-25 22:16:23.835",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "you coming?"
+    },
+    {
+      "timestamp": "21-12-25 22:16:23.835",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "you coming?"
+    },
+    {
+      "timestamp": "21-12-25 22:16:28.356",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "i got a"
+    },
+    {
+      "timestamp": "21-12-25 22:16:28.356",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "i got a"
+    },
+    {
+      "timestamp": "21-12-25 22:16:58.648",
       "chat_type": "General",
-      "author": "Sully",
-      "text": "ahhh ok"
+      "author": "CaptainLobo",
+      "text": "too many lmao"
+    },
+    {
+      "timestamp": "21-12-25 22:16:58.648",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "too many lmao"
+    },
+    {
+      "timestamp": "21-12-25 22:17:01.247",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "powerful bat, uh yeah ure"
+    },
+    {
+      "timestamp": "21-12-25 22:17:01.247",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "powerful bat, uh yeah ure"
+    },
+    {
+      "timestamp": "21-12-25 22:17:04.057",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "i got a hose and gas tank if you want"
+    },
+    {
+      "timestamp": "21-12-25 22:17:04.057",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "i got a hose and gas tank if you want"
+    },
+    {
+      "timestamp": "21-12-25 22:17:40.417",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "loot"
+    },
+    {
+      "timestamp": "21-12-25 22:17:40.417",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "loot"
+    },
+    {
+      "timestamp": "21-12-25 22:17:42.898",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "seems like u need hose now to get gas from cars.."
+    },
+    {
+      "timestamp": "21-12-25 22:17:42.898",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "seems like u need hose now to get gas from cars.."
+    },
+    {
+      "timestamp": "21-12-25 22:17:48.019",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "yup"
+    },
+    {
+      "timestamp": "21-12-25 22:17:48.019",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "yup"
+    },
+    {
+      "timestamp": "21-12-25 22:17:52.521",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "new to me.."
+    },
+    {
+      "timestamp": "21-12-25 22:17:52.521",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "new to me.."
+    },
+    {
+      "timestamp": "21-12-25 22:18:05.411",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "oooh i found the tigerstripe zed"
+    },
+    {
+      "timestamp": "21-12-25 22:18:05.412",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "oooh i found the tigerstripe zed"
+    },
+    {
+      "timestamp": "21-12-25 22:18:55.278",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "here is a weapon"
+    },
+    {
+      "timestamp": "21-12-25 22:18:55.278",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "here is a weapon"
+    },
+    {
+      "timestamp": "21-12-25 22:19:56.648",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "21-12-25 22:19:56.648",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-21T22:15:01.483775"
+  "timestamp": "2025-12-21T22:20:01.809932"
 }
