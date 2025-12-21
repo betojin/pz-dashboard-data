@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 07:34:18.563",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "21-12-25 07:34:18.564",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "21-12-25 07:34:32.424",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -331,6 +319,24 @@
       "action": "fully connected",
       "x": "8092",
       "y": "11563",
+      "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 19:18:35.682",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "8160",
+      "y": "11689",
+      "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 19:18:38.191",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "8215",
+      "y": "11677",
       "z": "0"
     }
   ],
@@ -1016,57 +1022,29 @@
         "Butchering": 1,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "21-12-25 19:17:59.039",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "8160",
+      "y": "11689",
+      "z": "0",
+      "hours_survived": 5,
+      "event_type": "died"
+    },
+    {
+      "timestamp": "21-12-25 19:18:38.321",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "8215",
+      "y": "11677",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "21-12-25 08:00:01.092",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "psst"
-    },
-    {
-      "timestamp": "21-12-25 08:00:01.092",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "psst"
-    },
-    {
-      "timestamp": "21-12-25 08:00:01.269",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "pssst!"
-    },
-    {
-      "timestamp": "21-12-25 08:00:01.269",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "pssst!"
-    },
-    {
-      "timestamp": "21-12-25 08:05:15.655",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "21-12-25 08:05:15.655",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "21-12-25 08:06:59.228",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "21-12-25 08:06:59.228",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "21-12-25 08:35:52.971",
       "chat_type": "General",
@@ -1294,7 +1272,79 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "must get the eye patch too"
+    },
+    {
+      "timestamp": "21-12-25 19:15:09.876",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "its on the wish list lol"
+    },
+    {
+      "timestamp": "21-12-25 19:15:09.876",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "its on the wish list lol"
+    },
+    {
+      "timestamp": "21-12-25 19:15:18.510",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "oh hey"
+    },
+    {
+      "timestamp": "21-12-25 19:15:18.510",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "oh hey"
+    },
+    {
+      "timestamp": "21-12-25 19:15:21.523",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "if only we could ampute limbs lol"
+    },
+    {
+      "timestamp": "21-12-25 19:15:21.523",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "if only we could ampute limbs lol"
+    },
+    {
+      "timestamp": "21-12-25 19:16:14.173",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "hey Kid!"
+    },
+    {
+      "timestamp": "21-12-25 19:16:14.174",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "hey Kid!"
+    },
+    {
+      "timestamp": "21-12-25 19:18:03.728",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "oh jeez"
+    },
+    {
+      "timestamp": "21-12-25 19:18:03.728",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "oh jeez"
+    },
+    {
+      "timestamp": "21-12-25 19:18:25.477",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "RIP o7"
+    },
+    {
+      "timestamp": "21-12-25 19:18:25.477",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "RIP o7"
     }
   ],
-  "timestamp": "2025-12-21T19:15:02.010579"
+  "timestamp": "2025-12-21T19:20:01.351814"
 }
