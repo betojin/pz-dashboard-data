@@ -366,7 +366,7 @@
     "Woofie": {
       "username": "Woofie",
       "steam_id": "76561198864938417",
-      "total_hours": 0,
+      "total_hours": 22,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -384,7 +384,7 @@
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 2,
-        "PlantScavenging": 3,
+        "PlantScavenging": 4,
         "Doctor": 0,
         "Electricity": 0,
         "Blacksmith": 0,
@@ -405,8 +405,14 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "21-12-25 22:05:50.814",
+      "level_ups": [
+        {
+          "skill": "PlantScavenging",
+          "level": "4",
+          "timestamp": "21-12-25 23:05:33.655"
+        }
+      ],
+      "last_seen": "21-12-25 23:05:33.655",
       "connections": 1
     },
     "half": {
@@ -457,5 +463,5 @@
     }
   },
   "total_players": 8,
-  "timestamp": "2025-12-21T23:05:01.731047"
+  "timestamp": "2025-12-21T23:10:01.979240"
 }
