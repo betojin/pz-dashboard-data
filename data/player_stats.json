@@ -231,7 +231,7 @@
     "Molotov Kid": {
       "username": "Molotov Kid",
       "steam_id": "76561199163725035",
-      "total_hours": 26,
+      "total_hours": 27,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -259,7 +259,7 @@
         "Maintenance": 0,
         "SmallBlade": 1,
         "LongBlade": 0,
-        "SmallBlunt": 0,
+        "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
@@ -280,9 +280,14 @@
           "skill": "Aiming",
           "level": "4",
           "timestamp": "21-12-25 19:28:30.138"
+        },
+        {
+          "skill": "SmallBlunt",
+          "level": "1",
+          "timestamp": "21-12-25 19:30:37.832"
         }
       ],
-      "last_seen": "21-12-25 19:28:30.138",
+      "last_seen": "21-12-25 19:30:37.832",
       "connections": 2
     },
     "CaptainLobo": {
@@ -333,5 +338,5 @@
     }
   },
   "total_players": 6,
-  "timestamp": "2025-12-21T19:30:01.853564"
+  "timestamp": "2025-12-21T19:35:01.132807"
 }
