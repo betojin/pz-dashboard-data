@@ -3,13 +3,13 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 8,
+      "total_hours": 30,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
         "Fitness": 5,
         "Strength": 5,
-        "Blunt": 0,
+        "Blunt": 1,
         "Axe": 0,
         "Lightfoot": 2,
         "Nimble": 2,
@@ -42,8 +42,14 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "21-12-25 21:15:10.839",
+      "level_ups": [
+        {
+          "skill": "Blunt",
+          "level": "1",
+          "timestamp": "21-12-25 22:08:54.631"
+        }
+      ],
+      "last_seen": "21-12-25 22:08:54.631",
       "connections": 2
     },
     "admin": {
@@ -356,8 +362,54 @@
       ],
       "last_seen": "21-12-25 22:04:48.342",
       "connections": 5
+    },
+    "Woofie": {
+      "username": "Woofie",
+      "steam_id": "76561198864938417",
+      "total_hours": 0,
+      "deaths": 0,
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 0,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 1,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 2,
+        "PlantScavenging": 3,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 1,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      },
+      "level_ups": [],
+      "last_seen": "21-12-25 22:05:50.814",
+      "connections": 1
     }
   },
-  "total_players": 6,
-  "timestamp": "2025-12-21T22:05:01.864240"
+  "total_players": 7,
+  "timestamp": "2025-12-21T22:10:01.174962"
 }
