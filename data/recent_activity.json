@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 16:08:49.624",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "21-12-25 16:08:49.625",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "21-12-25 16:09:01.511",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -341,103 +329,27 @@
       "x": "11480",
       "y": "7024",
       "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 21:22:47.848",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "11432",
+      "y": "7006",
+      "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 21:22:51.998",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "8215",
+      "y": "11677",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "21-12-25 04:05:13.805",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "10850",
-      "y": "9850",
-      "z": "0",
-      "hours_survived": 8,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "21-12-25 06:19:49.677",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "11643",
-      "y": "6696",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "21-12-25 06:26:52.010",
       "steam_id": "76561198119296623",
@@ -1148,33 +1060,29 @@
       "z": "0",
       "hours_survived": 0,
       "event_type": "created"
+    },
+    {
+      "timestamp": "21-12-25 21:20:32.251",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "11432",
+      "y": "7006",
+      "z": "0",
+      "hours_survived": 1,
+      "event_type": "died"
+    },
+    {
+      "timestamp": "21-12-25 21:22:52.100",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "8215",
+      "y": "11677",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "21-12-25 20:00:11.658",
-      "chat_type": "Local",
-      "author": "Molotov Kid",
-      "text": "oh"
-    },
-    {
-      "timestamp": "21-12-25 20:00:11.658",
-      "chat_type": "Local",
-      "author": "Molotov Kid",
-      "text": "oh"
-    },
-    {
-      "timestamp": "21-12-25 20:00:16.662",
-      "chat_type": "Local",
-      "author": "Molotov Kid",
-      "text": "hello captain"
-    },
-    {
-      "timestamp": "21-12-25 20:00:16.662",
-      "chat_type": "Local",
-      "author": "Molotov Kid",
-      "text": "hello captain"
-    },
     {
       "timestamp": "21-12-25 20:00:54.954",
       "chat_type": "Local",
@@ -1450,7 +1358,31 @@
       "chat_type": "General",
       "author": "Sully",
       "text": "oh nooo"
+    },
+    {
+      "timestamp": "21-12-25 21:20:28.794",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "jesus"
+    },
+    {
+      "timestamp": "21-12-25 21:20:28.795",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "jesus"
+    },
+    {
+      "timestamp": "21-12-25 21:20:39.162",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "got stuck on a slide"
+    },
+    {
+      "timestamp": "21-12-25 21:20:39.162",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "got stuck on a slide"
     }
   ],
-  "timestamp": "2025-12-21T21:20:02.005024"
+  "timestamp": "2025-12-21T21:25:01.406752"
 }
