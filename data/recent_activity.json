@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 03:41:47.412",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "fully connected",
-      "x": "10883",
-      "y": "10159",
-      "z": "0"
-    },
-    {
-      "timestamp": "21-12-25 03:56:04.297",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "disconnected",
-      "x": "10883",
-      "y": "10159",
-      "z": "0"
-    },
-    {
       "timestamp": "21-12-25 03:57:52.834",
       "steam_id": "76561198417595781",
       "username": "exoticbutters",
@@ -344,6 +326,18 @@
       "x": "10878",
       "y": "10114",
       "z": "1"
+    },
+    {
+      "timestamp": "21-12-25 16:38:45.587",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 16:38:45.588",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -987,5 +981,5 @@
       "text": "night"
     }
   ],
-  "timestamp": "2025-12-21T16:35:01.404346"
+  "timestamp": "2025-12-21T16:40:01.684178"
 }
