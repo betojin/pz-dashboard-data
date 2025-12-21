@@ -164,7 +164,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 63,
+      "total_hours": 72,
       "deaths": 0,
       "skills": {
         "Cooking": 2,
@@ -192,7 +192,7 @@
         "Maintenance": 0,
         "SmallBlade": 0,
         "LongBlade": 0,
-        "SmallBlunt": 0,
+        "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
@@ -218,9 +218,14 @@
           "skill": "Cooking",
           "level": "2",
           "timestamp": "21-12-25 18:03:35.834"
+        },
+        {
+          "skill": "SmallBlunt",
+          "level": "1",
+          "timestamp": "21-12-25 18:26:50.302"
         }
       ],
-      "last_seen": "21-12-25 18:03:35.834",
+      "last_seen": "21-12-25 18:26:50.302",
       "connections": 2
     },
     "Molotov Kid": {
@@ -277,5 +282,5 @@
     }
   },
   "total_players": 5,
-  "timestamp": "2025-12-21T18:25:01.084493"
+  "timestamp": "2025-12-21T18:30:01.375925"
 }
