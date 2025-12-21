@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 06:16:53.554",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "21-12-25 06:18:32.012",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "21-12-25 06:18:32.013",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "21-12-25 06:18:45.803",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -329,6 +311,24 @@
     },
     {
       "timestamp": "21-12-25 17:09:12.241",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "21-12-25 17:10:20.312",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 17:14:36.733",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 17:14:36.733",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
       "action": "allowed to join"
@@ -975,5 +975,5 @@
       "text": "night"
     }
   ],
-  "timestamp": "2025-12-21T17:10:01.457390"
+  "timestamp": "2025-12-21T17:15:01.716307"
 }
