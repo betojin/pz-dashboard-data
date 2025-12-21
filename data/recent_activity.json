@@ -357,18 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "21-12-25 17:56:22.475",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "x": "8051",
-      "y": "11700",
-      "z": "0",
-      "hours_survived": 15,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "3"
-    },
-    {
       "timestamp": "21-12-25 18:03:35.834",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -1084,6 +1072,18 @@
       "event_type": "level_up",
       "skill": "PlantScavenging",
       "level": "4"
+    },
+    {
+      "timestamp": "21-12-25 23:10:15.520",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "9712",
+      "y": "8353",
+      "z": "0",
+      "hours_survived": 24,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "5"
     }
   ],
   "chat_messages": [
@@ -1388,5 +1388,5 @@
       "text": "vroom vroom"
     }
   ],
-  "timestamp": "2025-12-21T23:10:01.988715"
+  "timestamp": "2025-12-21T23:15:01.309104"
 }
