@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 07:09:37.600",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "21-12-25 07:09:37.601",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "21-12-25 07:11:35.466",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "21-12-25 07:33:48.501",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "disconnected",
-      "x": "11966",
-      "y": "6908",
-      "z": "0"
-    },
-    {
       "timestamp": "21-12-25 07:34:18.563",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -331,6 +304,33 @@
       "action": "fully connected",
       "x": "8215",
       "y": "11677",
+      "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 19:13:26.515",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 19:13:26.515",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "21-12-25 19:13:44.919",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 19:14:33.297",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "fully connected",
+      "x": "8092",
+      "y": "11563",
       "z": "0"
     }
   ],
@@ -969,6 +969,53 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "21-12-25 19:14:36.597",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "x": "8092",
+      "y": "11563",
+      "z": "0",
+      "hours_survived": 20,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 9,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 1,
+        "Woodwork": 0,
+        "Aiming": 3,
+        "Reloading": 3,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 1,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1223,7 +1270,31 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "helli yeah!"
+    },
+    {
+      "timestamp": "21-12-25 19:13:07.967",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "found a pirate hat, time to base my whole personality as apirate"
+    },
+    {
+      "timestamp": "21-12-25 19:13:07.968",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "found a pirate hat, time to base my whole personality as apirate"
+    },
+    {
+      "timestamp": "21-12-25 19:13:31.772",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "must get the eye patch too"
+    },
+    {
+      "timestamp": "21-12-25 19:13:31.772",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "must get the eye patch too"
     }
   ],
-  "timestamp": "2025-12-21T19:10:01.728382"
+  "timestamp": "2025-12-21T19:15:02.010579"
 }
