@@ -101,6 +101,63 @@
       "steam_id": "76561198119296623",
       "username": "Sully",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "21-12-25 06:16:29.901",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 06:16:29.902",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "21-12-25 06:16:53.554",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 06:18:32.012",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 06:18:32.013",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "21-12-25 06:18:45.803",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 06:18:45.803",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "21-12-25 06:19:10.818",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 06:19:49.278",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "fully connected",
+      "x": "11643",
+      "y": "6696",
+      "z": "0"
     }
   ],
   "perk_events": [
@@ -244,8 +301,55 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "21-12-25 06:19:49.677",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "11643",
+      "y": "6696",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 9,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-21T06:15:01.609917"
+  "timestamp": "2025-12-21T06:20:01.080728"
 }
