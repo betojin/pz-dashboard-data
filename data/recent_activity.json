@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 19:14:33.297",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "fully connected",
-      "x": "8092",
-      "y": "11563",
-      "z": "0"
-    },
-    {
-      "timestamp": "21-12-25 19:18:35.682",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "disconnected",
-      "x": "8160",
-      "y": "11689",
-      "z": "0"
-    },
-    {
-      "timestamp": "21-12-25 19:18:38.191",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "fully connected",
-      "x": "8215",
-      "y": "11677",
-      "z": "0"
-    },
-    {
       "timestamp": "21-12-25 20:01:05.842",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -352,6 +325,27 @@
       "action": "disconnected",
       "x": "2488",
       "y": "10908",
+      "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 22:22:38.670",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 22:22:38.671",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "21-12-25 22:23:42.415",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "disconnected",
+      "x": "5452",
+      "y": "9667",
       "z": "0"
     }
   ],
@@ -1125,78 +1119,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "21-12-25 22:15:03.280",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "just trying to survive"
-    },
-    {
-      "timestamp": "21-12-25 22:15:03.280",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "just trying to survive"
-    },
-    {
-      "timestamp": "21-12-25 22:15:09.095",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "as one does"
-    },
-    {
-      "timestamp": "21-12-25 22:15:09.096",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "as one does"
-    },
-    {
-      "timestamp": "21-12-25 22:15:11.309",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "make a place for myself in this world lol"
-    },
-    {
-      "timestamp": "21-12-25 22:15:11.309",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "make a place for myself in this world lol"
-    },
-    {
-      "timestamp": "21-12-25 22:15:16.875",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "capn im headed for doe valley, best of luck with guns unlimited"
-    },
-    {
-      "timestamp": "21-12-25 22:15:16.876",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "capn im headed for doe valley, best of luck with guns unlimited"
-    },
-    {
-      "timestamp": "21-12-25 22:15:23.674",
-      "chat_type": "General",
-      "author": "half",
-      "text": "how long has the serveer been up?"
-    },
-    {
-      "timestamp": "21-12-25 22:15:23.674",
-      "chat_type": "General",
-      "author": "half",
-      "text": "how long has the serveer been up?"
-    },
-    {
-      "timestamp": "21-12-25 22:15:25.549",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "are you soloing?"
-    },
-    {
-      "timestamp": "21-12-25 22:15:25.549",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "are you soloing?"
-    },
-    {
       "timestamp": "21-12-25 22:15:27.207",
       "chat_type": "General",
       "author": "CaptainLobo",
@@ -1423,7 +1345,79 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "21-12-25 22:21:11.475",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "21-12-25 22:21:11.476",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "21-12-25 22:22:28.763",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "c mon woofie"
+    },
+    {
+      "timestamp": "21-12-25 22:22:28.764",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "c mon woofie"
+    },
+    {
+      "timestamp": "21-12-25 22:23:37.809",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "hey"
+    },
+    {
+      "timestamp": "21-12-25 22:23:37.809",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "hey"
+    },
+    {
+      "timestamp": "21-12-25 22:23:39.013",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "21-12-25 22:23:39.013",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "21-12-25 22:24:34.995",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "we almost there"
+    },
+    {
+      "timestamp": "21-12-25 22:24:34.995",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "we almost there"
+    },
+    {
+      "timestamp": "21-12-25 22:24:51.669",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "fun times"
+    },
+    {
+      "timestamp": "21-12-25 22:24:51.669",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "fun times"
     }
   ],
-  "timestamp": "2025-12-21T22:20:01.809932"
+  "timestamp": "2025-12-21T22:25:01.067911"
 }
