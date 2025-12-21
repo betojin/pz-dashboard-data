@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 20:19:35.984",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "fully connected",
-      "x": "10092",
-      "y": "8267",
-      "z": "1"
-    },
-    {
       "timestamp": "21-12-25 20:54:49.018",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -352,6 +343,15 @@
       "action": "fully connected",
       "x": "5814",
       "y": "5316",
+      "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 22:56:41.273",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "disconnected",
+      "x": "10821",
+      "y": "9072",
       "z": "0"
     }
   ],
@@ -1423,5 +1423,5 @@
       "text": "vroom vroom"
     }
   ],
-  "timestamp": "2025-12-21T22:55:01.183907"
+  "timestamp": "2025-12-21T23:00:01.469121"
 }
