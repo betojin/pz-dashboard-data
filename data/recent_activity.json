@@ -164,6 +164,24 @@
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 06:27:11.295",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "disconnected",
+      "x": "11634",
+      "y": "6826",
+      "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 06:27:15.234",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "fully connected",
+      "x": "10944",
+      "y": "9374",
+      "z": "0"
     }
   ],
   "perk_events": [
@@ -354,8 +372,65 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "21-12-25 06:26:52.010",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "11634",
+      "y": "6826",
+      "z": "0",
+      "hours_survived": 2,
+      "event_type": "died"
+    },
+    {
+      "timestamp": "21-12-25 06:27:15.352",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10944",
+      "y": "9374",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 9,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-21T06:25:01.380605"
+  "timestamp": "2025-12-21T06:30:01.762583"
 }
