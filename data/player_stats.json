@@ -438,7 +438,7 @@
     "half": {
       "username": "half",
       "steam_id": "76561198368197161",
-      "total_hours": 10,
+      "total_hours": 14,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -466,7 +466,7 @@
         "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
-        "SmallBlunt": 0,
+        "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
@@ -477,11 +477,17 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "21-12-25 23:42:03.935",
+      "level_ups": [
+        {
+          "skill": "SmallBlunt",
+          "level": "1",
+          "timestamp": "21-12-25 23:50:17.586"
+        }
+      ],
+      "last_seen": "21-12-25 23:50:17.586",
       "connections": 2
     }
   },
   "total_players": 8,
-  "timestamp": "2025-12-21T23:50:01.549354"
+  "timestamp": "2025-12-21T23:55:01.853948"
 }

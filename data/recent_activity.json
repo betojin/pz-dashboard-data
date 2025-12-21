@@ -363,16 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "21-12-25 19:17:59.039",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "8160",
-      "y": "11689",
-      "z": "0",
-      "hours_survived": 5,
-      "event_type": "died"
-    },
-    {
       "timestamp": "21-12-25 19:18:38.321",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1055,21 +1045,21 @@
       "event_type": "level_up",
       "skill": "Strength",
       "level": "1"
+    },
+    {
+      "timestamp": "21-12-25 23:50:17.586",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8136",
+      "y": "11605",
+      "z": "0",
+      "hours_survived": 14,
+      "event_type": "level_up",
+      "skill": "SmallBlunt",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "21-12-25 22:37:22.087",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "house alarm?"
-    },
-    {
-      "timestamp": "21-12-25 22:37:22.087",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "house alarm?"
-    },
     {
       "timestamp": "21-12-25 22:37:30.329",
       "chat_type": "Local",
@@ -1357,7 +1347,19 @@
       "chat_type": "Local",
       "author": "Firestorm3050",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "21-12-25 23:51:04.295",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "21-12-25 23:51:04.295",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-21T23:50:01.559284"
+  "timestamp": "2025-12-21T23:55:01.863997"
 }
