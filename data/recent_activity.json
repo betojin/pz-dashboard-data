@@ -26,6 +26,27 @@
       "x": "10883",
       "y": "10159",
       "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 03:56:04.297",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "disconnected",
+      "x": "10883",
+      "y": "10159",
+      "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 03:57:52.834",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutters",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 03:57:52.835",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutters",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -125,5 +146,5 @@
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-21T03:55:02.007616"
+  "timestamp": "2025-12-21T04:00:01.247184"
 }
