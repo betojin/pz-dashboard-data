@@ -170,10 +170,10 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 150,
+      "total_hours": 192,
       "deaths": 0,
       "skills": {
-        "Cooking": 2,
+        "Cooking": 3,
         "Fitness": 10,
         "Strength": 9,
         "Blunt": 0,
@@ -239,9 +239,14 @@
           "skill": "SmallBlunt",
           "level": "2",
           "timestamp": "21-12-25 21:31:29.489"
+        },
+        {
+          "skill": "Cooking",
+          "level": "3",
+          "timestamp": "21-12-25 23:42:14.389"
         }
       ],
-      "last_seen": "21-12-25 21:55:52.405",
+      "last_seen": "21-12-25 23:42:14.389",
       "connections": 3
     },
     "Molotov Kid": {
@@ -371,12 +376,12 @@
     "Woofie": {
       "username": "Woofie",
       "steam_id": "76561198864938417",
-      "total_hours": 24,
+      "total_hours": 37,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
         "Fitness": 9,
-        "Strength": 0,
+        "Strength": 1,
         "Blunt": 0,
         "Axe": 1,
         "Lightfoot": 1,
@@ -420,15 +425,20 @@
           "skill": "PlantScavenging",
           "level": "5",
           "timestamp": "21-12-25 23:10:15.520"
+        },
+        {
+          "skill": "Strength",
+          "level": "1",
+          "timestamp": "21-12-25 23:42:41.092"
         }
       ],
-      "last_seen": "21-12-25 23:10:15.520",
+      "last_seen": "21-12-25 23:42:41.092",
       "connections": 1
     },
     "half": {
       "username": "half",
       "steam_id": "76561198368197161",
-      "total_hours": 0,
+      "total_hours": 10,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -468,10 +478,10 @@
         "Glassmaking": 0
       },
       "level_ups": [],
-      "last_seen": "21-12-25 22:11:45.014",
-      "connections": 1
+      "last_seen": "21-12-25 23:42:03.935",
+      "connections": 2
     }
   },
   "total_players": 8,
-  "timestamp": "2025-12-21T23:40:02.001236"
+  "timestamp": "2025-12-21T23:45:01.231467"
 }
