@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 16:38:45.588",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "21-12-25 16:41:45.263",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -344,6 +338,15 @@
       "steam_id": "76561198864938417",
       "username": "Woofie",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 21:42:28.853",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "disconnected",
+      "x": "10662",
+      "y": "9569",
+      "z": "0"
     }
   ],
   "perk_events": [
@@ -1048,18 +1051,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "21-12-25 20:21:48.884",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "heli event happened already sully"
-    },
-    {
-      "timestamp": "21-12-25 20:21:48.884",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "heli event happened already sully"
-    },
-    {
       "timestamp": "21-12-25 20:22:14.978",
       "chat_type": "General",
       "author": "Sully",
@@ -1346,7 +1337,19 @@
       "chat_type": "General",
       "author": "Sully",
       "text": "the universe is telling you something"
+    },
+    {
+      "timestamp": "21-12-25 21:42:35.338",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "alrightyy"
+    },
+    {
+      "timestamp": "21-12-25 21:42:35.338",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "alrightyy"
     }
   ],
-  "timestamp": "2025-12-21T21:40:01.392510"
+  "timestamp": "2025-12-21T21:45:01.672922"
 }
