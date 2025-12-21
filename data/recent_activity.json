@@ -351,53 +351,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "21-12-25 10:00:06.620",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10082",
-      "y": "8268",
-      "z": "0",
-      "hours_survived": 83,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 2,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "21-12-25 16:10:13.826",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -1150,69 +1103,19 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "21-12-25 22:41:05.025",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5930",
+      "y": "5256",
+      "z": "0",
+      "hours_survived": 2,
+      "event_type": "died"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "21-12-25 22:32:08.689",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "ok"
-    },
-    {
-      "timestamp": "21-12-25 22:32:08.689",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "ok"
-    },
-    {
-      "timestamp": "21-12-25 22:33:12.786",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "im hotwiring"
-    },
-    {
-      "timestamp": "21-12-25 22:33:12.786",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "im hotwiring"
-    },
-    {
-      "timestamp": "21-12-25 22:33:48.254",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "this car ok for u?"
-    },
-    {
-      "timestamp": "21-12-25 22:33:48.254",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "this car ok for u?"
-    },
-    {
-      "timestamp": "21-12-25 22:33:52.639",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "oh wow survivor car"
-    },
-    {
-      "timestamp": "21-12-25 22:33:52.639",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "oh wow survivor car"
-    },
-    {
-      "timestamp": "21-12-25 22:33:55.335",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "i wanna get that green van"
-    },
-    {
-      "timestamp": "21-12-25 22:33:55.335",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "i wanna get that green van"
-    },
     {
       "timestamp": "21-12-25 22:34:27.498",
       "chat_type": "Local",
@@ -1452,7 +1355,67 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "alright im ganna go somewhere quiet and log off for now"
+    },
+    {
+      "timestamp": "21-12-25 22:40:05.557",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "have a good day!"
+    },
+    {
+      "timestamp": "21-12-25 22:40:05.557",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "have a good day!"
+    },
+    {
+      "timestamp": "21-12-25 22:40:08.968",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "you too!"
+    },
+    {
+      "timestamp": "21-12-25 22:40:08.969",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "you too!"
+    },
+    {
+      "timestamp": "21-12-25 22:40:55.167",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "jesus christ lmao"
+    },
+    {
+      "timestamp": "21-12-25 22:40:55.168",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "jesus christ lmao"
+    },
+    {
+      "timestamp": "21-12-25 22:43:53.709",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "them firestorm be killin"
+    },
+    {
+      "timestamp": "21-12-25 22:43:53.709",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "them firestorm be killin"
+    },
+    {
+      "timestamp": "21-12-25 22:44:35.698",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "LOL"
+    },
+    {
+      "timestamp": "21-12-25 22:44:35.698",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "LOL"
     }
   ],
-  "timestamp": "2025-12-21T22:40:01.269408"
+  "timestamp": "2025-12-21T22:45:01.549363"
 }
