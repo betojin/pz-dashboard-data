@@ -1,42 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 17:06:18.230",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "21-12-25 17:06:58.810",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "21-12-25 17:09:12.240",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "21-12-25 17:09:12.241",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "21-12-25 17:10:20.312",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "21-12-25 17:14:36.733",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "21-12-25 17:14:36.733",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -347,21 +311,48 @@
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 21:55:52.103",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "fully connected",
+      "x": "10662",
+      "y": "9569",
+      "z": "0"
+    },
+    {
+      "timestamp": "21-12-25 21:59:23.515",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 21:59:23.515",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "21-12-25 21:59:44.919",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-12-25 21:59:44.920",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "21-12-25 21:59:50.462",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "21-12-25 07:21:17.330",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10109",
-      "y": "8258",
-      "z": "0",
-      "hours_survived": 21,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "1"
-    },
     {
       "timestamp": "21-12-25 07:29:22.193",
       "steam_id": "76561198119296623",
@@ -1047,81 +1038,56 @@
       "event_type": "level_up",
       "skill": "SmallBlunt",
       "level": "2"
+    },
+    {
+      "timestamp": "21-12-25 21:55:52.405",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10662",
+      "y": "9569",
+      "z": "0",
+      "hours_survived": 150,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 2,
+        "Fitness": 10,
+        "Strength": 9,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 2,
+        "Sneak": 0,
+        "Woodwork": 1,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 2,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "21-12-25 20:22:14.978",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "nice"
-    },
-    {
-      "timestamp": "21-12-25 20:22:14.979",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "nice"
-    },
-    {
-      "timestamp": "21-12-25 20:56:06.098",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "hody boys"
-    },
-    {
-      "timestamp": "21-12-25 20:56:06.098",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "hody boys"
-    },
-    {
-      "timestamp": "21-12-25 20:56:31.022",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "hellow"
-    },
-    {
-      "timestamp": "21-12-25 20:56:31.022",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "hellow"
-    },
-    {
-      "timestamp": "21-12-25 20:57:58.771",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "ello"
-    },
-    {
-      "timestamp": "21-12-25 20:57:58.772",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "ello"
-    },
-    {
-      "timestamp": "21-12-25 20:58:16.988",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "anybody wana head West?"
-    },
-    {
-      "timestamp": "21-12-25 20:58:16.988",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "anybody wana head West?"
-    },
-    {
-      "timestamp": "21-12-25 21:01:55.523",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i want to get it done while we still have electricity"
-    },
-    {
-      "timestamp": "21-12-25 21:01:55.523",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i want to get it done while we still have electricity"
-    },
     {
       "timestamp": "21-12-25 21:02:58.493",
       "chat_type": "General",
@@ -1349,7 +1315,79 @@
       "chat_type": "General",
       "author": "BetoJin",
       "text": "alrightyy"
+    },
+    {
+      "timestamp": "21-12-25 21:55:45.673",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "beto, remenber the base that black star and I built?"
+    },
+    {
+      "timestamp": "21-12-25 21:55:45.674",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "beto, remenber the base that black star and I built?"
+    },
+    {
+      "timestamp": "21-12-25 21:56:02.990",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "yeah i thinnk the one on memories chat?"
+    },
+    {
+      "timestamp": "21-12-25 21:56:02.990",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "yeah i thinnk the one on memories chat?"
+    },
+    {
+      "timestamp": "21-12-25 21:56:42.211",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "yeah! just saw the pics!"
+    },
+    {
+      "timestamp": "21-12-25 21:56:42.211",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "yeah! just saw the pics!"
+    },
+    {
+      "timestamp": "21-12-25 21:56:49.048",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "back"
+    },
+    {
+      "timestamp": "21-12-25 21:56:49.048",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "back"
+    },
+    {
+      "timestamp": "21-12-25 21:56:55.207",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "welcome backk"
+    },
+    {
+      "timestamp": "21-12-25 21:56:55.207",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "welcome backk"
+    },
+    {
+      "timestamp": "21-12-25 21:57:50.622",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "that took ages to build"
+    },
+    {
+      "timestamp": "21-12-25 21:57:50.622",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "that took ages to build"
     }
   ],
-  "timestamp": "2025-12-21T21:55:01.255397"
+  "timestamp": "2025-12-21T22:00:01.532246"
 }
