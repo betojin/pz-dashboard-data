@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 05:42:37.321",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "10038",
-      "y": "8062",
-      "z": "0",
-      "hours_survived": 160,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 9,
-        "Strength": 2,
-        "Blunt": 0,
-        "Axe": 2,
-        "Lightfoot": 1,
-        "Nimble": 1,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 1,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 2,
-        "PlantScavenging": 7,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 3,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 2,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "22-12-25 06:26:04.666",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -1170,6 +1123,18 @@
       "event_type": "level_up",
       "skill": "Blunt",
       "level": "1"
+    },
+    {
+      "timestamp": "22-12-25 20:54:15.177",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10703",
+      "y": "10147",
+      "z": "0",
+      "hours_survived": 424,
+      "event_type": "level_up",
+      "skill": "Nimble",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1474,5 +1439,5 @@
       "text": "hey"
     }
   ],
-  "timestamp": "2025-12-22T20:50:01.511691"
+  "timestamp": "2025-12-22T20:55:01.984880"
 }

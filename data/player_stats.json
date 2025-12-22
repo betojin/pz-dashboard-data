@@ -190,7 +190,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 415,
+      "total_hours": 424,
       "deaths": 0,
       "skills": {
         "Cooking": 4,
@@ -199,7 +199,7 @@
         "Blunt": 1,
         "Axe": 0,
         "Lightfoot": 0,
-        "Nimble": 0,
+        "Nimble": 1,
         "Sprinting": 3,
         "Sneak": 0,
         "Woodwork": 4,
@@ -344,9 +344,14 @@
           "skill": "Blunt",
           "level": "1",
           "timestamp": "22-12-25 20:30:44.761"
+        },
+        {
+          "skill": "Nimble",
+          "level": "1",
+          "timestamp": "22-12-25 20:54:15.177"
         }
       ],
-      "last_seen": "22-12-25 20:30:44.761",
+      "last_seen": "22-12-25 20:54:15.177",
       "connections": 6
     },
     "Molotov Kid": {
@@ -945,5 +950,5 @@
     }
   },
   "total_players": 12,
-  "timestamp": "2025-12-22T20:50:01.491127"
+  "timestamp": "2025-12-22T20:55:01.964121"
 }
