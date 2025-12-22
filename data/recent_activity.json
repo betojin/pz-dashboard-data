@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 01:08:47.899",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 01:09:35.755",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "22-12-25 01:10:53.581",
       "steam_id": "76561199251232344",
       "username": "Kessel",
@@ -362,6 +350,18 @@
       "x": "8116",
       "y": "11295",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 04:22:09.006",
+      "steam_id": "76561198095700017",
+      "username": "buttersshoes",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 04:22:09.006",
+      "steam_id": "76561198095700017",
+      "username": "buttersshoes",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -1308,5 +1308,5 @@
       "text": "these trailers reallllllly like flipping"
     }
   ],
-  "timestamp": "2025-12-22T04:20:01.922526"
+  "timestamp": "2025-12-22T04:25:01.240817"
 }
