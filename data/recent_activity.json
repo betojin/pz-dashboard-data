@@ -357,53 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 17:11:25.631",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10662",
-      "y": "9561",
-      "z": "0",
-      "hours_survived": 335,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 3,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 2,
-        "Fishing": 2,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 3,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "22-12-25 17:29:32.529",
       "steam_id": "76561198864938417",
       "username": "Woofie",
@@ -1135,262 +1088,22 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 23:42:09.201",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8133",
+      "y": "11570",
+      "z": "0",
+      "hours_survived": 125,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "6"
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 23:31:58.429",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "oh ur off mine to"
-    },
-    {
-      "timestamp": "22-12-25 23:31:58.429",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "oh ur off mine to"
-    },
-    {
-      "timestamp": "22-12-25 23:32:02.844",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "im nearby"
-    },
-    {
-      "timestamp": "22-12-25 23:32:02.845",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "im nearby"
-    },
-    {
-      "timestamp": "22-12-25 23:32:11.133",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "in houses just beyond the walls"
-    },
-    {
-      "timestamp": "22-12-25 23:32:11.133",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "in houses just beyond the walls"
-    },
-    {
-      "timestamp": "22-12-25 23:32:21.396",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "looking for food"
-    },
-    {
-      "timestamp": "22-12-25 23:32:21.397",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "looking for food"
-    },
-    {
-      "timestamp": "22-12-25 23:32:31.577",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "ill bring food"
-    },
-    {
-      "timestamp": "22-12-25 23:32:31.578",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "ill bring food"
-    },
-    {
-      "timestamp": "22-12-25 23:32:53.252",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "its alr im just stocking up my safehouse"
-    },
-    {
-      "timestamp": "22-12-25 23:32:53.252",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "its alr im just stocking up my safehouse"
-    },
-    {
-      "timestamp": "22-12-25 23:33:12.778",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "you offered to help, you sure? its gas and zombie slaying"
-    },
-    {
-      "timestamp": "22-12-25 23:33:12.778",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "you offered to help, you sure? its gas and zombie slaying"
-    },
-    {
-      "timestamp": "22-12-25 23:33:24.152",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "oh"
-    },
-    {
-      "timestamp": "22-12-25 23:33:24.152",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "oh"
-    },
-    {
-      "timestamp": "22-12-25 23:33:29.923",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "yh i read it wrong"
-    },
-    {
-      "timestamp": "22-12-25 23:33:29.923",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "yh i read it wrong"
-    },
-    {
-      "timestamp": "22-12-25 23:33:50.818",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "i only read ill bring food"
-    },
-    {
-      "timestamp": "22-12-25 23:33:50.818",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "i only read ill bring food"
-    },
-    {
-      "timestamp": "22-12-25 23:34:17.189",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "im here"
-    },
-    {
-      "timestamp": "22-12-25 23:34:17.190",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "im here"
-    },
-    {
-      "timestamp": "22-12-25 23:34:44.220",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "all i got is my shovel and my wrench all i need lol"
-    },
-    {
-      "timestamp": "22-12-25 23:34:44.220",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "all i got is my shovel and my wrench all i need lol"
-    },
-    {
-      "timestamp": "22-12-25 23:34:53.118",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "we do need to get a new gen first, so small detour upfront"
-    },
-    {
-      "timestamp": "22-12-25 23:34:53.118",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "we do need to get a new gen first, so small detour upfront"
-    },
-    {
-      "timestamp": "22-12-25 23:35:02.788",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "k"
-    },
-    {
-      "timestamp": "22-12-25 23:35:02.788",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "k"
-    },
-    {
-      "timestamp": "22-12-25 23:35:04.011",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "oof, forgot rubber hose. wait one"
-    },
-    {
-      "timestamp": "22-12-25 23:35:04.011",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "oof, forgot rubber hose. wait one"
-    },
-    {
-      "timestamp": "22-12-25 23:35:59.563",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "you need rubber hoses to siphon gas now"
-    },
-    {
-      "timestamp": "22-12-25 23:35:59.563",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "you need rubber hoses to siphon gas now"
-    },
-    {
-      "timestamp": "22-12-25 23:36:07.984",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "oh alr"
-    },
-    {
-      "timestamp": "22-12-25 23:36:07.985",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "oh alr"
-    },
-    {
-      "timestamp": "22-12-25 23:36:32.935",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "i used to use my water bottle"
-    },
-    {
-      "timestamp": "22-12-25 23:36:32.935",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "i used to use my water bottle"
-    },
-    {
-      "timestamp": "22-12-25 23:36:47.907",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "yueah,you need both"
-    },
-    {
-      "timestamp": "22-12-25 23:36:47.907",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "yueah,you need both"
-    },
-    {
-      "timestamp": "22-12-25 23:36:56.537",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "lol"
-    },
-    {
-      "timestamp": "22-12-25 23:36:56.537",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "lol"
-    },
-    {
-      "timestamp": "22-12-25 23:37:05.209",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "cant move gas without a hose"
-    },
-    {
-      "timestamp": "22-12-25 23:37:05.209",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "cant move gas without a hose"
-    },
-    {
       "timestamp": "22-12-25 23:38:54.980",
       "chat_type": "Local",
       "author": "Jacko",
@@ -1437,7 +1150,259 @@
       "chat_type": "Local",
       "author": "Firestorm3050",
       "text": "out"
+    },
+    {
+      "timestamp": "22-12-25 23:40:23.272",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "just found some fresh meat steam buns in the woods"
+    },
+    {
+      "timestamp": "22-12-25 23:40:23.272",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "just found some fresh meat steam buns in the woods"
+    },
+    {
+      "timestamp": "22-12-25 23:41:03.027",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i got the gen jacko, back to the car"
+    },
+    {
+      "timestamp": "22-12-25 23:41:03.027",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i got the gen jacko, back to the car"
+    },
+    {
+      "timestamp": "22-12-25 23:41:04.583",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "whats next an m16? (im manifesting it)"
+    },
+    {
+      "timestamp": "22-12-25 23:41:04.583",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "whats next an m16? (im manifesting it)"
+    },
+    {
+      "timestamp": "22-12-25 23:41:15.109",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "it has to happen for the bit now"
+    },
+    {
+      "timestamp": "22-12-25 23:41:15.109",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "it has to happen for the bit now"
+    },
+    {
+      "timestamp": "22-12-25 23:41:39.451",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "dang so many bobs"
+    },
+    {
+      "timestamp": "22-12-25 23:41:39.451",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "dang so many bobs"
+    },
+    {
+      "timestamp": "22-12-25 23:42:19.852",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "hiking bag zed"
+    },
+    {
+      "timestamp": "22-12-25 23:42:19.852",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "hiking bag zed"
+    },
+    {
+      "timestamp": "22-12-25 23:43:00.006",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "got iy"
+    },
+    {
+      "timestamp": "22-12-25 23:43:00.006",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "got iy"
+    },
+    {
+      "timestamp": "22-12-25 23:43:29.990",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "22-12-25 23:43:29.990",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "22-12-25 23:43:46.729",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "the bag is stacked"
+    },
+    {
+      "timestamp": "22-12-25 23:43:46.729",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "the bag is stacked"
+    },
+    {
+      "timestamp": "22-12-25 23:43:50.724",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "full"
+    },
+    {
+      "timestamp": "22-12-25 23:43:50.724",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "full"
+    },
+    {
+      "timestamp": "22-12-25 23:44:02.142",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "here"
+    },
+    {
+      "timestamp": "22-12-25 23:44:02.142",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "here"
+    },
+    {
+      "timestamp": "22-12-25 23:44:06.682",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "its a better bag. u keep it"
+    },
+    {
+      "timestamp": "22-12-25 23:44:06.682",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "its a better bag. u keep it"
+    },
+    {
+      "timestamp": "22-12-25 23:44:11.597",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "look inside"
+    },
+    {
+      "timestamp": "22-12-25 23:44:11.597",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "look inside"
+    },
+    {
+      "timestamp": "22-12-25 23:44:14.990",
+      "chat_type": "General",
+      "author": "buttersshoes",
+      "text": "anyone set up gens at gas stations yet?"
+    },
+    {
+      "timestamp": "22-12-25 23:44:14.990",
+      "chat_type": "General",
+      "author": "buttersshoes",
+      "text": "anyone set up gens at gas stations yet?"
+    },
+    {
+      "timestamp": "22-12-25 23:44:17.738",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "there is alot of books"
+    },
+    {
+      "timestamp": "22-12-25 23:44:17.738",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "there is alot of books"
+    },
+    {
+      "timestamp": "22-12-25 23:44:31.073",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "ill keep the books, you keep the food?"
+    },
+    {
+      "timestamp": "22-12-25 23:44:31.073",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "ill keep the books, you keep the food?"
+    },
+    {
+      "timestamp": "22-12-25 23:44:33.421",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "22-12-25 23:44:33.421",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "22-12-25 23:44:36.929",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "ok"
+    },
+    {
+      "timestamp": "22-12-25 23:44:36.929",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "ok"
+    },
+    {
+      "timestamp": "22-12-25 23:44:44.629",
+      "chat_type": "General",
+      "author": "half",
+      "text": "limited gas"
+    },
+    {
+      "timestamp": "22-12-25 23:44:44.630",
+      "chat_type": "General",
+      "author": "half",
+      "text": "limited gas"
+    },
+    {
+      "timestamp": "22-12-25 23:44:46.476",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "put it in the trunk"
+    },
+    {
+      "timestamp": "22-12-25 23:44:46.476",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "put it in the trunk"
+    },
+    {
+      "timestamp": "22-12-25 23:45:00.117",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yup"
+    },
+    {
+      "timestamp": "22-12-25 23:45:00.117",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yup"
     }
   ],
-  "timestamp": "2025-12-22T23:40:01.365398"
+  "timestamp": "2025-12-22T23:45:01.649708"
 }

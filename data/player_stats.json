@@ -673,7 +673,7 @@
     "half": {
       "username": "half",
       "steam_id": "76561198368197161",
-      "total_hours": 105,
+      "total_hours": 125,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -685,7 +685,7 @@
         "Nimble": 0,
         "Sprinting": 1,
         "Sneak": 0,
-        "Woodwork": 5,
+        "Woodwork": 6,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -762,9 +762,14 @@
           "skill": "Woodwork",
           "level": "5",
           "timestamp": "22-12-25 22:47:16.561"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "6",
+          "timestamp": "22-12-25 23:42:09.201"
         }
       ],
-      "last_seen": "22-12-25 22:51:44.286",
+      "last_seen": "22-12-25 23:42:09.201",
       "connections": 6
     },
     "Kessel": {
@@ -1032,5 +1037,5 @@
     }
   },
   "total_players": 13,
-  "timestamp": "2025-12-22T23:40:01.340491"
+  "timestamp": "2025-12-22T23:45:01.623542"
 }
