@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 22:05:20.376",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "fully connected",
-      "x": "10919",
-      "y": "10131",
-      "z": "0"
-    },
-    {
       "timestamp": "21-12-25 22:06:11.928",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -358,6 +349,15 @@
       "action": "fully connected",
       "x": "8083",
       "y": "11553",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 01:39:54.158",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "disconnected",
+      "x": "8129",
+      "y": "11680",
       "z": "0"
     }
   ],
@@ -1005,66 +1005,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 01:28:33.299",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "or someone host a D&D party"
-    },
-    {
-      "timestamp": "22-12-25 01:28:33.299",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "or someone host a D&D party"
-    },
-    {
-      "timestamp": "22-12-25 01:28:42.319",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "not much of upper RW was looted was it?"
-    },
-    {
-      "timestamp": "22-12-25 01:28:42.319",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "not much of upper RW was looted was it?"
-    },
-    {
-      "timestamp": "22-12-25 01:28:46.447",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "dnd inside zomboid"
-    },
-    {
-      "timestamp": "22-12-25 01:28:46.447",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "dnd inside zomboid"
-    },
-    {
-      "timestamp": "22-12-25 01:28:49.802",
-      "chat_type": "General",
-      "author": "half",
-      "text": "no"
-    },
-    {
-      "timestamp": "22-12-25 01:28:49.802",
-      "chat_type": "General",
-      "author": "half",
-      "text": "no"
-    },
-    {
-      "timestamp": "22-12-25 01:29:01.159",
-      "chat_type": "General",
-      "author": "half",
-      "text": "i havent went there"
-    },
-    {
-      "timestamp": "22-12-25 01:29:01.159",
-      "chat_type": "General",
-      "author": "half",
-      "text": "i havent went there"
-    },
-    {
       "timestamp": "22-12-25 01:29:07.205",
       "chat_type": "General",
       "author": "Firestorm3050",
@@ -1303,7 +1243,67 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "i like that i got beto with the pvp earlier"
+    },
+    {
+      "timestamp": "22-12-25 01:36:47.888",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "confirm, can draw cards from decks"
+    },
+    {
+      "timestamp": "22-12-25 01:36:47.888",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "confirm, can draw cards from decks"
+    },
+    {
+      "timestamp": "22-12-25 01:39:00.980",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "having organized work again is huge"
+    },
+    {
+      "timestamp": "22-12-25 01:39:00.980",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "having organized work again is huge"
+    },
+    {
+      "timestamp": "22-12-25 01:39:24.992",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "it was so nice not having to throw things on the ground because the container was overfilled"
+    },
+    {
+      "timestamp": "22-12-25 01:39:24.992",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "it was so nice not having to throw things on the ground because the container was overfilled"
+    },
+    {
+      "timestamp": "22-12-25 01:39:31.858",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "FYI gas station at the crossroads of riverside and Dixie hwy is working ."
+    },
+    {
+      "timestamp": "22-12-25 01:39:31.858",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "FYI gas station at the crossroads of riverside and Dixie hwy is working ."
+    },
+    {
+      "timestamp": "22-12-25 01:39:42.270",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "awesome"
+    },
+    {
+      "timestamp": "22-12-25 01:39:42.271",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "awesome"
     }
   ],
-  "timestamp": "2025-12-22T01:35:01.375142"
+  "timestamp": "2025-12-22T01:40:01.689331"
 }
