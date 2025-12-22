@@ -369,18 +369,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "21-12-25 23:10:15.520",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "9712",
-      "y": "8353",
-      "z": "0",
-      "hours_survived": 24,
-      "event_type": "level_up",
-      "skill": "PlantScavenging",
-      "level": "5"
-    },
-    {
       "timestamp": "21-12-25 23:34:04.978",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1007,309 +995,321 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 01:55:09.822",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "x": "8102",
+      "y": "11559",
+      "z": "0",
+      "hours_survived": 75,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "1"
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 01:43:47.555",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "from bone or metal"
-    },
-    {
-      "timestamp": "22-12-25 01:43:47.555",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "from bone or metal"
-    },
-    {
-      "timestamp": "22-12-25 01:44:10.529",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "never had one break on me"
-    },
-    {
-      "timestamp": "22-12-25 01:44:10.529",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "never had one break on me"
-    },
-    {
-      "timestamp": "22-12-25 01:44:52.009",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "awls also break"
-    },
-    {
-      "timestamp": "22-12-25 01:44:52.009",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "awls also break"
-    },
-    {
-      "timestamp": "22-12-25 01:45:08.968",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "ooo lamb skul"
-    },
-    {
-      "timestamp": "22-12-25 01:45:08.968",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "ooo lamb skul"
-    },
-    {
-      "timestamp": "22-12-25 01:45:20.476",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "theres a couple special postcards and stuff to look out for btw"
-    },
-    {
-      "timestamp": "22-12-25 01:45:20.476",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "theres a couple special postcards and stuff to look out for btw"
-    },
-    {
-      "timestamp": "22-12-25 01:45:44.336",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "FOUND A HOME VHS"
-    },
-    {
-      "timestamp": "22-12-25 01:45:44.336",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "FOUND A HOME VHS"
-    },
-    {
-      "timestamp": "22-12-25 01:45:45.329",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "awls are cheap"
-    },
-    {
-      "timestamp": "22-12-25 01:45:45.329",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "awls are cheap"
-    },
-    {
-      "timestamp": "22-12-25 01:46:44.052",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "rangers vs hurricanes 12/92"
-    },
-    {
-      "timestamp": "22-12-25 01:46:44.052",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "rangers vs hurricanes 12/92"
-    },
-    {
-      "timestamp": "22-12-25 01:48:47.416",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "really rainin"
-    },
-    {
-      "timestamp": "22-12-25 01:48:47.417",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "really rainin"
-    },
-    {
-      "timestamp": "22-12-25 01:49:20.930",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "we found automated yet?"
-    },
-    {
-      "timestamp": "22-12-25 01:49:20.931",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "we found automated yet?"
-    },
-    {
-      "timestamp": "22-12-25 01:50:59.337",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "yo"
-    },
-    {
-      "timestamp": "22-12-25 01:50:59.337",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "yo"
-    },
-    {
-      "timestamp": "22-12-25 01:51:46.039",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "trying to find a specific car key"
-    },
-    {
-      "timestamp": "22-12-25 01:51:46.039",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "trying to find a specific car key"
-    },
-    {
-      "timestamp": "22-12-25 01:51:57.782",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "this one"
-    },
-    {
-      "timestamp": "22-12-25 01:51:57.782",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "this one"
-    },
-    {
-      "timestamp": "22-12-25 01:52:13.210",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "automated?"
-    },
-    {
-      "timestamp": "22-12-25 01:52:13.210",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "automated?"
-    },
-    {
-      "timestamp": "22-12-25 01:52:25.230",
-      "chat_type": "General",
-      "author": "half",
-      "text": "i cant see"
-    },
-    {
-      "timestamp": "22-12-25 01:52:25.230",
-      "chat_type": "General",
-      "author": "half",
-      "text": "i cant see"
-    },
-    {
-      "timestamp": "22-12-25 01:52:25.637",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "the broadcast"
-    },
-    {
-      "timestamp": "22-12-25 01:52:25.637",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "the broadcast"
-    },
-    {
-      "timestamp": "22-12-25 01:52:35.019",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "97,6"
-    },
-    {
-      "timestamp": "22-12-25 01:52:35.019",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "97,6"
-    },
-    {
-      "timestamp": "22-12-25 01:52:51.646",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "heli already happened too"
-    },
-    {
-      "timestamp": "22-12-25 01:52:51.646",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "heli already happened too"
-    },
-    {
-      "timestamp": "22-12-25 01:54:14.964",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "your with fire right? or"
-    },
-    {
-      "timestamp": "22-12-25 01:54:14.964",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "your with fire right? or"
-    },
-    {
-      "timestamp": "22-12-25 01:54:20.229",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "safehouse wise"
-    },
-    {
-      "timestamp": "22-12-25 01:54:20.229",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "safehouse wise"
-    },
-    {
-      "timestamp": "22-12-25 01:54:23.878",
+      "timestamp": "22-12-25 01:55:47.238",
       "chat_type": "Local",
       "author": "Kessel",
       "text": "ah"
     },
     {
-      "timestamp": "22-12-25 01:54:23.878",
+      "timestamp": "22-12-25 01:55:47.238",
       "chat_type": "Local",
       "author": "Kessel",
       "text": "ah"
     },
     {
-      "timestamp": "22-12-25 01:54:31.449",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "found this for fire"
-    },
-    {
-      "timestamp": "22-12-25 01:54:31.449",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "found this for fire"
-    },
-    {
-      "timestamp": "22-12-25 01:54:40.190",
+      "timestamp": "22-12-25 01:55:50.285",
       "chat_type": "General",
       "author": "Firestorm3050",
-      "text": "half, did you take cats eyes?"
+      "text": "otherwise you need flashlights and batteries"
     },
     {
-      "timestamp": "22-12-25 01:54:40.190",
+      "timestamp": "22-12-25 01:55:50.285",
       "chat_type": "General",
       "author": "Firestorm3050",
-      "text": "half, did you take cats eyes?"
+      "text": "otherwise you need flashlights and batteries"
     },
     {
-      "timestamp": "22-12-25 01:54:44.144",
+      "timestamp": "22-12-25 01:55:52.345",
       "chat_type": "Local",
       "author": "Kessel",
-      "text": "alr"
+      "text": "yeah theres a surv car out here"
     },
     {
-      "timestamp": "22-12-25 01:54:44.144",
+      "timestamp": "22-12-25 01:55:52.345",
       "chat_type": "Local",
       "author": "Kessel",
-      "text": "alr"
+      "text": "yeah theres a surv car out here"
     },
     {
-      "timestamp": "22-12-25 01:54:44.734",
+      "timestamp": "22-12-25 01:56:03.408",
       "chat_type": "General",
       "author": "half",
-      "text": "no"
+      "text": "ill just thug it out"
     },
     {
-      "timestamp": "22-12-25 01:54:44.734",
+      "timestamp": "22-12-25 01:56:03.408",
       "chat_type": "General",
       "author": "half",
-      "text": "no"
+      "text": "ill just thug it out"
+    },
+    {
+      "timestamp": "22-12-25 01:56:20.886",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "btw, flashlights and batteries. essential items in your kit now"
+    },
+    {
+      "timestamp": "22-12-25 01:56:20.886",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "btw, flashlights and batteries. essential items in your kit now"
+    },
+    {
+      "timestamp": "22-12-25 01:56:32.211",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "penlights are good on encumrance"
+    },
+    {
+      "timestamp": "22-12-25 01:56:32.211",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "penlights are good on encumrance"
+    },
+    {
+      "timestamp": "22-12-25 01:56:37.017",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": ".2 i heard"
+    },
+    {
+      "timestamp": "22-12-25 01:56:37.017",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": ".2 i heard"
+    },
+    {
+      "timestamp": "22-12-25 01:56:45.831",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "found in medical places and such"
+    },
+    {
+      "timestamp": "22-12-25 01:56:45.831",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "found in medical places and such"
+    },
+    {
+      "timestamp": "22-12-25 01:56:58.591",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "i found a few of them in the trauma bags in ambulances"
+    },
+    {
+      "timestamp": "22-12-25 01:56:58.591",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "i found a few of them in the trauma bags in ambulances"
+    },
+    {
+      "timestamp": "22-12-25 01:57:15.013",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "not a fancy engineer car or anything but"
+    },
+    {
+      "timestamp": "22-12-25 01:57:15.013",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "not a fancy engineer car or anything but"
+    },
+    {
+      "timestamp": "22-12-25 01:57:18.308",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "no its been like that"
+    },
+    {
+      "timestamp": "22-12-25 01:57:18.308",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "no its been like that"
+    },
+    {
+      "timestamp": "22-12-25 01:57:37.297",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "they are convenient for fanny packs but not great for outdoors use"
+    },
+    {
+      "timestamp": "22-12-25 01:57:37.297",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "they are convenient for fanny packs but not great for outdoors use"
+    },
+    {
+      "timestamp": "22-12-25 01:57:42.131",
+      "chat_type": "General",
+      "author": "half",
+      "text": "i need a carp 3 book"
+    },
+    {
+      "timestamp": "22-12-25 01:57:42.131",
+      "chat_type": "General",
+      "author": "half",
+      "text": "i need a carp 3 book"
+    },
+    {
+      "timestamp": "22-12-25 01:57:51.270",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i have 1, i need carp 1"
+    },
+    {
+      "timestamp": "22-12-25 01:57:51.270",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i have 1, i need carp 1"
+    },
+    {
+      "timestamp": "22-12-25 01:58:00.102",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "that things got 120 capac with organized in the trunk so, i might just grind to hotwire it"
+    },
+    {
+      "timestamp": "22-12-25 01:58:00.102",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "that things got 120 capac with organized in the trunk so, i might just grind to hotwire it"
+    },
+    {
+      "timestamp": "22-12-25 01:58:33.175",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "i completely forgot what my build was when B42 dropped"
+    },
+    {
+      "timestamp": "22-12-25 01:58:33.176",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "i completely forgot what my build was when B42 dropped"
+    },
+    {
+      "timestamp": "22-12-25 01:58:39.106",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "so i just made up a new one"
+    },
+    {
+      "timestamp": "22-12-25 01:58:39.106",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "so i just made up a new one"
+    },
+    {
+      "timestamp": "22-12-25 01:58:42.867",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "...and forgot cowardly"
+    },
+    {
+      "timestamp": "22-12-25 01:58:42.867",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "...and forgot cowardly"
+    },
+    {
+      "timestamp": "22-12-25 01:58:53.957",
+      "chat_type": "General",
+      "author": "half",
+      "text": "i found carp one somewhere"
+    },
+    {
+      "timestamp": "22-12-25 01:58:53.958",
+      "chat_type": "General",
+      "author": "half",
+      "text": "i found carp one somewhere"
+    },
+    {
+      "timestamp": "22-12-25 01:59:01.148",
+      "chat_type": "General",
+      "author": "half",
+      "text": "just dont remember"
+    },
+    {
+      "timestamp": "22-12-25 01:59:01.148",
+      "chat_type": "General",
+      "author": "half",
+      "text": "just dont remember"
+    },
+    {
+      "timestamp": "22-12-25 01:59:11.888",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "i usually run thin skinned, conspic, PTI, slow healer, weak stomach for negatives"
+    },
+    {
+      "timestamp": "22-12-25 01:59:11.888",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "i usually run thin skinned, conspic, PTI, slow healer, weak stomach for negatives"
+    },
+    {
+      "timestamp": "22-12-25 01:59:17.167",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "and cowardly"
+    },
+    {
+      "timestamp": "22-12-25 01:59:17.167",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "and cowardly"
+    },
+    {
+      "timestamp": "22-12-25 01:59:38.022",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i have the mechancis mags for all 3 types of cars, plus the generator mag if anyone needs to visit me to borrow them"
+    },
+    {
+      "timestamp": "22-12-25 01:59:38.022",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i have the mechancis mags for all 3 types of cars, plus the generator mag if anyone needs to visit me to borrow them"
+    },
+    {
+      "timestamp": "22-12-25 01:59:41.411",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "its not super hell but"
+    },
+    {
+      "timestamp": "22-12-25 01:59:41.413",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "its not super hell but"
+    },
+    {
+      "timestamp": "22-12-25 01:59:45.838",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "its not good either"
+    },
+    {
+      "timestamp": "22-12-25 01:59:45.838",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "its not good either"
     }
   ],
-  "timestamp": "2025-12-22T01:55:01.588848"
+  "timestamp": "2025-12-22T02:00:01.981632"
 }
