@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 00:36:26.524",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 00:36:52.368",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "fully connected",
-      "x": "8230",
-      "y": "11554",
-      "z": "0"
-    },
-    {
       "timestamp": "22-12-25 00:44:09.691",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -365,6 +350,18 @@
       "x": "10636",
       "y": "9616",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 04:03:01.378",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 04:03:01.380",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -1011,18 +1008,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 03:39:16.297",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:16.297",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
       "timestamp": "22-12-25 03:39:17.027",
       "chat_type": "Local",
       "author": "Firestorm3050",
@@ -1309,7 +1294,19 @@
       "chat_type": "General",
       "author": "Molotov Kid",
       "text": "k then guess ill deal with it tmrw"
+    },
+    {
+      "timestamp": "22-12-25 04:02:40.217",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "these trailers reallllllly like flipping"
+    },
+    {
+      "timestamp": "22-12-25 04:02:40.217",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "these trailers reallllllly like flipping"
     }
   ],
-  "timestamp": "2025-12-22T04:00:01.147571"
+  "timestamp": "2025-12-22T04:05:01.986216"
 }
