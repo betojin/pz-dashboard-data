@@ -4,12 +4,6 @@
       "timestamp": "22-12-25 04:39:02.723",
       "steam_id": "76561199251232344",
       "username": "Kessel",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 04:39:02.723",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
       "action": "allowed to join"
     },
     {
@@ -353,21 +347,18 @@
       "steam_id": "76561198864938417",
       "username": "Woofie",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 15:47:58.584",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "fully connected",
+      "x": "10085",
+      "y": "8263",
+      "z": "1"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 03:09:06.006",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10660",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 275,
-      "event_type": "level_up",
-      "skill": "Farming",
-      "level": "2"
-    },
     {
       "timestamp": "22-12-25 03:10:08.011",
       "steam_id": "76561198031138505",
@@ -1199,33 +1190,56 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "3"
+    },
+    {
+      "timestamp": "22-12-25 15:48:18.070",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "10085",
+      "y": "8263",
+      "z": "1",
+      "hours_survived": 181,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 2,
+        "Blunt": 0,
+        "Axe": 2,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 1,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 2,
+        "PlantScavenging": 7,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 3,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 15:21:39.263",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "want a going away beer and burial?"
-    },
-    {
-      "timestamp": "22-12-25 15:21:39.263",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "want a going away beer and burial?"
-    },
-    {
-      "timestamp": "22-12-25 15:21:46.101",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "ill be fine"
-    },
-    {
-      "timestamp": "22-12-25 15:21:46.101",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "ill be fine"
-    },
     {
       "timestamp": "22-12-25 15:22:46.684",
       "chat_type": "General",
@@ -1501,7 +1515,31 @@
       "chat_type": "General",
       "author": "Molotov Kid",
       "text": "thank you"
+    },
+    {
+      "timestamp": "22-12-25 15:48:50.803",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "meow"
+    },
+    {
+      "timestamp": "22-12-25 15:48:50.803",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "meow"
+    },
+    {
+      "timestamp": "22-12-25 15:48:55.622",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "hello"
+    },
+    {
+      "timestamp": "22-12-25 15:48:55.622",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "hello"
     }
   ],
-  "timestamp": "2025-12-22T15:45:01.764126"
+  "timestamp": "2025-12-22T15:50:01.120365"
 }
