@@ -103,14 +103,14 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 201,
+      "total_hours": 264,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
         "Fitness": 5,
         "Strength": 9,
         "Blunt": 2,
-        "Axe": 1,
+        "Axe": 2,
         "Lightfoot": 2,
         "Nimble": 2,
         "Sprinting": 2,
@@ -172,9 +172,14 @@
           "skill": "Maintenance",
           "level": "1",
           "timestamp": "22-12-25 02:07:21.420"
+        },
+        {
+          "skill": "Axe",
+          "level": "2",
+          "timestamp": "22-12-25 04:45:29.938"
         }
       ],
-      "last_seen": "22-12-25 02:07:21.420",
+      "last_seen": "22-12-25 04:45:29.938",
       "connections": 6
     },
     "Firestorm3050": {
@@ -476,14 +481,14 @@
     "Woofie": {
       "username": "Woofie",
       "steam_id": "76561198864938417",
-      "total_hours": 143,
+      "total_hours": 151,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
         "Fitness": 9,
         "Strength": 2,
         "Blunt": 0,
-        "Axe": 1,
+        "Axe": 2,
         "Lightfoot": 1,
         "Nimble": 1,
         "Sprinting": 1,
@@ -501,7 +506,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -565,9 +570,19 @@
           "skill": "PlantScavenging",
           "level": "7",
           "timestamp": "22-12-25 04:25:30.708"
+        },
+        {
+          "skill": "Axe",
+          "level": "2",
+          "timestamp": "22-12-25 04:45:32.302"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "22-12-25 04:47:11.593"
         }
       ],
-      "last_seen": "22-12-25 04:25:30.708",
+      "last_seen": "22-12-25 04:47:11.593",
       "connections": 2
     },
     "half": {
@@ -763,5 +778,5 @@
     }
   },
   "total_players": 10,
-  "timestamp": "2025-12-22T04:45:01.498848"
+  "timestamp": "2025-12-22T04:50:01.929256"
 }
