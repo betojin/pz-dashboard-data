@@ -354,53 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 15:24:51.304",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "x": "6179",
-      "y": "6373",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 1,
-        "Woodwork": 0,
-        "Aiming": 3,
-        "Reloading": 2,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 1,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "22-12-25 15:26:02.324",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -1093,309 +1046,356 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "1"
+    },
+    {
+      "timestamp": "22-12-25 22:15:11.245",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "10664",
+      "y": "9528",
+      "z": "-1",
+      "hours_survived": 9,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 5,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 22:11:57.119",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "alr"
+      "timestamp": "22-12-25 22:17:23.008",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "hii"
     },
     {
-      "timestamp": "22-12-25 22:11:57.119",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "alr"
+      "timestamp": "22-12-25 22:17:23.008",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "hii"
     },
     {
-      "timestamp": "22-12-25 22:12:03.968",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "im here"
+      "timestamp": "22-12-25 22:17:26.552",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "do u have needle"
     },
     {
-      "timestamp": "22-12-25 22:12:03.968",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "im here"
+      "timestamp": "22-12-25 22:17:26.552",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "do u have needle"
     },
     {
-      "timestamp": "22-12-25 22:12:04.531",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "a lot of loot left"
-    },
-    {
-      "timestamp": "22-12-25 22:12:04.531",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "a lot of loot left"
-    },
-    {
-      "timestamp": "22-12-25 22:12:10.087",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im carving spears"
-    },
-    {
-      "timestamp": "22-12-25 22:12:10.087",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im carving spears"
-    },
-    {
-      "timestamp": "22-12-25 22:12:20.657",
+      "timestamp": "22-12-25 22:17:27.472",
       "chat_type": "Local",
       "author": "Jacko",
-      "text": "thanks half"
+      "text": "btw there is a blue gen is rw btw"
     },
     {
-      "timestamp": "22-12-25 22:12:20.657",
+      "timestamp": "22-12-25 22:17:27.472",
       "chat_type": "Local",
       "author": "Jacko",
-      "text": "thanks half"
+      "text": "btw there is a blue gen is rw btw"
     },
     {
-      "timestamp": "22-12-25 22:12:26.412",
+      "timestamp": "22-12-25 22:17:28.324",
       "chat_type": "Local",
       "author": "half",
-      "text": "no problem"
+      "text": "i want to live in a van but i dont think we can get that mod"
     },
     {
-      "timestamp": "22-12-25 22:12:26.412",
+      "timestamp": "22-12-25 22:17:28.324",
       "chat_type": "Local",
       "author": "half",
-      "text": "no problem"
+      "text": "i want to live in a van but i dont think we can get that mod"
     },
     {
-      "timestamp": "22-12-25 22:12:32.828",
+      "timestamp": "22-12-25 22:17:32.062",
       "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "welcome"
+      "text": "yeah, ill go grab it"
     },
     {
-      "timestamp": "22-12-25 22:12:32.828",
+      "timestamp": "22-12-25 22:17:32.062",
       "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "welcome"
+      "text": "yeah, ill go grab it"
     },
     {
-      "timestamp": "22-12-25 22:12:36.581",
+      "timestamp": "22-12-25 22:17:34.616",
       "chat_type": "Local",
-      "author": "half",
-      "text": "nice car"
+      "author": "exoticbutter",
+      "text": "amazing"
     },
     {
-      "timestamp": "22-12-25 22:12:36.582",
+      "timestamp": "22-12-25 22:17:34.616",
       "chat_type": "Local",
-      "author": "half",
-      "text": "nice car"
+      "author": "exoticbutter",
+      "text": "amazing"
     },
     {
-      "timestamp": "22-12-25 22:12:48.288",
+      "timestamp": "22-12-25 22:17:41.278",
       "chat_type": "Local",
-      "author": "Jacko",
-      "text": "hi"
+      "author": "exoticbutter",
+      "text": "hi i am exotic butter"
     },
     {
-      "timestamp": "22-12-25 22:12:48.288",
+      "timestamp": "22-12-25 22:17:41.278",
       "chat_type": "Local",
-      "author": "Jacko",
-      "text": "hi"
+      "author": "exoticbutter",
+      "text": "hi i am exotic butter"
     },
     {
-      "timestamp": "22-12-25 22:12:51.909",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "been a while"
-    },
-    {
-      "timestamp": "22-12-25 22:12:51.909",
+      "timestamp": "22-12-25 22:17:46.337",
       "chat_type": "Local",
       "author": "Jacko",
-      "text": "been a while"
+      "text": "yo"
     },
     {
-      "timestamp": "22-12-25 22:13:07.896",
+      "timestamp": "22-12-25 22:17:46.337",
       "chat_type": "Local",
       "author": "Jacko",
-      "text": "lol"
+      "text": "yo"
     },
     {
-      "timestamp": "22-12-25 22:13:07.896",
+      "timestamp": "22-12-25 22:17:54.906",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "i lack backpack but i aim to get sowing"
+    },
+    {
+      "timestamp": "22-12-25 22:17:54.906",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "i lack backpack but i aim to get sowing"
+    },
+    {
+      "timestamp": "22-12-25 22:17:59.985",
       "chat_type": "Local",
       "author": "Jacko",
-      "text": "lol"
+      "text": "am i the only one with no bat"
     },
     {
-      "timestamp": "22-12-25 22:13:13.679",
-      "chat_type": "Local",
-      "author": "half",
-      "text": "its alright i cant see anyways"
-    },
-    {
-      "timestamp": "22-12-25 22:13:13.679",
-      "chat_type": "Local",
-      "author": "half",
-      "text": "its alright i cant see anyways"
-    },
-    {
-      "timestamp": "22-12-25 22:13:16.160",
+      "timestamp": "22-12-25 22:17:59.985",
       "chat_type": "Local",
       "author": "Jacko",
-      "text": "you know wich houses are unclaimed"
+      "text": "am i the only one with no bat"
     },
     {
-      "timestamp": "22-12-25 22:13:16.160",
+      "timestamp": "22-12-25 22:18:01.808",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "*sewing"
+    },
+    {
+      "timestamp": "22-12-25 22:18:01.808",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "*sewing"
+    },
+    {
+      "timestamp": "22-12-25 22:18:05.371",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "here have mine"
+    },
+    {
+      "timestamp": "22-12-25 22:18:05.371",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "here have mine"
+    },
+    {
+      "timestamp": "22-12-25 22:18:14.549",
       "chat_type": "Local",
       "author": "Jacko",
-      "text": "you know wich houses are unclaimed"
+      "text": "nah its good"
     },
     {
-      "timestamp": "22-12-25 22:13:22.645",
+      "timestamp": "22-12-25 22:18:14.549",
       "chat_type": "Local",
       "author": "Jacko",
-      "text": "same lol"
+      "text": "nah its good"
     },
     {
-      "timestamp": "22-12-25 22:13:22.645",
+      "timestamp": "22-12-25 22:18:18.394",
       "chat_type": "Local",
       "author": "Jacko",
-      "text": "same lol"
+      "text": "i got a shovel"
     },
     {
-      "timestamp": "22-12-25 22:13:28.593",
+      "timestamp": "22-12-25 22:18:18.394",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "i got a shovel"
+    },
+    {
+      "timestamp": "22-12-25 22:18:22.110",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "i dont want it"
+    },
+    {
+      "timestamp": "22-12-25 22:18:22.110",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "i dont want it"
+    },
+    {
+      "timestamp": "22-12-25 22:18:35.731",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "half will have it tho lol"
+    },
+    {
+      "timestamp": "22-12-25 22:18:35.732",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "half will have it tho lol"
+    },
+    {
+      "timestamp": "22-12-25 22:18:40.394",
       "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "all of these except the one behind the fence"
+      "text": "i put food on the ground"
     },
     {
-      "timestamp": "22-12-25 22:13:28.593",
+      "timestamp": "22-12-25 22:18:40.394",
       "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "all of these except the one behind the fence"
+      "text": "i put food on the ground"
     },
     {
-      "timestamp": "22-12-25 22:13:38.974",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "alr"
-    },
-    {
-      "timestamp": "22-12-25 22:13:38.974",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "alr"
-    },
-    {
-      "timestamp": "22-12-25 22:13:46.570",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "cats eyes is a must in mp, even more than b41"
-    },
-    {
-      "timestamp": "22-12-25 22:13:46.570",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "cats eyes is a must in mp, even more than b41"
-    },
-    {
-      "timestamp": "22-12-25 22:14:09.708",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "i was gon pick it"
-    },
-    {
-      "timestamp": "22-12-25 22:14:09.708",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "i was gon pick it"
-    },
-    {
-      "timestamp": "22-12-25 22:14:26.006",
+      "timestamp": "22-12-25 22:18:42.316",
       "chat_type": "Local",
       "author": "half",
-      "text": "i need food"
+      "text": "here have my id"
     },
     {
-      "timestamp": "22-12-25 22:14:26.006",
+      "timestamp": "22-12-25 22:18:42.316",
       "chat_type": "Local",
       "author": "half",
-      "text": "i need food"
+      "text": "here have my id"
     },
     {
-      "timestamp": "22-12-25 22:14:27.647",
+      "timestamp": "22-12-25 22:18:46.346",
       "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "i have food if you need it"
+      "text": "it wont last much longer"
     },
     {
-      "timestamp": "22-12-25 22:14:27.648",
+      "timestamp": "22-12-25 22:18:46.346",
       "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "i have food if you need it"
+      "text": "it wont last much longer"
     },
     {
-      "timestamp": "22-12-25 22:14:29.357",
+      "timestamp": "22-12-25 22:19:04.340",
       "chat_type": "Local",
-      "author": "Jacko",
-      "text": "first time on b42"
+      "author": "exoticbutter",
+      "text": "how do i get thread again"
     },
     {
-      "timestamp": "22-12-25 22:14:29.358",
+      "timestamp": "22-12-25 22:19:04.341",
       "chat_type": "Local",
-      "author": "Jacko",
-      "text": "first time on b42"
+      "author": "exoticbutter",
+      "text": "how do i get thread again"
     },
     {
-      "timestamp": "22-12-25 22:14:33.086",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "ah lol"
-    },
-    {
-      "timestamp": "22-12-25 22:14:33.086",
+      "timestamp": "22-12-25 22:19:17.096",
       "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "ah lol"
+      "text": "at level 1 tailoring, you extract it from rags"
     },
     {
-      "timestamp": "22-12-25 22:14:34.859",
+      "timestamp": "22-12-25 22:19:17.096",
       "chat_type": "Local",
-      "author": "half",
-      "text": "yes"
+      "author": "Firestorm3050",
+      "text": "at level 1 tailoring, you extract it from rags"
     },
     {
-      "timestamp": "22-12-25 22:14:34.859",
+      "timestamp": "22-12-25 22:19:27.528",
       "chat_type": "Local",
-      "author": "half",
-      "text": "yes"
+      "author": "Firestorm3050",
+      "text": "or you can twist dog hempbane into twine"
     },
     {
-      "timestamp": "22-12-25 22:14:38.121",
+      "timestamp": "22-12-25 22:19:27.529",
       "chat_type": "Local",
-      "author": "half",
-      "text": "in deed"
+      "author": "Firestorm3050",
+      "text": "or you can twist dog hempbane into twine"
     },
     {
-      "timestamp": "22-12-25 22:14:38.121",
-      "chat_type": "Local",
-      "author": "half",
-      "text": "in deed"
-    },
-    {
-      "timestamp": "22-12-25 22:14:39.128",
+      "timestamp": "22-12-25 22:19:28.105",
       "chat_type": "Local",
       "author": "Jacko",
-      "text": "same lol"
+      "text": "i dont remember house to dance"
     },
     {
-      "timestamp": "22-12-25 22:14:39.128",
+      "timestamp": "22-12-25 22:19:28.105",
       "chat_type": "Local",
       "author": "Jacko",
-      "text": "same lol"
+      "text": "i dont remember house to dance"
+    },
+    {
+      "timestamp": "22-12-25 22:19:32.196",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "twine works now too"
+    },
+    {
+      "timestamp": "22-12-25 22:19:32.196",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "twine works now too"
+    },
+    {
+      "timestamp": "22-12-25 22:20:00.928",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "wow this house is cleande"
+    },
+    {
+      "timestamp": "22-12-25 22:20:00.928",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "wow this house is cleande"
     }
   ],
-  "timestamp": "2025-12-22T22:15:01.680224"
+  "timestamp": "2025-12-22T22:20:02.013820"
 }
