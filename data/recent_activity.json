@@ -360,53 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "21-12-25 22:01:30.454",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "x": "8023",
-      "y": "11424",
-      "z": "0",
-      "hours_survived": 39,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 1,
-        "Woodwork": 0,
-        "Aiming": 4,
-        "Reloading": 4,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 1,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "21-12-25 22:04:48.342",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1064,45 +1017,21 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "1"
+    },
+    {
+      "timestamp": "22-12-25 00:59:33.702",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "x": "5477",
+      "y": "9516",
+      "z": "0",
+      "hours_survived": 53,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "5"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "21-12-25 23:51:04.295",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "21-12-25 23:51:04.295",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "22-12-25 00:03:52.482",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-12-25 00:03:52.482",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-12-25 00:31:14.256",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "more urban than normal"
-    },
-    {
-      "timestamp": "22-12-25 00:31:14.256",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "more urban than normal"
-    },
     {
       "timestamp": "22-12-25 00:31:34.643",
       "chat_type": "General",
@@ -1366,7 +1295,43 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "severely crimps the distance you can travel to loot if you want a permanent base"
+    },
+    {
+      "timestamp": "22-12-25 00:57:09.355",
+      "chat_type": "General",
+      "author": "half",
+      "text": "can we claim cars?"
+    },
+    {
+      "timestamp": "22-12-25 00:57:09.355",
+      "chat_type": "General",
+      "author": "half",
+      "text": "can we claim cars?"
+    },
+    {
+      "timestamp": "22-12-25 00:58:48.797",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i made sure to pick a house with an attached garage so i can keep it inside my safehouse"
+    },
+    {
+      "timestamp": "22-12-25 00:58:48.797",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i made sure to pick a house with an attached garage so i can keep it inside my safehouse"
+    },
+    {
+      "timestamp": "22-12-25 00:59:04.593",
+      "chat_type": "General",
+      "author": "half",
+      "text": "thats smart"
+    },
+    {
+      "timestamp": "22-12-25 00:59:04.594",
+      "chat_type": "General",
+      "author": "half",
+      "text": "thats smart"
     }
   ],
-  "timestamp": "2025-12-22T00:55:01.713537"
+  "timestamp": "2025-12-22T01:00:01.071752"
 }
