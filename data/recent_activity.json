@@ -1,42 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 02:22:07.948",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "fully connected",
-      "x": "8002",
-      "y": "11547",
-      "z": "1"
-    },
-    {
-      "timestamp": "22-12-25 02:39:42.465",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "disconnected",
-      "x": "8116",
-      "y": "11295",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 02:56:18.574",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "disconnected",
-      "x": "8125",
-      "y": "11539",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 03:14:23.074",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "disconnected",
-      "x": "8645",
-      "y": "8445",
-      "z": "0"
-    },
-    {
       "timestamp": "22-12-25 03:15:27.619",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -359,6 +323,33 @@
       "x": "10038",
       "y": "8062",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 05:13:19.120",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 05:13:19.121",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 05:13:39.987",
+      "steam_id": "76561198095700017",
+      "username": "buttersshoes",
+      "action": "disconnected",
+      "x": "10845",
+      "y": "10021",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 05:14:11.192",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1340,5 +1331,5 @@
       "text": "i might be laggy or someth"
     }
   ],
-  "timestamp": "2025-12-22T05:10:01.316209"
+  "timestamp": "2025-12-22T05:15:01.706706"
 }
