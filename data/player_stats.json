@@ -491,12 +491,12 @@
     "Woofie": {
       "username": "Woofie",
       "steam_id": "76561198864938417",
-      "total_hours": 181,
+      "total_hours": 196,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
         "Fitness": 9,
-        "Strength": 2,
+        "Strength": 3,
         "Blunt": 0,
         "Axe": 2,
         "Lightfoot": 1,
@@ -590,9 +590,14 @@
           "skill": "Maintenance",
           "level": "2",
           "timestamp": "22-12-25 04:47:11.593"
+        },
+        {
+          "skill": "Strength",
+          "level": "3",
+          "timestamp": "22-12-25 16:25:29.837"
         }
       ],
-      "last_seen": "22-12-25 15:48:18.070",
+      "last_seen": "22-12-25 16:25:29.837",
       "connections": 4
     },
     "half": {
@@ -793,5 +798,5 @@
     }
   },
   "total_players": 10,
-  "timestamp": "2025-12-22T16:25:01.581670"
+  "timestamp": "2025-12-22T16:30:01.916717"
 }
