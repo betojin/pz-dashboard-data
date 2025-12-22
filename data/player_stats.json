@@ -376,12 +376,12 @@
     "Woofie": {
       "username": "Woofie",
       "steam_id": "76561198864938417",
-      "total_hours": 37,
+      "total_hours": 46,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
         "Fitness": 9,
-        "Strength": 1,
+        "Strength": 2,
         "Blunt": 0,
         "Axe": 1,
         "Lightfoot": 1,
@@ -430,15 +430,20 @@
           "skill": "Strength",
           "level": "1",
           "timestamp": "21-12-25 23:42:41.092"
+        },
+        {
+          "skill": "Strength",
+          "level": "2",
+          "timestamp": "22-12-25 00:04:12.296"
         }
       ],
-      "last_seen": "21-12-25 23:42:41.092",
+      "last_seen": "22-12-25 00:04:12.296",
       "connections": 1
     },
     "half": {
       "username": "half",
       "steam_id": "76561198368197161",
-      "total_hours": 17,
+      "total_hours": 19,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -450,12 +455,12 @@
         "Nimble": 0,
         "Sprinting": 0,
         "Sneak": 0,
-        "Woodwork": 2,
+        "Woodwork": 3,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
         "Fishing": 0,
-        "Trapping": 0,
+        "Trapping": 1,
         "PlantScavenging": 0,
         "Doctor": 0,
         "Electricity": 0,
@@ -487,12 +492,22 @@
           "skill": "Woodwork",
           "level": "2",
           "timestamp": "21-12-25 23:58:59.077"
+        },
+        {
+          "skill": "Trapping",
+          "level": "1",
+          "timestamp": "22-12-25 00:03:31.272"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "3",
+          "timestamp": "22-12-25 00:04:25.973"
         }
       ],
-      "last_seen": "21-12-25 23:58:59.077",
+      "last_seen": "22-12-25 00:04:25.973",
       "connections": 2
     }
   },
   "total_players": 8,
-  "timestamp": "2025-12-22T00:00:01.183507"
+  "timestamp": "2025-12-22T00:05:01.479219"
 }
