@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "21-12-25 20:19:39.436",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10092",
-      "y": "8267",
-      "z": "1",
-      "hours_survived": 89,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 2,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "21-12-25 20:55:27.280",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1059,6 +1012,18 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "3"
+    },
+    {
+      "timestamp": "22-12-25 00:09:22.495",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "10004",
+      "y": "8241",
+      "z": "0",
+      "hours_survived": 48,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "6"
     }
   ],
   "chat_messages": [
@@ -1363,5 +1328,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-22T00:05:01.489048"
+  "timestamp": "2025-12-22T00:10:01.812153"
 }
