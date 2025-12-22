@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 6,
   "players": [
     {
       "username": "Sully",
@@ -23,8 +23,8 @@
       "username": "Molotov Kid",
       "steam_id": "76561199163725035",
       "connected_at": "22-12-25 00:46:13.862",
-      "x": 5438,
-      "y": 9640,
+      "x": 8102,
+      "y": 11556,
       "z": 0,
       "online": true
     },
@@ -38,14 +38,23 @@
       "online": true
     },
     {
+      "username": "half",
+      "steam_id": "76561198368197161",
+      "connected_at": "22-12-25 01:51:02.533",
+      "x": 8143,
+      "y": 11669,
+      "z": 0,
+      "online": true
+    },
+    {
       "username": "Kessel",
       "steam_id": "76561199251232344",
       "connected_at": "22-12-25 01:34:58.547",
       "x": 8076,
-      "y": 11530,
+      "y": 11548,
       "z": 0,
       "online": true
     }
   ],
-  "timestamp": "2025-12-22T01:50:01.282651"
+  "timestamp": "2025-12-22T01:55:01.581716"
 }

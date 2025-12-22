@@ -1,30 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 22:06:11.929",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "21-12-25 22:07:03.373",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "21-12-25 22:10:04.825",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "21-12-25 22:10:04.828",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "21-12-25 22:11:04.963",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -362,21 +338,36 @@
       "x": "5903",
       "y": "5341",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 01:50:37.276",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 01:50:37.276",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 01:50:42.846",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 01:51:02.533",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "fully connected",
+      "x": "8129",
+      "y": "11680",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "21-12-25 23:05:33.655",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "9934",
-      "y": "8216",
-      "z": "0",
-      "hours_survived": 22,
-      "event_type": "level_up",
-      "skill": "PlantScavenging",
-      "level": "4"
-    },
     {
       "timestamp": "21-12-25 23:10:15.520",
       "steam_id": "76561198864938417",
@@ -969,189 +960,56 @@
       "event_type": "level_up",
       "skill": "Aiming",
       "level": "1"
+    },
+    {
+      "timestamp": "22-12-25 01:51:03.232",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8129",
+      "y": "11680",
+      "z": "0",
+      "hours_survived": 57,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 9,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 4,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 01:32:56.619",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "he came straight at me i couldnt do anything"
-    },
-    {
-      "timestamp": "22-12-25 01:32:56.619",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "he came straight at me i couldnt do anything"
-    },
-    {
-      "timestamp": "22-12-25 01:33:12.069",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "what was it?"
-    },
-    {
-      "timestamp": "22-12-25 01:33:12.069",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "what was it?"
-    },
-    {
-      "timestamp": "22-12-25 01:33:19.749",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "rabit"
-    },
-    {
-      "timestamp": "22-12-25 01:33:19.749",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "rabit"
-    },
-    {
-      "timestamp": "22-12-25 01:33:23.851",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "it was a bob"
-    },
-    {
-      "timestamp": "22-12-25 01:33:23.851",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "it was a bob"
-    },
-    {
-      "timestamp": "22-12-25 01:33:52.859",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i like that i got beto with the pvp earlier"
-    },
-    {
-      "timestamp": "22-12-25 01:33:52.860",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i like that i got beto with the pvp earlier"
-    },
-    {
-      "timestamp": "22-12-25 01:36:47.888",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "confirm, can draw cards from decks"
-    },
-    {
-      "timestamp": "22-12-25 01:36:47.888",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "confirm, can draw cards from decks"
-    },
-    {
-      "timestamp": "22-12-25 01:39:00.980",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "having organized work again is huge"
-    },
-    {
-      "timestamp": "22-12-25 01:39:00.980",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "having organized work again is huge"
-    },
-    {
-      "timestamp": "22-12-25 01:39:24.992",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "it was so nice not having to throw things on the ground because the container was overfilled"
-    },
-    {
-      "timestamp": "22-12-25 01:39:24.992",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "it was so nice not having to throw things on the ground because the container was overfilled"
-    },
-    {
-      "timestamp": "22-12-25 01:39:31.858",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "FYI gas station at the crossroads of riverside and Dixie hwy is working ."
-    },
-    {
-      "timestamp": "22-12-25 01:39:31.858",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "FYI gas station at the crossroads of riverside and Dixie hwy is working ."
-    },
-    {
-      "timestamp": "22-12-25 01:39:42.270",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "awesome"
-    },
-    {
-      "timestamp": "22-12-25 01:39:42.271",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "awesome"
-    },
-    {
-      "timestamp": "22-12-25 01:43:09.637",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "huge, sewing kit"
-    },
-    {
-      "timestamp": "22-12-25 01:43:09.637",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "huge, sewing kit"
-    },
-    {
-      "timestamp": "22-12-25 01:43:21.435",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "needles break now btw"
-    },
-    {
-      "timestamp": "22-12-25 01:43:21.435",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "needles break now btw"
-    },
-    {
-      "timestamp": "22-12-25 01:43:28.283",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "they do?"
-    },
-    {
-      "timestamp": "22-12-25 01:43:28.284",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "they do?"
-    },
-    {
-      "timestamp": "22-12-25 01:43:32.757",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yup"
-    },
-    {
-      "timestamp": "22-12-25 01:43:32.757",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yup"
-    },
-    {
-      "timestamp": "22-12-25 01:43:38.100",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "damn"
-    },
-    {
-      "timestamp": "22-12-25 01:43:38.100",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "damn"
-    },
     {
       "timestamp": "22-12-25 01:43:47.555",
       "chat_type": "General",
@@ -1271,7 +1129,187 @@
       "chat_type": "General",
       "author": "Kessel",
       "text": "we found automated yet?"
+    },
+    {
+      "timestamp": "22-12-25 01:50:59.337",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "yo"
+    },
+    {
+      "timestamp": "22-12-25 01:50:59.337",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "yo"
+    },
+    {
+      "timestamp": "22-12-25 01:51:46.039",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "trying to find a specific car key"
+    },
+    {
+      "timestamp": "22-12-25 01:51:46.039",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "trying to find a specific car key"
+    },
+    {
+      "timestamp": "22-12-25 01:51:57.782",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "this one"
+    },
+    {
+      "timestamp": "22-12-25 01:51:57.782",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "this one"
+    },
+    {
+      "timestamp": "22-12-25 01:52:13.210",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "automated?"
+    },
+    {
+      "timestamp": "22-12-25 01:52:13.210",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "automated?"
+    },
+    {
+      "timestamp": "22-12-25 01:52:25.230",
+      "chat_type": "General",
+      "author": "half",
+      "text": "i cant see"
+    },
+    {
+      "timestamp": "22-12-25 01:52:25.230",
+      "chat_type": "General",
+      "author": "half",
+      "text": "i cant see"
+    },
+    {
+      "timestamp": "22-12-25 01:52:25.637",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "the broadcast"
+    },
+    {
+      "timestamp": "22-12-25 01:52:25.637",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "the broadcast"
+    },
+    {
+      "timestamp": "22-12-25 01:52:35.019",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "97,6"
+    },
+    {
+      "timestamp": "22-12-25 01:52:35.019",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "97,6"
+    },
+    {
+      "timestamp": "22-12-25 01:52:51.646",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "heli already happened too"
+    },
+    {
+      "timestamp": "22-12-25 01:52:51.646",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "heli already happened too"
+    },
+    {
+      "timestamp": "22-12-25 01:54:14.964",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "your with fire right? or"
+    },
+    {
+      "timestamp": "22-12-25 01:54:14.964",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "your with fire right? or"
+    },
+    {
+      "timestamp": "22-12-25 01:54:20.229",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "safehouse wise"
+    },
+    {
+      "timestamp": "22-12-25 01:54:20.229",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "safehouse wise"
+    },
+    {
+      "timestamp": "22-12-25 01:54:23.878",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "ah"
+    },
+    {
+      "timestamp": "22-12-25 01:54:23.878",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "ah"
+    },
+    {
+      "timestamp": "22-12-25 01:54:31.449",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "found this for fire"
+    },
+    {
+      "timestamp": "22-12-25 01:54:31.449",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "found this for fire"
+    },
+    {
+      "timestamp": "22-12-25 01:54:40.190",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "half, did you take cats eyes?"
+    },
+    {
+      "timestamp": "22-12-25 01:54:40.190",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "half, did you take cats eyes?"
+    },
+    {
+      "timestamp": "22-12-25 01:54:44.144",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "alr"
+    },
+    {
+      "timestamp": "22-12-25 01:54:44.144",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "alr"
+    },
+    {
+      "timestamp": "22-12-25 01:54:44.734",
+      "chat_type": "General",
+      "author": "half",
+      "text": "no"
+    },
+    {
+      "timestamp": "22-12-25 01:54:44.734",
+      "chat_type": "General",
+      "author": "half",
+      "text": "no"
     }
   ],
-  "timestamp": "2025-12-22T01:50:01.289925"
+  "timestamp": "2025-12-22T01:55:01.588848"
 }
