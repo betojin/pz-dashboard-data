@@ -1,72 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 01:39:54.158",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "disconnected",
-      "x": "8129",
-      "y": "11680",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 01:43:41.950",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "disconnected",
-      "x": "5903",
-      "y": "5341",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 01:50:37.276",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 01:50:37.276",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 01:50:42.846",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 01:51:02.533",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "fully connected",
-      "x": "8129",
-      "y": "11680",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 02:14:13.286",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "disconnected",
-      "x": "8002",
-      "y": "11547",
-      "z": "1"
-    },
-    {
-      "timestamp": "22-12-25 02:15:09.672",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 02:15:09.672",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "22-12-25 02:15:21.634",
       "steam_id": "76561199251232344",
       "username": "Kessel",
@@ -359,33 +293,72 @@
       "steam_id": "76561199251232344",
       "username": "Kessel",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 04:36:20.006",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 04:36:20.007",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 04:36:37.521",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 04:37:21.516",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "fully connected",
+      "x": "3992",
+      "y": "10838",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 04:38:19.251",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "disconnected",
+      "x": "3994",
+      "y": "10838",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 04:39:02.723",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 04:39:02.723",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 04:39:15.440",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 04:39:46.065",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "fully connected",
+      "x": "3994",
+      "y": "10838",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 01:19:47.712",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8119",
-      "y": "11694",
-      "z": "0",
-      "hours_survived": 49,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "1"
-    },
-    {
-      "timestamp": "22-12-25 01:24:09.385",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "9843",
-      "y": "7653",
-      "z": "0",
-      "hours_survived": 184,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "1"
-    },
     {
       "timestamp": "22-12-25 01:25:24.309",
       "steam_id": "76561198864938417",
@@ -1036,6 +1009,100 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 04:37:25.783",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "x": "3992",
+      "y": "10838",
+      "z": "0",
+      "hours_survived": 37,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 6,
+        "Strength": 6,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "22-12-25 04:39:46.894",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "x": "3994",
+      "y": "10838",
+      "z": "0",
+      "hours_survived": 37,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 6,
+        "Strength": 6,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1340,5 +1407,5 @@
       "text": "these trailers reallllllly like flipping"
     }
   ],
-  "timestamp": "2025-12-22T04:35:01.875155"
+  "timestamp": "2025-12-22T04:40:01.182717"
 }
