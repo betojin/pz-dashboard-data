@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 00:44:09.692",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 00:44:24.740",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 00:46:13.862",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "fully connected",
-      "x": "5452",
-      "y": "9667",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 01:08:47.898",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "22-12-25 01:08:47.899",
       "steam_id": "76561199251232344",
       "username": "Kessel",
@@ -362,56 +335,36 @@
       "steam_id": "76561199249031770",
       "username": "squibby",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 04:13:19.969",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 04:13:19.970",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 04:13:44.403",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 04:14:55.579",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "fully connected",
+      "x": "8116",
+      "y": "11295",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 01:11:01.005",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "x": "8215",
-      "y": "11677",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 6,
-        "Strength": 6,
-        "Blunt": 0,
-        "Axe": 1,
-        "Lightfoot": 1,
-        "Nimble": 1,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "22-12-25 01:11:37.287",
       "steam_id": "76561198031138505",
@@ -1004,6 +957,53 @@
         "Butchering": 1,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 04:14:56.207",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "x": "8116",
+      "y": "11295",
+      "z": "0",
+      "hours_survived": 30,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 6,
+        "Strength": 6,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1308,5 +1308,5 @@
       "text": "these trailers reallllllly like flipping"
     }
   ],
-  "timestamp": "2025-12-22T04:10:01.271345"
+  "timestamp": "2025-12-22T04:15:01.625456"
 }
