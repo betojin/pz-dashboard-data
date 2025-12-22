@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 07:57:07.822",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "22-12-25 07:57:14.167",
       "steam_id": "76561198095700017",
       "username": "buttersshoes",
@@ -356,6 +350,15 @@
       "x": "3512",
       "y": "10902",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 19:01:30.773",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "disconnected",
+      "x": "10085",
+      "y": "8263",
+      "z": "1"
     }
   ],
   "perk_events": [
@@ -1136,30 +1139,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 18:23:22.473",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "i dunno chief"
-    },
-    {
-      "timestamp": "22-12-25 18:23:22.473",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "i dunno chief"
-    },
-    {
-      "timestamp": "22-12-25 18:26:44.709",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "ill find a way, prob need to take up fishing"
-    },
-    {
-      "timestamp": "22-12-25 18:26:44.709",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "ill find a way, prob need to take up fishing"
-    },
-    {
       "timestamp": "22-12-25 18:27:06.497",
       "chat_type": "General",
       "author": "Firestorm3050",
@@ -1434,7 +1413,31 @@
       "chat_type": "Local",
       "author": "Firestorm3050",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "22-12-25 19:01:05.403",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "have a good day yall ill be back later"
+    },
+    {
+      "timestamp": "22-12-25 19:01:05.403",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "have a good day yall ill be back later"
+    },
+    {
+      "timestamp": "22-12-25 19:01:10.080",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "cya"
+    },
+    {
+      "timestamp": "22-12-25 19:01:10.080",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "cya"
     }
   ],
-  "timestamp": "2025-12-22T19:00:01.115432"
+  "timestamp": "2025-12-22T19:05:01.464366"
 }
