@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 04:33:12.034",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 04:33:12.034",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "22-12-25 04:33:24.974",
       "steam_id": "76561199251232344",
       "username": "Kessel",
@@ -344,33 +332,27 @@
       "x": "10636",
       "y": "9616",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 15:24:48.412",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "disconnected",
+      "x": "10675",
+      "y": "9564",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 15:24:51.047",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "fully connected",
+      "x": "6179",
+      "y": "6373",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 02:57:54.568",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10660",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 271,
-      "event_type": "level_up",
-      "skill": "Mechanics",
-      "level": "1"
-    },
-    {
-      "timestamp": "22-12-25 02:59:24.384",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10660",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 271,
-      "event_type": "level_up",
-      "skill": "Mechanics",
-      "level": "2"
-    },
     {
       "timestamp": "22-12-25 03:04:49.680",
       "steam_id": "76561198031138505",
@@ -1161,153 +1143,66 @@
         "Butchering": 1,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 15:23:43.274",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "x": "10675",
+      "y": "9564",
+      "z": "0",
+      "hours_survived": 99,
+      "event_type": "died"
+    },
+    {
+      "timestamp": "22-12-25 15:24:51.304",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "x": "6179",
+      "y": "6373",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 9,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 1,
+        "Woodwork": 0,
+        "Aiming": 3,
+        "Reloading": 2,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 1,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 04:42:30.135",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "wuh oh"
-    },
-    {
-      "timestamp": "22-12-25 04:42:30.135",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "wuh oh"
-    },
-    {
-      "timestamp": "22-12-25 04:42:34.897",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "i might be laggy or someth"
-    },
-    {
-      "timestamp": "22-12-25 04:42:34.898",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "i might be laggy or someth"
-    },
-    {
-      "timestamp": "22-12-25 06:16:35.584",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "WHY ARE YOU STRESSED"
-    },
-    {
-      "timestamp": "22-12-25 06:16:35.585",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "WHY ARE YOU STRESSED"
-    },
-    {
-      "timestamp": "22-12-25 06:26:28.047",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "oh hi woofie"
-    },
-    {
-      "timestamp": "22-12-25 06:26:28.048",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "oh hi woofie"
-    },
-    {
-      "timestamp": "22-12-25 15:08:26.393",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-12-25 15:08:26.394",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-12-25 15:11:23.956",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "hiya molotov"
-    },
-    {
-      "timestamp": "22-12-25 15:11:23.957",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "hiya molotov"
-    },
-    {
-      "timestamp": "22-12-25 15:11:30.235",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "hey"
-    },
-    {
-      "timestamp": "22-12-25 15:11:30.235",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "hey"
-    },
-    {
-      "timestamp": "22-12-25 15:11:58.790",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "gonna suicide"
-    },
-    {
-      "timestamp": "22-12-25 15:11:58.790",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "gonna suicide"
-    },
-    {
-      "timestamp": "22-12-25 15:13:05.447",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "rip o7"
-    },
-    {
-      "timestamp": "22-12-25 15:13:05.447",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "rip o7"
-    },
-    {
-      "timestamp": "22-12-25 15:14:16.322",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "awh"
-    },
-    {
-      "timestamp": "22-12-25 15:14:16.323",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "awh"
-    },
-    {
-      "timestamp": "22-12-25 15:14:22.773",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "molotovs dont do anything"
-    },
-    {
-      "timestamp": "22-12-25 15:14:22.773",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "molotovs dont do anything"
-    },
-    {
-      "timestamp": "22-12-25 15:14:34.520",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "dont use one near my base lol"
-    },
-    {
-      "timestamp": "22-12-25 15:14:34.521",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "dont use one near my base lol"
-    },
     {
       "timestamp": "22-12-25 15:14:45.432",
       "chat_type": "General",
@@ -1463,7 +1358,151 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "i dont want the lag"
+    },
+    {
+      "timestamp": "22-12-25 15:20:24.148",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "you might wanna come and put me down once i die"
+    },
+    {
+      "timestamp": "22-12-25 15:20:24.148",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "you might wanna come and put me down once i die"
+    },
+    {
+      "timestamp": "22-12-25 15:20:30.673",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "alr"
+    },
+    {
+      "timestamp": "22-12-25 15:20:30.673",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "alr"
+    },
+    {
+      "timestamp": "22-12-25 15:20:35.647",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "still bitten?"
+    },
+    {
+      "timestamp": "22-12-25 15:20:35.647",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "still bitten?"
+    },
+    {
+      "timestamp": "22-12-25 15:20:39.517",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "yup"
+    },
+    {
+      "timestamp": "22-12-25 15:20:39.517",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "yup"
+    },
+    {
+      "timestamp": "22-12-25 15:21:39.263",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "want a going away beer and burial?"
+    },
+    {
+      "timestamp": "22-12-25 15:21:39.263",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "want a going away beer and burial?"
+    },
+    {
+      "timestamp": "22-12-25 15:21:46.101",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "ill be fine"
+    },
+    {
+      "timestamp": "22-12-25 15:21:46.101",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "ill be fine"
+    },
+    {
+      "timestamp": "22-12-25 15:22:46.684",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "its gonna happen in just a bit"
+    },
+    {
+      "timestamp": "22-12-25 15:22:46.684",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "its gonna happen in just a bit"
+    },
+    {
+      "timestamp": "22-12-25 15:22:50.801",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "im bleeding rn"
+    },
+    {
+      "timestamp": "22-12-25 15:22:50.801",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "im bleeding rn"
+    },
+    {
+      "timestamp": "22-12-25 15:23:23.224",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "man i had 700 kills"
+    },
+    {
+      "timestamp": "22-12-25 15:23:23.224",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "man i had 700 kills"
+    },
+    {
+      "timestamp": "22-12-25 15:23:53.110",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "rip"
+    },
+    {
+      "timestamp": "22-12-25 15:23:53.110",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "rip"
+    },
+    {
+      "timestamp": "22-12-25 15:24:12.222",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "wait what does spawn with player 1 do"
+    },
+    {
+      "timestamp": "22-12-25 15:24:12.222",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "wait what does spawn with player 1 do"
+    },
+    {
+      "timestamp": "22-12-25 15:24:24.413",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i think spawn on your death location"
+    },
+    {
+      "timestamp": "22-12-25 15:24:24.413",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i think spawn on your death location"
     }
   ],
-  "timestamp": "2025-12-22T15:20:01.660530"
+  "timestamp": "2025-12-22T15:25:01.990077"
 }
