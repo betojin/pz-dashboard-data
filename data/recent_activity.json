@@ -357,18 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 04:45:29.938",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "7275",
-      "y": "8545",
-      "z": "0",
-      "hours_survived": 264,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "2"
-    },
-    {
       "timestamp": "22-12-25 04:45:32.302",
       "steam_id": "76561198864938417",
       "username": "Woofie",
@@ -1129,33 +1117,21 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 18:50:11.817",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "10113",
+      "y": "8240",
+      "z": "0",
+      "hours_survived": 254,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "4"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 18:21:51.045",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "also takes time"
-    },
-    {
-      "timestamp": "22-12-25 18:21:51.046",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "also takes time"
-    },
-    {
-      "timestamp": "22-12-25 18:22:05.899",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "right, weight per day, but i dropped to 72"
-    },
-    {
-      "timestamp": "22-12-25 18:22:05.900",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "right, weight per day, but i dropped to 72"
-    },
     {
       "timestamp": "22-12-25 18:23:22.473",
       "chat_type": "General",
@@ -1431,7 +1407,31 @@
       "chat_type": "General",
       "author": "Kessel",
       "text": "should be better"
+    },
+    {
+      "timestamp": "22-12-25 18:50:58.308",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "echo has been massacered a little bit"
+    },
+    {
+      "timestamp": "22-12-25 18:50:58.308",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "echo has been massacered a little bit"
+    },
+    {
+      "timestamp": "22-12-25 18:51:34.892",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "22-12-25 18:51:34.892",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-22T18:50:01.432389"
+  "timestamp": "2025-12-22T18:55:01.760133"
 }
