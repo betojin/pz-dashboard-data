@@ -372,18 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "21-12-25 23:58:59.077",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8130",
-      "y": "11671",
-      "z": "0",
-      "hours_survived": 17,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "2"
-    },
-    {
       "timestamp": "22-12-25 00:03:31.272",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -1010,21 +998,21 @@
       "event_type": "level_up",
       "skill": "SmallBlunt",
       "level": "3"
+    },
+    {
+      "timestamp": "22-12-25 02:41:46.047",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "10116",
+      "y": "8240",
+      "z": "0",
+      "hours_survived": 108,
+      "event_type": "level_up",
+      "skill": "FlintKnapping",
+      "level": "3"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 02:31:18.142",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "i found a tailoring 5 book"
-    },
-    {
-      "timestamp": "22-12-25 02:31:18.142",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "i found a tailoring 5 book"
-    },
     {
       "timestamp": "22-12-25 02:31:22.364",
       "chat_type": "General",
@@ -1312,7 +1300,19 @@
       "chat_type": "General",
       "author": "Woofie",
       "text": "he was my best bud"
+    },
+    {
+      "timestamp": "22-12-25 02:42:44.459",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "OMG i found a trash goblin lol"
+    },
+    {
+      "timestamp": "22-12-25 02:42:44.459",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "OMG i found a trash goblin lol"
     }
   ],
-  "timestamp": "2025-12-22T02:40:01.752412"
+  "timestamp": "2025-12-22T02:45:01.102749"
 }
