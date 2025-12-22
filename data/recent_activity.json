@@ -357,53 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 03:30:31.567",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "8645",
-      "y": "8445",
-      "z": "0",
-      "hours_survived": 122,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 9,
-        "Strength": 2,
-        "Blunt": 0,
-        "Axe": 1,
-        "Lightfoot": 1,
-        "Nimble": 1,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 1,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 2,
-        "PlantScavenging": 6,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 3,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 2,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "22-12-25 03:33:33.707",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -1269,33 +1222,21 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 17:29:32.529",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "10049",
+      "y": "8255",
+      "z": "0",
+      "hours_survived": 222,
+      "event_type": "level_up",
+      "skill": "Husbandry",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 16:45:01.254",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "where are people"
-    },
-    {
-      "timestamp": "22-12-25 16:45:01.254",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "where are people"
-    },
-    {
-      "timestamp": "22-12-25 16:45:06.031",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "muld"
-    },
-    {
-      "timestamp": "22-12-25 16:45:06.031",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "muld"
-    },
     {
       "timestamp": "22-12-25 16:45:11.234",
       "chat_type": "General",
@@ -1571,7 +1512,31 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "i think so"
+    },
+    {
+      "timestamp": "22-12-25 17:27:40.114",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "thats a bother"
+    },
+    {
+      "timestamp": "22-12-25 17:27:40.115",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "thats a bother"
+    },
+    {
+      "timestamp": "22-12-25 17:28:23.418",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "makes it more hardcore?"
+    },
+    {
+      "timestamp": "22-12-25 17:28:23.418",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "makes it more hardcore?"
     }
   ],
-  "timestamp": "2025-12-22T17:25:01.546704"
+  "timestamp": "2025-12-22T17:30:01.897504"
 }
