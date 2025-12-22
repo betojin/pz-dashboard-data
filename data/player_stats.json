@@ -406,7 +406,7 @@
     "Woofie": {
       "username": "Woofie",
       "steam_id": "76561198864938417",
-      "total_hours": 48,
+      "total_hours": 78,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -441,7 +441,7 @@
         "FlintKnapping": 1,
         "Masonry": 0,
         "Pottery": 0,
-        "Carving": 1,
+        "Carving": 2,
         "Butchering": 0,
         "Glassmaking": 0
       },
@@ -470,9 +470,14 @@
           "skill": "PlantScavenging",
           "level": "6",
           "timestamp": "22-12-25 00:09:22.495"
+        },
+        {
+          "skill": "Carving",
+          "level": "2",
+          "timestamp": "22-12-25 01:25:24.309"
         }
       ],
-      "last_seen": "22-12-25 00:09:22.495",
+      "last_seen": "22-12-25 01:25:24.309",
       "connections": 1
     },
     "half": {
@@ -610,5 +615,5 @@
     }
   },
   "total_players": 9,
-  "timestamp": "2025-12-22T01:25:01.720961"
+  "timestamp": "2025-12-22T01:30:02.008009"
 }

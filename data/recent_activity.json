@@ -360,53 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "21-12-25 22:34:35.973",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5814",
-      "y": "5316",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 7,
-        "Blunt": 1,
-        "Axe": 1,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 1,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "21-12-25 22:41:05.025",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -996,309 +949,321 @@
       "event_type": "level_up",
       "skill": "Axe",
       "level": "1"
+    },
+    {
+      "timestamp": "22-12-25 01:25:24.309",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "10115",
+      "y": "8240",
+      "z": "0",
+      "hours_survived": 78,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "2"
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 01:20:22.346",
+      "timestamp": "22-12-25 01:26:10.960",
       "chat_type": "General",
       "author": "Kessel",
-      "text": "i THINK i saw it once"
+      "text": "helldivers 3 before all of them"
     },
     {
-      "timestamp": "22-12-25 01:20:22.346",
+      "timestamp": "22-12-25 01:26:10.960",
       "chat_type": "General",
       "author": "Kessel",
-      "text": "i THINK i saw it once"
+      "text": "helldivers 3 before all of them"
     },
     {
-      "timestamp": "22-12-25 01:20:30.356",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "its a police evidence picture"
-    },
-    {
-      "timestamp": "22-12-25 01:20:30.356",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "its a police evidence picture"
-    },
-    {
-      "timestamp": "22-12-25 01:20:40.697",
+      "timestamp": "22-12-25 01:26:16.846",
       "chat_type": "General",
       "author": "Firestorm3050",
-      "text": "cant be the zomboids"
+      "text": "well, we have the week 1 mods... thats kinda b43..."
     },
     {
-      "timestamp": "22-12-25 01:20:40.697",
+      "timestamp": "22-12-25 01:26:16.847",
       "chat_type": "General",
       "author": "Firestorm3050",
-      "text": "cant be the zomboids"
+      "text": "well, we have the week 1 mods... thats kinda b43..."
     },
     {
-      "timestamp": "22-12-25 01:21:10.665",
+      "timestamp": "22-12-25 01:26:25.913",
       "chat_type": "General",
       "author": "Molotov Kid",
-      "text": "the picture is just that certain percentage of the playerbase after finding the bunny suit zed"
+      "text": "steam finally counts to three"
     },
     {
-      "timestamp": "22-12-25 01:21:10.665",
+      "timestamp": "22-12-25 01:26:25.914",
       "chat_type": "General",
       "author": "Molotov Kid",
-      "text": "the picture is just that certain percentage of the playerbase after finding the bunny suit zed"
+      "text": "steam finally counts to three"
     },
     {
-      "timestamp": "22-12-25 01:21:18.707",
+      "timestamp": "22-12-25 01:26:32.670",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "or valve"
+    },
+    {
+      "timestamp": "22-12-25 01:26:32.671",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "or valve"
+    },
+    {
+      "timestamp": "22-12-25 01:26:37.674",
       "chat_type": "General",
       "author": "Kessel",
-      "text": "LOL"
+      "text": "why are there so many zombies in masks"
     },
     {
-      "timestamp": "22-12-25 01:21:18.707",
+      "timestamp": "22-12-25 01:26:37.674",
       "chat_type": "General",
       "author": "Kessel",
-      "text": "LOL"
+      "text": "why are there so many zombies in masks"
     },
     {
-      "timestamp": "22-12-25 01:21:19.907",
+      "timestamp": "22-12-25 01:26:47.862",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "corpse sickness"
+    },
+    {
+      "timestamp": "22-12-25 01:26:47.862",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "corpse sickness"
+    },
+    {
+      "timestamp": "22-12-25 01:26:50.362",
       "chat_type": "General",
       "author": "Firestorm3050",
-      "text": "hey now"
+      "text": "they thought it would protect them from the virus"
     },
     {
-      "timestamp": "22-12-25 01:21:19.907",
+      "timestamp": "22-12-25 01:26:50.362",
       "chat_type": "General",
       "author": "Firestorm3050",
-      "text": "hey now"
+      "text": "they thought it would protect them from the virus"
     },
     {
-      "timestamp": "22-12-25 01:21:55.005",
+      "timestamp": "22-12-25 01:27:06.845",
       "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "oh yeah i really wanna use a magnum revolver but i cant find it"
+      "author": "Sully",
+      "text": "nice found a sledge hammer"
     },
     {
-      "timestamp": "22-12-25 01:21:55.005",
+      "timestamp": "22-12-25 01:27:06.845",
       "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "oh yeah i really wanna use a magnum revolver but i cant find it"
+      "author": "Sully",
+      "text": "nice found a sledge hammer"
     },
     {
-      "timestamp": "22-12-25 01:22:00.556",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "de mags are hard to come by"
-    },
-    {
-      "timestamp": "22-12-25 01:22:00.557",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "de mags are hard to come by"
-    },
-    {
-      "timestamp": "22-12-25 01:22:22.102",
+      "timestamp": "22-12-25 01:27:11.794",
       "chat_type": "General",
       "author": "Kessel",
-      "text": "also a random B42 fact uh"
+      "text": "huge"
     },
     {
-      "timestamp": "22-12-25 01:22:22.102",
+      "timestamp": "22-12-25 01:27:11.794",
       "chat_type": "General",
       "author": "Kessel",
-      "text": "also a random B42 fact uh"
+      "text": "huge"
     },
     {
-      "timestamp": "22-12-25 01:22:25.666",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "milk will never rot"
-    },
-    {
-      "timestamp": "22-12-25 01:22:25.666",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "milk will never rot"
-    },
-    {
-      "timestamp": "22-12-25 01:22:31.447",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "cool"
-    },
-    {
-      "timestamp": "22-12-25 01:22:31.447",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "cool"
-    },
-    {
-      "timestamp": "22-12-25 01:22:37.559",
+      "timestamp": "22-12-25 01:27:45.375",
       "chat_type": "General",
       "author": "Woofie",
-      "text": "milk is forever"
+      "text": "OOOOOOO"
     },
     {
-      "timestamp": "22-12-25 01:22:37.559",
+      "timestamp": "22-12-25 01:27:45.375",
       "chat_type": "General",
       "author": "Woofie",
-      "text": "milk is forever"
+      "text": "OOOOOOO"
     },
     {
-      "timestamp": "22-12-25 01:22:38.681",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "makes good butter too"
-    },
-    {
-      "timestamp": "22-12-25 01:22:38.681",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "makes good butter too"
-    },
-    {
-      "timestamp": "22-12-25 01:23:02.090",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "milk to butter, sunflowers to vegetable oil, wheat to flour"
-    },
-    {
-      "timestamp": "22-12-25 01:23:02.090",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "milk to butter, sunflowers to vegetable oil, wheat to flour"
-    },
-    {
-      "timestamp": "22-12-25 01:23:13.605",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "+ eggs from chickens"
-    },
-    {
-      "timestamp": "22-12-25 01:23:13.606",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "+ eggs from chickens"
-    },
-    {
-      "timestamp": "22-12-25 01:23:13.630",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "i found a box of water ration cans"
-    },
-    {
-      "timestamp": "22-12-25 01:23:13.630",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "i found a box of water ration cans"
-    },
-    {
-      "timestamp": "22-12-25 01:23:17.372",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "HUGE"
-    },
-    {
-      "timestamp": "22-12-25 01:23:17.372",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "HUGE"
-    },
-    {
-      "timestamp": "22-12-25 01:23:20.159",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "we have a lot of food preservation covered. only vinegar and sugar are missing"
-    },
-    {
-      "timestamp": "22-12-25 01:23:20.160",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "we have a lot of food preservation covered. only vinegar and sugar are missing"
-    },
-    {
-      "timestamp": "22-12-25 01:23:34.913",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "AIR FORCE COVERALLS"
-    },
-    {
-      "timestamp": "22-12-25 01:23:34.913",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "AIR FORCE COVERALLS"
-    },
-    {
-      "timestamp": "22-12-25 01:23:36.161",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "and dried meats are missing too"
-    },
-    {
-      "timestamp": "22-12-25 01:23:36.161",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "and dried meats are missing too"
-    },
-    {
-      "timestamp": "22-12-25 01:23:38.923",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "but no helmet ;-;"
-    },
-    {
-      "timestamp": "22-12-25 01:23:38.923",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "but no helmet ;-;"
-    },
-    {
-      "timestamp": "22-12-25 01:24:04.296",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "vinegar would be really easy once we get like"
-    },
-    {
-      "timestamp": "22-12-25 01:24:04.296",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "vinegar would be really easy once we get like"
-    },
-    {
-      "timestamp": "22-12-25 01:24:08.973",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "brewing and all that"
-    },
-    {
-      "timestamp": "22-12-25 01:24:08.973",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "brewing and all that"
-    },
-    {
-      "timestamp": "22-12-25 01:24:42.545",
+      "timestamp": "22-12-25 01:27:49.949",
       "chat_type": "General",
       "author": "Woofie",
-      "text": "ten years from now"
+      "text": "dice can be rolled"
     },
     {
-      "timestamp": "22-12-25 01:24:42.545",
+      "timestamp": "22-12-25 01:27:49.949",
       "chat_type": "General",
       "author": "Woofie",
-      "text": "ten years from now"
+      "text": "dice can be rolled"
     },
     {
-      "timestamp": "22-12-25 01:24:48.151",
+      "timestamp": "22-12-25 01:27:57.447",
       "chat_type": "General",
       "author": "Kessel",
-      "text": "sugar would be finite, probably"
+      "text": "WE CAN GAMBLE!!"
     },
     {
-      "timestamp": "22-12-25 01:24:48.151",
+      "timestamp": "22-12-25 01:27:57.448",
       "chat_type": "General",
       "author": "Kessel",
-      "text": "sugar would be finite, probably"
+      "text": "WE CAN GAMBLE!!"
+    },
+    {
+      "timestamp": "22-12-25 01:28:07.717",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i think you cran draw from decks of cards too?"
+    },
+    {
+      "timestamp": "22-12-25 01:28:07.717",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i think you cran draw from decks of cards too?"
+    },
+    {
+      "timestamp": "22-12-25 01:28:11.964",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "oooo"
+    },
+    {
+      "timestamp": "22-12-25 01:28:11.965",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "oooo"
+    },
+    {
+      "timestamp": "22-12-25 01:28:33.299",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "or someone host a D&D party"
+    },
+    {
+      "timestamp": "22-12-25 01:28:33.299",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "or someone host a D&D party"
+    },
+    {
+      "timestamp": "22-12-25 01:28:42.319",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "not much of upper RW was looted was it?"
+    },
+    {
+      "timestamp": "22-12-25 01:28:42.319",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "not much of upper RW was looted was it?"
+    },
+    {
+      "timestamp": "22-12-25 01:28:46.447",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "dnd inside zomboid"
+    },
+    {
+      "timestamp": "22-12-25 01:28:46.447",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "dnd inside zomboid"
+    },
+    {
+      "timestamp": "22-12-25 01:28:49.802",
+      "chat_type": "General",
+      "author": "half",
+      "text": "no"
+    },
+    {
+      "timestamp": "22-12-25 01:28:49.802",
+      "chat_type": "General",
+      "author": "half",
+      "text": "no"
+    },
+    {
+      "timestamp": "22-12-25 01:29:01.159",
+      "chat_type": "General",
+      "author": "half",
+      "text": "i havent went there"
+    },
+    {
+      "timestamp": "22-12-25 01:29:01.159",
+      "chat_type": "General",
+      "author": "half",
+      "text": "i havent went there"
+    },
+    {
+      "timestamp": "22-12-25 01:29:07.205",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i think rosewood got interrupted earlier this morning. there were 2 players there, but the heli arrived"
+    },
+    {
+      "timestamp": "22-12-25 01:29:07.205",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i think rosewood got interrupted earlier this morning. there were 2 players there, but the heli arrived"
+    },
+    {
+      "timestamp": "22-12-25 01:29:09.811",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "2 boxes of garbage bags"
+    },
+    {
+      "timestamp": "22-12-25 01:29:09.811",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "2 boxes of garbage bags"
+    },
+    {
+      "timestamp": "22-12-25 01:29:17.495",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "it was me and captain when the heli arrived"
+    },
+    {
+      "timestamp": "22-12-25 01:29:17.495",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "it was me and captain when the heli arrived"
+    },
+    {
+      "timestamp": "22-12-25 01:29:28.848",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yup xD"
+    },
+    {
+      "timestamp": "22-12-25 01:29:28.848",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yup xD"
+    },
+    {
+      "timestamp": "22-12-25 01:29:40.504",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "its a lot of drinks and not much food"
+    },
+    {
+      "timestamp": "22-12-25 01:29:40.504",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "its a lot of drinks and not much food"
+    },
+    {
+      "timestamp": "22-12-25 01:29:59.281",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "they NERFED the glorious orange soda"
+    },
+    {
+      "timestamp": "22-12-25 01:29:59.281",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "they NERFED the glorious orange soda"
     }
   ],
-  "timestamp": "2025-12-22T01:25:01.732805"
+  "timestamp": "2025-12-22T01:30:02.020119"
 }
