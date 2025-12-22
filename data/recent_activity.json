@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 22:06:11.928",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "21-12-25 22:06:11.929",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -359,56 +353,18 @@
       "x": "8129",
       "y": "11680",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 01:43:41.950",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "5903",
+      "y": "5341",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "21-12-25 22:45:23.256",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5814",
-      "y": "5316",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 7,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 1,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "21-12-25 23:05:33.655",
       "steam_id": "76561198864938417",
@@ -1001,105 +957,21 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 01:40:15.266",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "6074",
+      "y": "5282",
+      "z": "0",
+      "hours_survived": 56,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 01:29:07.205",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i think rosewood got interrupted earlier this morning. there were 2 players there, but the heli arrived"
-    },
-    {
-      "timestamp": "22-12-25 01:29:07.205",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i think rosewood got interrupted earlier this morning. there were 2 players there, but the heli arrived"
-    },
-    {
-      "timestamp": "22-12-25 01:29:09.811",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "2 boxes of garbage bags"
-    },
-    {
-      "timestamp": "22-12-25 01:29:09.811",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "2 boxes of garbage bags"
-    },
-    {
-      "timestamp": "22-12-25 01:29:17.495",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "it was me and captain when the heli arrived"
-    },
-    {
-      "timestamp": "22-12-25 01:29:17.495",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "it was me and captain when the heli arrived"
-    },
-    {
-      "timestamp": "22-12-25 01:29:28.848",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yup xD"
-    },
-    {
-      "timestamp": "22-12-25 01:29:28.848",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yup xD"
-    },
-    {
-      "timestamp": "22-12-25 01:29:40.504",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "its a lot of drinks and not much food"
-    },
-    {
-      "timestamp": "22-12-25 01:29:40.504",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "its a lot of drinks and not much food"
-    },
-    {
-      "timestamp": "22-12-25 01:29:59.281",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "they NERFED the glorious orange soda"
-    },
-    {
-      "timestamp": "22-12-25 01:29:59.281",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "they NERFED the glorious orange soda"
-    },
-    {
-      "timestamp": "22-12-25 01:30:04.700",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "i shed a tear ealier"
-    },
-    {
-      "timestamp": "22-12-25 01:30:04.701",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "i shed a tear ealier"
-    },
-    {
-      "timestamp": "22-12-25 01:30:09.062",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "OO CAR KEY"
-    },
-    {
-      "timestamp": "22-12-25 01:30:09.062",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "OO CAR KEY"
-    },
     {
       "timestamp": "22-12-25 01:30:42.572",
       "chat_type": "General",
@@ -1303,7 +1175,103 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "awesome"
+    },
+    {
+      "timestamp": "22-12-25 01:43:09.637",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "huge, sewing kit"
+    },
+    {
+      "timestamp": "22-12-25 01:43:09.637",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "huge, sewing kit"
+    },
+    {
+      "timestamp": "22-12-25 01:43:21.435",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "needles break now btw"
+    },
+    {
+      "timestamp": "22-12-25 01:43:21.435",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "needles break now btw"
+    },
+    {
+      "timestamp": "22-12-25 01:43:28.283",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "they do?"
+    },
+    {
+      "timestamp": "22-12-25 01:43:28.284",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "they do?"
+    },
+    {
+      "timestamp": "22-12-25 01:43:32.757",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yup"
+    },
+    {
+      "timestamp": "22-12-25 01:43:32.757",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yup"
+    },
+    {
+      "timestamp": "22-12-25 01:43:38.100",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "damn"
+    },
+    {
+      "timestamp": "22-12-25 01:43:38.100",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "damn"
+    },
+    {
+      "timestamp": "22-12-25 01:43:47.555",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "from bone or metal"
+    },
+    {
+      "timestamp": "22-12-25 01:43:47.555",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "from bone or metal"
+    },
+    {
+      "timestamp": "22-12-25 01:44:10.529",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "never had one break on me"
+    },
+    {
+      "timestamp": "22-12-25 01:44:10.529",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "never had one break on me"
+    },
+    {
+      "timestamp": "22-12-25 01:44:52.009",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "awls also break"
+    },
+    {
+      "timestamp": "22-12-25 01:44:52.009",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "awls also break"
     }
   ],
-  "timestamp": "2025-12-22T01:40:01.689331"
+  "timestamp": "2025-12-22T01:45:01.948681"
 }
