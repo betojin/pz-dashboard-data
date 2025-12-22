@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 05:36:08.098",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 05:36:08.099",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 05:36:51.576",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 05:42:12.865",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "fully connected",
-      "x": "10038",
-      "y": "8062",
-      "z": "0"
-    },
-    {
       "timestamp": "22-12-25 06:25:42.760",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -353,56 +326,36 @@
       "x": "10664",
       "y": "9528",
       "z": "-1"
+    },
+    {
+      "timestamp": "22-12-25 17:10:30.525",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 17:10:30.526",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 17:10:48.369",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 17:11:24.804",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "fully connected",
+      "x": "10662",
+      "y": "9561",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 03:21:48.479",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10660",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 278,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 3,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 2,
-        "Fishing": 2,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 3,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "22-12-25 03:30:31.567",
       "steam_id": "76561198864938417",
@@ -1269,45 +1222,56 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 17:11:25.631",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10662",
+      "y": "9561",
+      "z": "0",
+      "hours_survived": 335,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 4,
+        "Fitness": 10,
+        "Strength": 9,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 3,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 2,
+        "Fishing": 2,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 2,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 3,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 16:35:53.365",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "gasoline amphora"
-    },
-    {
-      "timestamp": "22-12-25 16:35:53.365",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "gasoline amphora"
-    },
-    {
-      "timestamp": "22-12-25 16:36:04.628",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "thats a good shout actually"
-    },
-    {
-      "timestamp": "22-12-25 16:36:04.628",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "thats a good shout actually"
-    },
-    {
-      "timestamp": "22-12-25 16:44:58.034",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "bob :("
-    },
-    {
-      "timestamp": "22-12-25 16:44:58.034",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "bob :("
-    },
     {
       "timestamp": "22-12-25 16:45:01.254",
       "chat_type": "General",
@@ -1571,7 +1535,43 @@
       "chat_type": "Local",
       "author": "CaptainLobo",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "22-12-25 17:11:24.829",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "22-12-25 17:11:24.829",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "22-12-25 17:12:41.975",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "is the weight gain indicator broke?"
+    },
+    {
+      "timestamp": "22-12-25 17:12:41.975",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "is the weight gain indicator broke?"
+    },
+    {
+      "timestamp": "22-12-25 17:12:47.131",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i think so"
+    },
+    {
+      "timestamp": "22-12-25 17:12:47.132",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i think so"
     }
   ],
-  "timestamp": "2025-12-22T17:10:01.510404"
+  "timestamp": "2025-12-22T17:15:01.854200"
 }
