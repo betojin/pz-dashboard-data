@@ -660,7 +660,7 @@
     "Kessel": {
       "username": "Kessel",
       "steam_id": "76561199251232344",
-      "total_hours": 37,
+      "total_hours": 38,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -688,7 +688,7 @@
         "Maintenance": 0,
         "SmallBlade": 0,
         "LongBlade": 0,
-        "SmallBlunt": 0,
+        "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
@@ -699,14 +699,20 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "22-12-25 04:39:46.894",
+      "level_ups": [
+        {
+          "skill": "SmallBlunt",
+          "level": "1",
+          "timestamp": "22-12-25 04:41:35.890"
+        }
+      ],
+      "last_seen": "22-12-25 04:41:35.890",
       "connections": 6
     },
     "buttersshoes": {
       "username": "buttersshoes",
       "steam_id": "76561198095700017",
-      "total_hours": 0,
+      "total_hours": 5,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -724,7 +730,7 @@
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 2,
-        "PlantScavenging": 2,
+        "PlantScavenging": 3,
         "Doctor": 0,
         "Electricity": 0,
         "Blacksmith": 0,
@@ -745,11 +751,17 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "22-12-25 04:26:29.856",
+      "level_ups": [
+        {
+          "skill": "PlantScavenging",
+          "level": "3",
+          "timestamp": "22-12-25 04:40:34.244"
+        }
+      ],
+      "last_seen": "22-12-25 04:40:34.244",
       "connections": 1
     }
   },
   "total_players": 10,
-  "timestamp": "2025-12-22T04:40:01.165428"
+  "timestamp": "2025-12-22T04:45:01.498848"
 }

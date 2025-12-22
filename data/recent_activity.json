@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 02:15:21.634",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "22-12-25 02:16:13.731",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -356,68 +350,18 @@
       "x": "3994",
       "y": "10838",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 04:44:16.549",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "disconnected",
+      "x": "4016",
+      "y": "10828",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 01:25:24.309",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "10115",
-      "y": "8240",
-      "z": "0",
-      "hours_survived": 78,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "2"
-    },
-    {
-      "timestamp": "22-12-25 01:34:59.108",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "x": "8083",
-      "y": "11553",
-      "z": "0",
-      "hours_survived": 7,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 6,
-        "Strength": 6,
-        "Blunt": 0,
-        "Axe": 1,
-        "Lightfoot": 1,
-        "Nimble": 1,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "22-12-25 01:40:15.266",
       "steam_id": "76561198044597580",
@@ -1103,57 +1047,33 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 04:40:34.244",
+      "steam_id": "76561198095700017",
+      "username": "buttersshoes",
+      "x": "10918",
+      "y": "9959",
+      "z": "0",
+      "hours_survived": 5,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "3"
+    },
+    {
+      "timestamp": "22-12-25 04:41:35.890",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "x": "3983",
+      "y": "10817",
+      "z": "0",
+      "hours_survived": 38,
+      "event_type": "level_up",
+      "skill": "SmallBlunt",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 03:39:17.027",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:17.027",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:17.511",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:17.511",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:17.944",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:17.944",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:18.609",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:18.610",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "22-12-25 03:39:18.950",
       "chat_type": "Local",
@@ -1405,7 +1325,55 @@
       "chat_type": "Local",
       "author": "Woofie",
       "text": "these trailers reallllllly like flipping"
+    },
+    {
+      "timestamp": "22-12-25 04:40:44.127",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "psst"
+    },
+    {
+      "timestamp": "22-12-25 04:40:44.127",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "psst"
+    },
+    {
+      "timestamp": "22-12-25 04:40:44.724",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "hey"
+    },
+    {
+      "timestamp": "22-12-25 04:40:44.725",
+      "chat_type": "Local",
+      "author": "Kessel",
+      "text": "hey"
+    },
+    {
+      "timestamp": "22-12-25 04:42:30.135",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "wuh oh"
+    },
+    {
+      "timestamp": "22-12-25 04:42:30.135",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "wuh oh"
+    },
+    {
+      "timestamp": "22-12-25 04:42:34.897",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "i might be laggy or someth"
+    },
+    {
+      "timestamp": "22-12-25 04:42:34.898",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "i might be laggy or someth"
     }
   ],
-  "timestamp": "2025-12-22T04:40:01.182717"
+  "timestamp": "2025-12-22T04:45:01.516233"
 }
