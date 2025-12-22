@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 22:34:35.474",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "fully connected",
-      "x": "5814",
-      "y": "5316",
-      "z": "0"
-    },
-    {
       "timestamp": "21-12-25 22:39:16.661",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -368,33 +359,18 @@
       "x": "8116",
       "y": "11295",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 02:56:18.574",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "disconnected",
+      "x": "8125",
+      "y": "11539",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 00:04:12.296",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "10099",
-      "y": "8260",
-      "z": "1",
-      "hours_survived": 46,
-      "event_type": "level_up",
-      "skill": "Strength",
-      "level": "2"
-    },
-    {
-      "timestamp": "22-12-25 00:04:25.973",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8131",
-      "y": "11671",
-      "z": "0",
-      "hours_survived": 19,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "3"
-    },
     {
       "timestamp": "22-12-25 00:09:22.495",
       "steam_id": "76561198864938417",
@@ -1010,6 +986,30 @@
       "event_type": "level_up",
       "skill": "Cooking",
       "level": "4"
+    },
+    {
+      "timestamp": "22-12-25 02:57:54.568",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10660",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 271,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "1"
+    },
+    {
+      "timestamp": "22-12-25 02:59:24.384",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10660",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 271,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1314,5 +1314,5 @@
       "text": "mmm... uncooked chicken feet"
     }
   ],
-  "timestamp": "2025-12-22T02:55:01.752006"
+  "timestamp": "2025-12-22T03:00:02.044069"
 }
