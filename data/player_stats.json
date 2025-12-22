@@ -180,7 +180,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 275,
+      "total_hours": 277,
       "deaths": 0,
       "skills": {
         "Cooking": 4,
@@ -192,12 +192,12 @@
         "Nimble": 0,
         "Sprinting": 3,
         "Sneak": 0,
-        "Woodwork": 1,
+        "Woodwork": 2,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 2,
         "Fishing": 2,
-        "Trapping": 0,
+        "Trapping": 1,
         "PlantScavenging": 0,
         "Doctor": 0,
         "Electricity": 0,
@@ -304,9 +304,19 @@
           "skill": "Farming",
           "level": "2",
           "timestamp": "22-12-25 03:09:06.006"
+        },
+        {
+          "skill": "Trapping",
+          "level": "1",
+          "timestamp": "22-12-25 03:10:08.011"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "2",
+          "timestamp": "22-12-25 03:13:54.997"
         }
       ],
-      "last_seen": "22-12-25 03:09:06.006",
+      "last_seen": "22-12-25 03:13:54.997",
       "connections": 3
     },
     "Molotov Kid": {
@@ -685,5 +695,5 @@
     }
   },
   "total_players": 9,
-  "timestamp": "2025-12-22T03:10:01.719664"
+  "timestamp": "2025-12-22T03:15:02.016537"
 }

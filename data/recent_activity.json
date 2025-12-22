@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 22:39:16.661",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "disconnected",
-      "x": "8132",
-      "y": "11619",
-      "z": "1"
-    },
-    {
       "timestamp": "21-12-25 22:45:20.652",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -368,33 +359,18 @@
       "x": "8125",
       "y": "11539",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 03:14:23.074",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "disconnected",
+      "x": "8645",
+      "y": "8445",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 00:38:03.809",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10608",
-      "y": "9376",
-      "z": "0",
-      "hours_survived": 215,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "2"
-    },
-    {
-      "timestamp": "22-12-25 00:39:05.471",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8150",
-      "y": "11534",
-      "z": "0",
-      "hours_survived": 33,
-      "event_type": "level_up",
-      "skill": "Blunt",
-      "level": "1"
-    },
     {
       "timestamp": "22-12-25 00:42:57.445",
       "steam_id": "76561198368197161",
@@ -905,6 +881,30 @@
       "event_type": "level_up",
       "skill": "Farming",
       "level": "2"
+    },
+    {
+      "timestamp": "22-12-25 03:10:08.011",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10660",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 276,
+      "event_type": "level_up",
+      "skill": "Trapping",
+      "level": "1"
+    },
+    {
+      "timestamp": "22-12-25 03:13:54.997",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10660",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 277,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1209,5 +1209,5 @@
       "text": "mmm... uncooked chicken feet"
     }
   ],
-  "timestamp": "2025-12-22T03:10:01.733515"
+  "timestamp": "2025-12-22T03:15:02.029774"
 }
