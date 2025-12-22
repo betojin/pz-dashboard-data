@@ -103,7 +103,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 89,
+      "total_hours": 164,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -164,13 +164,13 @@
           "timestamp": "21-12-25 09:58:29.911"
         }
       ],
-      "last_seen": "21-12-25 20:19:39.436",
-      "connections": 5
+      "last_seen": "22-12-25 00:35:34.524",
+      "connections": 6
     },
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 192,
+      "total_hours": 215,
       "deaths": 0,
       "skills": {
         "Cooking": 3,
@@ -195,7 +195,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 2,
@@ -244,9 +244,14 @@
           "skill": "Cooking",
           "level": "3",
           "timestamp": "21-12-25 23:42:14.389"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "22-12-25 00:38:03.809"
         }
       ],
-      "last_seen": "21-12-25 23:42:14.389",
+      "last_seen": "22-12-25 00:38:03.809",
       "connections": 3
     },
     "Molotov Kid": {
@@ -448,13 +453,13 @@
     "half": {
       "username": "half",
       "steam_id": "76561198368197161",
-      "total_hours": 19,
+      "total_hours": 33,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
         "Fitness": 7,
         "Strength": 9,
-        "Blunt": 0,
+        "Blunt": 1,
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 0,
@@ -507,12 +512,17 @@
           "skill": "Woodwork",
           "level": "3",
           "timestamp": "22-12-25 00:04:25.973"
+        },
+        {
+          "skill": "Blunt",
+          "level": "1",
+          "timestamp": "22-12-25 00:39:05.471"
         }
       ],
-      "last_seen": "22-12-25 00:04:25.973",
-      "connections": 2
+      "last_seen": "22-12-25 00:39:05.471",
+      "connections": 3
     }
   },
   "total_players": 8,
-  "timestamp": "2025-12-22T00:35:01.493785"
+  "timestamp": "2025-12-22T00:40:01.806100"
 }
