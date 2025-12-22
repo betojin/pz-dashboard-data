@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 21:59:23.515",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "21-12-25 21:59:44.919",
       "steam_id": "76561198864938417",
       "username": "Woofie",
@@ -353,68 +347,18 @@
       "steam_id": "76561199251232344",
       "username": "Kessel",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 01:10:53.581",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "fully connected",
+      "x": "8215",
+      "y": "11677",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "21-12-25 22:04:48.342",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "4024",
-      "y": "10781",
-      "z": "0",
-      "hours_survived": 16,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "1"
-    },
-    {
-      "timestamp": "21-12-25 22:05:50.814",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "10919",
-      "y": "10131",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 9,
-        "Strength": 0,
-        "Blunt": 0,
-        "Axe": 1,
-        "Lightfoot": 1,
-        "Nimble": 1,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 1,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 2,
-        "PlantScavenging": 3,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 1,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "21-12-25 22:08:54.631",
       "steam_id": "76561198065774641",
@@ -1026,117 +970,68 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "5"
+    },
+    {
+      "timestamp": "22-12-25 01:11:01.005",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "x": "8215",
+      "y": "11677",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 6,
+        "Strength": 6,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "22-12-25 01:11:37.287",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10693",
+      "y": "9511",
+      "z": "0",
+      "hours_survived": 228,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "3"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 00:52:00.680",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "without gas, i may need to move to a farmhouse by the river"
-    },
-    {
-      "timestamp": "22-12-25 00:52:00.680",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "without gas, i may need to move to a farmhouse by the river"
-    },
-    {
-      "timestamp": "22-12-25 00:52:18.464",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i can survive without gas, but its a 3-day rotation to do it"
-    },
-    {
-      "timestamp": "22-12-25 00:52:18.464",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i can survive without gas, but its a 3-day rotation to do it"
-    },
-    {
-      "timestamp": "22-12-25 00:53:04.651",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "severely crimps the distance you can travel to loot if you want a permanent base"
-    },
-    {
-      "timestamp": "22-12-25 00:53:04.651",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "severely crimps the distance you can travel to loot if you want a permanent base"
-    },
-    {
-      "timestamp": "22-12-25 00:57:09.355",
-      "chat_type": "General",
-      "author": "half",
-      "text": "can we claim cars?"
-    },
-    {
-      "timestamp": "22-12-25 00:57:09.355",
-      "chat_type": "General",
-      "author": "half",
-      "text": "can we claim cars?"
-    },
-    {
-      "timestamp": "22-12-25 00:58:48.797",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i made sure to pick a house with an attached garage so i can keep it inside my safehouse"
-    },
-    {
-      "timestamp": "22-12-25 00:58:48.797",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i made sure to pick a house with an attached garage so i can keep it inside my safehouse"
-    },
-    {
-      "timestamp": "22-12-25 00:59:04.593",
-      "chat_type": "General",
-      "author": "half",
-      "text": "thats smart"
-    },
-    {
-      "timestamp": "22-12-25 00:59:04.594",
-      "chat_type": "General",
-      "author": "half",
-      "text": "thats smart"
-    },
-    {
-      "timestamp": "22-12-25 01:00:09.475",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "but our server is also populated with mostly old familiars, no newbies yet, so its probably safe to just wing it for now"
-    },
-    {
-      "timestamp": "22-12-25 01:00:09.475",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "but our server is also populated with mostly old familiars, no newbies yet, so its probably safe to just wing it for now"
-    },
-    {
-      "timestamp": "22-12-25 01:01:48.592",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": ":)"
-    },
-    {
-      "timestamp": "22-12-25 01:01:48.592",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": ":)"
-    },
-    {
-      "timestamp": "22-12-25 01:02:23.445",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "god that was too many zeds"
-    },
-    {
-      "timestamp": "22-12-25 01:02:23.445",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "god that was too many zeds"
-    },
     {
       "timestamp": "22-12-25 01:02:25.026",
       "chat_type": "General",
@@ -1328,7 +1223,115 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "i found the generator magazine just in the nick of time"
+    },
+    {
+      "timestamp": "22-12-25 01:11:47.666",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "awhhh i look badass"
+    },
+    {
+      "timestamp": "22-12-25 01:11:47.666",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "awhhh i look badass"
+    },
+    {
+      "timestamp": "22-12-25 01:12:07.567",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "sweet"
+    },
+    {
+      "timestamp": "22-12-25 01:12:07.568",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "sweet"
+    },
+    {
+      "timestamp": "22-12-25 01:12:14.491",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "hiya kessel"
+    },
+    {
+      "timestamp": "22-12-25 01:12:14.491",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "hiya kessel"
+    },
+    {
+      "timestamp": "22-12-25 01:12:18.250",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "yo"
+    },
+    {
+      "timestamp": "22-12-25 01:12:18.250",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "yo"
+    },
+    {
+      "timestamp": "22-12-25 01:12:28.884",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "HI KESSEL"
+    },
+    {
+      "timestamp": "22-12-25 01:12:28.885",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "HI KESSEL"
+    },
+    {
+      "timestamp": "22-12-25 01:12:28.918",
+      "chat_type": "General",
+      "author": "half",
+      "text": "we got everyone here"
+    },
+    {
+      "timestamp": "22-12-25 01:12:28.918",
+      "chat_type": "General",
+      "author": "half",
+      "text": "we got everyone here"
+    },
+    {
+      "timestamp": "22-12-25 01:12:43.588",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "together we truly are camp crew"
+    },
+    {
+      "timestamp": "22-12-25 01:12:43.588",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "together we truly are camp crew"
+    },
+    {
+      "timestamp": "22-12-25 01:14:12.575",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "found a 1st world war picture"
+    },
+    {
+      "timestamp": "22-12-25 01:14:12.576",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "found a 1st world war picture"
+    },
+    {
+      "timestamp": "22-12-25 01:14:15.357",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "found a cartoon of nails. i feel like a true forester again"
+    },
+    {
+      "timestamp": "22-12-25 01:14:15.357",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "found a cartoon of nails. i feel like a true forester again"
     }
   ],
-  "timestamp": "2025-12-22T01:10:01.798537"
+  "timestamp": "2025-12-22T01:15:01.087573"
 }
