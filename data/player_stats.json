@@ -476,7 +476,7 @@
     "Woofie": {
       "username": "Woofie",
       "steam_id": "76561198864938417",
-      "total_hours": 122,
+      "total_hours": 143,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -494,7 +494,7 @@
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 2,
-        "PlantScavenging": 6,
+        "PlantScavenging": 7,
         "Doctor": 0,
         "Electricity": 0,
         "Blacksmith": 0,
@@ -560,9 +560,14 @@
           "skill": "FlintKnapping",
           "level": "3",
           "timestamp": "22-12-25 02:41:46.047"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "7",
+          "timestamp": "22-12-25 04:25:30.708"
         }
       ],
-      "last_seen": "22-12-25 03:30:31.567",
+      "last_seen": "22-12-25 04:25:30.708",
       "connections": 2
     },
     "half": {
@@ -697,8 +702,54 @@
       "level_ups": [],
       "last_seen": "22-12-25 04:14:56.207",
       "connections": 4
+    },
+    "buttersshoes": {
+      "username": "buttersshoes",
+      "steam_id": "76561198095700017",
+      "total_hours": 0,
+      "deaths": 0,
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 1,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 2,
+        "PlantScavenging": 2,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      },
+      "level_ups": [],
+      "last_seen": "22-12-25 04:26:29.856",
+      "connections": 1
     }
   },
-  "total_players": 9,
-  "timestamp": "2025-12-22T04:25:01.224546"
+  "total_players": 10,
+  "timestamp": "2025-12-22T04:30:01.512307"
 }

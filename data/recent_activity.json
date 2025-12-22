@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 01:10:53.581",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "fully connected",
-      "x": "8215",
-      "y": "11677",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 01:30:44.678",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "disconnected",
-      "x": "8083",
-      "y": "11553",
-      "z": "0"
-    },
-    {
       "timestamp": "22-12-25 01:34:10.833",
       "steam_id": "76561199251232344",
       "username": "Kessel",
@@ -362,33 +344,24 @@
       "steam_id": "76561198095700017",
       "username": "buttersshoes",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 04:25:49.146",
+      "steam_id": "76561198095700017",
+      "username": "buttersshoes",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 04:26:29.589",
+      "steam_id": "76561198095700017",
+      "username": "buttersshoes",
+      "action": "fully connected",
+      "x": "10976",
+      "y": "9785",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 01:11:37.287",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10693",
-      "y": "9511",
-      "z": "0",
-      "hours_survived": 228,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "3"
-    },
-    {
-      "timestamp": "22-12-25 01:17:07.105",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8128",
-      "y": "11683",
-      "z": "0",
-      "hours_survived": 48,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "4"
-    },
     {
       "timestamp": "22-12-25 01:19:47.712",
       "steam_id": "76561198368197161",
@@ -1004,6 +977,65 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 04:25:30.708",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "5295",
+      "y": "10277",
+      "z": "0",
+      "hours_survived": 143,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "7"
+    },
+    {
+      "timestamp": "22-12-25 04:26:29.856",
+      "steam_id": "76561198095700017",
+      "username": "buttersshoes",
+      "x": "10976",
+      "y": "9785",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 1,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 2,
+        "PlantScavenging": 2,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1308,5 +1340,5 @@
       "text": "these trailers reallllllly like flipping"
     }
   ],
-  "timestamp": "2025-12-22T04:25:01.240817"
+  "timestamp": "2025-12-22T04:30:01.528832"
 }
