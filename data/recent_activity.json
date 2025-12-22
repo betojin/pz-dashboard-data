@@ -1,27 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 05:13:39.987",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "action": "disconnected",
-      "x": "10845",
-      "y": "10021",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 05:14:11.192",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 05:26:54.324",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "22-12-25 05:26:54.325",
       "steam_id": "76561198864938417",
       "username": "Woofie",
@@ -350,6 +329,24 @@
       "x": "10884",
       "y": "10159",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 16:59:45.672",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 16:59:45.672",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 17:00:00.096",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1270,42 +1267,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 16:33:52.895",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "oh dear my foraging radius"
-    },
-    {
-      "timestamp": "22-12-25 16:33:52.895",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "oh dear my foraging radius"
-    },
-    {
-      "timestamp": "22-12-25 16:33:56.537",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "SAND"
-    },
-    {
-      "timestamp": "22-12-25 16:33:56.538",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "SAND"
-    },
-    {
-      "timestamp": "22-12-25 16:34:12.370",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "is there a source for that or just bags in industrial places?"
-    },
-    {
-      "timestamp": "22-12-25 16:34:12.371",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "is there a source for that or just bags in industrial places?"
-    },
-    {
       "timestamp": "22-12-25 16:34:15.463",
       "chat_type": "General",
       "author": "Firestorm3050",
@@ -1568,7 +1529,43 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "are you a returning player or new to the server?"
+    },
+    {
+      "timestamp": "22-12-25 16:55:43.454",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "goblets :eyes:"
+    },
+    {
+      "timestamp": "22-12-25 16:55:43.454",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "goblets :eyes:"
+    },
+    {
+      "timestamp": "22-12-25 16:57:45.666",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "rip bob"
+    },
+    {
+      "timestamp": "22-12-25 16:57:45.666",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "rip bob"
+    },
+    {
+      "timestamp": "22-12-25 16:57:48.095",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "Bob NOOOO"
+    },
+    {
+      "timestamp": "22-12-25 16:57:48.095",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "Bob NOOOO"
     }
   ],
-  "timestamp": "2025-12-22T16:55:01.443187"
+  "timestamp": "2025-12-22T17:00:01.770549"
 }
