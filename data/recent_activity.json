@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 05:27:57.518",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 05:32:22.959",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "disconnected",
-      "x": "10081",
-      "y": "8260",
-      "z": "1"
-    },
-    {
       "timestamp": "22-12-25 05:36:08.098",
       "steam_id": "76561198864938417",
       "username": "Woofie",
@@ -350,6 +335,24 @@
       "x": "5903",
       "y": "5341",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 17:05:24.674",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "disconnected",
+      "x": "10662",
+      "y": "9561",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 17:06:51.488",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "disconnected",
+      "x": "10664",
+      "y": "9528",
+      "z": "-1"
     }
   ],
   "perk_events": [
@@ -1270,78 +1273,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 16:34:37.735",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "same for clay, you can dig it or forage it"
-    },
-    {
-      "timestamp": "22-12-25 16:34:37.736",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "same for clay, you can dig it or forage it"
-    },
-    {
-      "timestamp": "22-12-25 16:34:56.819",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "ive only gotten clay from foraging because i dont just carry a shovel around"
-    },
-    {
-      "timestamp": "22-12-25 16:34:56.819",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "ive only gotten clay from foraging because i dont just carry a shovel around"
-    },
-    {
-      "timestamp": "22-12-25 16:35:19.749",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "you wont need too much clay at your location. its mostly used for building the crafting stations"
-    },
-    {
-      "timestamp": "22-12-25 16:35:19.749",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "you wont need too much clay at your location. its mostly used for building the crafting stations"
-    },
-    {
-      "timestamp": "22-12-25 16:35:27.827",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "but that estate already has them all pre-built"
-    },
-    {
-      "timestamp": "22-12-25 16:35:27.827",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "but that estate already has them all pre-built"
-    },
-    {
-      "timestamp": "22-12-25 16:35:35.401",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "and a decent fluid storage"
-    },
-    {
-      "timestamp": "22-12-25 16:35:35.401",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "and a decent fluid storage"
-    },
-    {
-      "timestamp": "22-12-25 16:35:42.211",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "milk amphora :)"
-    },
-    {
-      "timestamp": "22-12-25 16:35:42.211",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "milk amphora :)"
-    },
-    {
       "timestamp": "22-12-25 16:35:53.365",
       "chat_type": "General",
       "author": "Firestorm3050",
@@ -1568,7 +1499,79 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "ill be restarting my whole computer so it will be a minute"
+    },
+    {
+      "timestamp": "22-12-25 17:05:22.165",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "have fun"
+    },
+    {
+      "timestamp": "22-12-25 17:05:22.165",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "have fun"
+    },
+    {
+      "timestamp": "22-12-25 17:05:52.097",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "hes gone"
+    },
+    {
+      "timestamp": "22-12-25 17:05:52.097",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "hes gone"
+    },
+    {
+      "timestamp": "22-12-25 17:06:05.729",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "R.I.P."
+    },
+    {
+      "timestamp": "22-12-25 17:06:05.729",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "R.I.P."
+    },
+    {
+      "timestamp": "22-12-25 17:07:00.640",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "22-12-25 17:07:00.640",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "22-12-25 17:08:26.225",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "22-12-25 17:08:26.226",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "22-12-25 17:08:29.584",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "22-12-25 17:08:29.585",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-22T17:05:01.201961"
+  "timestamp": "2025-12-22T17:10:01.510404"
 }
