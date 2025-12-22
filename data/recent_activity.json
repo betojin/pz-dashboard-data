@@ -1,42 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 15:24:48.412",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "disconnected",
-      "x": "10675",
-      "y": "9564",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 15:24:51.047",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "fully connected",
-      "x": "6179",
-      "y": "6373",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 15:26:21.236",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "disconnected",
-      "x": "6110",
-      "y": "6356",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 15:26:23.628",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "action": "fully connected",
-      "x": "10872",
-      "y": "9489",
-      "z": "0"
-    },
-    {
       "timestamp": "22-12-25 15:35:56.261",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -359,56 +323,36 @@
       "x": "8125",
       "y": "11539",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 21:58:20.686",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 21:58:20.687",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 21:58:28.225",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 21:59:16.196",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "5780",
+      "y": "5317",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 15:08:36.059",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "x": "10636",
-      "y": "9616",
-      "z": "0",
-      "hours_survived": 93,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 1,
-        "Woodwork": 0,
-        "Aiming": 5,
-        "Reloading": 5,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 1,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "22-12-25 15:23:43.274",
       "steam_id": "76561199163725035",
@@ -1100,309 +1044,356 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 21:59:19.282",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5780",
+      "y": "5317",
+      "z": "0",
+      "hours_survived": 99,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 7,
+        "Blunt": 1,
+        "Axe": 1,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 1,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 1,
+        "Reloading": 2,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 21:23:22.029",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Huh, already? I forget how adventurous some people can be"
-    },
-    {
-      "timestamp": "22-12-25 21:23:22.030",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Huh, already? I forget how adventurous some people can be"
-    },
-    {
-      "timestamp": "22-12-25 21:25:24.047",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Do you know if anyone has hit the small Camping Supply Store inbetween Riverside and Echo Creek?"
-    },
-    {
-      "timestamp": "22-12-25 21:25:24.047",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Do you know if anyone has hit the small Camping Supply Store inbetween Riverside and Echo Creek?"
-    },
-    {
-      "timestamp": "22-12-25 21:26:48.525",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Good man, thats what I do to"
-    },
-    {
-      "timestamp": "22-12-25 21:26:48.525",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Good man, thats what I do to"
-    },
-    {
-      "timestamp": "22-12-25 21:26:58.687",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "I get like 2 of each tool then leave the rest"
-    },
-    {
-      "timestamp": "22-12-25 21:26:58.687",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "I get like 2 of each tool then leave the rest"
-    },
-    {
-      "timestamp": "22-12-25 21:27:11.474",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "tools break now during crafting tho"
-    },
-    {
-      "timestamp": "22-12-25 21:27:11.474",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "tools break now during crafting tho"
-    },
-    {
-      "timestamp": "22-12-25 21:28:11.072",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Oh they do? Like lose durability?"
-    },
-    {
-      "timestamp": "22-12-25 21:28:11.072",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Oh they do? Like lose durability?"
-    },
-    {
-      "timestamp": "22-12-25 21:28:16.968",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yup"
-    },
-    {
-      "timestamp": "22-12-25 21:28:16.968",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yup"
-    },
-    {
-      "timestamp": "22-12-25 21:28:20.486",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Shit"
-    },
-    {
-      "timestamp": "22-12-25 21:28:20.486",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Shit"
-    },
-    {
-      "timestamp": "22-12-25 21:28:21.183",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "most can be crafted too"
-    },
-    {
-      "timestamp": "22-12-25 21:28:21.183",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "most can be crafted too"
-    },
-    {
-      "timestamp": "22-12-25 21:28:24.253",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "HORDE, GIMME 5"
-    },
-    {
-      "timestamp": "22-12-25 21:28:24.253",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "HORDE, GIMME 5"
-    },
-    {
-      "timestamp": "22-12-25 21:30:01.948",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "YESSSS"
-    },
-    {
-      "timestamp": "22-12-25 21:30:01.948",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "YESSSS"
-    },
-    {
-      "timestamp": "22-12-25 21:30:04.953",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "COWBOY HAT!"
-    },
-    {
-      "timestamp": "22-12-25 21:30:04.953",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "COWBOY HAT!"
-    },
-    {
-      "timestamp": "22-12-25 21:30:14.684",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Worth it, had to kill 20 but I GOT IT"
-    },
-    {
-      "timestamp": "22-12-25 21:30:14.684",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Worth it, had to kill 20 but I GOT IT"
-    },
-    {
-      "timestamp": "22-12-25 21:31:30.663",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "The tail is the best part though"
-    },
-    {
-      "timestamp": "22-12-25 21:31:30.663",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "The tail is the best part though"
-    },
-    {
-      "timestamp": "22-12-25 21:41:19.001",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "D6 FIRE TRUCK WITH A FUCKING FULL GAS CAN!!"
-    },
-    {
-      "timestamp": "22-12-25 21:41:19.001",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "D6 FIRE TRUCK WITH A FUCKING FULL GAS CAN!!"
-    },
-    {
-      "timestamp": "22-12-25 21:41:51.629",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "nice"
-    },
-    {
-      "timestamp": "22-12-25 21:41:51.629",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "nice"
-    },
-    {
-      "timestamp": "22-12-25 21:45:34.343",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Honestly if you need a vehicle and can hotwire, west point has a BUNCH of good condition cars"
-    },
-    {
-      "timestamp": "22-12-25 21:45:34.343",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Honestly if you need a vehicle and can hotwire, west point has a BUNCH of good condition cars"
-    },
-    {
-      "timestamp": "22-12-25 21:45:43.462",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Of all types, just bring gas"
-    },
-    {
-      "timestamp": "22-12-25 21:45:43.463",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Of all types, just bring gas"
-    },
-    {
-      "timestamp": "22-12-25 21:49:33.631",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "ill prob eventually make it to west point"
-    },
-    {
-      "timestamp": "22-12-25 21:49:33.631",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "ill prob eventually make it to west point"
-    },
-    {
-      "timestamp": "22-12-25 21:49:46.734",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "hard to be motivated over cars in vanilla tho..."
-    },
-    {
-      "timestamp": "22-12-25 21:49:46.734",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "hard to be motivated over cars in vanilla tho..."
-    },
-    {
-      "timestamp": "22-12-25 21:49:52.261",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "no humvee"
-    },
-    {
-      "timestamp": "22-12-25 21:49:52.261",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "no humvee"
-    },
-    {
-      "timestamp": "22-12-25 21:52:40.185",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Trueee"
-    },
-    {
-      "timestamp": "22-12-25 21:52:40.185",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Trueee"
-    },
-    {
-      "timestamp": "22-12-25 21:52:52.148",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "I miss when pickups at 100+ storage"
-    },
-    {
-      "timestamp": "22-12-25 21:52:52.148",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "I miss when pickups at 100+ storage"
-    },
-    {
-      "timestamp": "22-12-25 21:52:53.663",
+      "timestamp": "22-12-25 21:56:24.438",
       "chat_type": "General",
       "author": "Jacko",
-      "text": "yo"
+      "text": "firestorm ?"
     },
     {
-      "timestamp": "22-12-25 21:52:53.663",
+      "timestamp": "22-12-25 21:56:24.438",
       "chat_type": "General",
       "author": "Jacko",
-      "text": "yo"
+      "text": "firestorm ?"
     },
     {
-      "timestamp": "22-12-25 21:53:04.891",
+      "timestamp": "22-12-25 21:56:33.554",
       "chat_type": "General",
       "author": "Firestorm3050",
-      "text": "i think some still do"
+      "text": "hello!"
     },
     {
-      "timestamp": "22-12-25 21:53:04.891",
+      "timestamp": "22-12-25 21:56:33.554",
       "chat_type": "General",
       "author": "Firestorm3050",
-      "text": "i think some still do"
+      "text": "hello!"
+    },
+    {
+      "timestamp": "22-12-25 21:56:40.620",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "i remember you"
+    },
+    {
+      "timestamp": "22-12-25 21:56:40.620",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "i remember you"
+    },
+    {
+      "timestamp": "22-12-25 21:56:46.678",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "i used to be called ghost"
+    },
+    {
+      "timestamp": "22-12-25 21:56:46.678",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "i used to be called ghost"
+    },
+    {
+      "timestamp": "22-12-25 21:56:47.484",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i remember you too"
+    },
+    {
+      "timestamp": "22-12-25 21:56:47.484",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i remember you too"
+    },
+    {
+      "timestamp": "22-12-25 21:56:47.635",
+      "chat_type": "General",
+      "author": "half",
+      "text": "no"
+    },
+    {
+      "timestamp": "22-12-25 21:56:47.636",
+      "chat_type": "General",
+      "author": "half",
+      "text": "no"
+    },
+    {
+      "timestamp": "22-12-25 21:57:02.009",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ghostgoingdark?"
+    },
+    {
+      "timestamp": "22-12-25 21:57:02.009",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ghostgoingdark?"
+    },
+    {
+      "timestamp": "22-12-25 21:57:06.142",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "yh"
+    },
+    {
+      "timestamp": "22-12-25 21:57:06.143",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "yh"
+    },
+    {
+      "timestamp": "22-12-25 21:57:10.988",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "im boutta die fr"
+    },
+    {
+      "timestamp": "22-12-25 21:57:10.988",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "im boutta die fr"
+    },
+    {
+      "timestamp": "22-12-25 21:57:18.632",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "HELLO EVERYONE THAT JUST JOINED"
+    },
+    {
+      "timestamp": "22-12-25 21:57:18.632",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "HELLO EVERYONE THAT JUST JOINED"
+    },
+    {
+      "timestamp": "22-12-25 21:57:25.768",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "happy to have you back, it solves my confusion because another ghost joined after you left"
+    },
+    {
+      "timestamp": "22-12-25 21:57:25.768",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "happy to have you back, it solves my confusion because another ghost joined after you left"
+    },
+    {
+      "timestamp": "22-12-25 21:57:25.979",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "I was fighting big Zombeis"
+    },
+    {
+      "timestamp": "22-12-25 21:57:25.979",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "I was fighting big Zombeis"
+    },
+    {
+      "timestamp": "22-12-25 21:57:40.777",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "all i got is a shovel lol"
+    },
+    {
+      "timestamp": "22-12-25 21:57:40.777",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "all i got is a shovel lol"
+    },
+    {
+      "timestamp": "22-12-25 21:57:54.297",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Shovels are more than enough"
+    },
+    {
+      "timestamp": "22-12-25 21:57:54.297",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Shovels are more than enough"
+    },
+    {
+      "timestamp": "22-12-25 21:58:01.343",
+      "chat_type": "General",
+      "author": "half",
+      "text": "agreed"
+    },
+    {
+      "timestamp": "22-12-25 21:58:01.343",
+      "chat_type": "General",
+      "author": "half",
+      "text": "agreed"
+    },
+    {
+      "timestamp": "22-12-25 21:58:03.140",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "sick i found a gen"
+    },
+    {
+      "timestamp": "22-12-25 21:58:03.141",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "sick i found a gen"
+    },
+    {
+      "timestamp": "22-12-25 21:58:11.083",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Abuse fences, split the horde, run into a thicket so the smaller groups lose line of sight"
+    },
+    {
+      "timestamp": "22-12-25 21:58:11.084",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Abuse fences, split the horde, run into a thicket so the smaller groups lose line of sight"
+    },
+    {
+      "timestamp": "22-12-25 21:58:12.279",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "jacko, i have a whole neighborhood in muld if you want a safehouse area, there are 4 more free houses within my walled area"
+    },
+    {
+      "timestamp": "22-12-25 21:58:12.279",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "jacko, i have a whole neighborhood in muld if you want a safehouse area, there are 4 more free houses within my walled area"
+    },
+    {
+      "timestamp": "22-12-25 21:58:19.271",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Kill who follows, wander through and kill stragglers"
+    },
+    {
+      "timestamp": "22-12-25 21:58:19.271",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Kill who follows, wander through and kill stragglers"
+    },
+    {
+      "timestamp": "22-12-25 21:58:21.222",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "cool"
+    },
+    {
+      "timestamp": "22-12-25 21:58:21.222",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "cool"
+    },
+    {
+      "timestamp": "22-12-25 21:58:25.945",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "i found a generator"
+    },
+    {
+      "timestamp": "22-12-25 21:58:25.945",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "i found a generator"
+    },
+    {
+      "timestamp": "22-12-25 21:58:34.613",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "I will give you 3 rotten eggs for it"
+    },
+    {
+      "timestamp": "22-12-25 21:58:34.613",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "I will give you 3 rotten eggs for it"
+    },
+    {
+      "timestamp": "22-12-25 21:58:36.187",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "generators are a lot more common now"
+    },
+    {
+      "timestamp": "22-12-25 21:58:36.188",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "generators are a lot more common now"
+    },
+    {
+      "timestamp": "22-12-25 21:58:36.510",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "just need a way to get to muld lol"
+    },
+    {
+      "timestamp": "22-12-25 21:58:36.510",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "just need a way to get to muld lol"
+    },
+    {
+      "timestamp": "22-12-25 21:59:21.026",
+      "chat_type": "General",
+      "author": "half",
+      "text": "has loot respawned"
+    },
+    {
+      "timestamp": "22-12-25 21:59:21.026",
+      "chat_type": "General",
+      "author": "half",
+      "text": "has loot respawned"
     }
   ],
-  "timestamp": "2025-12-22T21:55:01.279153"
+  "timestamp": "2025-12-22T22:00:02.021398"
 }
