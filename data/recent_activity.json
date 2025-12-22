@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 14:55:29.884",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 14:55:29.885",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "22-12-25 15:01:17.075",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -356,21 +344,24 @@
       "steam_id": "76561198419791953",
       "username": "Pabstlite",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 20:07:12.771",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 20:07:54.529",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "fully connected",
+      "x": "11904",
+      "y": "6725",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 04:47:11.593",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "7278",
-      "y": "8505",
-      "z": "0",
-      "hours_survived": 151,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "2"
-    },
     {
       "timestamp": "22-12-25 05:21:54.356",
       "steam_id": "76561198119296623",
@@ -1132,6 +1123,53 @@
       "event_type": "level_up",
       "skill": "Axe",
       "level": "1"
+    },
+    {
+      "timestamp": "22-12-25 20:07:54.966",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "x": "11904",
+      "y": "6725",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 3,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 2,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 1,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1436,5 +1474,5 @@
       "text": "cya"
     }
   ],
-  "timestamp": "2025-12-22T20:05:01.200312"
+  "timestamp": "2025-12-22T20:10:01.570856"
 }
