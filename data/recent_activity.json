@@ -372,18 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 00:03:31.272",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8131",
-      "y": "11671",
-      "z": "0",
-      "hours_survived": 19,
-      "event_type": "level_up",
-      "skill": "Trapping",
-      "level": "1"
-    },
-    {
       "timestamp": "22-12-25 00:04:12.296",
       "steam_id": "76561198864938417",
       "username": "Woofie",
@@ -1010,33 +998,21 @@
       "event_type": "level_up",
       "skill": "FlintKnapping",
       "level": "3"
+    },
+    {
+      "timestamp": "22-12-25 02:52:46.686",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10660",
+      "y": "9566",
+      "z": "0",
+      "hours_survived": 269,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "4"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 02:33:07.193",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i have only tailoring 3"
-    },
-    {
-      "timestamp": "22-12-25 02:33:07.193",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i have only tailoring 3"
-    },
-    {
-      "timestamp": "22-12-25 02:33:37.191",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i still need to loot the school tho"
-    },
-    {
-      "timestamp": "22-12-25 02:33:37.191",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i still need to loot the school tho"
-    },
     {
       "timestamp": "22-12-25 02:33:48.254",
       "chat_type": "General",
@@ -1312,7 +1288,31 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "i cant wait until braziers become functional again"
+    },
+    {
+      "timestamp": "22-12-25 02:50:31.569",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "time to give my guy unbearable pain via 10 hours of pushups"
+    },
+    {
+      "timestamp": "22-12-25 02:50:31.569",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "time to give my guy unbearable pain via 10 hours of pushups"
+    },
+    {
+      "timestamp": "22-12-25 02:52:34.781",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "mmm... uncooked chicken feet"
+    },
+    {
+      "timestamp": "22-12-25 02:52:34.781",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "mmm... uncooked chicken feet"
     }
   ],
-  "timestamp": "2025-12-22T02:50:01.386696"
+  "timestamp": "2025-12-22T02:55:01.752006"
 }
