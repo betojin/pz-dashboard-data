@@ -360,65 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "21-12-25 22:08:54.631",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "10879",
-      "y": "10122",
-      "z": "0",
-      "hours_survived": 30,
-      "event_type": "level_up",
-      "skill": "Blunt",
-      "level": "1"
-    },
-    {
-      "timestamp": "21-12-25 22:11:45.014",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8215",
-      "y": "11677",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 1,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "21-12-25 22:16:42.859",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1029,69 +970,33 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "3"
+    },
+    {
+      "timestamp": "22-12-25 01:17:07.105",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8128",
+      "y": "11683",
+      "z": "0",
+      "hours_survived": 48,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "4"
+    },
+    {
+      "timestamp": "22-12-25 01:19:47.712",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8119",
+      "y": "11694",
+      "z": "0",
+      "hours_survived": 49,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 01:02:25.026",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "oh the site shows ingame hours survived not actual"
-    },
-    {
-      "timestamp": "22-12-25 01:02:25.026",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "oh the site shows ingame hours survived not actual"
-    },
-    {
-      "timestamp": "22-12-25 01:02:42.945",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "i was sittin here \"100 hours already thats a lot didnt this just open\""
-    },
-    {
-      "timestamp": "22-12-25 01:02:42.945",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "i was sittin here \"100 hours already thats a lot didnt this just open\""
-    },
-    {
-      "timestamp": "22-12-25 01:03:40.458",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i need to actually go look at this site"
-    },
-    {
-      "timestamp": "22-12-25 01:03:40.459",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i need to actually go look at this site"
-    },
-    {
-      "timestamp": "22-12-25 01:03:50.825",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "i dont see a toggle for dark mode though"
-    },
-    {
-      "timestamp": "22-12-25 01:03:50.825",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "i dont see a toggle for dark mode though"
-    },
-    {
-      "timestamp": "22-12-25 01:04:00.360",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "nvm im just blind"
-    },
-    {
-      "timestamp": "22-12-25 01:04:00.360",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "nvm im just blind"
-    },
     {
       "timestamp": "22-12-25 01:04:31.756",
       "chat_type": "General",
@@ -1331,7 +1236,67 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "found a cartoon of nails. i feel like a true forester again"
+    },
+    {
+      "timestamp": "22-12-25 01:19:32.603",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i found a photo of an \"unclothed couple\""
+    },
+    {
+      "timestamp": "22-12-25 01:19:32.603",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i found a photo of an \"unclothed couple\""
+    },
+    {
+      "timestamp": "22-12-25 01:19:50.950",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "mustve been taken in that basement"
+    },
+    {
+      "timestamp": "22-12-25 01:19:50.951",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "mustve been taken in that basement"
+    },
+    {
+      "timestamp": "22-12-25 01:19:55.609",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "yeah theres also a \"picture of a man in bed with a corpse\""
+    },
+    {
+      "timestamp": "22-12-25 01:19:55.609",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "yeah theres also a \"picture of a man in bed with a corpse\""
+    },
+    {
+      "timestamp": "22-12-25 01:20:00.487",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "woah hey"
+    },
+    {
+      "timestamp": "22-12-25 01:20:00.487",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "woah hey"
+    },
+    {
+      "timestamp": "22-12-25 01:20:00.787",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "i think"
+    },
+    {
+      "timestamp": "22-12-25 01:20:00.787",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "i think"
     }
   ],
-  "timestamp": "2025-12-22T01:15:01.087573"
+  "timestamp": "2025-12-22T01:20:01.398308"
 }
