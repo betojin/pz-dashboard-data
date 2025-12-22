@@ -360,53 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "21-12-25 21:55:52.405",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10662",
-      "y": "9569",
-      "z": "0",
-      "hours_survived": 150,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 2,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 1,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 2,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "21-12-25 22:01:30.454",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -1099,69 +1052,21 @@
       "event_type": "level_up",
       "skill": "Aiming",
       "level": "5"
+    },
+    {
+      "timestamp": "22-12-25 00:52:49.531",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5738",
+      "y": "5742",
+      "z": "0",
+      "hours_survived": 37,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "21-12-25 22:49:02.690",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "21-12-25 22:49:02.690",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "21-12-25 22:52:49.526",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "vroom vroom"
-    },
-    {
-      "timestamp": "21-12-25 22:52:49.526",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "vroom vroom"
-    },
-    {
-      "timestamp": "21-12-25 23:35:34.581",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "but i got cowboy boots to go with it xD"
-    },
-    {
-      "timestamp": "21-12-25 23:35:34.581",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "but i got cowboy boots to go with it xD"
-    },
-    {
-      "timestamp": "21-12-25 23:44:01.810",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "21-12-25 23:44:01.810",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "21-12-25 23:46:20.605",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "21-12-25 23:46:20.605",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "21-12-25 23:51:04.295",
       "chat_type": "Local",
@@ -1401,7 +1306,67 @@
       "chat_type": "General",
       "author": "Sully",
       "text": "welcome back"
+    },
+    {
+      "timestamp": "22-12-25 00:51:26.231",
+      "chat_type": "General",
+      "author": "half",
+      "text": "oh no fuel pumps are limited"
+    },
+    {
+      "timestamp": "22-12-25 00:51:26.231",
+      "chat_type": "General",
+      "author": "half",
+      "text": "oh no fuel pumps are limited"
+    },
+    {
+      "timestamp": "22-12-25 00:51:31.858",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yeah"
+    },
+    {
+      "timestamp": "22-12-25 00:51:31.859",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yeah"
+    },
+    {
+      "timestamp": "22-12-25 00:52:00.680",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "without gas, i may need to move to a farmhouse by the river"
+    },
+    {
+      "timestamp": "22-12-25 00:52:00.680",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "without gas, i may need to move to a farmhouse by the river"
+    },
+    {
+      "timestamp": "22-12-25 00:52:18.464",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i can survive without gas, but its a 3-day rotation to do it"
+    },
+    {
+      "timestamp": "22-12-25 00:52:18.464",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i can survive without gas, but its a 3-day rotation to do it"
+    },
+    {
+      "timestamp": "22-12-25 00:53:04.651",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "severely crimps the distance you can travel to loot if you want a permanent base"
+    },
+    {
+      "timestamp": "22-12-25 00:53:04.651",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "severely crimps the distance you can travel to loot if you want a permanent base"
     }
   ],
-  "timestamp": "2025-12-22T00:50:01.416022"
+  "timestamp": "2025-12-22T00:55:01.713537"
 }
