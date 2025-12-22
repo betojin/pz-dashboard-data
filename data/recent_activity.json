@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 05:26:54.325",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "22-12-25 05:27:57.518",
       "steam_id": "76561198864938417",
       "username": "Woofie",
@@ -347,56 +341,18 @@
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 17:02:11.538",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "5903",
+      "y": "5341",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 03:16:59.976",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "x": "10844",
-      "y": "9744",
-      "z": "0",
-      "hours_survived": 83,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 1,
-        "Woodwork": 0,
-        "Aiming": 5,
-        "Reloading": 5,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 1,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "22-12-25 03:21:48.479",
       "steam_id": "76561198031138505",
@@ -1263,33 +1219,56 @@
       "event_type": "level_up",
       "skill": "Carving",
       "level": "3"
+    },
+    {
+      "timestamp": "22-12-25 17:02:11.948",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5903",
+      "y": "5341",
+      "z": "0",
+      "hours_survived": 57,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 7,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 1,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 1,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 16:34:15.463",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "sand is the glue to hold the meat together in the water"
-    },
-    {
-      "timestamp": "22-12-25 16:34:15.463",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "sand is the glue to hold the meat together in the water"
-    },
-    {
-      "timestamp": "22-12-25 16:34:27.715",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "you can dig it up, but it makes the map look ugly"
-    },
-    {
-      "timestamp": "22-12-25 16:34:27.715",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "you can dig it up, but it makes the map look ugly"
-    },
     {
       "timestamp": "22-12-25 16:34:37.735",
       "chat_type": "General",
@@ -1565,7 +1544,31 @@
       "chat_type": "General",
       "author": "Woofie",
       "text": "Bob NOOOO"
+    },
+    {
+      "timestamp": "22-12-25 17:04:45.256",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i need to relog. my power supply just tripped"
+    },
+    {
+      "timestamp": "22-12-25 17:04:45.256",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i need to relog. my power supply just tripped"
+    },
+    {
+      "timestamp": "22-12-25 17:05:00.697",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ill be restarting my whole computer so it will be a minute"
+    },
+    {
+      "timestamp": "22-12-25 17:05:00.697",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ill be restarting my whole computer so it will be a minute"
     }
   ],
-  "timestamp": "2025-12-22T17:00:01.770549"
+  "timestamp": "2025-12-22T17:05:01.201961"
 }
