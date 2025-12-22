@@ -360,18 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 03:08:54.988",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10660",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 275,
-      "event_type": "level_up",
-      "skill": "Farming",
-      "level": "1"
-    },
-    {
       "timestamp": "22-12-25 03:09:06.006",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -1202,45 +1190,21 @@
       "z": "0",
       "hours_survived": 0,
       "event_type": "created"
+    },
+    {
+      "timestamp": "22-12-25 15:33:49.421",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "x": "10674",
+      "y": "9562",
+      "z": "0",
+      "hours_survived": 2,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "3"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 15:16:18.267",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "there is ttainted water just south from here"
-    },
-    {
-      "timestamp": "22-12-25 15:16:18.267",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "there is ttainted water just south from here"
-    },
-    {
-      "timestamp": "22-12-25 15:16:26.474",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "ah"
-    },
-    {
-      "timestamp": "22-12-25 15:16:26.474",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "ah"
-    },
-    {
-      "timestamp": "22-12-25 15:16:43.065",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "well, east technically"
-    },
-    {
-      "timestamp": "22-12-25 15:16:43.065",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "well, east technically"
-    },
     {
       "timestamp": "22-12-25 15:16:48.685",
       "chat_type": "General",
@@ -1504,7 +1468,43 @@
       "chat_type": "Local",
       "author": "Molotov Kid",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "22-12-25 15:33:37.952",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "do you need water or food?"
+    },
+    {
+      "timestamp": "22-12-25 15:33:37.952",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "do you need water or food?"
+    },
+    {
+      "timestamp": "22-12-25 15:33:50.237",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "im set on both"
+    },
+    {
+      "timestamp": "22-12-25 15:33:50.237",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "im set on both"
+    },
+    {
+      "timestamp": "22-12-25 15:33:53.863",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "alr"
+    },
+    {
+      "timestamp": "22-12-25 15:33:53.863",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "alr"
     }
   ],
-  "timestamp": "2025-12-22T15:30:01.582376"
+  "timestamp": "2025-12-22T15:35:01.894188"
 }
