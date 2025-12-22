@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 03:21:48.186",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "fully connected",
-      "x": "10660",
-      "y": "9571",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 03:25:17.873",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 03:25:17.873",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 03:26:26.752",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "22-12-25 03:30:14.648",
       "steam_id": "76561198864938417",
       "username": "Woofie",
@@ -350,21 +323,36 @@
       "x": "10038",
       "y": "8062",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 06:25:42.760",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 06:25:42.761",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 06:25:49.333",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 06:26:04.172",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "fully connected",
+      "x": "10821",
+      "y": "9072",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 02:31:37.206",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "10046",
-      "y": "8241",
-      "z": "0",
-      "hours_survived": 104,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "1"
-    },
     {
       "timestamp": "22-12-25 02:36:39.087",
       "steam_id": "76561198864938417",
@@ -1027,21 +1015,56 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 06:26:04.666",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "10821",
+      "y": "9072",
+      "z": "0",
+      "hours_survived": 49,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 03:39:19.287",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:19.287",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY!"
-    },
     {
       "timestamp": "22-12-25 03:39:19.963",
       "chat_type": "Local",
@@ -1329,7 +1352,19 @@
       "chat_type": "Local",
       "author": "Woofie",
       "text": "WHY ARE YOU STRESSED"
+    },
+    {
+      "timestamp": "22-12-25 06:26:28.047",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "oh hi woofie"
+    },
+    {
+      "timestamp": "22-12-25 06:26:28.048",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "oh hi woofie"
     }
   ],
-  "timestamp": "2025-12-22T06:25:01.603412"
+  "timestamp": "2025-12-22T06:30:01.971048"
 }
