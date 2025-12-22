@@ -491,7 +491,7 @@
     "Woofie": {
       "username": "Woofie",
       "steam_id": "76561198864938417",
-      "total_hours": 196,
+      "total_hours": 207,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -526,7 +526,7 @@
         "FlintKnapping": 3,
         "Masonry": 0,
         "Pottery": 0,
-        "Carving": 2,
+        "Carving": 3,
         "Butchering": 0,
         "Glassmaking": 0
       },
@@ -595,9 +595,14 @@
           "skill": "Strength",
           "level": "3",
           "timestamp": "22-12-25 16:25:29.837"
+        },
+        {
+          "skill": "Carving",
+          "level": "3",
+          "timestamp": "22-12-25 16:53:19.630"
         }
       ],
-      "last_seen": "22-12-25 16:25:29.837",
+      "last_seen": "22-12-25 16:53:19.630",
       "connections": 4
     },
     "half": {
@@ -844,5 +849,5 @@
     }
   },
   "total_players": 11,
-  "timestamp": "2025-12-22T16:50:02.054906"
+  "timestamp": "2025-12-22T16:55:01.423921"
 }

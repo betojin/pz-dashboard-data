@@ -354,18 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 03:16:53.093",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10660",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 278,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "3"
-    },
-    {
       "timestamp": "22-12-25 03:16:59.976",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -1266,6 +1254,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 16:53:19.630",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "10113",
+      "y": "8245",
+      "z": "0",
+      "hours_survived": 207,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1570,5 +1570,5 @@
       "text": "are you a returning player or new to the server?"
     }
   ],
-  "timestamp": "2025-12-22T16:50:02.073745"
+  "timestamp": "2025-12-22T16:55:01.443187"
 }
