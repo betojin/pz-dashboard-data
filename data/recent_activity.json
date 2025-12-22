@@ -363,16 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "21-12-25 19:18:38.321",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "8215",
-      "y": "11677",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
-    {
       "timestamp": "21-12-25 19:28:30.138",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -1057,6 +1047,18 @@
       "event_type": "level_up",
       "skill": "SmallBlunt",
       "level": "1"
+    },
+    {
+      "timestamp": "21-12-25 23:58:59.077",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8130",
+      "y": "11671",
+      "z": "0",
+      "hours_survived": 17,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1361,5 +1363,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-21T23:55:01.863997"
+  "timestamp": "2025-12-22T00:00:01.193732"
 }
