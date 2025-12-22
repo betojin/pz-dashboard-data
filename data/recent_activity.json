@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 03:30:14.648",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "fully connected",
-      "x": "8645",
-      "y": "8445",
-      "z": "0"
-    },
-    {
       "timestamp": "22-12-25 03:32:05.557",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -350,6 +341,15 @@
       "x": "10821",
       "y": "9072",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 06:36:50.836",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "disconnected",
+      "x": "10085",
+      "y": "8263",
+      "z": "1"
     }
   ],
   "perk_events": [
@@ -1366,5 +1366,5 @@
       "text": "oh hi woofie"
     }
   ],
-  "timestamp": "2025-12-22T06:35:01.285476"
+  "timestamp": "2025-12-22T06:40:01.573136"
 }
