@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 06:26:04.666",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "10821",
-      "y": "9072",
-      "z": "0",
-      "hours_survived": 49,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "22-12-25 07:57:29.008",
       "steam_id": "76561198095700017",
       "username": "buttersshoes",
@@ -1135,117 +1088,21 @@
       "event_type": "level_up",
       "skill": "Nimble",
       "level": "1"
+    },
+    {
+      "timestamp": "22-12-25 21:27:49.424",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 438,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "3"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 18:44:51.167",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "jesus Kessel"
-    },
-    {
-      "timestamp": "22-12-25 18:44:51.167",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "jesus Kessel"
-    },
-    {
-      "timestamp": "22-12-25 18:45:03.752",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "its a massive chicken farm causing lag"
-    },
-    {
-      "timestamp": "22-12-25 18:45:03.752",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "its a massive chicken farm causing lag"
-    },
-    {
-      "timestamp": "22-12-25 18:45:20.515",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "should be better"
-    },
-    {
-      "timestamp": "22-12-25 18:45:20.515",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "should be better"
-    },
-    {
-      "timestamp": "22-12-25 18:50:58.308",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "echo has been massacered a little bit"
-    },
-    {
-      "timestamp": "22-12-25 18:50:58.308",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "echo has been massacered a little bit"
-    },
-    {
-      "timestamp": "22-12-25 18:51:34.892",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "22-12-25 18:51:34.892",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "22-12-25 19:01:05.403",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "have a good day yall ill be back later"
-    },
-    {
-      "timestamp": "22-12-25 19:01:05.403",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "have a good day yall ill be back later"
-    },
-    {
-      "timestamp": "22-12-25 19:01:10.080",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "cya"
-    },
-    {
-      "timestamp": "22-12-25 19:01:10.080",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "cya"
-    },
-    {
-      "timestamp": "22-12-25 20:10:59.995",
-      "chat_type": "Local",
-      "author": "Pabstlite",
-      "text": "psst"
-    },
-    {
-      "timestamp": "22-12-25 20:10:59.995",
-      "chat_type": "Local",
-      "author": "Pabstlite",
-      "text": "psst"
-    },
-    {
-      "timestamp": "22-12-25 20:20:40.695",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "hey welcome back pabst"
-    },
-    {
-      "timestamp": "22-12-25 20:20:40.696",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "hey welcome back pabst"
-    },
     {
       "timestamp": "22-12-25 20:35:32.678",
       "chat_type": "Local",
@@ -1437,7 +1294,115 @@
       "chat_type": "General",
       "author": "Pabstlite",
       "text": "Huh, already? I forget how adventurous some people can be"
+    },
+    {
+      "timestamp": "22-12-25 21:25:24.047",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Do you know if anyone has hit the small Camping Supply Store inbetween Riverside and Echo Creek?"
+    },
+    {
+      "timestamp": "22-12-25 21:25:24.047",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Do you know if anyone has hit the small Camping Supply Store inbetween Riverside and Echo Creek?"
+    },
+    {
+      "timestamp": "22-12-25 21:26:48.525",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Good man, thats what I do to"
+    },
+    {
+      "timestamp": "22-12-25 21:26:48.525",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Good man, thats what I do to"
+    },
+    {
+      "timestamp": "22-12-25 21:26:58.687",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "I get like 2 of each tool then leave the rest"
+    },
+    {
+      "timestamp": "22-12-25 21:26:58.687",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "I get like 2 of each tool then leave the rest"
+    },
+    {
+      "timestamp": "22-12-25 21:27:11.474",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "tools break now during crafting tho"
+    },
+    {
+      "timestamp": "22-12-25 21:27:11.474",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "tools break now during crafting tho"
+    },
+    {
+      "timestamp": "22-12-25 21:28:11.072",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Oh they do? Like lose durability?"
+    },
+    {
+      "timestamp": "22-12-25 21:28:11.072",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Oh they do? Like lose durability?"
+    },
+    {
+      "timestamp": "22-12-25 21:28:16.968",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yup"
+    },
+    {
+      "timestamp": "22-12-25 21:28:16.968",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yup"
+    },
+    {
+      "timestamp": "22-12-25 21:28:20.486",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Shit"
+    },
+    {
+      "timestamp": "22-12-25 21:28:20.486",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Shit"
+    },
+    {
+      "timestamp": "22-12-25 21:28:21.183",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "most can be crafted too"
+    },
+    {
+      "timestamp": "22-12-25 21:28:21.183",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "most can be crafted too"
+    },
+    {
+      "timestamp": "22-12-25 21:28:24.253",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "HORDE, GIMME 5"
+    },
+    {
+      "timestamp": "22-12-25 21:28:24.253",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "HORDE, GIMME 5"
     }
   ],
-  "timestamp": "2025-12-22T21:25:01.143593"
+  "timestamp": "2025-12-22T21:30:01.451342"
 }
