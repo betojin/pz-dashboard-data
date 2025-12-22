@@ -1,51 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 00:19:39.764",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "fully connected",
-      "x": "6090",
-      "y": "5314",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 00:34:52.592",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 00:34:52.593",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 00:35:15.853",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 00:35:34.230",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "fully connected",
-      "x": "10103",
-      "y": "8260",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 00:35:44.888",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "disconnected",
-      "x": "8230",
-      "y": "11554",
-      "z": "0"
-    },
-    {
       "timestamp": "22-12-25 00:36:21.382",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -359,33 +314,54 @@
       "steam_id": "76561198864938417",
       "username": "Woofie",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 03:30:14.648",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "fully connected",
+      "x": "8645",
+      "y": "8445",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 03:32:05.557",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "disconnected",
+      "x": "10754",
+      "y": "9681",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 03:32:49.809",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 03:32:49.809",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 03:33:04.342",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 03:33:32.170",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "fully connected",
+      "x": "10754",
+      "y": "9681",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 00:52:49.531",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5738",
-      "y": "5742",
-      "z": "0",
-      "hours_survived": 37,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "1"
-    },
-    {
-      "timestamp": "22-12-25 00:59:33.702",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "x": "5477",
-      "y": "9516",
-      "z": "0",
-      "hours_survived": 53,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "5"
-    },
     {
       "timestamp": "22-12-25 01:11:01.005",
       "steam_id": "76561199251232344",
@@ -931,117 +907,103 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 03:30:31.567",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "8645",
+      "y": "8445",
+      "z": "0",
+      "hours_survived": 122,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 2,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 1,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 2,
+        "PlantScavenging": 6,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 3,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "22-12-25 03:33:33.707",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "x": "10754",
+      "y": "9681",
+      "z": "0",
+      "hours_survived": 89,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 9,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 1,
+        "Woodwork": 0,
+        "Aiming": 5,
+        "Reloading": 5,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 1,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 02:39:41.873",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "nooo not bob"
-    },
-    {
-      "timestamp": "22-12-25 02:39:41.873",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "nooo not bob"
-    },
-    {
-      "timestamp": "22-12-25 02:39:47.157",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "he was my best bud"
-    },
-    {
-      "timestamp": "22-12-25 02:39:47.158",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "he was my best bud"
-    },
-    {
-      "timestamp": "22-12-25 02:42:44.459",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "OMG i found a trash goblin lol"
-    },
-    {
-      "timestamp": "22-12-25 02:42:44.459",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "OMG i found a trash goblin lol"
-    },
-    {
-      "timestamp": "22-12-25 02:46:52.584",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "not a loot one?"
-    },
-    {
-      "timestamp": "22-12-25 02:46:52.584",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "not a loot one?"
-    },
-    {
-      "timestamp": "22-12-25 02:46:58.335",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "mmmm knapping"
-    },
-    {
-      "timestamp": "22-12-25 02:46:58.335",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "mmmm knapping"
-    },
-    {
-      "timestamp": "22-12-25 02:47:41.993",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "i already got one thats my endgoal"
-    },
-    {
-      "timestamp": "22-12-25 02:47:41.993",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "i already got one thats my endgoal"
-    },
-    {
-      "timestamp": "22-12-25 02:47:48.873",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "just gotta grind up to knapping four"
-    },
-    {
-      "timestamp": "22-12-25 02:47:48.874",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "just gotta grind up to knapping four"
-    },
-    {
-      "timestamp": "22-12-25 02:48:29.859",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "all this cause i broke my axe on a tree"
-    },
-    {
-      "timestamp": "22-12-25 02:48:29.859",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "all this cause i broke my axe on a tree"
-    },
-    {
-      "timestamp": "22-12-25 02:48:36.174",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "im at war"
-    },
-    {
-      "timestamp": "22-12-25 02:48:36.174",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "im at war"
-    },
     {
       "timestamp": "22-12-25 02:48:42.480",
       "chat_type": "General",
@@ -1233,7 +1195,115 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "thats why i just relogged"
+    },
+    {
+      "timestamp": "22-12-25 03:30:19.181",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "im overloaded on crates, ill come in 1 sec"
+    },
+    {
+      "timestamp": "22-12-25 03:30:19.181",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "im overloaded on crates, ill come in 1 sec"
+    },
+    {
+      "timestamp": "22-12-25 03:31:48.174",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "its letting me pick up other stuff, but not my hat"
+    },
+    {
+      "timestamp": "22-12-25 03:31:48.174",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "its letting me pick up other stuff, but not my hat"
+    },
+    {
+      "timestamp": "22-12-25 03:31:53.110",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "let me relog"
+    },
+    {
+      "timestamp": "22-12-25 03:31:53.110",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "let me relog"
+    },
+    {
+      "timestamp": "22-12-25 03:32:04.689",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "omw, ill be enr still"
+    },
+    {
+      "timestamp": "22-12-25 03:32:04.689",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "omw, ill be enr still"
+    },
+    {
+      "timestamp": "22-12-25 03:33:51.079",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "there we go"
+    },
+    {
+      "timestamp": "22-12-25 03:33:51.079",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "there we go"
+    },
+    {
+      "timestamp": "22-12-25 03:33:54.968",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "im headed towards you now"
+    },
+    {
+      "timestamp": "22-12-25 03:33:54.969",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "im headed towards you now"
+    },
+    {
+      "timestamp": "22-12-25 03:34:32.513",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "uh, huge horde coming to me"
+    },
+    {
+      "timestamp": "22-12-25 03:34:32.513",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "uh, huge horde coming to me"
+    },
+    {
+      "timestamp": "22-12-25 03:34:39.816",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "COME GET SOME"
+    },
+    {
+      "timestamp": "22-12-25 03:34:39.816",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "COME GET SOME"
+    },
+    {
+      "timestamp": "22-12-25 03:34:57.617",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ive met my exhaustino moodle. cant fight them"
+    },
+    {
+      "timestamp": "22-12-25 03:34:57.618",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ive met my exhaustino moodle. cant fight them"
     }
   ],
-  "timestamp": "2025-12-22T03:30:01.954104"
+  "timestamp": "2025-12-22T03:35:01.232981"
 }
