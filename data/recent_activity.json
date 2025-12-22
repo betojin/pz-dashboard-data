@@ -357,18 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 04:25:30.708",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "5295",
-      "y": "10277",
-      "z": "0",
-      "hours_survived": 143,
-      "event_type": "level_up",
-      "skill": "PlantScavenging",
-      "level": "7"
-    },
-    {
       "timestamp": "22-12-25 04:26:29.856",
       "steam_id": "76561198095700017",
       "username": "buttersshoes",
@@ -1164,6 +1152,18 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "2"
+    },
+    {
+      "timestamp": "22-12-25 17:53:15.170",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10699",
+      "y": "9595",
+      "z": "0",
+      "hours_survived": 352,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1468,5 +1468,5 @@
       "text": "giggity"
     }
   ],
-  "timestamp": "2025-12-22T17:50:01.462263"
+  "timestamp": "2025-12-22T17:55:01.767884"
 }
