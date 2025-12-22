@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 22:11:04.963",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "21-12-25 22:11:44.499",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -365,6 +359,15 @@
       "x": "8129",
       "y": "11680",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 02:14:13.286",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "disconnected",
+      "x": "8002",
+      "y": "11547",
+      "z": "1"
     }
   ],
   "perk_events": [
@@ -1011,90 +1014,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 01:56:58.591",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "i found a few of them in the trauma bags in ambulances"
-    },
-    {
-      "timestamp": "22-12-25 01:56:58.591",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "i found a few of them in the trauma bags in ambulances"
-    },
-    {
-      "timestamp": "22-12-25 01:57:15.013",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "not a fancy engineer car or anything but"
-    },
-    {
-      "timestamp": "22-12-25 01:57:15.013",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "not a fancy engineer car or anything but"
-    },
-    {
-      "timestamp": "22-12-25 01:57:18.308",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "no its been like that"
-    },
-    {
-      "timestamp": "22-12-25 01:57:18.308",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "no its been like that"
-    },
-    {
-      "timestamp": "22-12-25 01:57:37.297",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "they are convenient for fanny packs but not great for outdoors use"
-    },
-    {
-      "timestamp": "22-12-25 01:57:37.297",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "they are convenient for fanny packs but not great for outdoors use"
-    },
-    {
-      "timestamp": "22-12-25 01:57:42.131",
-      "chat_type": "General",
-      "author": "half",
-      "text": "i need a carp 3 book"
-    },
-    {
-      "timestamp": "22-12-25 01:57:42.131",
-      "chat_type": "General",
-      "author": "half",
-      "text": "i need a carp 3 book"
-    },
-    {
-      "timestamp": "22-12-25 01:57:51.270",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i have 1, i need carp 1"
-    },
-    {
-      "timestamp": "22-12-25 01:57:51.270",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i have 1, i need carp 1"
-    },
-    {
-      "timestamp": "22-12-25 01:58:00.102",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "that things got 120 capac with organized in the trunk so, i might just grind to hotwire it"
-    },
-    {
-      "timestamp": "22-12-25 01:58:00.102",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "that things got 120 capac with organized in the trunk so, i might just grind to hotwire it"
-    },
-    {
       "timestamp": "22-12-25 01:58:33.175",
       "chat_type": "Local",
       "author": "Kessel",
@@ -1309,7 +1228,91 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "has an airport now"
+    },
+    {
+      "timestamp": "22-12-25 02:10:43.623",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "the hole in the fence still exists"
+    },
+    {
+      "timestamp": "22-12-25 02:10:43.623",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "the hole in the fence still exists"
+    },
+    {
+      "timestamp": "22-12-25 02:11:05.695",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "also, its no longer the only checkpoint. brandenburg has one 2"
+    },
+    {
+      "timestamp": "22-12-25 02:11:05.695",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "also, its no longer the only checkpoint. brandenburg has one 2"
+    },
+    {
+      "timestamp": "22-12-25 02:11:20.857",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "woofie what is the type of ammo i need for the rifle in our gun case?"
+    },
+    {
+      "timestamp": "22-12-25 02:11:20.857",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "woofie what is the type of ammo i need for the rifle in our gun case?"
+    },
+    {
+      "timestamp": "22-12-25 02:11:37.615",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "what is the rifle?"
+    },
+    {
+      "timestamp": "22-12-25 02:11:37.615",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "what is the rifle?"
+    },
+    {
+      "timestamp": "22-12-25 02:11:42.905",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": ".308"
+    },
+    {
+      "timestamp": "22-12-25 02:11:42.906",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": ".308"
+    },
+    {
+      "timestamp": "22-12-25 02:11:48.061",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "mkay"
+    },
+    {
+      "timestamp": "22-12-25 02:11:48.061",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "mkay"
+    },
+    {
+      "timestamp": "22-12-25 02:14:14.799",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "crap i gtg"
+    },
+    {
+      "timestamp": "22-12-25 02:14:14.799",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "crap i gtg"
     }
   ],
-  "timestamp": "2025-12-22T02:10:01.659669"
+  "timestamp": "2025-12-22T02:15:02.056512"
 }
