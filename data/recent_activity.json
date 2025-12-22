@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 22:33:58.561",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "21-12-25 22:34:35.474",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -365,33 +359,18 @@
       "x": "8002",
       "y": "11547",
       "z": "1"
+    },
+    {
+      "timestamp": "22-12-25 02:39:42.465",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "disconnected",
+      "x": "8116",
+      "y": "11295",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "21-12-25 23:42:41.092",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "10098",
-      "y": "8261",
-      "z": "1",
-      "hours_survived": 37,
-      "event_type": "level_up",
-      "skill": "Strength",
-      "level": "1"
-    },
-    {
-      "timestamp": "21-12-25 23:50:17.586",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8136",
-      "y": "11605",
-      "z": "0",
-      "hours_survived": 14,
-      "event_type": "level_up",
-      "skill": "SmallBlunt",
-      "level": "1"
-    },
     {
       "timestamp": "21-12-25 23:58:59.077",
       "steam_id": "76561198368197161",
@@ -1007,93 +986,33 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "1"
+    },
+    {
+      "timestamp": "22-12-25 02:36:39.087",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "10116",
+      "y": "8240",
+      "z": "0",
+      "hours_survived": 106,
+      "event_type": "level_up",
+      "skill": "FlintKnapping",
+      "level": "2"
+    },
+    {
+      "timestamp": "22-12-25 02:40:01.543",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10890",
+      "y": "9659",
+      "z": "0",
+      "hours_survived": 264,
+      "event_type": "level_up",
+      "skill": "SmallBlunt",
+      "level": "3"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 02:16:46.118",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "walking through the woods looking for ROCKS"
-    },
-    {
-      "timestamp": "22-12-25 02:16:46.118",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "walking through the woods looking for ROCKS"
-    },
-    {
-      "timestamp": "22-12-25 02:16:47.662",
-      "chat_type": "General",
-      "author": "half",
-      "text": "woah i can claim the rosewood church"
-    },
-    {
-      "timestamp": "22-12-25 02:16:47.662",
-      "chat_type": "General",
-      "author": "half",
-      "text": "woah i can claim the rosewood church"
-    },
-    {
-      "timestamp": "22-12-25 02:17:04.364",
-      "chat_type": "General",
-      "author": "half",
-      "text": "have you always been able too?"
-    },
-    {
-      "timestamp": "22-12-25 02:17:04.365",
-      "chat_type": "General",
-      "author": "half",
-      "text": "have you always been able too?"
-    },
-    {
-      "timestamp": "22-12-25 02:17:12.670",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i think so?"
-    },
-    {
-      "timestamp": "22-12-25 02:17:12.670",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i think so?"
-    },
-    {
-      "timestamp": "22-12-25 02:23:35.364",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "found a bunch of T1 books lets go"
-    },
-    {
-      "timestamp": "22-12-25 02:23:35.364",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "found a bunch of T1 books lets go"
-    },
-    {
-      "timestamp": "22-12-25 02:30:15.779",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "fire you do tailoring right?"
-    },
-    {
-      "timestamp": "22-12-25 02:30:15.780",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "fire you do tailoring right?"
-    },
-    {
-      "timestamp": "22-12-25 02:31:13.137",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "ah"
-    },
-    {
-      "timestamp": "22-12-25 02:31:13.138",
-      "chat_type": "General",
-      "author": "Kessel",
-      "text": "ah"
-    },
     {
       "timestamp": "22-12-25 02:31:18.142",
       "chat_type": "General",
@@ -1309,7 +1228,91 @@
       "chat_type": "General",
       "author": "Kessel",
       "text": "oh"
+    },
+    {
+      "timestamp": "22-12-25 02:36:25.634",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "the glorious sound of... a rock being hit against another rock"
+    },
+    {
+      "timestamp": "22-12-25 02:36:25.635",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "the glorious sound of... a rock being hit against another rock"
+    },
+    {
+      "timestamp": "22-12-25 02:36:48.267",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "banging rocks together ftw"
+    },
+    {
+      "timestamp": "22-12-25 02:36:48.267",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "banging rocks together ftw"
+    },
+    {
+      "timestamp": "22-12-25 02:36:56.500",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "unreasonably loud"
+    },
+    {
+      "timestamp": "22-12-25 02:36:56.500",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "unreasonably loud"
+    },
+    {
+      "timestamp": "22-12-25 02:37:53.714",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "22-12-25 02:37:53.714",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "22-12-25 02:38:26.950",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "survivor car full of beer? yes please"
+    },
+    {
+      "timestamp": "22-12-25 02:38:26.951",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "survivor car full of beer? yes please"
+    },
+    {
+      "timestamp": "22-12-25 02:39:41.873",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "nooo not bob"
+    },
+    {
+      "timestamp": "22-12-25 02:39:41.873",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "nooo not bob"
+    },
+    {
+      "timestamp": "22-12-25 02:39:47.157",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "he was my best bud"
+    },
+    {
+      "timestamp": "22-12-25 02:39:47.158",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "he was my best bud"
     }
   ],
-  "timestamp": "2025-12-22T02:35:01.495292"
+  "timestamp": "2025-12-22T02:40:01.752412"
 }
