@@ -1,30 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 16:37:19.543",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutters",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 16:37:19.544",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutters",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 16:38:09.351",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutters",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 16:42:49.570",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "22-12-25 16:42:49.571",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -350,41 +326,36 @@
       "x": "5884",
       "y": "5738",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 22:47:52.394",
+      "steam_id": "76561198095700017",
+      "username": "buttersshoes",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 22:47:52.394",
+      "steam_id": "76561198095700017",
+      "username": "buttersshoes",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 22:47:58.916",
+      "steam_id": "76561198095700017",
+      "username": "buttersshoes",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 22:48:26.087",
+      "steam_id": "76561198095700017",
+      "username": "buttersshoes",
+      "action": "fully connected",
+      "x": "10874",
+      "y": "10186",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 15:26:02.324",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "x": "6110",
-      "y": "6356",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "died"
-    },
-    {
-      "timestamp": "22-12-25 15:26:23.832",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "x": "10872",
-      "y": "9489",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
-    {
-      "timestamp": "22-12-25 15:33:49.421",
-      "steam_id": "76561199163725035",
-      "username": "Molotov Kid",
-      "x": "10674",
-      "y": "9562",
-      "z": "0",
-      "hours_survived": 2,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "3"
-    },
     {
       "timestamp": "22-12-25 15:48:18.070",
       "steam_id": "76561198864938417",
@@ -1093,309 +1064,380 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 22:45:53.973",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8127",
+      "y": "11542",
+      "z": "0",
+      "hours_survived": 103,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "3"
+    },
+    {
+      "timestamp": "22-12-25 22:47:16.561",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8120",
+      "y": "11565",
+      "z": "0",
+      "hours_survived": 104,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "5"
+    },
+    {
+      "timestamp": "22-12-25 22:48:26.475",
+      "steam_id": "76561198095700017",
+      "username": "buttersshoes",
+      "x": "10874",
+      "y": "10186",
+      "z": "0",
+      "hours_survived": 36,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 1,
+        "Axe": 1,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 1,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 2,
+        "PlantScavenging": 3,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 22:39:16.934",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "jacko, just because muldraugh was remade is no excuse to get lost in it lol"
-    },
-    {
-      "timestamp": "22-12-25 22:39:16.934",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "jacko, just because muldraugh was remade is no excuse to get lost in it lol"
-    },
-    {
-      "timestamp": "22-12-25 22:39:27.374",
+      "timestamp": "22-12-25 22:45:34.604",
       "chat_type": "General",
       "author": "Jacko",
-      "text": "i always got lost"
+      "text": "the blue one"
     },
     {
-      "timestamp": "22-12-25 22:39:27.374",
+      "timestamp": "22-12-25 22:45:34.604",
       "chat_type": "General",
       "author": "Jacko",
-      "text": "i always got lost"
+      "text": "the blue one"
     },
     {
-      "timestamp": "22-12-25 22:39:32.448",
+      "timestamp": "22-12-25 22:45:49.436",
       "chat_type": "General",
       "author": "Jacko",
-      "text": "even in og muld"
+      "text": "on the road"
     },
     {
-      "timestamp": "22-12-25 22:39:32.448",
+      "timestamp": "22-12-25 22:45:49.436",
       "chat_type": "General",
       "author": "Jacko",
-      "text": "even in og muld"
+      "text": "on the road"
     },
     {
-      "timestamp": "22-12-25 22:39:48.261",
+      "timestamp": "22-12-25 22:46:17.429",
       "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "railroad spikes good?"
+      "author": "Jacko",
+      "text": "dang they looked good"
     },
     {
-      "timestamp": "22-12-25 22:39:48.261",
+      "timestamp": "22-12-25 22:46:17.429",
       "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "railroad spikes good?"
+      "author": "Jacko",
+      "text": "dang they looked good"
     },
     {
-      "timestamp": "22-12-25 22:40:08.625",
-      "chat_type": "General",
+      "timestamp": "22-12-25 22:46:24.219",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "can be good for blacksmiting or crafting into bats and such"
+      "text": "you should be clear now"
     },
     {
-      "timestamp": "22-12-25 22:40:08.625",
-      "chat_type": "General",
+      "timestamp": "22-12-25 22:46:24.220",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "can be good for blacksmiting or crafting into bats and such"
+      "text": "you should be clear now"
     },
     {
-      "timestamp": "22-12-25 22:40:10.380",
+      "timestamp": "22-12-25 22:46:24.462",
       "chat_type": "General",
       "author": "Pabstlite",
-      "text": "Hey I remember you Butter"
+      "text": "Has anyone set up a Public Comms channel on Walkies?"
     },
     {
-      "timestamp": "22-12-25 22:40:10.380",
+      "timestamp": "22-12-25 22:46:24.462",
       "chat_type": "General",
       "author": "Pabstlite",
-      "text": "Hey I remember you Butter"
+      "text": "Has anyone set up a Public Comms channel on Walkies?"
     },
     {
-      "timestamp": "22-12-25 22:40:11.120",
-      "chat_type": "General",
+      "timestamp": "22-12-25 22:46:30.818",
+      "chat_type": "Local",
       "author": "Jacko",
-      "text": "AAH"
+      "text": "ok"
     },
     {
-      "timestamp": "22-12-25 22:40:11.120",
-      "chat_type": "General",
+      "timestamp": "22-12-25 22:46:30.818",
+      "chat_type": "Local",
       "author": "Jacko",
-      "text": "AAH"
+      "text": "ok"
     },
     {
-      "timestamp": "22-12-25 22:40:19.198",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "its just a deer lol"
-    },
-    {
-      "timestamp": "22-12-25 22:40:19.198",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "its just a deer lol"
-    },
-    {
-      "timestamp": "22-12-25 22:40:30.016",
+      "timestamp": "22-12-25 22:46:33.745",
       "chat_type": "General",
       "author": "Firestorm3050",
-      "text": "kill it lol. i need deer leather"
+      "text": "not yet"
     },
     {
-      "timestamp": "22-12-25 22:40:30.016",
+      "timestamp": "22-12-25 22:46:33.745",
       "chat_type": "General",
       "author": "Firestorm3050",
-      "text": "kill it lol. i need deer leather"
+      "text": "not yet"
     },
     {
-      "timestamp": "22-12-25 22:40:30.990",
-      "chat_type": "General",
+      "timestamp": "22-12-25 22:46:40.022",
+      "chat_type": "Local",
       "author": "Jacko",
-      "text": "whys it running in circles"
+      "text": "i dont remember were my house is"
     },
     {
-      "timestamp": "22-12-25 22:40:30.991",
-      "chat_type": "General",
+      "timestamp": "22-12-25 22:46:40.022",
+      "chat_type": "Local",
       "author": "Jacko",
-      "text": "whys it running in circles"
+      "text": "i dont remember were my house is"
     },
     {
-      "timestamp": "22-12-25 22:40:32.540",
+      "timestamp": "22-12-25 22:46:40.115",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "22-12-25 22:46:40.115",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "22-12-25 22:46:44.347",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "lol"
+    },
+    {
+      "timestamp": "22-12-25 22:46:44.347",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "lol"
+    },
+    {
+      "timestamp": "22-12-25 22:46:49.717",
       "chat_type": "General",
       "author": "Pabstlite",
-      "text": "You were my neighbor (and roomate for like a day) back when we all lived in the apartments"
+      "text": "I might aswell start"
     },
     {
-      "timestamp": "22-12-25 22:40:32.540",
+      "timestamp": "22-12-25 22:46:49.717",
       "chat_type": "General",
       "author": "Pabstlite",
-      "text": "You were my neighbor (and roomate for like a day) back when we all lived in the apartments"
+      "text": "I might aswell start"
     },
     {
-      "timestamp": "22-12-25 22:40:35.891",
-      "chat_type": "General",
+      "timestamp": "22-12-25 22:46:58.618",
+      "chat_type": "Local",
       "author": "Jacko",
-      "text": "with some ritual"
+      "text": "were you headed"
     },
     {
-      "timestamp": "22-12-25 22:40:35.891",
-      "chat_type": "General",
+      "timestamp": "22-12-25 22:46:58.618",
+      "chat_type": "Local",
       "author": "Jacko",
-      "text": "with some ritual"
+      "text": "were you headed"
     },
     {
-      "timestamp": "22-12-25 22:40:46.616",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "it ran now"
-    },
-    {
-      "timestamp": "22-12-25 22:40:46.616",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "it ran now"
-    },
-    {
-      "timestamp": "22-12-25 22:41:28.155",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "im still so bad at my no1  skill"
-    },
-    {
-      "timestamp": "22-12-25 22:41:28.155",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "im still so bad at my no1  skill"
-    },
-    {
-      "timestamp": "22-12-25 22:41:31.558",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "driving"
-    },
-    {
-      "timestamp": "22-12-25 22:41:31.558",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "driving"
-    },
-    {
-      "timestamp": "22-12-25 22:41:47.457",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "i opened my map and the car kept driving"
-    },
-    {
-      "timestamp": "22-12-25 22:41:47.457",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "i opened my map and the car kept driving"
-    },
-    {
-      "timestamp": "22-12-25 22:41:50.465",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "T0T"
-    },
-    {
-      "timestamp": "22-12-25 22:41:50.465",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "T0T"
-    },
-    {
-      "timestamp": "22-12-25 22:42:36.373",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "btw jacko, there are now skillbooks for aiming, reloading, and long blade"
-    },
-    {
-      "timestamp": "22-12-25 22:42:36.373",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "btw jacko, there are now skillbooks for aiming, reloading, and long blade"
-    },
-    {
-      "timestamp": "22-12-25 22:42:58.625",
+      "timestamp": "22-12-25 22:47:12.302",
       "chat_type": "General",
       "author": "Pabstlite",
-      "text": "Speaking of blades, I got the mag that teaches you Short Sword smithing"
+      "text": "90.0"
     },
     {
-      "timestamp": "22-12-25 22:42:58.625",
+      "timestamp": "22-12-25 22:47:12.303",
       "chat_type": "General",
       "author": "Pabstlite",
-      "text": "Speaking of blades, I got the mag that teaches you Short Sword smithing"
+      "text": "90.0"
     },
     {
-      "timestamp": "22-12-25 22:43:05.192",
-      "chat_type": "General",
+      "timestamp": "22-12-25 22:47:23.498",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "ooo"
+      "text": "the day is half over so might as well just go back to base. i need to get carving up another level"
     },
     {
-      "timestamp": "22-12-25 22:43:05.192",
-      "chat_type": "General",
+      "timestamp": "22-12-25 22:47:23.498",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "ooo"
+      "text": "the day is half over so might as well just go back to base. i need to get carving up another level"
     },
     {
-      "timestamp": "22-12-25 22:43:07.751",
-      "chat_type": "General",
+      "timestamp": "22-12-25 22:47:28.877",
+      "chat_type": "Local",
       "author": "Jacko",
-      "text": "cool"
+      "text": "i hopped out my car infront of like 20 zoms to steal a duff"
     },
     {
-      "timestamp": "22-12-25 22:43:07.752",
-      "chat_type": "General",
+      "timestamp": "22-12-25 22:47:28.877",
+      "chat_type": "Local",
       "author": "Jacko",
-      "text": "cool"
+      "text": "i hopped out my car infront of like 20 zoms to steal a duff"
     },
     {
-      "timestamp": "22-12-25 22:43:14.424",
+      "timestamp": "22-12-25 22:47:40.318",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "wanna drive me back in my car"
+    },
+    {
+      "timestamp": "22-12-25 22:47:40.318",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "wanna drive me back in my car"
+    },
+    {
+      "timestamp": "22-12-25 22:47:45.289",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "oh, i have a bag on the ground you might want"
+    },
+    {
+      "timestamp": "22-12-25 22:47:45.289",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "oh, i have a bag on the ground you might want"
+    },
+    {
+      "timestamp": "22-12-25 22:47:51.724",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "a few houses awayu"
+    },
+    {
+      "timestamp": "22-12-25 22:47:51.725",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "a few houses awayu"
+    },
+    {
+      "timestamp": "22-12-25 22:47:56.616",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "i got a duff"
+    },
+    {
+      "timestamp": "22-12-25 22:47:56.616",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "i got a duff"
+    },
+    {
+      "timestamp": "22-12-25 22:48:07.151",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "its a camelback. holds water and gear"
+    },
+    {
+      "timestamp": "22-12-25 22:48:07.151",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "its a camelback. holds water and gear"
+    },
+    {
+      "timestamp": "22-12-25 22:48:14.439",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "alr"
+    },
+    {
+      "timestamp": "22-12-25 22:48:14.439",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "alr"
+    },
+    {
+      "timestamp": "22-12-25 22:48:22.012",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "do i just leave the car here"
+    },
+    {
+      "timestamp": "22-12-25 22:48:22.012",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "do i just leave the car here"
+    },
+    {
+      "timestamp": "22-12-25 22:48:39.857",
       "chat_type": "General",
       "author": "Pabstlite",
-      "text": "If you want to read, I could come down"
+      "text": "All good"
     },
     {
-      "timestamp": "22-12-25 22:43:14.424",
+      "timestamp": "22-12-25 22:48:39.857",
       "chat_type": "General",
       "author": "Pabstlite",
-      "text": "If you want to read, I could come down"
+      "text": "All good"
     },
     {
-      "timestamp": "22-12-25 22:43:19.772",
-      "chat_type": "General",
+      "timestamp": "22-12-25 22:49:12.887",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "oh yeah, you can craft long blades, including machetes"
+      "text": "several mods we used to use in b41 are now vanilla in b423"
     },
     {
-      "timestamp": "22-12-25 22:43:19.772",
-      "chat_type": "General",
+      "timestamp": "22-12-25 22:49:12.887",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "oh yeah, you can craft long blades, including machetes"
+      "text": "several mods we used to use in b41 are now vanilla in b423"
     },
     {
-      "timestamp": "22-12-25 22:44:01.393",
-      "chat_type": "General",
+      "timestamp": "22-12-25 22:49:29.537",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "it takes 7 game days to dry out leather"
+      "text": "HEY!"
     },
     {
-      "timestamp": "22-12-25 22:44:01.393",
-      "chat_type": "General",
+      "timestamp": "22-12-25 22:49:29.537",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "it takes 7 game days to dry out leather"
-    },
-    {
-      "timestamp": "22-12-25 22:44:08.238",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "horde T0T"
-    },
-    {
-      "timestamp": "22-12-25 22:44:08.238",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "horde T0T"
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-22T22:45:01.862339"
+  "timestamp": "2025-12-22T22:50:01.167388"
 }

@@ -673,7 +673,7 @@
     "half": {
       "username": "half",
       "steam_id": "76561198368197161",
-      "total_hours": 83,
+      "total_hours": 104,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -685,7 +685,7 @@
         "Nimble": 0,
         "Sprinting": 1,
         "Sneak": 0,
-        "Woodwork": 4,
+        "Woodwork": 5,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -698,7 +698,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 2,
+        "Maintenance": 3,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 1,
@@ -752,9 +752,19 @@
           "skill": "Sprinting",
           "level": "1",
           "timestamp": "22-12-25 01:19:47.712"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "3",
+          "timestamp": "22-12-25 22:45:53.973"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "5",
+          "timestamp": "22-12-25 22:47:16.561"
         }
       ],
-      "last_seen": "22-12-25 21:54:49.656",
+      "last_seen": "22-12-25 22:47:16.561",
       "connections": 5
     },
     "Kessel": {
@@ -812,7 +822,7 @@
     "buttersshoes": {
       "username": "buttersshoes",
       "steam_id": "76561198095700017",
-      "total_hours": 22,
+      "total_hours": 36,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -863,8 +873,8 @@
           "timestamp": "22-12-25 08:06:17.405"
         }
       ],
-      "last_seen": "22-12-25 08:06:17.405",
-      "connections": 2
+      "last_seen": "22-12-25 22:48:26.475",
+      "connections": 3
     },
     "exoticbutter": {
       "username": "exoticbutter",
@@ -1012,5 +1022,5 @@
     }
   },
   "total_players": 13,
-  "timestamp": "2025-12-22T22:45:01.839183"
+  "timestamp": "2025-12-22T22:50:01.143141"
 }
