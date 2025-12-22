@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 21:22:47.848",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "disconnected",
-      "x": "11432",
-      "y": "7006",
-      "z": "0"
-    },
-    {
-      "timestamp": "21-12-25 21:22:51.998",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "fully connected",
-      "x": "8215",
-      "y": "11677",
-      "z": "0"
-    },
-    {
       "timestamp": "21-12-25 21:29:57.698",
       "steam_id": "76561198864938417",
       "username": "Woofie",
@@ -353,6 +335,18 @@
       "x": "6090",
       "y": "5314",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 00:34:52.592",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 00:34:52.593",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -1022,126 +1016,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "21-12-25 22:37:35.465",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "we killed a lot around u"
-    },
-    {
-      "timestamp": "21-12-25 22:37:35.465",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "we killed a lot around u"
-    },
-    {
-      "timestamp": "21-12-25 22:37:39.839",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "us"
-    },
-    {
-      "timestamp": "21-12-25 22:37:39.839",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "us"
-    },
-    {
-      "timestamp": "21-12-25 22:37:46.737",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "21-12-25 22:37:46.737",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "21-12-25 22:38:28.011",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "key"
-    },
-    {
-      "timestamp": "21-12-25 22:38:28.011",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "key"
-    },
-    {
-      "timestamp": "21-12-25 22:38:31.679",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "where"
-    },
-    {
-      "timestamp": "21-12-25 22:38:31.679",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "where"
-    },
-    {
-      "timestamp": "21-12-25 22:38:41.812",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "in the black van to the black van"
-    },
-    {
-      "timestamp": "21-12-25 22:38:41.812",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "in the black van to the black van"
-    },
-    {
-      "timestamp": "21-12-25 22:38:48.197",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "found it inside"
-    },
-    {
-      "timestamp": "21-12-25 22:38:48.198",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "found it inside"
-    },
-    {
-      "timestamp": "21-12-25 22:39:59.338",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "alright im ganna go somewhere quiet and log off for now"
-    },
-    {
-      "timestamp": "21-12-25 22:39:59.339",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "alright im ganna go somewhere quiet and log off for now"
-    },
-    {
-      "timestamp": "21-12-25 22:40:05.557",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "have a good day!"
-    },
-    {
-      "timestamp": "21-12-25 22:40:05.557",
-      "chat_type": "Local",
-      "author": "Woofie",
-      "text": "have a good day!"
-    },
-    {
-      "timestamp": "21-12-25 22:40:08.968",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "you too!"
-    },
-    {
-      "timestamp": "21-12-25 22:40:08.969",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "you too!"
-    },
-    {
       "timestamp": "21-12-25 22:40:55.167",
       "chat_type": "General",
       "author": "CaptainLobo",
@@ -1320,7 +1194,127 @@
       "chat_type": "Local",
       "author": "Firestorm3050",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "22-12-25 00:31:14.256",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "more urban than normal"
+    },
+    {
+      "timestamp": "22-12-25 00:31:14.256",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "more urban than normal"
+    },
+    {
+      "timestamp": "22-12-25 00:31:34.643",
+      "chat_type": "General",
+      "author": "half",
+      "text": "not too bad prettyy easy so far"
+    },
+    {
+      "timestamp": "22-12-25 00:31:34.643",
+      "chat_type": "General",
+      "author": "half",
+      "text": "not too bad prettyy easy so far"
+    },
+    {
+      "timestamp": "22-12-25 00:31:37.928",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "my lack of foraging disturbes me"
+    },
+    {
+      "timestamp": "22-12-25 00:31:37.928",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "my lack of foraging disturbes me"
+    },
+    {
+      "timestamp": "22-12-25 00:32:03.818",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "love foraging"
+    },
+    {
+      "timestamp": "22-12-25 00:32:03.818",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "love foraging"
+    },
+    {
+      "timestamp": "22-12-25 00:32:46.317",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i have 9 tubs of frozen ice cream and not enough depression to spend it on"
+    },
+    {
+      "timestamp": "22-12-25 00:32:46.317",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i have 9 tubs of frozen ice cream and not enough depression to spend it on"
+    },
+    {
+      "timestamp": "22-12-25 00:33:05.088",
+      "chat_type": "General",
+      "author": "half",
+      "text": "i like killin"
+    },
+    {
+      "timestamp": "22-12-25 00:33:05.088",
+      "chat_type": "General",
+      "author": "half",
+      "text": "i like killin"
+    },
+    {
+      "timestamp": "22-12-25 00:33:35.657",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "in the woods hoping to find tree branches oh how updates change things"
+    },
+    {
+      "timestamp": "22-12-25 00:33:35.657",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "in the woods hoping to find tree branches oh how updates change things"
+    },
+    {
+      "timestamp": "22-12-25 00:33:50.281",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "rural is completely viable"
+    },
+    {
+      "timestamp": "22-12-25 00:33:50.282",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "rural is completely viable"
+    },
+    {
+      "timestamp": "22-12-25 00:34:54.612",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "essentials are handled"
+    },
+    {
+      "timestamp": "22-12-25 00:34:54.612",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "essentials are handled"
+    },
+    {
+      "timestamp": "22-12-25 00:34:56.855",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "as one does"
+    },
+    {
+      "timestamp": "22-12-25 00:34:56.856",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "as one does"
     }
   ],
-  "timestamp": "2025-12-22T00:30:01.202273"
+  "timestamp": "2025-12-22T00:35:01.504024"
 }
