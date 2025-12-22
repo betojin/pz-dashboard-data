@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 00:36:21.382",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 00:36:21.382",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "22-12-25 00:36:26.524",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -358,6 +346,24 @@
       "action": "fully connected",
       "x": "10754",
       "y": "9681",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 03:42:17.774",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "disconnected",
+      "x": "10626",
+      "y": "9598",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 03:43:55.923",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "disconnected",
+      "x": "10636",
+      "y": "9616",
       "z": "0"
     }
   ],
@@ -1005,102 +1011,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 03:39:09.840",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:09.841",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:11.806",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:11.806",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:12.381",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:12.381",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:13.352",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:13.353",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:13.708",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:13.708",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:14.243",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:14.243",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:15.073",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:15.073",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:15.768",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:15.768",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY!"
-    },
-    {
       "timestamp": "22-12-25 03:39:16.297",
       "chat_type": "Local",
       "author": "Firestorm3050",
@@ -1303,7 +1213,103 @@
       "chat_type": "Local",
       "author": "Firestorm3050",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "22-12-25 03:40:06.982",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "22-12-25 03:40:06.982",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "22-12-25 03:40:27.201",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "22-12-25 03:40:27.201",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "22-12-25 03:40:55.520",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "behind"
+    },
+    {
+      "timestamp": "22-12-25 03:40:55.520",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "behind"
+    },
+    {
+      "timestamp": "22-12-25 03:41:33.038",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "im going out my way"
+    },
+    {
+      "timestamp": "22-12-25 03:41:33.038",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "im going out my way"
+    },
+    {
+      "timestamp": "22-12-25 03:41:41.998",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "lets head to your base"
+    },
+    {
+      "timestamp": "22-12-25 03:41:41.999",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "lets head to your base"
+    },
+    {
+      "timestamp": "22-12-25 03:41:50.776",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "food here"
+    },
+    {
+      "timestamp": "22-12-25 03:41:50.776",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "food here"
+    },
+    {
+      "timestamp": "22-12-25 03:42:19.520",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "do clothes get damaged from burns?"
+    },
+    {
+      "timestamp": "22-12-25 03:42:19.520",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "do clothes get damaged from burns?"
+    },
+    {
+      "timestamp": "22-12-25 03:43:31.590",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "k then guess ill deal with it tmrw"
+    },
+    {
+      "timestamp": "22-12-25 03:43:31.590",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "k then guess ill deal with it tmrw"
     }
   ],
-  "timestamp": "2025-12-22T03:40:01.562025"
+  "timestamp": "2025-12-22T03:45:01.956234"
 }
