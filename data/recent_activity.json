@@ -1,36 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 04:22:09.006",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 04:25:49.146",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 04:26:29.589",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "action": "fully connected",
-      "x": "10976",
-      "y": "9785",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 04:32:18.546",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "disconnected",
-      "x": "3992",
-      "y": "10838",
-      "z": "0"
-    },
-    {
       "timestamp": "22-12-25 04:33:12.034",
       "steam_id": "76561199251232344",
       "username": "Kessel",
@@ -347,21 +317,36 @@
       "x": "10626",
       "y": "9598",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 15:06:33.629",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 15:06:33.630",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 15:06:57.099",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 15:08:30.980",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "fully connected",
+      "x": "10636",
+      "y": "9616",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 02:52:46.686",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10660",
-      "y": "9566",
-      "z": "0",
-      "hours_survived": 269,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "4"
-    },
     {
       "timestamp": "22-12-25 02:57:54.568",
       "steam_id": "76561198031138505",
@@ -1129,21 +1114,56 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 15:08:36.059",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "x": "10636",
+      "y": "9616",
+      "z": "0",
+      "hours_survived": 93,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 9,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 1,
+        "Woodwork": 0,
+        "Aiming": 5,
+        "Reloading": 5,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 1,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 03:39:19.963",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-12-25 03:39:19.963",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "22-12-25 03:39:20.368",
       "chat_type": "Local",
@@ -1431,7 +1451,19 @@
       "chat_type": "General",
       "author": "BetoJin",
       "text": "oh hi woofie"
+    },
+    {
+      "timestamp": "22-12-25 15:08:26.393",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "22-12-25 15:08:26.394",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-22T15:05:01.476805"
+  "timestamp": "2025-12-22T15:10:01.928345"
 }
