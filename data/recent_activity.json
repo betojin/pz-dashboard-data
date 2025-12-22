@@ -1,27 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 04:39:02.723",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 04:39:15.440",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 04:39:46.065",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "fully connected",
-      "x": "3994",
-      "y": "10838",
-      "z": "0"
-    },
-    {
       "timestamp": "22-12-25 04:44:16.549",
       "steam_id": "76561199251232344",
       "username": "Kessel",
@@ -356,6 +335,24 @@
       "x": "10085",
       "y": "8263",
       "z": "1"
+    },
+    {
+      "timestamp": "22-12-25 16:37:19.543",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutters",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 16:37:19.544",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutters",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 16:38:09.351",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutters",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1241,78 +1238,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 16:13:37.032",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "dark"
-    },
-    {
-      "timestamp": "22-12-25 16:13:37.033",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "dark"
-    },
-    {
-      "timestamp": "22-12-25 16:23:22.187",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "uh oh theres the pain"
-    },
-    {
-      "timestamp": "22-12-25 16:23:22.188",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "uh oh theres the pain"
-    },
-    {
-      "timestamp": "22-12-25 16:27:35.597",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "did the times for fishing change with b42?"
-    },
-    {
-      "timestamp": "22-12-25 16:27:35.597",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "did the times for fishing change with b42?"
-    },
-    {
-      "timestamp": "22-12-25 16:27:58.220",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "it still applies, just for how fast you get a catch"
-    },
-    {
-      "timestamp": "22-12-25 16:27:58.220",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "it still applies, just for how fast you get a catch"
-    },
-    {
-      "timestamp": "22-12-25 16:28:12.169",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "the entire fishing mechanic has changed"
-    },
-    {
-      "timestamp": "22-12-25 16:28:12.169",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "the entire fishing mechanic has changed"
-    },
-    {
-      "timestamp": "22-12-25 16:28:43.284",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "you want to use bait for sure, aim for ripples on the water. ripples disappear if you make loud noises nearby"
-    },
-    {
-      "timestamp": "22-12-25 16:28:43.284",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "you want to use bait for sure, aim for ripples on the water. ripples disappear if you make loud noises nearby"
-    },
-    {
       "timestamp": "22-12-25 16:29:04.361",
       "chat_type": "General",
       "author": "Woofie",
@@ -1539,7 +1464,79 @@
       "chat_type": "General",
       "author": "Woofie",
       "text": "ive only gotten clay from foraging because i dont just carry a shovel around"
+    },
+    {
+      "timestamp": "22-12-25 16:35:19.749",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "you wont need too much clay at your location. its mostly used for building the crafting stations"
+    },
+    {
+      "timestamp": "22-12-25 16:35:19.749",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "you wont need too much clay at your location. its mostly used for building the crafting stations"
+    },
+    {
+      "timestamp": "22-12-25 16:35:27.827",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "but that estate already has them all pre-built"
+    },
+    {
+      "timestamp": "22-12-25 16:35:27.827",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "but that estate already has them all pre-built"
+    },
+    {
+      "timestamp": "22-12-25 16:35:35.401",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "and a decent fluid storage"
+    },
+    {
+      "timestamp": "22-12-25 16:35:35.401",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "and a decent fluid storage"
+    },
+    {
+      "timestamp": "22-12-25 16:35:42.211",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "milk amphora :)"
+    },
+    {
+      "timestamp": "22-12-25 16:35:42.211",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "milk amphora :)"
+    },
+    {
+      "timestamp": "22-12-25 16:35:53.365",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "gasoline amphora"
+    },
+    {
+      "timestamp": "22-12-25 16:35:53.365",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "gasoline amphora"
+    },
+    {
+      "timestamp": "22-12-25 16:36:04.628",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "thats a good shout actually"
+    },
+    {
+      "timestamp": "22-12-25 16:36:04.628",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "thats a good shout actually"
     }
   ],
-  "timestamp": "2025-12-22T16:35:01.362757"
+  "timestamp": "2025-12-22T16:40:01.843634"
 }
