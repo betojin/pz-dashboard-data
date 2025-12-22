@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 07:57:29.008",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "x": "10845",
-      "y": "10021",
-      "z": "0",
-      "hours_survived": 18,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 1,
-        "Lightfoot": 1,
-        "Nimble": 1,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 1,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 2,
-        "PlantScavenging": 3,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "22-12-25 08:06:17.405",
       "steam_id": "76561198095700017",
       "username": "buttersshoes",
@@ -1100,6 +1053,18 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "3"
+    },
+    {
+      "timestamp": "22-12-25 21:38:03.998",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "x": "11735",
+      "y": "6822",
+      "z": "0",
+      "hours_survived": 35,
+      "event_type": "level_up",
+      "skill": "Blunt",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1404,5 +1369,5 @@
       "text": "The tail is the best part though"
     }
   ],
-  "timestamp": "2025-12-22T21:35:01.892683"
+  "timestamp": "2025-12-22T21:40:01.256755"
 }
