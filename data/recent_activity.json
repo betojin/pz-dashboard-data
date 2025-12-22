@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 07:08:52.383",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "disconnected",
-      "x": "10824",
-      "y": "9070",
-      "z": "1"
-    },
-    {
-      "timestamp": "22-12-25 07:55:30.622",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 07:55:30.623",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 07:55:37.472",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "22-12-25 07:57:07.822",
       "steam_id": "76561198095700017",
       "username": "buttersshoes",
@@ -353,21 +326,36 @@
       "x": "5968",
       "y": "5329",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 18:42:03.141",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 18:42:03.142",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 18:42:17.563",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 18:43:22.504",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "fully connected",
+      "x": "4016",
+      "y": "10828",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 04:41:35.890",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "x": "3983",
-      "y": "10817",
-      "z": "0",
-      "hours_survived": 38,
-      "event_type": "level_up",
-      "skill": "SmallBlunt",
-      "level": "1"
-    },
     {
       "timestamp": "22-12-25 04:45:29.938",
       "steam_id": "76561198119296623",
@@ -1094,57 +1082,56 @@
       "event_type": "level_up",
       "skill": "Husbandry",
       "level": "2"
+    },
+    {
+      "timestamp": "22-12-25 18:43:26.262",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "x": "4016",
+      "y": "10828",
+      "z": "0",
+      "hours_survived": 39,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 6,
+        "Strength": 6,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 17:47:13.830",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "giggity"
-    },
-    {
-      "timestamp": "22-12-25 17:47:13.830",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "giggity"
-    },
-    {
-      "timestamp": "22-12-25 18:02:53.389",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "pipe bomb :)"
-    },
-    {
-      "timestamp": "22-12-25 18:02:53.389",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "pipe bomb :)"
-    },
-    {
-      "timestamp": "22-12-25 18:19:21.877",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "i got back up to 80 so acorn diet it is"
-    },
-    {
-      "timestamp": "22-12-25 18:19:21.877",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "i got back up to 80 so acorn diet it is"
-    },
-    {
-      "timestamp": "22-12-25 18:19:36.303",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "so weight does work at least"
-    },
-    {
-      "timestamp": "22-12-25 18:19:36.303",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "so weight does work at least"
-    },
     {
       "timestamp": "22-12-25 18:21:29.625",
       "chat_type": "General",
@@ -1396,7 +1383,55 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "yeah thats ovo"
+    },
+    {
+      "timestamp": "22-12-25 18:40:29.892",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "anyone found a butcher hook yet?"
+    },
+    {
+      "timestamp": "22-12-25 18:40:29.892",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "anyone found a butcher hook yet?"
+    },
+    {
+      "timestamp": "22-12-25 18:41:50.860",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "there are lots of large hooks in my neighborhood, i have like 6-ish of them"
+    },
+    {
+      "timestamp": "22-12-25 18:41:50.860",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "there are lots of large hooks in my neighborhood, i have like 6-ish of them"
+    },
+    {
+      "timestamp": "22-12-25 18:43:45.548",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "bob massacre"
+    },
+    {
+      "timestamp": "22-12-25 18:43:45.548",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "bob massacre"
+    },
+    {
+      "timestamp": "22-12-25 18:44:51.167",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "jesus Kessel"
+    },
+    {
+      "timestamp": "22-12-25 18:44:51.167",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "jesus Kessel"
     }
   ],
-  "timestamp": "2025-12-22T18:40:01.436052"
+  "timestamp": "2025-12-22T18:45:02.028195"
 }
