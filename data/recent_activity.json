@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 06:25:42.760",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "22-12-25 06:25:42.761",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -352,6 +346,15 @@
       "action": "fully connected",
       "x": "10662",
       "y": "9561",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 18:01:23.478",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "5968",
+      "y": "5329",
       "z": "0"
     }
   ],
@@ -1133,18 +1136,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 16:48:58.866",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yes"
-    },
-    {
-      "timestamp": "22-12-25 16:48:58.866",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yes"
-    },
-    {
       "timestamp": "22-12-25 16:49:05.458",
       "chat_type": "General",
       "author": "exoticbutter",
@@ -1431,7 +1422,19 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "giggity"
+    },
+    {
+      "timestamp": "22-12-25 18:02:53.389",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "pipe bomb :)"
+    },
+    {
+      "timestamp": "22-12-25 18:02:53.389",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "pipe bomb :)"
     }
   ],
-  "timestamp": "2025-12-22T18:00:01.158800"
+  "timestamp": "2025-12-22T18:05:01.527220"
 }
