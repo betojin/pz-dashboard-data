@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 01:34:10.833",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 01:34:10.834",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 01:34:27.006",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 01:34:58.547",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "fully connected",
-      "x": "8083",
-      "y": "11553",
-      "z": "0"
-    },
-    {
       "timestamp": "22-12-25 01:39:54.158",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -359,6 +332,33 @@
       "x": "10976",
       "y": "9785",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 04:32:18.546",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "disconnected",
+      "x": "3992",
+      "y": "10838",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 04:33:12.034",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 04:33:12.034",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 04:33:24.974",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1340,5 +1340,5 @@
       "text": "these trailers reallllllly like flipping"
     }
   ],
-  "timestamp": "2025-12-22T04:30:01.528832"
+  "timestamp": "2025-12-22T04:35:01.875155"
 }
