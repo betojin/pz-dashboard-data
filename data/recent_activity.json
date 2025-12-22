@@ -1,78 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 16:42:49.571",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 16:43:27.032",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 16:44:01.187",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "fully connected",
-      "x": "10884",
-      "y": "10159",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 16:59:45.672",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 16:59:45.672",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 17:00:00.096",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 17:02:11.538",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "fully connected",
-      "x": "5903",
-      "y": "5341",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 17:05:24.674",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "disconnected",
-      "x": "10662",
-      "y": "9561",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 17:06:51.488",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "disconnected",
-      "x": "10664",
-      "y": "9528",
-      "z": "-1"
-    },
-    {
-      "timestamp": "22-12-25 17:10:30.525",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "22-12-25 17:10:30.526",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -353,68 +281,81 @@
       "x": "10874",
       "y": "10186",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 22:50:10.771",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "disconnected",
+      "x": "10742",
+      "y": "9482",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 22:50:21.803",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "disconnected",
+      "x": "8131",
+      "y": "11548",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 22:51:07.916",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 22:51:07.916",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 22:51:23.211",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 22:51:24.907",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 22:51:24.907",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 22:51:28.987",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 22:51:43.919",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "fully connected",
+      "x": "8131",
+      "y": "11548",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 22:52:45.285",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "fully connected",
+      "x": "10742",
+      "y": "9482",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 15:48:18.070",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "10085",
-      "y": "8263",
-      "z": "1",
-      "hours_survived": 181,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 9,
-        "Strength": 2,
-        "Blunt": 0,
-        "Axe": 2,
-        "Lightfoot": 1,
-        "Nimble": 1,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 1,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 2,
-        "PlantScavenging": 7,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 3,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 2,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "22-12-25 16:25:29.837",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "10098",
-      "y": "8261",
-      "z": "1",
-      "hours_survived": 196,
-      "event_type": "level_up",
-      "skill": "Strength",
-      "level": "3"
-    },
     {
       "timestamp": "22-12-25 16:44:02.444",
       "steam_id": "76561198417595781",
@@ -1135,201 +1076,103 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-12-25 22:51:44.286",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8131",
+      "y": "11548",
+      "z": "0",
+      "hours_survived": 105,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 9,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 5,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 3,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "22-12-25 22:52:45.543",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10742",
+      "y": "9482",
+      "z": "0",
+      "hours_survived": 470,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 4,
+        "Fitness": 10,
+        "Strength": 9,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 4,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 2,
+        "Fishing": 2,
+        "Trapping": 1,
+        "PlantScavenging": 1,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 2,
+        "Spear": 0,
+        "Maintenance": 3,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 3,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 22:45:34.604",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "the blue one"
-    },
-    {
-      "timestamp": "22-12-25 22:45:34.604",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "the blue one"
-    },
-    {
-      "timestamp": "22-12-25 22:45:49.436",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "on the road"
-    },
-    {
-      "timestamp": "22-12-25 22:45:49.436",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "on the road"
-    },
-    {
-      "timestamp": "22-12-25 22:46:17.429",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "dang they looked good"
-    },
-    {
-      "timestamp": "22-12-25 22:46:17.429",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "dang they looked good"
-    },
-    {
-      "timestamp": "22-12-25 22:46:24.219",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "you should be clear now"
-    },
-    {
-      "timestamp": "22-12-25 22:46:24.220",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "you should be clear now"
-    },
-    {
-      "timestamp": "22-12-25 22:46:24.462",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Has anyone set up a Public Comms channel on Walkies?"
-    },
-    {
-      "timestamp": "22-12-25 22:46:24.462",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Has anyone set up a Public Comms channel on Walkies?"
-    },
-    {
-      "timestamp": "22-12-25 22:46:30.818",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "ok"
-    },
-    {
-      "timestamp": "22-12-25 22:46:30.818",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "ok"
-    },
-    {
-      "timestamp": "22-12-25 22:46:33.745",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "not yet"
-    },
-    {
-      "timestamp": "22-12-25 22:46:33.745",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "not yet"
-    },
-    {
-      "timestamp": "22-12-25 22:46:40.022",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "i dont remember were my house is"
-    },
-    {
-      "timestamp": "22-12-25 22:46:40.022",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "i dont remember were my house is"
-    },
-    {
-      "timestamp": "22-12-25 22:46:40.115",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-12-25 22:46:40.115",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-12-25 22:46:44.347",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "lol"
-    },
-    {
-      "timestamp": "22-12-25 22:46:44.347",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "lol"
-    },
-    {
-      "timestamp": "22-12-25 22:46:49.717",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "I might aswell start"
-    },
-    {
-      "timestamp": "22-12-25 22:46:49.717",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "I might aswell start"
-    },
-    {
-      "timestamp": "22-12-25 22:46:58.618",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "were you headed"
-    },
-    {
-      "timestamp": "22-12-25 22:46:58.618",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "were you headed"
-    },
-    {
-      "timestamp": "22-12-25 22:47:12.302",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "90.0"
-    },
-    {
-      "timestamp": "22-12-25 22:47:12.303",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "90.0"
-    },
-    {
-      "timestamp": "22-12-25 22:47:23.498",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "the day is half over so might as well just go back to base. i need to get carving up another level"
-    },
-    {
-      "timestamp": "22-12-25 22:47:23.498",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "the day is half over so might as well just go back to base. i need to get carving up another level"
-    },
-    {
-      "timestamp": "22-12-25 22:47:28.877",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "i hopped out my car infront of like 20 zoms to steal a duff"
-    },
-    {
-      "timestamp": "22-12-25 22:47:28.877",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "i hopped out my car infront of like 20 zoms to steal a duff"
-    },
-    {
-      "timestamp": "22-12-25 22:47:40.318",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "wanna drive me back in my car"
-    },
-    {
-      "timestamp": "22-12-25 22:47:40.318",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "wanna drive me back in my car"
-    },
     {
       "timestamp": "22-12-25 22:47:45.289",
       "chat_type": "Local",
@@ -1437,7 +1280,199 @@
       "chat_type": "Local",
       "author": "Firestorm3050",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "22-12-25 22:50:27.234",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "uhm fireflame just dissapeared"
+    },
+    {
+      "timestamp": "22-12-25 22:50:27.234",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "uhm fireflame just dissapeared"
+    },
+    {
+      "timestamp": "22-12-25 22:50:34.112",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "i was following him"
+    },
+    {
+      "timestamp": "22-12-25 22:50:34.112",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "i was following him"
+    },
+    {
+      "timestamp": "22-12-25 22:50:40.037",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "now im 100% lost"
+    },
+    {
+      "timestamp": "22-12-25 22:50:40.038",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "now im 100% lost"
+    },
+    {
+      "timestamp": "22-12-25 22:52:48.566",
+      "chat_type": "General",
+      "author": "half",
+      "text": "fresh food in fridges i think loot respawn"
+    },
+    {
+      "timestamp": "22-12-25 22:52:48.566",
+      "chat_type": "General",
+      "author": "half",
+      "text": "fresh food in fridges i think loot respawn"
+    },
+    {
+      "timestamp": "22-12-25 22:53:04.522",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i had a disconnect. everyone else on?"
+    },
+    {
+      "timestamp": "22-12-25 22:53:04.522",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i had a disconnect. everyone else on?"
+    },
+    {
+      "timestamp": "22-12-25 22:53:11.251",
+      "chat_type": "General",
+      "author": "half",
+      "text": "i did too"
+    },
+    {
+      "timestamp": "22-12-25 22:53:11.251",
+      "chat_type": "General",
+      "author": "half",
+      "text": "i did too"
+    },
+    {
+      "timestamp": "22-12-25 22:53:13.130",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "im still here"
+    },
+    {
+      "timestamp": "22-12-25 22:53:13.130",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "im still here"
+    },
+    {
+      "timestamp": "22-12-25 22:53:16.386",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "yo"
+    },
+    {
+      "timestamp": "22-12-25 22:53:16.387",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "yo"
+    },
+    {
+      "timestamp": "22-12-25 22:53:51.223",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "i rlly needed water lol"
+    },
+    {
+      "timestamp": "22-12-25 22:53:51.223",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "i rlly needed water lol"
+    },
+    {
+      "timestamp": "22-12-25 22:54:00.227",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "jacko, do you want into my safehouse?"
+    },
+    {
+      "timestamp": "22-12-25 22:54:00.227",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "jacko, do you want into my safehouse?"
+    },
+    {
+      "timestamp": "22-12-25 22:54:15.539",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "if you wanna"
+    },
+    {
+      "timestamp": "22-12-25 22:54:15.539",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "if you wanna"
+    },
+    {
+      "timestamp": "22-12-25 22:54:25.225",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "can you give me a ride back with my car"
+    },
+    {
+      "timestamp": "22-12-25 22:54:25.225",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "can you give me a ride back with my car"
+    },
+    {
+      "timestamp": "22-12-25 22:54:26.016",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "there are no cure zeds btw, so bitten is really for real"
+    },
+    {
+      "timestamp": "22-12-25 22:54:26.017",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "there are no cure zeds btw, so bitten is really for real"
+    },
+    {
+      "timestamp": "22-12-25 22:54:34.286",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "you right here"
+    },
+    {
+      "timestamp": "22-12-25 22:54:34.286",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "you right here"
+    },
+    {
+      "timestamp": "22-12-25 22:54:53.168",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "22-12-25 22:54:53.168",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "22-12-25 22:54:55.873",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "this is our base"
+    },
+    {
+      "timestamp": "22-12-25 22:54:55.873",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "this is our base"
     }
   ],
-  "timestamp": "2025-12-22T22:50:01.167388"
+  "timestamp": "2025-12-22T22:55:01.566595"
 }
