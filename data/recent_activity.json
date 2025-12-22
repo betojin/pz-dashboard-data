@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 04:36:20.007",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "22-12-25 04:36:37.521",
       "steam_id": "76561199251232344",
       "username": "Kessel",
@@ -355,6 +349,15 @@
       "action": "fully connected",
       "x": "10872",
       "y": "9489",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 15:35:56.261",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "disconnected",
+      "x": "10674",
+      "y": "9561",
       "z": "0"
     }
   ],
@@ -1206,90 +1209,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 15:16:48.685",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "or wait i can just fall dmg"
-    },
-    {
-      "timestamp": "22-12-25 15:16:48.685",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "or wait i can just fall dmg"
-    },
-    {
-      "timestamp": "22-12-25 15:19:16.037",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im sorting loot in my base since i have too much on the floor"
-    },
-    {
-      "timestamp": "22-12-25 15:19:16.038",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im sorting loot in my base since i have too much on the floor"
-    },
-    {
-      "timestamp": "22-12-25 15:19:24.097",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i dont want the lag"
-    },
-    {
-      "timestamp": "22-12-25 15:19:24.097",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i dont want the lag"
-    },
-    {
-      "timestamp": "22-12-25 15:20:24.148",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "you might wanna come and put me down once i die"
-    },
-    {
-      "timestamp": "22-12-25 15:20:24.148",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "you might wanna come and put me down once i die"
-    },
-    {
-      "timestamp": "22-12-25 15:20:30.673",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "alr"
-    },
-    {
-      "timestamp": "22-12-25 15:20:30.673",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "alr"
-    },
-    {
-      "timestamp": "22-12-25 15:20:35.647",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "still bitten?"
-    },
-    {
-      "timestamp": "22-12-25 15:20:35.647",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "still bitten?"
-    },
-    {
-      "timestamp": "22-12-25 15:20:39.517",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "yup"
-    },
-    {
-      "timestamp": "22-12-25 15:20:39.517",
-      "chat_type": "General",
-      "author": "Molotov Kid",
-      "text": "yup"
-    },
-    {
       "timestamp": "22-12-25 15:21:39.263",
       "chat_type": "General",
       "author": "Firestorm3050",
@@ -1504,7 +1423,91 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "alr"
+    },
+    {
+      "timestamp": "22-12-25 15:35:10.174",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i plan on fencing this neighborhood in, airlock style"
+    },
+    {
+      "timestamp": "22-12-25 15:35:10.174",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i plan on fencing this neighborhood in, airlock style"
+    },
+    {
+      "timestamp": "22-12-25 15:35:18.161",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "sounds nice"
+    },
+    {
+      "timestamp": "22-12-25 15:35:18.161",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "sounds nice"
+    },
+    {
+      "timestamp": "22-12-25 15:35:31.327",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "ive got things to do today so i cant be on after this"
+    },
+    {
+      "timestamp": "22-12-25 15:35:31.327",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "ive got things to do today so i cant be on after this"
+    },
+    {
+      "timestamp": "22-12-25 15:35:37.042",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ah"
+    },
+    {
+      "timestamp": "22-12-25 15:35:37.043",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ah"
+    },
+    {
+      "timestamp": "22-12-25 15:35:41.683",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "plus its a foggy day, cant do much either"
+    },
+    {
+      "timestamp": "22-12-25 15:35:41.684",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "plus its a foggy day, cant do much either"
+    },
+    {
+      "timestamp": "22-12-25 15:35:44.222",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "this is your molotov btw"
+    },
+    {
+      "timestamp": "22-12-25 15:35:44.222",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "this is your molotov btw"
+    },
+    {
+      "timestamp": "22-12-25 15:35:51.187",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "thank you"
+    },
+    {
+      "timestamp": "22-12-25 15:35:51.187",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "thank you"
     }
   ],
-  "timestamp": "2025-12-22T15:35:01.894188"
+  "timestamp": "2025-12-22T15:40:01.209101"
 }
