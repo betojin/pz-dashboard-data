@@ -372,18 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 00:09:22.495",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "10004",
-      "y": "8241",
-      "z": "0",
-      "hours_survived": 48,
-      "event_type": "level_up",
-      "skill": "PlantScavenging",
-      "level": "6"
-    },
-    {
       "timestamp": "22-12-25 00:19:42.840",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1010,6 +998,18 @@
       "event_type": "level_up",
       "skill": "Mechanics",
       "level": "2"
+    },
+    {
+      "timestamp": "22-12-25 03:04:49.680",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10660",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 273,
+      "event_type": "level_up",
+      "skill": "Fishing",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1314,5 +1314,5 @@
       "text": "mmm... uncooked chicken feet"
     }
   ],
-  "timestamp": "2025-12-22T03:00:02.044069"
+  "timestamp": "2025-12-22T03:05:01.359300"
 }
