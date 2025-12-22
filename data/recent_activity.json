@@ -1,36 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "21-12-25 22:11:44.499",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "fully connected",
-      "x": "8215",
-      "y": "11677",
-      "z": "0"
-    },
-    {
-      "timestamp": "21-12-25 22:17:24.479",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "disconnected",
-      "x": "2488",
-      "y": "10908",
-      "z": "0"
-    },
-    {
-      "timestamp": "21-12-25 22:22:38.670",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "21-12-25 22:22:38.671",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "21-12-25 22:23:42.415",
       "steam_id": "76561199163725035",
       "username": "Molotov Kid",
@@ -368,6 +338,33 @@
       "x": "8002",
       "y": "11547",
       "z": "1"
+    },
+    {
+      "timestamp": "22-12-25 02:15:09.672",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 02:15:09.672",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 02:15:21.634",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 02:16:13.731",
+      "steam_id": "76561199163725035",
+      "username": "Molotov Kid",
+      "action": "disconnected",
+      "x": "10844",
+      "y": "9744",
+      "z": "0"
     }
   ],
   "perk_events": [
@@ -1014,114 +1011,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 01:58:33.175",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "i completely forgot what my build was when B42 dropped"
-    },
-    {
-      "timestamp": "22-12-25 01:58:33.176",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "i completely forgot what my build was when B42 dropped"
-    },
-    {
-      "timestamp": "22-12-25 01:58:39.106",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "so i just made up a new one"
-    },
-    {
-      "timestamp": "22-12-25 01:58:39.106",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "so i just made up a new one"
-    },
-    {
-      "timestamp": "22-12-25 01:58:42.867",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "...and forgot cowardly"
-    },
-    {
-      "timestamp": "22-12-25 01:58:42.867",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "...and forgot cowardly"
-    },
-    {
-      "timestamp": "22-12-25 01:58:53.957",
-      "chat_type": "General",
-      "author": "half",
-      "text": "i found carp one somewhere"
-    },
-    {
-      "timestamp": "22-12-25 01:58:53.958",
-      "chat_type": "General",
-      "author": "half",
-      "text": "i found carp one somewhere"
-    },
-    {
-      "timestamp": "22-12-25 01:59:01.148",
-      "chat_type": "General",
-      "author": "half",
-      "text": "just dont remember"
-    },
-    {
-      "timestamp": "22-12-25 01:59:01.148",
-      "chat_type": "General",
-      "author": "half",
-      "text": "just dont remember"
-    },
-    {
-      "timestamp": "22-12-25 01:59:11.888",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "i usually run thin skinned, conspic, PTI, slow healer, weak stomach for negatives"
-    },
-    {
-      "timestamp": "22-12-25 01:59:11.888",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "i usually run thin skinned, conspic, PTI, slow healer, weak stomach for negatives"
-    },
-    {
-      "timestamp": "22-12-25 01:59:17.167",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "and cowardly"
-    },
-    {
-      "timestamp": "22-12-25 01:59:17.167",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "and cowardly"
-    },
-    {
-      "timestamp": "22-12-25 01:59:38.022",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i have the mechancis mags for all 3 types of cars, plus the generator mag if anyone needs to visit me to borrow them"
-    },
-    {
-      "timestamp": "22-12-25 01:59:38.022",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i have the mechancis mags for all 3 types of cars, plus the generator mag if anyone needs to visit me to borrow them"
-    },
-    {
-      "timestamp": "22-12-25 01:59:41.411",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "its not super hell but"
-    },
-    {
-      "timestamp": "22-12-25 01:59:41.413",
-      "chat_type": "Local",
-      "author": "Kessel",
-      "text": "its not super hell but"
-    },
-    {
       "timestamp": "22-12-25 01:59:45.838",
       "chat_type": "Local",
       "author": "Kessel",
@@ -1312,7 +1201,115 @@
       "chat_type": "General",
       "author": "Molotov Kid",
       "text": "crap i gtg"
+    },
+    {
+      "timestamp": "22-12-25 02:15:11.920",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "byeee"
+    },
+    {
+      "timestamp": "22-12-25 02:15:11.920",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "byeee"
+    },
+    {
+      "timestamp": "22-12-25 02:15:15.895",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "gn"
+    },
+    {
+      "timestamp": "22-12-25 02:15:15.895",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "gn"
+    },
+    {
+      "timestamp": "22-12-25 02:15:31.481",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "rip bo"
+    },
+    {
+      "timestamp": "22-12-25 02:15:31.481",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "rip bo"
+    },
+    {
+      "timestamp": "22-12-25 02:15:51.650",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "west point gun store all open and still has lots of ammo  just FYI"
+    },
+    {
+      "timestamp": "22-12-25 02:15:51.650",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "west point gun store all open and still has lots of ammo  just FYI"
+    },
+    {
+      "timestamp": "22-12-25 02:15:59.916",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "gonna crash here and rejoin in like an hour"
+    },
+    {
+      "timestamp": "22-12-25 02:15:59.916",
+      "chat_type": "General",
+      "author": "Molotov Kid",
+      "text": "gonna crash here and rejoin in like an hour"
+    },
+    {
+      "timestamp": "22-12-25 02:16:46.118",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "walking through the woods looking for ROCKS"
+    },
+    {
+      "timestamp": "22-12-25 02:16:46.118",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "walking through the woods looking for ROCKS"
+    },
+    {
+      "timestamp": "22-12-25 02:16:47.662",
+      "chat_type": "General",
+      "author": "half",
+      "text": "woah i can claim the rosewood church"
+    },
+    {
+      "timestamp": "22-12-25 02:16:47.662",
+      "chat_type": "General",
+      "author": "half",
+      "text": "woah i can claim the rosewood church"
+    },
+    {
+      "timestamp": "22-12-25 02:17:04.364",
+      "chat_type": "General",
+      "author": "half",
+      "text": "have you always been able too?"
+    },
+    {
+      "timestamp": "22-12-25 02:17:04.365",
+      "chat_type": "General",
+      "author": "half",
+      "text": "have you always been able too?"
+    },
+    {
+      "timestamp": "22-12-25 02:17:12.670",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i think so?"
+    },
+    {
+      "timestamp": "22-12-25 02:17:12.670",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i think so?"
     }
   ],
-  "timestamp": "2025-12-22T02:15:02.056512"
+  "timestamp": "2025-12-22T02:20:01.378292"
 }
