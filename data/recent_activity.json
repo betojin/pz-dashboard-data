@@ -1,27 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 17:10:30.526",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 17:10:48.369",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 17:11:24.804",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "fully connected",
-      "x": "10662",
-      "y": "9561",
-      "z": "0"
-    },
-    {
       "timestamp": "22-12-25 18:01:23.478",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -353,6 +332,24 @@
       "x": "10742",
       "y": "9482",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 23:07:08.547",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-12-25 23:07:08.549",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-12-25 23:08:15.376",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1139,270 +1136,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 22:57:32.059",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "ooooooh"
-    },
-    {
-      "timestamp": "22-12-25 22:57:32.059",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "ooooooh"
-    },
-    {
-      "timestamp": "22-12-25 22:57:38.666",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "i thought he was a player"
-    },
-    {
-      "timestamp": "22-12-25 22:57:38.666",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "i thought he was a player"
-    },
-    {
-      "timestamp": "22-12-25 22:57:41.819",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "xD"
-    },
-    {
-      "timestamp": "22-12-25 22:57:41.819",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "xD"
-    },
-    {
-      "timestamp": "22-12-25 22:57:57.105",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "mm tasty pig"
-    },
-    {
-      "timestamp": "22-12-25 22:57:57.105",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "mm tasty pig"
-    },
-    {
-      "timestamp": "22-12-25 22:58:00.587",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "beto thought pvp was on when he first saw that message"
-    },
-    {
-      "timestamp": "22-12-25 22:58:00.587",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "beto thought pvp was on when he first saw that message"
-    },
-    {
-      "timestamp": "22-12-25 22:58:07.299",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "me too"
-    },
-    {
-      "timestamp": "22-12-25 22:58:07.299",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "me too"
-    },
-    {
-      "timestamp": "22-12-25 22:58:26.550",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "i need to go get some medium leather pelts while i can"
-    },
-    {
-      "timestamp": "22-12-25 22:58:26.550",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "i need to go get some medium leather pelts while i can"
-    },
-    {
-      "timestamp": "22-12-25 22:58:35.415",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "ill prob do that next game day"
-    },
-    {
-      "timestamp": "22-12-25 22:58:35.415",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "ill prob do that next game day"
-    },
-    {
-      "timestamp": "22-12-25 22:58:51.853",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "buttershoes!!!"
-    },
-    {
-      "timestamp": "22-12-25 22:58:51.854",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "buttershoes!!!"
-    },
-    {
-      "timestamp": "22-12-25 22:59:10.818",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "whos grave is that"
-    },
-    {
-      "timestamp": "22-12-25 22:59:10.818",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "whos grave is that"
-    },
-    {
-      "timestamp": "22-12-25 22:59:22.666",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "lol"
-    },
-    {
-      "timestamp": "22-12-25 22:59:22.667",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "lol"
-    },
-    {
-      "timestamp": "22-12-25 22:59:28.193",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "the notebook is in front to say it"
-    },
-    {
-      "timestamp": "22-12-25 22:59:28.193",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "the notebook is in front to say it"
-    },
-    {
-      "timestamp": "22-12-25 22:59:36.904",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "how make campfire"
-    },
-    {
-      "timestamp": "22-12-25 22:59:36.904",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "how make campfire"
-    },
-    {
-      "timestamp": "22-12-25 22:59:42.477",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "hope i never need one of those"
-    },
-    {
-      "timestamp": "22-12-25 22:59:42.477",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "hope i never need one of those"
-    },
-    {
-      "timestamp": "22-12-25 22:59:46.199",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "sure i will"
-    },
-    {
-      "timestamp": "22-12-25 22:59:46.199",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "sure i will"
-    },
-    {
-      "timestamp": "22-12-25 22:59:59.413",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "forget the whole recipe, but i think 3 stones and a branch or something"
-    },
-    {
-      "timestamp": "22-12-25 22:59:59.414",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "forget the whole recipe, but i think 3 stones and a branch or something"
-    },
-    {
-      "timestamp": "22-12-25 23:00:14.916",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "just 3 ston"
-    },
-    {
-      "timestamp": "22-12-25 23:00:14.916",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "just 3 ston"
-    },
-    {
-      "timestamp": "22-12-25 23:00:22.277",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "alr"
-    },
-    {
-      "timestamp": "22-12-25 23:00:22.277",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "alr"
-    },
-    {
-      "timestamp": "22-12-25 23:02:02.579",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "washing myself in the toilet"
-    },
-    {
-      "timestamp": "22-12-25 23:02:02.579",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "washing myself in the toilet"
-    },
-    {
-      "timestamp": "22-12-25 23:02:06.333",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Good news, Premium Tech Gennie"
-    },
-    {
-      "timestamp": "22-12-25 23:02:06.333",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Good news, Premium Tech Gennie"
-    },
-    {
-      "timestamp": "22-12-25 23:02:07.016",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "dude this railroad spike good"
-    },
-    {
-      "timestamp": "22-12-25 23:02:07.016",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "dude this railroad spike good"
-    },
-    {
-      "timestamp": "22-12-25 23:02:11.408",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Bad news, no Mag"
-    },
-    {
-      "timestamp": "22-12-25 23:02:11.408",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Bad news, no Mag"
-    },
-    {
       "timestamp": "22-12-25 23:02:19.658",
       "chat_type": "General",
       "author": "Jacko",
@@ -1437,7 +1170,271 @@
       "chat_type": "General",
       "author": "exoticbutter",
       "text": "i wish i didnt have to cut this sack"
+    },
+    {
+      "timestamp": "22-12-25 23:05:06.459",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "back, the yelling was just my dad pulling his back out"
+    },
+    {
+      "timestamp": "22-12-25 23:05:06.460",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "back, the yelling was just my dad pulling his back out"
+    },
+    {
+      "timestamp": "22-12-25 23:05:32.483",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "alr ill br"
+    },
+    {
+      "timestamp": "22-12-25 23:05:32.483",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "alr ill br"
+    },
+    {
+      "timestamp": "22-12-25 23:05:45.615",
+      "chat_type": "Local",
+      "author": "buttersshoes",
+      "text": "oh hey guys how yah doin"
+    },
+    {
+      "timestamp": "22-12-25 23:05:45.615",
+      "chat_type": "Local",
+      "author": "buttersshoes",
+      "text": "oh hey guys how yah doin"
+    },
+    {
+      "timestamp": "22-12-25 23:05:50.841",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "butter, you can craft sacks using twine. its a repeatable recipe"
+    },
+    {
+      "timestamp": "22-12-25 23:05:50.841",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "butter, you can craft sacks using twine. its a repeatable recipe"
+    },
+    {
+      "timestamp": "22-12-25 23:05:58.310",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "tear the sack, resew it"
+    },
+    {
+      "timestamp": "22-12-25 23:05:58.310",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "tear the sack, resew it"
+    },
+    {
+      "timestamp": "22-12-25 23:06:05.336",
+      "chat_type": "General",
+      "author": "buttersshoes",
+      "text": "hey guys how yah doin"
+    },
+    {
+      "timestamp": "22-12-25 23:06:05.336",
+      "chat_type": "General",
+      "author": "buttersshoes",
+      "text": "hey guys how yah doin"
+    },
+    {
+      "timestamp": "22-12-25 23:06:16.357",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "hiya butter shoes"
+    },
+    {
+      "timestamp": "22-12-25 23:06:16.357",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "hiya butter shoes"
+    },
+    {
+      "timestamp": "22-12-25 23:06:22.685",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "tried greeting you earlier"
+    },
+    {
+      "timestamp": "22-12-25 23:06:22.685",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "tried greeting you earlier"
+    },
+    {
+      "timestamp": "22-12-25 23:06:41.788",
+      "chat_type": "Local",
+      "author": "buttersshoes",
+      "text": "yeah sorry house alarm right when you greeted me haha"
+    },
+    {
+      "timestamp": "22-12-25 23:06:41.788",
+      "chat_type": "Local",
+      "author": "buttersshoes",
+      "text": "yeah sorry house alarm right when you greeted me haha"
+    },
+    {
+      "timestamp": "22-12-25 23:06:49.432",
+      "chat_type": "General",
+      "author": "buttersshoes",
+      "text": "yeah sorry house alarm right when you greeted me haha"
+    },
+    {
+      "timestamp": "22-12-25 23:06:49.432",
+      "chat_type": "General",
+      "author": "buttersshoes",
+      "text": "yeah sorry house alarm right when you greeted me haha"
+    },
+    {
+      "timestamp": "22-12-25 23:07:17.756",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Butter, why do you need a sack so bad?"
+    },
+    {
+      "timestamp": "22-12-25 23:07:17.756",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Butter, why do you need a sack so bad?"
+    },
+    {
+      "timestamp": "22-12-25 23:07:24.798",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "tailoring xp"
+    },
+    {
+      "timestamp": "22-12-25 23:07:24.798",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "tailoring xp"
+    },
+    {
+      "timestamp": "22-12-25 23:07:33.833",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Wait really?"
+    },
+    {
+      "timestamp": "22-12-25 23:07:33.833",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Wait really?"
+    },
+    {
+      "timestamp": "22-12-25 23:07:38.332",
+      "chat_type": "General",
+      "author": "half",
+      "text": "i have a bunch of em"
+    },
+    {
+      "timestamp": "22-12-25 23:07:38.332",
+      "chat_type": "General",
+      "author": "half",
+      "text": "i have a bunch of em"
+    },
+    {
+      "timestamp": "22-12-25 23:07:40.794",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "you cant get threat until tailoring lv 1 now"
+    },
+    {
+      "timestamp": "22-12-25 23:07:40.794",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "you cant get threat until tailoring lv 1 now"
+    },
+    {
+      "timestamp": "22-12-25 23:07:51.187",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "thread*"
+    },
+    {
+      "timestamp": "22-12-25 23:07:51.187",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "thread*"
+    },
+    {
+      "timestamp": "22-12-25 23:08:54.450",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "the old method is now a terrible way to do it. its wasteful of resources"
+    },
+    {
+      "timestamp": "22-12-25 23:08:54.450",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "the old method is now a terrible way to do it. its wasteful of resources"
+    },
+    {
+      "timestamp": "22-12-25 23:09:15.914",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "What, patching and unpatching?"
+    },
+    {
+      "timestamp": "22-12-25 23:09:15.914",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "What, patching and unpatching?"
+    },
+    {
+      "timestamp": "22-12-25 23:09:19.268",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yeah"
+    },
+    {
+      "timestamp": "22-12-25 23:09:19.268",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yeah"
+    },
+    {
+      "timestamp": "22-12-25 23:09:30.435",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "I mean I thought it was kinda better now that you can just pick thread from rags"
+    },
+    {
+      "timestamp": "22-12-25 23:09:30.435",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "I mean I thought it was kinda better now that you can just pick thread from rags"
+    },
+    {
+      "timestamp": "22-12-25 23:09:34.081",
+      "chat_type": "General",
+      "author": "buttersshoes",
+      "text": "god so many new systems... barely played since the old server"
+    },
+    {
+      "timestamp": "22-12-25 23:09:34.081",
+      "chat_type": "General",
+      "author": "buttersshoes",
+      "text": "god so many new systems... barely played since the old server"
+    },
+    {
+      "timestamp": "22-12-25 23:09:38.461",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "the sacks works for the first few levels, then you can now actually craft things"
+    },
+    {
+      "timestamp": "22-12-25 23:09:38.462",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "the sacks works for the first few levels, then you can now actually craft things"
     }
   ],
-  "timestamp": "2025-12-22T23:05:01.296484"
+  "timestamp": "2025-12-22T23:10:01.852564"
 }
