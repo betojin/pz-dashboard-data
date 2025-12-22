@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 18:31:50.772",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "fully connected",
-      "x": "5968",
-      "y": "5329",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 18:42:03.141",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "22-12-25 18:42:03.142",
       "steam_id": "76561199251232344",
       "username": "Kessel",
@@ -350,56 +335,27 @@
       "x": "11722",
       "y": "6749",
       "z": "0"
+    },
+    {
+      "timestamp": "22-12-25 23:21:35.846",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "fully connected",
+      "x": "10085",
+      "y": "8263",
+      "z": "1"
+    },
+    {
+      "timestamp": "22-12-25 23:22:28.200",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "disconnected",
+      "x": "11811",
+      "y": "9787",
+      "z": "1"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 17:02:11.948",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5903",
-      "y": "5341",
-      "z": "0",
-      "hours_survived": 57,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 7,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 1,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 1,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "22-12-25 17:11:25.631",
       "steam_id": "76561198031138505",
@@ -1132,309 +1088,356 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "1"
+    },
+    {
+      "timestamp": "22-12-25 23:22:06.311",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "10085",
+      "y": "8263",
+      "z": "1",
+      "hours_survived": 259,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 3,
+        "Blunt": 0,
+        "Axe": 2,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 4,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 2,
+        "PlantScavenging": 7,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 2,
+        "FlintKnapping": 3,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 3,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "22-12-25 23:12:57.079",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "thats how"
-    },
-    {
-      "timestamp": "22-12-25 23:12:57.080",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "thats how"
-    },
-    {
-      "timestamp": "22-12-25 23:13:07.902",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i had it on video who actually did it tho"
-    },
-    {
-      "timestamp": "22-12-25 23:13:07.903",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i had it on video who actually did it tho"
-    },
-    {
-      "timestamp": "22-12-25 23:13:19.025",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "is disassembling still the best way to level carpentry?"
-    },
-    {
-      "timestamp": "22-12-25 23:13:19.025",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "is disassembling still the best way to level carpentry?"
-    },
-    {
-      "timestamp": "22-12-25 23:13:24.533",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "I only ever played on the big Apartment and a bit of the one after"
-    },
-    {
-      "timestamp": "22-12-25 23:13:24.533",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "I only ever played on the big Apartment and a bit of the one after"
-    },
-    {
-      "timestamp": "22-12-25 23:13:26.290",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "no xp at all now"
-    },
-    {
-      "timestamp": "22-12-25 23:13:26.290",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "no xp at all now"
-    },
-    {
-      "timestamp": "22-12-25 23:13:33.558",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "disassembly gives no xp"
-    },
-    {
-      "timestamp": "22-12-25 23:13:33.558",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "disassembly gives no xp"
-    },
-    {
-      "timestamp": "22-12-25 23:13:37.285",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "fuck really"
-    },
-    {
-      "timestamp": "22-12-25 23:13:37.285",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "fuck really"
-    },
-    {
-      "timestamp": "22-12-25 23:13:40.061",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "nope"
-    },
-    {
-      "timestamp": "22-12-25 23:13:40.061",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "nope"
-    },
-    {
-      "timestamp": "22-12-25 23:13:41.483",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "goddamn bullshit"
-    },
-    {
-      "timestamp": "22-12-25 23:13:41.483",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "goddamn bullshit"
-    },
-    {
-      "timestamp": "22-12-25 23:13:48.827",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "I joined during a big period of moving through like 3 houses, and have finally gotten the time to just. Chill and paly the game regularly"
-    },
-    {
-      "timestamp": "22-12-25 23:13:48.827",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "I joined during a big period of moving through like 3 houses, and have finally gotten the time to just. Chill and paly the game regularly"
-    },
-    {
-      "timestamp": "22-12-25 23:14:16.809",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Well no XP unless you mess with the settings, but carpentry can be gained by jsut sawing logs"
-    },
-    {
-      "timestamp": "22-12-25 23:14:16.809",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Well no XP unless you mess with the settings, but carpentry can be gained by jsut sawing logs"
-    },
-    {
-      "timestamp": "22-12-25 23:15:18.108",
+      "timestamp": "22-12-25 23:20:12.977",
       "chat_type": "General",
       "author": "exoticbutter",
-      "text": "if only craftring was faster"
+      "text": "anybody have good crafting skills?"
     },
     {
-      "timestamp": "22-12-25 23:15:18.108",
+      "timestamp": "22-12-25 23:20:12.977",
       "chat_type": "General",
       "author": "exoticbutter",
-      "text": "if only craftring was faster"
+      "text": "anybody have good crafting skills?"
     },
     {
-      "timestamp": "22-12-25 23:15:56.825",
+      "timestamp": "22-12-25 23:20:15.395",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "spears are from saplings or long sticks. chop trees is fastest way to get those"
+    },
+    {
+      "timestamp": "22-12-25 23:20:15.395",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "spears are from saplings or long sticks. chop trees is fastest way to get those"
+    },
+    {
+      "timestamp": "22-12-25 23:20:25.102",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i do exotic"
+    },
+    {
+      "timestamp": "22-12-25 23:20:25.102",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i do exotic"
+    },
+    {
+      "timestamp": "22-12-25 23:20:33.651",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "can u make"
+    },
+    {
+      "timestamp": "22-12-25 23:20:33.651",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "can u make"
+    },
+    {
+      "timestamp": "22-12-25 23:20:53.555",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "can-reinforce weapon"
+    },
+    {
+      "timestamp": "22-12-25 23:20:53.555",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "can-reinforce weapon"
+    },
+    {
+      "timestamp": "22-12-25 23:21:16.951",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "i have the mags"
+    },
+    {
+      "timestamp": "22-12-25 23:21:16.951",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "i have the mags"
+    },
+    {
+      "timestamp": "22-12-25 23:21:36.326",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "actually nvm, i think i might be able to"
+    },
+    {
+      "timestamp": "22-12-25 23:21:36.327",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "actually nvm, i think i might be able to"
+    },
+    {
+      "timestamp": "22-12-25 23:21:38.277",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "i have 0 skills in everything"
+    },
+    {
+      "timestamp": "22-12-25 23:21:38.277",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "i have 0 skills in everything"
+    },
+    {
+      "timestamp": "22-12-25 23:22:15.611",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "lord i cant see in this house"
+    },
+    {
+      "timestamp": "22-12-25 23:22:15.612",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "lord i cant see in this house"
+    },
+    {
+      "timestamp": "22-12-25 23:22:16.918",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "you just logged in jacko lol"
+    },
+    {
+      "timestamp": "22-12-25 23:22:16.918",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "you just logged in jacko lol"
+    },
+    {
+      "timestamp": "22-12-25 23:22:27.077",
       "chat_type": "General",
       "author": "buttersshoes",
-      "text": "at least it seems like foraging is basically the same"
+      "text": "the highest skill i have is foraging 3 right now haha"
     },
     {
-      "timestamp": "22-12-25 23:15:56.826",
+      "timestamp": "22-12-25 23:22:27.077",
       "chat_type": "General",
       "author": "buttersshoes",
-      "text": "at least it seems like foraging is basically the same"
+      "text": "the highest skill i have is foraging 3 right now haha"
     },
     {
-      "timestamp": "22-12-25 23:15:59.627",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i was proud of having put 1800 hrs into b41 on camp crew server. but i crossed 2000 more hours on b42 since..."
-    },
-    {
-      "timestamp": "22-12-25 23:15:59.627",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i was proud of having put 1800 hrs into b41 on camp crew server. but i crossed 2000 more hours on b42 since..."
-    },
-    {
-      "timestamp": "22-12-25 23:16:44.308",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i learned a lot of the b42 systems"
-    },
-    {
-      "timestamp": "22-12-25 23:16:44.309",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i learned a lot of the b42 systems"
-    },
-    {
-      "timestamp": "22-12-25 23:17:22.664",
+      "timestamp": "22-12-25 23:23:02.861",
       "chat_type": "General",
       "author": "half",
-      "text": "i still have no idea a lot of the stuff"
+      "text": "i have carp 5"
     },
     {
-      "timestamp": "22-12-25 23:17:22.664",
+      "timestamp": "22-12-25 23:23:02.861",
       "chat_type": "General",
       "author": "half",
-      "text": "i still have no idea a lot of the stuff"
+      "text": "i have carp 5"
     },
     {
-      "timestamp": "22-12-25 23:17:39.665",
-      "chat_type": "General",
+      "timestamp": "22-12-25 23:23:11.622",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "its like learning zomboid all over again right?"
+      "text": "jacko"
     },
     {
-      "timestamp": "22-12-25 23:17:39.665",
-      "chat_type": "General",
+      "timestamp": "22-12-25 23:23:11.622",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "its like learning zomboid all over again right?"
+      "text": "jacko"
     },
     {
-      "timestamp": "22-12-25 23:17:50.562",
-      "chat_type": "General",
-      "author": "half",
-      "text": "very"
-    },
-    {
-      "timestamp": "22-12-25 23:17:50.562",
-      "chat_type": "General",
-      "author": "half",
-      "text": "very"
-    },
-    {
-      "timestamp": "22-12-25 23:18:04.080",
-      "chat_type": "General",
-      "author": "half",
-      "text": "even the combat"
-    },
-    {
-      "timestamp": "22-12-25 23:18:04.080",
-      "chat_type": "General",
-      "author": "half",
-      "text": "even the combat"
-    },
-    {
-      "timestamp": "22-12-25 23:18:16.688",
-      "chat_type": "General",
+      "timestamp": "22-12-25 23:23:18.138",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "muscle strain is a new thing to get used to"
+      "text": "have gen and gas can"
     },
     {
-      "timestamp": "22-12-25 23:18:16.688",
-      "chat_type": "General",
+      "timestamp": "22-12-25 23:23:18.138",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "muscle strain is a new thing to get used to"
+      "text": "have gen and gas can"
     },
     {
-      "timestamp": "22-12-25 23:18:46.117",
-      "chat_type": "General",
+      "timestamp": "22-12-25 23:23:38.900",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "you fire"
+    },
+    {
+      "timestamp": "22-12-25 23:23:38.900",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "you fire"
+    },
+    {
+      "timestamp": "22-12-25 23:23:42.199",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "yo"
+    },
+    {
+      "timestamp": "22-12-25 23:23:42.199",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "yo"
+    },
+    {
+      "timestamp": "22-12-25 23:23:49.855",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "there is tailoring 3 in my car"
+    },
+    {
+      "timestamp": "22-12-25 23:23:49.856",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "there is tailoring 3 in my car"
+    },
+    {
+      "timestamp": "22-12-25 23:23:53.127",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "need it ?"
+    },
+    {
+      "timestamp": "22-12-25 23:23:53.127",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "need it ?"
+    },
+    {
+      "timestamp": "22-12-25 23:23:56.684",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "you can craft baseball bats and short bats (nightsticks) using carving now"
+      "text": "i do"
     },
     {
-      "timestamp": "22-12-25 23:18:46.117",
-      "chat_type": "General",
+      "timestamp": "22-12-25 23:23:56.684",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "you can craft baseball bats and short bats (nightsticks) using carving now"
+      "text": "i do"
     },
     {
-      "timestamp": "22-12-25 23:19:02.486",
-      "chat_type": "General",
+      "timestamp": "22-12-25 23:24:09.116",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "sharp rocks can be improvised knives"
+      "text": "if you unclaim your safe house i can give you a gen and gas and connect it"
     },
     {
-      "timestamp": "22-12-25 23:19:02.486",
-      "chat_type": "General",
+      "timestamp": "22-12-25 23:24:09.116",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "sharp rocks can be improvised knives"
+      "text": "if you unclaim your safe house i can give you a gen and gas and connect it"
     },
     {
-      "timestamp": "22-12-25 23:19:15.361",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Gotta eat dinner, but I will pay someone for that Generator Mag"
-    },
-    {
-      "timestamp": "22-12-25 23:19:15.361",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Gotta eat dinner, but I will pay someone for that Generator Mag"
-    },
-    {
-      "timestamp": "22-12-25 23:19:15.607",
-      "chat_type": "General",
+      "timestamp": "22-12-25 23:24:16.101",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "you can pick up rocks off the ground and beat zeds with them"
+      "text": "reclaim it back after"
     },
     {
-      "timestamp": "22-12-25 23:19:15.607",
-      "chat_type": "General",
+      "timestamp": "22-12-25 23:24:16.101",
+      "chat_type": "Local",
       "author": "Firestorm3050",
-      "text": "you can pick up rocks off the ground and beat zeds with them"
+      "text": "reclaim it back after"
     },
     {
-      "timestamp": "22-12-25 23:19:45.079",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "making spears seems harder now... damn it spears are my favorite weapon"
+      "timestamp": "22-12-25 23:24:31.931",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "i think i did it"
     },
     {
-      "timestamp": "22-12-25 23:19:45.079",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "making spears seems harder now... damn it spears are my favorite weapon"
+      "timestamp": "22-12-25 23:24:31.931",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "i think i did it"
+    },
+    {
+      "timestamp": "22-12-25 23:24:43.837",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "where do you want it placed?"
+    },
+    {
+      "timestamp": "22-12-25 23:24:43.837",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "where do you want it placed?"
+    },
+    {
+      "timestamp": "22-12-25 23:24:54.004",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "anywhere apart from the flowers"
+    },
+    {
+      "timestamp": "22-12-25 23:24:54.004",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "anywhere apart from the flowers"
+    },
+    {
+      "timestamp": "22-12-25 23:24:57.986",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "ill keep the flowers"
+    },
+    {
+      "timestamp": "22-12-25 23:24:57.986",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "ill keep the flowers"
     }
   ],
-  "timestamp": "2025-12-22T23:20:01.910565"
+  "timestamp": "2025-12-22T23:25:01.323907"
 }
