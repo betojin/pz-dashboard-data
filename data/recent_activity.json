@@ -357,53 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 04:14:56.207",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "x": "8116",
-      "y": "11295",
-      "z": "0",
-      "hours_survived": 30,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 6,
-        "Strength": 6,
-        "Blunt": 0,
-        "Axe": 1,
-        "Lightfoot": 1,
-        "Nimble": 1,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "22-12-25 04:25:30.708",
       "steam_id": "76561198864938417",
       "username": "Woofie",
@@ -1199,33 +1152,21 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "2"
+    },
+    {
+      "timestamp": "22-12-25 17:39:26.114",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "10113",
+      "y": "8241",
+      "z": "0",
+      "hours_survived": 226,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "2"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-12-25 16:45:11.888",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "you can see on the map"
-    },
-    {
-      "timestamp": "22-12-25 16:45:11.888",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "you can see on the map"
-    },
-    {
-      "timestamp": "22-12-25 16:45:23.277",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "did you clean out all these houses"
-    },
-    {
-      "timestamp": "22-12-25 16:45:23.277",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "did you clean out all these houses"
-    },
     {
       "timestamp": "22-12-25 16:48:06.529",
       "chat_type": "General",
@@ -1501,7 +1442,31 @@
       "chat_type": "General",
       "author": "Woofie",
       "text": "MILK"
+    },
+    {
+      "timestamp": "22-12-25 17:36:00.553",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "is there any other kind?"
+    },
+    {
+      "timestamp": "22-12-25 17:36:00.553",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "is there any other kind?"
+    },
+    {
+      "timestamp": "22-12-25 17:38:32.128",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "as i enter milk n more"
+    },
+    {
+      "timestamp": "22-12-25 17:38:32.128",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "as i enter milk n more"
     }
   ],
-  "timestamp": "2025-12-22T17:35:01.289495"
+  "timestamp": "2025-12-22T17:40:01.682429"
 }

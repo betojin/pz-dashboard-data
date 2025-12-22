@@ -496,7 +496,7 @@
     "Woofie": {
       "username": "Woofie",
       "steam_id": "76561198864938417",
-      "total_hours": 222,
+      "total_hours": 226,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -508,7 +508,7 @@
         "Nimble": 1,
         "Sprinting": 1,
         "Sneak": 0,
-        "Woodwork": 1,
+        "Woodwork": 2,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -610,9 +610,14 @@
           "skill": "Husbandry",
           "level": "1",
           "timestamp": "22-12-25 17:29:32.529"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "2",
+          "timestamp": "22-12-25 17:39:26.114"
         }
       ],
-      "last_seen": "22-12-25 17:29:32.529",
+      "last_seen": "22-12-25 17:39:26.114",
       "connections": 4
     },
     "half": {
@@ -859,5 +864,5 @@
     }
   },
   "total_players": 11,
-  "timestamp": "2025-12-22T17:35:01.269477"
+  "timestamp": "2025-12-22T17:40:01.662270"
 }
