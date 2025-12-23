@@ -299,56 +299,36 @@
       "x": "5884",
       "y": "5738",
       "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 20:21:21.377",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 20:21:21.377",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "23-12-25 20:21:38.123",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 20:22:25.818",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "fully connected",
+      "x": "11612",
+      "y": "8869",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 03:35:15.921",
-      "steam_id": "76561198419791953",
-      "username": "Pabstlite",
-      "x": "11594",
-      "y": "6726",
-      "z": "0",
-      "hours_survived": 110,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 5,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 3,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 2,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 1,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 2,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "23-12-25 03:58:06.672",
       "steam_id": "76561199251232344",
@@ -1042,33 +1022,56 @@
       "event_type": "level_up",
       "skill": "Carving",
       "level": "3"
+    },
+    {
+      "timestamp": "23-12-25 20:22:31.486",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "11612",
+      "y": "8869",
+      "z": "0",
+      "hours_survived": 44,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 5,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 17:46:23.891",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "good on em, im the proud owner of a prestine Spiffo van and a trailer"
-    },
-    {
-      "timestamp": "23-12-25 17:46:23.891",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "good on em, im the proud owner of a prestine Spiffo van and a trailer"
-    },
-    {
-      "timestamp": "23-12-25 17:46:47.574",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "nice"
-    },
-    {
-      "timestamp": "23-12-25 17:46:47.574",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "nice"
-    },
     {
       "timestamp": "23-12-25 17:48:29.271",
       "chat_type": "General",
@@ -1344,7 +1347,31 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "found knapping 3"
+    },
+    {
+      "timestamp": "23-12-25 20:21:08.284",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "thats too early for me, and i probably wont need it at that level. just low level knapping allows you to bang rocks together to get hammers and decent axes"
+    },
+    {
+      "timestamp": "23-12-25 20:21:08.284",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "thats too early for me, and i probably wont need it at that level. just low level knapping allows you to bang rocks together to get hammers and decent axes"
+    },
+    {
+      "timestamp": "23-12-25 20:23:02.574",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "wsg"
+    },
+    {
+      "timestamp": "23-12-25 20:23:02.574",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "wsg"
     }
   ],
-  "timestamp": "2025-12-23T20:20:01.388648"
+  "timestamp": "2025-12-23T20:25:01.868176"
 }
