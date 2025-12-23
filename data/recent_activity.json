@@ -1,36 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 22:51:24.907",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 22:51:28.987",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 22:51:43.919",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "fully connected",
-      "x": "8131",
-      "y": "11548",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 22:52:45.285",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "fully connected",
-      "x": "10742",
-      "y": "9482",
-      "z": "0"
-    },
-    {
       "timestamp": "22-12-25 23:07:08.547",
       "steam_id": "76561198864938417",
       "username": "Woofie",
@@ -353,33 +323,36 @@
       "x": "2594",
       "y": "10896",
       "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 02:52:38.473",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 02:52:38.473",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "23-12-25 02:52:52.261",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 02:54:20.496",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "fully connected",
+      "x": "3512",
+      "y": "10902",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 22:45:53.973",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8127",
-      "y": "11542",
-      "z": "0",
-      "hours_survived": 103,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "3"
-    },
-    {
-      "timestamp": "22-12-25 22:47:16.561",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8120",
-      "y": "11565",
-      "z": "0",
-      "hours_survived": 104,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "5"
-    },
     {
       "timestamp": "22-12-25 22:48:26.475",
       "steam_id": "76561198095700017",
@@ -1030,33 +1003,66 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "23-12-25 02:54:24.516",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "x": "3512",
+      "y": "10902",
+      "z": "0",
+      "hours_survived": 45,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 6,
+        "Strength": 6,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "23-12-25 02:54:48.369",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "x": "3512",
+      "y": "10902",
+      "z": "0",
+      "hours_survived": 45,
+      "event_type": "died"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 00:45:12.567",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "is there still a way to make campfires?"
-    },
-    {
-      "timestamp": "23-12-25 00:45:12.567",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "is there still a way to make campfires?"
-    },
-    {
-      "timestamp": "23-12-25 00:45:54.169",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yes, just different menu and different mats"
-    },
-    {
-      "timestamp": "23-12-25 00:45:54.170",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yes, just different menu and different mats"
-    },
     {
       "timestamp": "23-12-25 00:46:09.279",
       "chat_type": "Local",
@@ -1332,7 +1338,31 @@
       "chat_type": "Local",
       "author": "Sully",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 02:54:40.672",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "F to me"
+    },
+    {
+      "timestamp": "23-12-25 02:54:40.673",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "F to me"
+    },
+    {
+      "timestamp": "23-12-25 02:54:49.767",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "F to kessel"
+    },
+    {
+      "timestamp": "23-12-25 02:54:49.767",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "F to kessel"
     }
   ],
-  "timestamp": "2025-12-23T02:50:01.540531"
+  "timestamp": "2025-12-23T02:55:01.958961"
 }
