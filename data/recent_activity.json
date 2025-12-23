@@ -195,18 +195,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "23-12-25 02:05:03.089",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "2611",
-      "y": "10872",
-      "z": "0",
-      "hours_survived": 311,
-      "event_type": "level_up",
-      "skill": "Nimble",
-      "level": "2"
-    },
-    {
       "timestamp": "23-12-25 02:41:37.412",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -930,6 +918,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "23-12-25 17:22:03.770",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 557,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -958,5 +958,5 @@
       "text": "hey firestorm"
     }
   ],
-  "timestamp": "2025-12-23T17:20:01.177955"
+  "timestamp": "2025-12-23T17:25:01.546120"
 }
