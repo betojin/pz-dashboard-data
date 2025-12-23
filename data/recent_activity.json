@@ -200,56 +200,36 @@
       "x": "10716",
       "y": "9570",
       "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 17:30:27.745",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 17:30:27.745",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "23-12-25 17:30:38.466",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 17:31:21.794",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "fully connected",
+      "x": "10716",
+      "y": "9570",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 02:47:45.703",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "2594",
-      "y": "10896",
-      "z": "0",
-      "hours_survived": 323,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 1,
-        "Fitness": 9,
-        "Strength": 3,
-        "Blunt": 0,
-        "Axe": 2,
-        "Lightfoot": 1,
-        "Nimble": 2,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 4,
-        "Aiming": 1,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 2,
-        "PlantScavenging": 7,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 3,
-        "FlintKnapping": 3,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 3,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "23-12-25 02:54:24.516",
       "steam_id": "76561199251232344",
@@ -939,6 +919,53 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "5"
+    },
+    {
+      "timestamp": "23-12-25 17:31:22.075",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10716",
+      "y": "9570",
+      "z": "0",
+      "hours_survived": 560,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 4,
+        "Fitness": 10,
+        "Strength": 9,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 5,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 2,
+        "Fishing": 2,
+        "Trapping": 1,
+        "PlantScavenging": 2,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 2,
+        "Spear": 0,
+        "Maintenance": 3,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 3,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -979,5 +1006,5 @@
       "text": "are you set up in Muldraugh?"
     }
   ],
-  "timestamp": "2025-12-23T17:30:01.865473"
+  "timestamp": "2025-12-23T17:35:01.209867"
 }
