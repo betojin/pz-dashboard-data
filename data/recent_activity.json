@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 23:22:28.200",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "disconnected",
-      "x": "11811",
-      "y": "9787",
-      "z": "1"
-    },
-    {
       "timestamp": "23-12-25 00:06:10.235",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -350,56 +341,18 @@
       "steam_id": "76561198419791953",
       "username": "Pabstlite",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 03:15:08.457",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "fully connected",
+      "x": "11721",
+      "y": "6751",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 22:52:45.543",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10742",
-      "y": "9482",
-      "z": "0",
-      "hours_survived": 470,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 4,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 2,
-        "Fishing": 2,
-        "Trapping": 1,
-        "PlantScavenging": 1,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 0,
-        "Maintenance": 3,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 3,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "22-12-25 22:58:20.255",
       "steam_id": "76561198095700017",
@@ -988,117 +941,56 @@
       "event_type": "level_up",
       "skill": "Aiming",
       "level": "2"
+    },
+    {
+      "timestamp": "23-12-25 03:15:11.968",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "x": "11721",
+      "y": "6751",
+      "z": "0",
+      "hours_survived": 103,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 3,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 2,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 1,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 00:46:19.486",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "build menu, 3 stones"
-    },
-    {
-      "timestamp": "23-12-25 00:46:19.486",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "build menu, 3 stones"
-    },
-    {
-      "timestamp": "23-12-25 00:46:31.885",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "plus something else i dont remember off the otp"
-    },
-    {
-      "timestamp": "23-12-25 00:46:31.885",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "plus something else i dont remember off the otp"
-    },
-    {
-      "timestamp": "23-12-25 00:46:35.534",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "dw"
-    },
-    {
-      "timestamp": "23-12-25 00:46:35.534",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "dw"
-    },
-    {
-      "timestamp": "23-12-25 00:46:39.244",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "of my head"
-    },
-    {
-      "timestamp": "23-12-25 00:46:39.244",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "of my head"
-    },
-    {
-      "timestamp": "23-12-25 00:52:07.196",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "23-12-25 00:52:07.197",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "23-12-25 00:58:09.924",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "has anyone hit up guns unlimited yet?"
-    },
-    {
-      "timestamp": "23-12-25 00:58:09.925",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "has anyone hit up guns unlimited yet?"
-    },
-    {
-      "timestamp": "23-12-25 00:58:32.375",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i think last night?"
-    },
-    {
-      "timestamp": "23-12-25 00:58:32.375",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i think last night?"
-    },
-    {
-      "timestamp": "23-12-25 01:01:23.648",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "23-12-25 01:01:23.648",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "23-12-25 01:05:19.189",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "23-12-25 01:05:19.189",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "23-12-25 01:07:10.412",
       "chat_type": "Local",
@@ -1290,7 +1182,115 @@
       "chat_type": "Local",
       "author": "Kessel",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "23-12-25 03:15:38.477",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "bob is dead"
+    },
+    {
+      "timestamp": "23-12-25 03:15:38.477",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "bob is dead"
+    },
+    {
+      "timestamp": "23-12-25 03:16:42.468",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "I mgith have a proposition"
+    },
+    {
+      "timestamp": "23-12-25 03:16:42.468",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "I mgith have a proposition"
+    },
+    {
+      "timestamp": "23-12-25 03:17:14.120",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Yes, the radio"
+    },
+    {
+      "timestamp": "23-12-25 03:17:14.121",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Yes, the radio"
+    },
+    {
+      "timestamp": "23-12-25 03:17:39.619",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Woofie knows me well, I enjoy my safe chats"
+    },
+    {
+      "timestamp": "23-12-25 03:17:39.619",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Woofie knows me well, I enjoy my safe chats"
+    },
+    {
+      "timestamp": "23-12-25 03:19:18.683",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "well i found the secret of firecrackers"
+    },
+    {
+      "timestamp": "23-12-25 03:19:18.683",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "well i found the secret of firecrackers"
+    },
+    {
+      "timestamp": "23-12-25 03:19:28.743",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Good luring tool?"
+    },
+    {
+      "timestamp": "23-12-25 03:19:28.743",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Good luring tool?"
+    },
+    {
+      "timestamp": "23-12-25 03:19:43.204",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "yeah"
+    },
+    {
+      "timestamp": "23-12-25 03:19:43.204",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "yeah"
+    },
+    {
+      "timestamp": "23-12-25 03:19:54.546",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "they also sound a LOT like gunfire"
+    },
+    {
+      "timestamp": "23-12-25 03:19:54.546",
+      "chat_type": "General",
+      "author": "Kessel",
+      "text": "they also sound a LOT like gunfire"
+    },
+    {
+      "timestamp": "23-12-25 03:19:57.930",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Might try them myself sometimes"
+    },
+    {
+      "timestamp": "23-12-25 03:19:57.930",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Might try them myself sometimes"
     }
   ],
-  "timestamp": "2025-12-23T03:15:01.299604"
+  "timestamp": "2025-12-23T03:20:01.658309"
 }
