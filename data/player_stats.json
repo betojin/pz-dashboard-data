@@ -536,7 +536,7 @@
     "Woofie": {
       "username": "Woofie",
       "steam_id": "76561198864938417",
-      "total_hours": 294,
+      "total_hours": 301,
       "deaths": 0,
       "skills": {
         "Cooking": 1,
@@ -550,7 +550,7 @@
         "Sneak": 0,
         "Woodwork": 4,
         "Aiming": 0,
-        "Reloading": 0,
+        "Reloading": 1,
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 2,
@@ -680,9 +680,14 @@
           "skill": "Cooking",
           "level": "1",
           "timestamp": "23-12-25 00:51:05.186"
+        },
+        {
+          "skill": "Reloading",
+          "level": "1",
+          "timestamp": "23-12-25 01:09:10.165"
         }
       ],
-      "last_seen": "23-12-25 00:51:05.186",
+      "last_seen": "23-12-25 01:09:10.165",
       "connections": 5
     },
     "half": {
@@ -852,10 +857,10 @@
     "buttersshoes": {
       "username": "buttersshoes",
       "steam_id": "76561198095700017",
-      "total_hours": 81,
+      "total_hours": 91,
       "deaths": 0,
       "skills": {
-        "Cooking": 0,
+        "Cooking": 1,
         "Fitness": 5,
         "Strength": 5,
         "Blunt": 1,
@@ -926,9 +931,14 @@
           "skill": "Maintenance",
           "level": "1",
           "timestamp": "23-12-25 00:41:12.148"
+        },
+        {
+          "skill": "Cooking",
+          "level": "1",
+          "timestamp": "23-12-25 01:07:19.609"
         }
       ],
-      "last_seen": "23-12-25 00:41:12.148",
+      "last_seen": "23-12-25 01:07:19.609",
       "connections": 3
     },
     "exoticbutter": {
@@ -1082,5 +1092,5 @@
     }
   },
   "total_players": 13,
-  "timestamp": "2025-12-23T01:05:01.471460"
+  "timestamp": "2025-12-23T01:10:01.901768"
 }

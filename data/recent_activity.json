@@ -1,27 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 20:07:54.529",
-      "steam_id": "76561198419791953",
-      "username": "Pabstlite",
-      "action": "fully connected",
-      "x": "11904",
-      "y": "6725",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 21:46:04.808",
-      "steam_id": "76561199229230518",
-      "username": "Jacko",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 21:46:04.809",
-      "steam_id": "76561199229230518",
-      "username": "Jacko",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "22-12-25 21:50:50.606",
       "steam_id": "76561199229230518",
       "username": "Jacko",
@@ -350,68 +329,27 @@
       "steam_id": "76561199092197924",
       "username": "NotMyFishyy",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 01:06:05.104",
+      "steam_id": "76561199092197924",
+      "username": "NotMyFishyy",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 01:06:05.105",
+      "steam_id": "76561199092197924",
+      "username": "NotMyFishyy",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "23-12-25 01:08:41.427",
+      "steam_id": "76561199092197924",
+      "username": "NotMyFishyy",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 19:07:54.701",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5831",
-      "y": "5253",
-      "z": "0",
-      "hours_survived": 95,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "1"
-    },
-    {
-      "timestamp": "22-12-25 20:07:54.966",
-      "steam_id": "76561198419791953",
-      "username": "Pabstlite",
-      "x": "11904",
-      "y": "6725",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 3,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 2,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 1,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 2,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "22-12-25 20:30:44.761",
       "steam_id": "76561198031138505",
@@ -1062,33 +1000,33 @@
       "event_type": "level_up",
       "skill": "Cooking",
       "level": "1"
+    },
+    {
+      "timestamp": "23-12-25 01:07:19.609",
+      "steam_id": "76561198095700017",
+      "username": "buttersshoes",
+      "x": "10869",
+      "y": "10202",
+      "z": "0",
+      "hours_survived": 91,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "1"
+    },
+    {
+      "timestamp": "23-12-25 01:09:10.165",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "10064",
+      "y": "8239",
+      "z": "0",
+      "hours_survived": 301,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 00:39:10.380",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "butcher hook"
-    },
-    {
-      "timestamp": "23-12-25 00:39:10.380",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "butcher hook"
-    },
-    {
-      "timestamp": "23-12-25 00:39:27.923",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "a new bug i found in mp, is that mats need to be on the floor, not inventory"
-    },
-    {
-      "timestamp": "23-12-25 00:39:27.923",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "a new bug i found in mp, is that mats need to be on the floor, not inventory"
-    },
     {
       "timestamp": "23-12-25 00:39:34.344",
       "chat_type": "General",
@@ -1364,7 +1302,31 @@
       "chat_type": "Local",
       "author": "Firestorm3050",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-12-25 01:05:19.189",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 01:05:19.189",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 01:07:10.412",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-12-25 01:07:10.413",
+      "chat_type": "Local",
+      "author": "Woofie",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-23T01:05:01.497521"
+  "timestamp": "2025-12-23T01:10:01.927760"
 }
