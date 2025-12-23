@@ -254,19 +254,18 @@
       "x": "11811",
       "y": "9787",
       "z": "1"
+    },
+    {
+      "timestamp": "23-12-25 19:09:23.495",
+      "steam_id": "76561197988744957",
+      "username": "TwoHorndUnicorn",
+      "action": "disconnected",
+      "x": "10097",
+      "y": "7351",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 02:55:23.099",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "x": "12062",
-      "y": "6915",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
     {
       "timestamp": "23-12-25 03:06:47.041",
       "steam_id": "76561198119296623",
@@ -995,6 +994,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "23-12-25 19:06:53.558",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "11838",
+      "y": "9752",
+      "z": "0",
+      "hours_survived": 37,
+      "event_type": "level_up",
+      "skill": "SmallBlunt",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1225,7 +1236,55 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "ill pass, i have enough already"
+    },
+    {
+      "timestamp": "23-12-25 19:06:04.717",
+      "chat_type": "General",
+      "author": "TwoHorndUnicorn",
+      "text": "are we able to claim vehicles?"
+    },
+    {
+      "timestamp": "23-12-25 19:06:04.717",
+      "chat_type": "General",
+      "author": "TwoHorndUnicorn",
+      "text": "are we able to claim vehicles?"
+    },
+    {
+      "timestamp": "23-12-25 19:06:33.967",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "zombie corpses decay fast"
+    },
+    {
+      "timestamp": "23-12-25 19:06:33.967",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "zombie corpses decay fast"
+    },
+    {
+      "timestamp": "23-12-25 19:08:09.701",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "i looove picking thread"
+    },
+    {
+      "timestamp": "23-12-25 19:08:09.701",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "i looove picking thread"
+    },
+    {
+      "timestamp": "23-12-25 19:08:14.015",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "definitely the most fun part"
+    },
+    {
+      "timestamp": "23-12-25 19:08:14.015",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "definitely the most fun part"
     }
   ],
-  "timestamp": "2025-12-23T19:05:01.794964"
+  "timestamp": "2025-12-23T19:10:01.153153"
 }
