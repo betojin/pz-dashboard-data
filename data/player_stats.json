@@ -837,7 +837,7 @@
     "buttersshoes": {
       "username": "buttersshoes",
       "steam_id": "76561198095700017",
-      "total_hours": 67,
+      "total_hours": 69,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -855,7 +855,7 @@
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 2,
-        "PlantScavenging": 4,
+        "PlantScavenging": 5,
         "Doctor": 0,
         "Electricity": 0,
         "Blacksmith": 0,
@@ -896,9 +896,14 @@
           "skill": "PlantScavenging",
           "level": "4",
           "timestamp": "23-12-25 00:07:00.751"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "5",
+          "timestamp": "23-12-25 00:11:58.611"
         }
       ],
-      "last_seen": "23-12-25 00:07:00.751",
+      "last_seen": "23-12-25 00:11:58.611",
       "connections": 3
     },
     "exoticbutter": {
@@ -1052,5 +1057,5 @@
     }
   },
   "total_players": 13,
-  "timestamp": "2025-12-23T00:10:01.438283"
+  "timestamp": "2025-12-23T00:15:01.786290"
 }
