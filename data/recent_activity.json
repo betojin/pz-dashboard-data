@@ -245,19 +245,18 @@
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 19:01:31.666",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "fully connected",
+      "x": "11811",
+      "y": "9787",
+      "z": "1"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 02:54:48.369",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "x": "3512",
-      "y": "10902",
-      "z": "0",
-      "hours_survived": 45,
-      "event_type": "died"
-    },
     {
       "timestamp": "23-12-25 02:55:23.099",
       "steam_id": "76561199251232344",
@@ -949,6 +948,53 @@
       "event_type": "level_up",
       "skill": "PlantScavenging",
       "level": "3"
+    },
+    {
+      "timestamp": "23-12-25 19:01:32.407",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "11811",
+      "y": "9787",
+      "z": "1",
+      "hours_survived": 35,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 5,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1119,7 +1165,67 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "ive been keeping it off on solo."
+    },
+    {
+      "timestamp": "23-12-25 19:01:59.066",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "wsg"
+    },
+    {
+      "timestamp": "23-12-25 19:01:59.066",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "wsg"
+    },
+    {
+      "timestamp": "23-12-25 19:02:07.614",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "hello"
+    },
+    {
+      "timestamp": "23-12-25 19:02:07.614",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "hello"
+    },
+    {
+      "timestamp": "23-12-25 19:02:44.277",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "havent gone back to ur house"
+    },
+    {
+      "timestamp": "23-12-25 19:02:44.278",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "havent gone back to ur house"
+    },
+    {
+      "timestamp": "23-12-25 19:03:29.527",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "do u want steel ingots"
+    },
+    {
+      "timestamp": "23-12-25 19:03:29.527",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "do u want steel ingots"
+    },
+    {
+      "timestamp": "23-12-25 19:04:04.090",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ill pass, i have enough already"
+    },
+    {
+      "timestamp": "23-12-25 19:04:04.090",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ill pass, i have enough already"
     }
   ],
-  "timestamp": "2025-12-23T19:00:01.302746"
+  "timestamp": "2025-12-23T19:05:01.794964"
 }
