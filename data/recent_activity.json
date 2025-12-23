@@ -330,53 +330,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "23-12-25 03:58:06.672",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "x": "11907",
-      "y": "6939",
-      "z": "0",
-      "hours_survived": 23,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 6,
-        "Strength": 6,
-        "Blunt": 0,
-        "Axe": 1,
-        "Lightfoot": 1,
-        "Nimble": 1,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "23-12-25 04:04:29.526",
       "steam_id": "76561199251232344",
       "username": "Kessel",
@@ -1069,69 +1022,21 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "23-12-25 20:26:34.356",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 630,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "4"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 17:48:29.271",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i forgot how nice multi-hit is"
-    },
-    {
-      "timestamp": "23-12-25 17:48:29.272",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i forgot how nice multi-hit is"
-    },
-    {
-      "timestamp": "23-12-25 17:48:57.387",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "yeah, i dont play without it. i dont care if its easy, its fun haaha"
-    },
-    {
-      "timestamp": "23-12-25 17:48:57.387",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "yeah, i dont play without it. i dont care if its easy, its fun haaha"
-    },
-    {
-      "timestamp": "23-12-25 17:49:11.360",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "ive been keeping it off on solo."
-    },
-    {
-      "timestamp": "23-12-25 17:49:11.360",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "ive been keeping it off on solo."
-    },
-    {
-      "timestamp": "23-12-25 19:01:59.066",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "wsg"
-    },
-    {
-      "timestamp": "23-12-25 19:01:59.066",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "wsg"
-    },
-    {
-      "timestamp": "23-12-25 19:02:07.614",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "hello"
-    },
-    {
-      "timestamp": "23-12-25 19:02:07.614",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "hello"
-    },
     {
       "timestamp": "23-12-25 19:02:44.277",
       "chat_type": "General",
@@ -1371,7 +1276,67 @@
       "chat_type": "General",
       "author": "exoticbutter",
       "text": "wsg"
+    },
+    {
+      "timestamp": "23-12-25 20:27:14.024",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "soo hungry"
+    },
+    {
+      "timestamp": "23-12-25 20:27:14.024",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "soo hungry"
+    },
+    {
+      "timestamp": "23-12-25 20:27:53.728",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "knapping 2"
+    },
+    {
+      "timestamp": "23-12-25 20:27:53.728",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "knapping 2"
+    },
+    {
+      "timestamp": "23-12-25 20:28:07.311",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i have only 1 more storage unit in muld to look through"
+    },
+    {
+      "timestamp": "23-12-25 20:28:07.312",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i have only 1 more storage unit in muld to look through"
+    },
+    {
+      "timestamp": "23-12-25 20:28:49.240",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "dude"
+    },
+    {
+      "timestamp": "23-12-25 20:28:49.240",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "dude"
+    },
+    {
+      "timestamp": "23-12-25 20:28:52.604",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "generator mag"
+    },
+    {
+      "timestamp": "23-12-25 20:28:52.604",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "generator mag"
     }
   ],
-  "timestamp": "2025-12-23T20:25:01.868176"
+  "timestamp": "2025-12-23T20:30:01.153116"
 }
