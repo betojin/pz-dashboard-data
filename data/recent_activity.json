@@ -1,48 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 23:08:15.376",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 23:14:47.978",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 23:14:47.978",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 23:16:15.491",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 23:19:28.013",
-      "steam_id": "76561198419791953",
-      "username": "Pabstlite",
-      "action": "disconnected",
-      "x": "11722",
-      "y": "6749",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 23:21:35.846",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "fully connected",
-      "x": "10085",
-      "y": "8263",
-      "z": "1"
-    },
-    {
       "timestamp": "22-12-25 23:22:28.200",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -356,6 +314,42 @@
       "x": "12062",
       "y": "6915",
       "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 03:12:43.553",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 03:12:43.553",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "23-12-25 03:12:51.990",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 03:14:21.022",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 03:14:21.022",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "23-12-25 03:14:29.969",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1298,5 +1292,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-23T03:10:01.965101"
+  "timestamp": "2025-12-23T03:15:01.299604"
 }
