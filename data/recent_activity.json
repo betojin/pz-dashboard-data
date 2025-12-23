@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 21:54:27.646",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "22-12-25 21:54:32.611",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -353,21 +347,18 @@
       "x": "7915",
       "y": "8561",
       "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 01:17:30.069",
+      "steam_id": "76561199092197924",
+      "username": "NotMyFishyy",
+      "action": "fully connected",
+      "x": "8215",
+      "y": "11677",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 20:30:44.761",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10820",
-      "y": "9883",
-      "z": "0",
-      "hours_survived": 415,
-      "event_type": "level_up",
-      "skill": "Blunt",
-      "level": "1"
-    },
     {
       "timestamp": "22-12-25 20:54:15.177",
       "steam_id": "76561198031138505",
@@ -1030,21 +1021,56 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "1"
+    },
+    {
+      "timestamp": "23-12-25 01:18:30.570",
+      "steam_id": "76561199092197924",
+      "username": "NotMyFishyy",
+      "x": "8215",
+      "y": "11677",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 6,
+        "Blunt": 0,
+        "Axe": 2,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 00:39:52.249",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yeah, drop all the mats on the ground, then try to build"
-    },
-    {
-      "timestamp": "23-12-25 00:39:52.250",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yeah, drop all the mats on the ground, then try to build"
-    },
     {
       "timestamp": "23-12-25 00:40:13.494",
       "chat_type": "Local",
@@ -1332,7 +1358,19 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "i need to log off for the night, ill be back probably later tomorrow"
+    },
+    {
+      "timestamp": "23-12-25 01:16:22.439",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "night"
+    },
+    {
+      "timestamp": "23-12-25 01:16:22.439",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "night"
     }
   ],
-  "timestamp": "2025-12-23T01:15:01.304380"
+  "timestamp": "2025-12-23T01:20:01.701928"
 }
