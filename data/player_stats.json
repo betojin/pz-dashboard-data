@@ -1176,7 +1176,7 @@
     "MarySueGangster": {
       "username": "MarySueGangster",
       "steam_id": "76561198014188564",
-      "total_hours": 27,
+      "total_hours": 44,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1186,7 +1186,7 @@
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 0,
-        "Sprinting": 0,
+        "Sprinting": 1,
         "Sneak": 0,
         "Woodwork": 0,
         "Aiming": 0,
@@ -1204,7 +1204,7 @@
         "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
-        "SmallBlunt": 3,
+        "SmallBlunt": 4,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
@@ -1230,12 +1230,22 @@
           "skill": "Maintenance",
           "level": "1",
           "timestamp": "23-12-25 09:34:54.530"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "23-12-25 10:16:06.355"
+        },
+        {
+          "skill": "SmallBlunt",
+          "level": "4",
+          "timestamp": "23-12-25 10:16:57.443"
         }
       ],
-      "last_seen": "23-12-25 09:34:54.530",
+      "last_seen": "23-12-25 10:16:57.443",
       "connections": 1
     }
   },
   "total_players": 15,
-  "timestamp": "2025-12-23T10:15:01.581536"
+  "timestamp": "2025-12-23T10:20:01.897923"
 }
