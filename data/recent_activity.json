@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-12-25 08:25:19.876",
-      "steam_id": "76561198014188564",
-      "username": "MarySueGangster",
-      "action": "fully connected",
-      "x": "11904",
-      "y": "6725",
-      "z": "0"
-    },
-    {
-      "timestamp": "23-12-25 10:22:25.664",
-      "steam_id": "76561198014188564",
-      "username": "MarySueGangster",
-      "action": "disconnected",
-      "x": "1940",
-      "y": "6403",
-      "z": "0"
-    },
-    {
       "timestamp": "23-12-25 16:01:01.362",
       "steam_id": "76561197988744957",
       "username": "TwoHorndUnicorn",
@@ -356,56 +338,24 @@
       "x": "10691",
       "y": "9550",
       "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 21:55:02.164",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 21:55:18.829",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "fully connected",
+      "x": "10613",
+      "y": "10456",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 07:04:17.362",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "10652",
-      "y": "9720",
-      "z": "0",
-      "hours_survived": 10,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 1,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 3,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 2,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "23-12-25 08:25:20.238",
       "steam_id": "76561198014188564",
@@ -1103,45 +1053,56 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "1"
+    },
+    {
+      "timestamp": "23-12-25 21:55:19.126",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "10613",
+      "y": "10456",
+      "z": "0",
+      "hours_survived": 80,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 5,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 21:32:01.490",
-      "chat_type": "Local",
-      "author": "CaptainLobo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "23-12-25 21:32:01.491",
-      "chat_type": "Local",
-      "author": "CaptainLobo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "23-12-25 21:32:01.789",
-      "chat_type": "Local",
-      "author": "CaptainLobo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "23-12-25 21:32:01.789",
-      "chat_type": "Local",
-      "author": "CaptainLobo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "23-12-25 21:32:01.801",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "i always found it weird that in basegame theres like zero car keyhs"
-    },
-    {
-      "timestamp": "23-12-25 21:32:01.802",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "i always found it weird that in basegame theres like zero car keyhs"
-    },
     {
       "timestamp": "23-12-25 21:32:02.072",
       "chat_type": "Local",
@@ -1405,7 +1366,43 @@
       "chat_type": "General",
       "author": "Jacko",
       "text": "lol"
+    },
+    {
+      "timestamp": "23-12-25 21:55:53.665",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "im pissed"
+    },
+    {
+      "timestamp": "23-12-25 21:55:53.666",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "im pissed"
+    },
+    {
+      "timestamp": "23-12-25 21:55:58.872",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "i need to level maintenance really fast"
+    },
+    {
+      "timestamp": "23-12-25 21:55:58.872",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "i need to level maintenance really fast"
+    },
+    {
+      "timestamp": "23-12-25 21:58:09.976",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "shit breaks so easily now"
+    },
+    {
+      "timestamp": "23-12-25 21:58:09.976",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "shit breaks so easily now"
     }
   ],
-  "timestamp": "2025-12-23T21:55:01.358634"
+  "timestamp": "2025-12-23T22:00:01.671158"
 }
