@@ -26,21 +26,27 @@
       "x": "9817",
       "y": "13103",
       "z": "1"
+    },
+    {
+      "timestamp": "23-12-25 06:31:37.877",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "disconnected",
+      "x": "10118",
+      "y": "12624",
+      "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 06:31:39.559",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "fully connected",
+      "x": "10916",
+      "y": "10133",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 00:22:08.237",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8124",
-      "y": "11540",
-      "z": "0",
-      "hours_survived": 141,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "8"
-    },
     {
       "timestamp": "23-12-25 00:33:47.318",
       "steam_id": "76561198031138505",
@@ -732,8 +738,18 @@
       "z": "0",
       "hours_survived": 109,
       "event_type": "died"
+    },
+    {
+      "timestamp": "23-12-25 06:31:39.640",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "10916",
+      "y": "10133",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-23T06:30:01.852625"
+  "timestamp": "2025-12-23T06:35:01.140391"
 }
