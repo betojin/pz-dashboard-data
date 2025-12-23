@@ -847,7 +847,7 @@
     "buttersshoes": {
       "username": "buttersshoes",
       "steam_id": "76561198095700017",
-      "total_hours": 79,
+      "total_hours": 81,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -872,7 +872,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 0,
+        "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 1,
@@ -916,9 +916,14 @@
           "skill": "SmallBlunt",
           "level": "1",
           "timestamp": "23-12-25 00:37:54.257"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "23-12-25 00:41:12.148"
         }
       ],
-      "last_seen": "23-12-25 00:37:54.257",
+      "last_seen": "23-12-25 00:41:12.148",
       "connections": 3
     },
     "exoticbutter": {
@@ -1072,5 +1077,5 @@
     }
   },
   "total_players": 13,
-  "timestamp": "2025-12-23T00:40:01.501719"
+  "timestamp": "2025-12-23T00:45:01.909130"
 }

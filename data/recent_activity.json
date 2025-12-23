@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 20:02:20.114",
-      "steam_id": "76561198419791953",
-      "username": "Pabstlite",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 20:02:20.114",
-      "steam_id": "76561198419791953",
-      "username": "Pabstlite",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "22-12-25 20:07:12.771",
       "steam_id": "76561198419791953",
       "username": "Pabstlite",
@@ -350,56 +338,21 @@
       "x": "8125",
       "y": "11547",
       "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 00:40:40.250",
+      "steam_id": "76561199092197924",
+      "username": "NotMyFishyy",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 00:40:40.272",
+      "steam_id": "76561199092197924",
+      "username": "NotMyFishyy",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 18:43:26.262",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "x": "4016",
-      "y": "10828",
-      "z": "0",
-      "hours_survived": 39,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 6,
-        "Strength": 6,
-        "Blunt": 0,
-        "Axe": 1,
-        "Lightfoot": 1,
-        "Nimble": 1,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "22-12-25 18:50:11.817",
       "steam_id": "76561198864938417",
@@ -1097,129 +1050,21 @@
       "event_type": "level_up",
       "skill": "SmallBlunt",
       "level": "1"
+    },
+    {
+      "timestamp": "23-12-25 00:41:12.148",
+      "steam_id": "76561198095700017",
+      "username": "buttersshoes",
+      "x": "10677",
+      "y": "10344",
+      "z": "0",
+      "hours_survived": 81,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 00:25:31.549",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "also i dont know if they improved foraging a bunch or something but im finding much more food from it compared to before"
-    },
-    {
-      "timestamp": "23-12-25 00:25:31.549",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "also i dont know if they improved foraging a bunch or something but im finding much more food from it compared to before"
-    },
-    {
-      "timestamp": "23-12-25 00:25:48.064",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "they tried to nerf it actually"
-    },
-    {
-      "timestamp": "23-12-25 00:25:48.064",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "they tried to nerf it actually"
-    },
-    {
-      "timestamp": "23-12-25 00:25:54.155",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "still goated"
-    },
-    {
-      "timestamp": "23-12-25 00:25:54.155",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "still goated"
-    },
-    {
-      "timestamp": "23-12-25 00:25:57.808",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "foraging is better, but seasonal"
-    },
-    {
-      "timestamp": "23-12-25 00:25:57.808",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "foraging is better, but seasonal"
-    },
-    {
-      "timestamp": "23-12-25 00:26:05.133",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "plantain poultices my beloved...."
-    },
-    {
-      "timestamp": "23-12-25 00:26:05.133",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "plantain poultices my beloved...."
-    },
-    {
-      "timestamp": "23-12-25 00:26:17.250",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i foraged a gen magazine on my cdda run"
-    },
-    {
-      "timestamp": "23-12-25 00:26:17.250",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i foraged a gen magazine on my cdda run"
-    },
-    {
-      "timestamp": "23-12-25 00:26:55.184",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "my last cdda run"
-    },
-    {
-      "timestamp": "23-12-25 00:26:55.184",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "my last cdda run"
-    },
-    {
-      "timestamp": "23-12-25 00:28:24.414",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i think they nerfed the loot, but increased the xp?"
-    },
-    {
-      "timestamp": "23-12-25 00:28:24.415",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i think they nerfed the loot, but increased the xp?"
-    },
-    {
-      "timestamp": "23-12-25 00:28:53.645",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "yeah XP is hella buffed, and if i remember plantains were WAY rarer before, but now im finding more"
-    },
-    {
-      "timestamp": "23-12-25 00:28:53.645",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "yeah XP is hella buffed, and if i remember plantains were WAY rarer before, but now im finding more"
-    },
-    {
-      "timestamp": "23-12-25 00:32:49.408",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "23-12-25 00:32:49.408",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "23-12-25 00:33:01.890",
       "chat_type": "Local",
@@ -1399,7 +1244,127 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "yeah, drop all the mats on the ground, then try to build"
+    },
+    {
+      "timestamp": "23-12-25 00:40:13.494",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-12-25 00:40:13.494",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-12-25 00:40:28.596",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "wacky"
+    },
+    {
+      "timestamp": "23-12-25 00:40:28.596",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "wacky"
+    },
+    {
+      "timestamp": "23-12-25 00:40:56.031",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 00:40:56.031",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 00:41:10.790",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-12-25 00:41:10.790",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-12-25 00:41:25.096",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-12-25 00:41:25.096",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-12-25 00:43:30.209",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "frog :)"
+    },
+    {
+      "timestamp": "23-12-25 00:43:30.209",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "frog :)"
+    },
+    {
+      "timestamp": "23-12-25 00:43:54.252",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "good for when that last can of beans runs out"
+    },
+    {
+      "timestamp": "23-12-25 00:43:54.253",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "good for when that last can of beans runs out"
+    },
+    {
+      "timestamp": "23-12-25 00:44:09.949",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "*gasp*"
+    },
+    {
+      "timestamp": "23-12-25 00:44:09.949",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "*gasp*"
+    },
+    {
+      "timestamp": "23-12-25 00:44:23.214",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "ill have you know its trash goblins assistant"
+    },
+    {
+      "timestamp": "23-12-25 00:44:23.214",
+      "chat_type": "General",
+      "author": "Woofie",
+      "text": "ill have you know its trash goblins assistant"
+    },
+    {
+      "timestamp": "23-12-25 00:44:58.593",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 00:44:58.594",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-23T00:40:01.530773"
+  "timestamp": "2025-12-23T00:45:01.936167"
 }
