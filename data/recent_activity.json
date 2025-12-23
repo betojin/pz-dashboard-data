@@ -120,18 +120,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "23-12-25 00:41:12.148",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "x": "10677",
-      "y": "10344",
-      "z": "0",
-      "hours_survived": 81,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "1"
-    },
-    {
       "timestamp": "23-12-25 00:51:05.186",
       "steam_id": "76561198864938417",
       "username": "Woofie",
@@ -890,8 +878,20 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "23-12-25 08:36:38.788",
+      "steam_id": "76561198014188564",
+      "username": "MarySueGangster",
+      "x": "12009",
+      "y": "6899",
+      "z": "0",
+      "hours_survived": 4,
+      "event_type": "level_up",
+      "skill": "SmallBlunt",
+      "level": "2"
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-23T08:35:01.242687"
+  "timestamp": "2025-12-23T08:40:01.527164"
 }
