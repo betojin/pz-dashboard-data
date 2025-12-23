@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-12-25 07:04:06.677",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-12-25 07:04:17.043",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "fully connected",
-      "x": "10652",
-      "y": "9720",
-      "z": "0"
-    },
-    {
       "timestamp": "23-12-25 07:28:53.218",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -353,56 +338,24 @@
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "23-12-25 21:25:02.922",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 21:25:23.749",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "6424",
+      "y": "5283",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 05:28:24.282",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "9817",
-      "y": "13103",
-      "z": "1",
-      "hours_survived": 85,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "23-12-25 06:28:14.598",
       "steam_id": "76561198065774641",
@@ -1096,226 +1049,57 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "23-12-25 21:25:24.081",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "6424",
+      "y": "5283",
+      "z": "0",
+      "hours_survived": 131,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 7,
+        "Blunt": 1,
+        "Axe": 1,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 1,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 1,
+        "Reloading": 2,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "23-12-25 21:06:46.327",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "back away from the gate, then try"
-    },
-    {
-      "timestamp": "23-12-25 21:06:46.327",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "back away from the gate, then try"
-    },
-    {
-      "timestamp": "23-12-25 21:07:10.197",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "oh the car was to close lol"
-    },
-    {
-      "timestamp": "23-12-25 21:07:10.197",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "oh the car was to close lol"
-    },
-    {
-      "timestamp": "23-12-25 21:07:15.201",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "im so dumb"
-    },
-    {
-      "timestamp": "23-12-25 21:07:15.201",
-      "chat_type": "General",
-      "author": "Jacko",
-      "text": "im so dumb"
-    },
-    {
-      "timestamp": "23-12-25 21:12:14.149",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "they nerfed beer bottles so much"
-    },
-    {
-      "timestamp": "23-12-25 21:12:14.149",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "they nerfed beer bottles so much"
-    },
-    {
-      "timestamp": "23-12-25 21:19:24.296",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i need to log off. ill be back later today"
-    },
-    {
-      "timestamp": "23-12-25 21:19:24.296",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i need to log off. ill be back later today"
-    },
-    {
-      "timestamp": "23-12-25 21:20:29.155",
-      "chat_type": "Local",
-      "author": "exoticbutter",
-      "text": "jacko"
-    },
-    {
-      "timestamp": "23-12-25 21:20:29.155",
-      "chat_type": "Local",
-      "author": "exoticbutter",
-      "text": "jacko"
-    },
-    {
-      "timestamp": "23-12-25 21:21:55.548",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "yo"
-    },
-    {
-      "timestamp": "23-12-25 21:21:55.548",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "yo"
-    },
-    {
-      "timestamp": "23-12-25 21:22:04.241",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "i cant see nun]"
-    },
-    {
-      "timestamp": "23-12-25 21:22:04.242",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "i cant see nun]"
-    },
-    {
-      "timestamp": "23-12-25 21:22:07.388",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "T0T"
-    },
-    {
-      "timestamp": "23-12-25 21:22:07.388",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "T0T"
-    },
-    {
-      "timestamp": "23-12-25 21:22:26.636",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "hello"
-    },
-    {
-      "timestamp": "23-12-25 21:22:26.637",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "hello"
-    },
-    {
-      "timestamp": "23-12-25 21:22:38.858",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "i see a lil"
-    },
-    {
-      "timestamp": "23-12-25 21:22:38.859",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "i see a lil"
-    },
-    {
-      "timestamp": "23-12-25 21:22:48.918",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "my gen is out"
-    },
-    {
-      "timestamp": "23-12-25 21:22:48.918",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "my gen is out"
-    },
-    {
-      "timestamp": "23-12-25 21:22:54.374",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "so my house is pitch black"
-    },
-    {
-      "timestamp": "23-12-25 21:22:54.374",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "so my house is pitch black"
-    },
-    {
-      "timestamp": "23-12-25 21:23:19.160",
-      "chat_type": "Local",
-      "author": "exoticbutter",
-      "text": "wsg"
-    },
-    {
-      "timestamp": "23-12-25 21:23:19.160",
-      "chat_type": "Local",
-      "author": "exoticbutter",
-      "text": "wsg"
-    },
-    {
-      "timestamp": "23-12-25 21:23:22.539",
-      "chat_type": "Local",
-      "author": "exoticbutter",
-      "text": "do u want a gen mag"
-    },
-    {
-      "timestamp": "23-12-25 21:23:22.539",
-      "chat_type": "Local",
-      "author": "exoticbutter",
-      "text": "do u want a gen mag"
-    },
-    {
-      "timestamp": "23-12-25 21:23:38.720",
-      "chat_type": "Local",
-      "author": "exoticbutter",
-      "text": "i was actually here for something specific"
-    },
-    {
-      "timestamp": "23-12-25 21:23:38.720",
-      "chat_type": "Local",
-      "author": "exoticbutter",
-      "text": "i was actually here for something specific"
-    },
-    {
-      "timestamp": "23-12-25 21:23:41.788",
-      "chat_type": "Local",
-      "author": "exoticbutter",
-      "text": "do u have stitches"
-    },
-    {
-      "timestamp": "23-12-25 21:23:41.788",
-      "chat_type": "Local",
-      "author": "exoticbutter",
-      "text": "do u have stitches"
-    },
-    {
-      "timestamp": "23-12-25 21:23:49.554",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "no lol"
-    },
-    {
-      "timestamp": "23-12-25 21:23:49.554",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "no lol"
-    },
-    {
       "timestamp": "23-12-25 21:23:53.869",
       "chat_type": "Local",
       "author": "exoticbutter",
@@ -1398,7 +1182,223 @@
       "chat_type": "Local",
       "author": "Jacko",
       "text": "alr"
+    },
+    {
+      "timestamp": "23-12-25 21:25:03.492",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "this servers zombies are rlly rlly easy"
+    },
+    {
+      "timestamp": "23-12-25 21:25:03.492",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "this servers zombies are rlly rlly easy"
+    },
+    {
+      "timestamp": "23-12-25 21:25:04.642",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "i needa sort my inv lol"
+    },
+    {
+      "timestamp": "23-12-25 21:25:04.642",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "i needa sort my inv lol"
+    },
+    {
+      "timestamp": "23-12-25 21:25:10.794",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "ikr"
+    },
+    {
+      "timestamp": "23-12-25 21:25:10.794",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "ikr"
+    },
+    {
+      "timestamp": "23-12-25 21:25:43.790",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "all the BS is sorted"
+    },
+    {
+      "timestamp": "23-12-25 21:25:43.791",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "all the BS is sorted"
+    },
+    {
+      "timestamp": "23-12-25 21:25:47.909",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "so fast to read"
+    },
+    {
+      "timestamp": "23-12-25 21:25:47.909",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "so fast to read"
+    },
+    {
+      "timestamp": "23-12-25 21:28:08.340",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "where u going"
+    },
+    {
+      "timestamp": "23-12-25 21:28:08.340",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "where u going"
+    },
+    {
+      "timestamp": "23-12-25 21:28:11.036",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "idk"
+    },
+    {
+      "timestamp": "23-12-25 21:28:11.036",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "idk"
+    },
+    {
+      "timestamp": "23-12-25 21:28:47.533",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "is this fking silent hill"
+    },
+    {
+      "timestamp": "23-12-25 21:28:47.533",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "is this fking silent hill"
+    },
+    {
+      "timestamp": "23-12-25 21:29:06.232",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "lol"
+    },
+    {
+      "timestamp": "23-12-25 21:29:06.233",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "lol"
+    },
+    {
+      "timestamp": "23-12-25 21:29:09.730",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "cant see"
+    },
+    {
+      "timestamp": "23-12-25 21:29:09.730",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "cant see"
+    },
+    {
+      "timestamp": "23-12-25 21:29:16.800",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "i love it"
+    },
+    {
+      "timestamp": "23-12-25 21:29:16.800",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "i love it"
+    },
+    {
+      "timestamp": "23-12-25 21:29:34.702",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "wait jacko"
+    },
+    {
+      "timestamp": "23-12-25 21:29:34.703",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "wait jacko"
+    },
+    {
+      "timestamp": "23-12-25 21:29:38.491",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "yh"
+    },
+    {
+      "timestamp": "23-12-25 21:29:38.491",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "yh"
+    },
+    {
+      "timestamp": "23-12-25 21:29:41.323",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "did u drive me to that van one time"
+    },
+    {
+      "timestamp": "23-12-25 21:29:41.323",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "did u drive me to that van one time"
+    },
+    {
+      "timestamp": "23-12-25 21:29:45.973",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "yes"
+    },
+    {
+      "timestamp": "23-12-25 21:29:45.973",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "yes"
+    },
+    {
+      "timestamp": "23-12-25 21:29:51.361",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "wheres de old car"
+    },
+    {
+      "timestamp": "23-12-25 21:29:51.361",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "wheres de old car"
+    },
+    {
+      "timestamp": "23-12-25 21:29:53.364",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "on way to train station"
+    },
+    {
+      "timestamp": "23-12-25 21:29:53.364",
+      "chat_type": "Local",
+      "author": "Jacko",
+      "text": "on way to train station"
+    },
+    {
+      "timestamp": "23-12-25 21:29:54.432",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "i left a mag in there"
+    },
+    {
+      "timestamp": "23-12-25 21:29:54.432",
+      "chat_type": "Local",
+      "author": "exoticbutter",
+      "text": "i left a mag in there"
     }
   ],
-  "timestamp": "2025-12-23T21:25:01.426203"
+  "timestamp": "2025-12-23T21:30:01.775484"
 }
