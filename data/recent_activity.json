@@ -276,18 +276,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "23-12-25 03:06:47.041",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "3845",
-      "y": "10909",
-      "z": "0",
-      "hours_survived": 354,
-      "event_type": "level_up",
-      "skill": "Aiming",
-      "level": "2"
-    },
-    {
       "timestamp": "23-12-25 03:15:11.968",
       "steam_id": "76561198419791953",
       "username": "Pabstlite",
@@ -1015,6 +1003,18 @@
       "event_type": "level_up",
       "skill": "SmallBlunt",
       "level": "1"
+    },
+    {
+      "timestamp": "23-12-25 19:26:09.656",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10665",
+      "y": "9564",
+      "z": "0",
+      "hours_survived": 606,
+      "event_type": "level_up",
+      "skill": "Electricity",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1295,5 +1295,5 @@
       "text": "definitely the most fun part"
     }
   ],
-  "timestamp": "2025-12-23T19:25:01.642647"
+  "timestamp": "2025-12-23T19:30:01.951369"
 }
