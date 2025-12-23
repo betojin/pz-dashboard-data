@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-12-25 00:06:10.235",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-12-25 00:06:10.235",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "23-12-25 00:06:24.586",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "23-12-25 00:07:02.866",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -350,6 +332,27 @@
       "x": "11721",
       "y": "6751",
       "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 03:34:17.996",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "disconnected",
+      "x": "11594",
+      "y": "6726",
+      "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 03:34:54.720",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 03:34:54.720",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -1292,5 +1295,5 @@
       "text": "Again, just incase you missed it. 90 Mhz, I got a proposition"
     }
   ],
-  "timestamp": "2025-12-23T03:30:01.415207"
+  "timestamp": "2025-12-23T03:35:01.755191"
 }
