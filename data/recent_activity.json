@@ -53,21 +53,36 @@
       "x": "10652",
       "y": "9720",
       "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 07:04:00.824",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 07:04:00.825",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "23-12-25 07:04:06.677",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 07:04:17.043",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "fully connected",
+      "x": "10652",
+      "y": "9720",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 00:33:47.318",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10877",
-      "y": "9539",
-      "z": "0",
-      "hours_survived": 511,
-      "event_type": "level_up",
-      "skill": "Blunt",
-      "level": "2"
-    },
     {
       "timestamp": "23-12-25 00:37:54.257",
       "steam_id": "76561198095700017",
@@ -757,8 +772,55 @@
       "z": "0",
       "hours_survived": 0,
       "event_type": "created"
+    },
+    {
+      "timestamp": "23-12-25 07:04:17.362",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "10652",
+      "y": "9720",
+      "z": "0",
+      "hours_survived": 10,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 1,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 3,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 2,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-23T07:00:01.684908"
+  "timestamp": "2025-12-23T07:05:02.014981"
 }
