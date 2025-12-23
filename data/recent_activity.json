@@ -354,53 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 18:31:51.199",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5968",
-      "y": "5329",
-      "z": "0",
-      "hours_survived": 81,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 7,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 1,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 1,
-        "Reloading": 2,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "22-12-25 18:33:38.421",
       "steam_id": "76561198864938417",
       "username": "Woofie",
@@ -1132,69 +1085,21 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "8"
+    },
+    {
+      "timestamp": "23-12-25 00:33:47.318",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10877",
+      "y": "9539",
+      "z": "0",
+      "hours_survived": 511,
+      "event_type": "level_up",
+      "skill": "Blunt",
+      "level": "2"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 00:12:23.504",
-      "chat_type": "General",
-      "author": "half",
-      "text": "the church is coming togther"
-    },
-    {
-      "timestamp": "23-12-25 00:12:23.505",
-      "chat_type": "General",
-      "author": "half",
-      "text": "the church is coming togther"
-    },
-    {
-      "timestamp": "23-12-25 00:12:42.282",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "sorry half, i need to go back and collect those glasses you gave me lol"
-    },
-    {
-      "timestamp": "23-12-25 00:12:42.282",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "sorry half, i need to go back and collect those glasses you gave me lol"
-    },
-    {
-      "timestamp": "23-12-25 00:12:56.761",
-      "chat_type": "General",
-      "author": "half",
-      "text": "how dare you loose them"
-    },
-    {
-      "timestamp": "23-12-25 00:12:56.762",
-      "chat_type": "General",
-      "author": "half",
-      "text": "how dare you loose them"
-    },
-    {
-      "timestamp": "23-12-25 00:13:05.853",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "it hurt alr lol"
-    },
-    {
-      "timestamp": "23-12-25 00:13:05.853",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "it hurt alr lol"
-    },
-    {
-      "timestamp": "23-12-25 00:13:13.411",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "took a chunk out of my arm"
-    },
-    {
-      "timestamp": "23-12-25 00:13:13.411",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "took a chunk out of my arm"
-    },
     {
       "timestamp": "23-12-25 00:13:25.054",
       "chat_type": "General",
@@ -1434,7 +1339,67 @@
       "chat_type": "General",
       "author": "buttersshoes",
       "text": "yeah XP is hella buffed, and if i remember plantains were WAY rarer before, but now im finding more"
+    },
+    {
+      "timestamp": "23-12-25 00:32:49.408",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-12-25 00:32:49.408",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-12-25 00:33:01.890",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-12-25 00:33:01.891",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-12-25 00:33:10.688",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 00:33:10.688",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 00:33:12.007",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-12-25 00:33:12.007",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-12-25 00:33:58.583",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 00:33:58.583",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-23T00:30:01.888557"
+  "timestamp": "2025-12-23T00:35:01.203232"
 }
