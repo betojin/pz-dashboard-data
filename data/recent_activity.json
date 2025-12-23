@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-12-25 05:27:54.855",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "23-12-25 05:27:54.857",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -335,68 +329,36 @@
       "x": "6424",
       "y": "5283",
       "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 20:43:57.292",
+      "steam_id": "76561199229230518",
+      "username": "Jacko",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 20:43:57.293",
+      "steam_id": "76561199229230518",
+      "username": "Jacko",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "23-12-25 20:44:13.429",
+      "steam_id": "76561199229230518",
+      "username": "Jacko",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 20:44:49.107",
+      "steam_id": "76561199229230518",
+      "username": "Jacko",
+      "action": "fully connected",
+      "x": "10681",
+      "y": "9545",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 04:34:35.678",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "10824",
-      "y": "9070",
-      "z": "1",
-      "hours_survived": 66,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "23-12-25 04:34:42.317",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "10016",
-      "y": "8244",
-      "z": "0",
-      "hours_survived": 365,
-      "event_type": "level_up",
-      "skill": "PlantScavenging",
-      "level": "8"
-    },
     {
       "timestamp": "23-12-25 04:48:48.017",
       "steam_id": "76561198065774641",
@@ -1043,45 +1005,68 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "4"
+    },
+    {
+      "timestamp": "23-12-25 20:40:32.653",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10790",
+      "y": "10298",
+      "z": "0",
+      "hours_survived": 636,
+      "event_type": "level_up",
+      "skill": "Spear",
+      "level": "1"
+    },
+    {
+      "timestamp": "23-12-25 20:44:49.719",
+      "steam_id": "76561199229230518",
+      "username": "Jacko",
+      "x": "10681",
+      "y": "9545",
+      "z": "0",
+      "hours_survived": 53,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 19:03:29.527",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "do u want steel ingots"
-    },
-    {
-      "timestamp": "23-12-25 19:03:29.527",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "do u want steel ingots"
-    },
-    {
-      "timestamp": "23-12-25 19:04:04.090",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "ill pass, i have enough already"
-    },
-    {
-      "timestamp": "23-12-25 19:04:04.090",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "ill pass, i have enough already"
-    },
-    {
-      "timestamp": "23-12-25 19:06:04.717",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "are we able to claim vehicles?"
-    },
-    {
-      "timestamp": "23-12-25 19:06:04.717",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "are we able to claim vehicles?"
-    },
     {
       "timestamp": "23-12-25 19:06:33.967",
       "chat_type": "General",
@@ -1345,7 +1330,43 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "o7"
+    },
+    {
+      "timestamp": "23-12-25 20:40:40.288",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "pssst!"
+    },
+    {
+      "timestamp": "23-12-25 20:40:40.288",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "pssst!"
+    },
+    {
+      "timestamp": "23-12-25 20:42:17.067",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "how do u even hunt in this game"
+    },
+    {
+      "timestamp": "23-12-25 20:42:17.067",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "how do u even hunt in this game"
+    },
+    {
+      "timestamp": "23-12-25 20:42:46.611",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "you get very lucky to find an animal or you track them using the foraging systems"
+    },
+    {
+      "timestamp": "23-12-25 20:42:46.611",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "you get very lucky to find an animal or you track them using the foraging systems"
     }
   ],
-  "timestamp": "2025-12-23T20:40:01.789523"
+  "timestamp": "2025-12-23T20:45:01.283409"
 }

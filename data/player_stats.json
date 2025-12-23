@@ -213,7 +213,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 633,
+      "total_hours": 636,
       "deaths": 0,
       "skills": {
         "Cooking": 4,
@@ -237,7 +237,7 @@
         "Blacksmith": 0,
         "MetalWelding": 0,
         "Mechanics": 2,
-        "Spear": 0,
+        "Spear": 1,
         "Maintenance": 3,
         "SmallBlade": 0,
         "LongBlade": 0,
@@ -432,9 +432,14 @@
           "skill": "Sprinting",
           "level": "4",
           "timestamp": "23-12-25 20:35:09.556"
+        },
+        {
+          "skill": "Spear",
+          "level": "1",
+          "timestamp": "23-12-25 20:40:32.653"
         }
       ],
-      "last_seen": "23-12-25 20:35:09.556",
+      "last_seen": "23-12-25 20:40:32.653",
       "connections": 2
     },
     "Molotov Kid": {
@@ -1145,7 +1150,7 @@
     "Jacko": {
       "username": "Jacko",
       "steam_id": "76561199229230518",
-      "total_hours": 0,
+      "total_hours": 53,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1185,7 +1190,8 @@
         "Glassmaking": 0
       },
       "level_ups": [],
-      "last_seen": "22-12-25 21:51:37.443"
+      "last_seen": "23-12-25 20:44:49.719",
+      "connections": 1
     },
     "NotMyFishyy": {
       "username": "NotMyFishyy",
@@ -1352,5 +1358,5 @@
     }
   },
   "total_players": 16,
-  "timestamp": "2025-12-23T20:40:01.777372"
+  "timestamp": "2025-12-23T20:45:01.271265"
 }
