@@ -351,18 +351,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 22:04:41.877",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5425",
-      "y": "5543",
-      "z": "0",
-      "hours_survived": 101,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "1"
-    },
-    {
       "timestamp": "22-12-25 22:15:11.245",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -1024,33 +1012,21 @@
       "event_type": "level_up",
       "skill": "Nimble",
       "level": "2"
+    },
+    {
+      "timestamp": "23-12-25 02:41:37.412",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "2590",
+      "y": "10917",
+      "z": "0",
+      "hours_survived": 344,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "2"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 00:41:25.096",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "23-12-25 00:41:25.096",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "23-12-25 00:43:30.209",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "frog :)"
-    },
-    {
-      "timestamp": "23-12-25 00:43:30.209",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "frog :)"
-    },
     {
       "timestamp": "23-12-25 00:43:54.252",
       "chat_type": "General",
@@ -1326,7 +1302,31 @@
       "chat_type": "General",
       "author": "Pabstlite",
       "text": "WHAT IS HAPPENING TO BOB"
+    },
+    {
+      "timestamp": "23-12-25 02:43:20.173",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-12-25 02:43:20.173",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-12-25 02:43:20.385",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 02:43:20.385",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-23T02:40:01.847934"
+  "timestamp": "2025-12-23T02:45:01.129612"
 }
