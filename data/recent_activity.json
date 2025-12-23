@@ -231,53 +231,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "23-12-25 02:54:24.516",
-      "steam_id": "76561199251232344",
-      "username": "Kessel",
-      "x": "3512",
-      "y": "10902",
-      "z": "0",
-      "hours_survived": 45,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 6,
-        "Strength": 6,
-        "Blunt": 0,
-        "Axe": 1,
-        "Lightfoot": 1,
-        "Nimble": 1,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "23-12-25 02:54:48.369",
       "steam_id": "76561199251232344",
       "username": "Kessel",
@@ -966,6 +919,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "23-12-25 17:43:30.667",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10655",
+      "y": "9540",
+      "z": "0",
+      "hours_survived": 565,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1004,7 +969,43 @@
       "chat_type": "General",
       "author": "TwoHorndUnicorn",
       "text": "are you set up in Muldraugh?"
+    },
+    {
+      "timestamp": "23-12-25 17:40:26.348",
+      "chat_type": "General",
+      "author": "TwoHorndUnicorn",
+      "text": "im desperatly searching for a rubber hose, but having no luck"
+    },
+    {
+      "timestamp": "23-12-25 17:40:26.348",
+      "chat_type": "General",
+      "author": "TwoHorndUnicorn",
+      "text": "im desperatly searching for a rubber hose, but having no luck"
+    },
+    {
+      "timestamp": "23-12-25 17:40:47.366",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "they can be found in medical cabinets and ambulances too"
+    },
+    {
+      "timestamp": "23-12-25 17:40:47.366",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "they can be found in medical cabinets and ambulances too"
+    },
+    {
+      "timestamp": "23-12-25 17:40:55.104",
+      "chat_type": "General",
+      "author": "TwoHorndUnicorn",
+      "text": "also no fuel in cars im finding so its not even that good of a find if i get one lol"
+    },
+    {
+      "timestamp": "23-12-25 17:40:55.104",
+      "chat_type": "General",
+      "author": "TwoHorndUnicorn",
+      "text": "also no fuel in cars im finding so its not even that good of a find if i get one lol"
     }
   ],
-  "timestamp": "2025-12-23T17:40:01.512305"
+  "timestamp": "2025-12-23T17:45:01.975449"
 }
