@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 20:07:12.771",
-      "steam_id": "76561198419791953",
-      "username": "Pabstlite",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "22-12-25 20:07:54.529",
       "steam_id": "76561198419791953",
       "username": "Pabstlite",
@@ -350,6 +344,12 @@
       "steam_id": "76561199092197924",
       "username": "NotMyFishyy",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "23-12-25 00:48:00.894",
+      "steam_id": "76561199092197924",
+      "username": "NotMyFishyy",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1066,90 +1066,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "23-12-25 00:33:01.890",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "23-12-25 00:33:01.891",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "23-12-25 00:33:10.688",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "23-12-25 00:33:10.688",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "23-12-25 00:33:12.007",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "23-12-25 00:33:12.007",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "23-12-25 00:33:58.583",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "23-12-25 00:33:58.583",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "23-12-25 00:37:16.514",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "oh damn someone raided mulds library?"
-    },
-    {
-      "timestamp": "23-12-25 00:37:16.515",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "oh damn someone raided mulds library?"
-    },
-    {
-      "timestamp": "23-12-25 00:37:25.713",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yeah, but not the school yet"
-    },
-    {
-      "timestamp": "23-12-25 00:37:25.713",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yeah, but not the school yet"
-    },
-    {
-      "timestamp": "23-12-25 00:37:37.745",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "good to know"
-    },
-    {
-      "timestamp": "23-12-25 00:37:37.745",
-      "chat_type": "General",
-      "author": "buttersshoes",
-      "text": "good to know"
-    },
-    {
       "timestamp": "23-12-25 00:38:11.369",
       "chat_type": "General",
       "author": "Firestorm3050",
@@ -1364,7 +1280,91 @@
       "chat_type": "Local",
       "author": "Firestorm3050",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 00:45:12.567",
+      "chat_type": "General",
+      "author": "buttersshoes",
+      "text": "is there still a way to make campfires?"
+    },
+    {
+      "timestamp": "23-12-25 00:45:12.567",
+      "chat_type": "General",
+      "author": "buttersshoes",
+      "text": "is there still a way to make campfires?"
+    },
+    {
+      "timestamp": "23-12-25 00:45:54.169",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yes, just different menu and different mats"
+    },
+    {
+      "timestamp": "23-12-25 00:45:54.170",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yes, just different menu and different mats"
+    },
+    {
+      "timestamp": "23-12-25 00:46:09.279",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 00:46:09.279",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 00:46:19.486",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "build menu, 3 stones"
+    },
+    {
+      "timestamp": "23-12-25 00:46:19.486",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "build menu, 3 stones"
+    },
+    {
+      "timestamp": "23-12-25 00:46:31.885",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "plus something else i dont remember off the otp"
+    },
+    {
+      "timestamp": "23-12-25 00:46:31.885",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "plus something else i dont remember off the otp"
+    },
+    {
+      "timestamp": "23-12-25 00:46:35.534",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "dw"
+    },
+    {
+      "timestamp": "23-12-25 00:46:35.534",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "dw"
+    },
+    {
+      "timestamp": "23-12-25 00:46:39.244",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "of my head"
+    },
+    {
+      "timestamp": "23-12-25 00:46:39.244",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "of my head"
     }
   ],
-  "timestamp": "2025-12-23T00:45:01.936167"
+  "timestamp": "2025-12-23T00:50:01.279260"
 }
