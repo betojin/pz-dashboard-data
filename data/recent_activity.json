@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 23:07:08.547",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 23:07:08.549",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "22-12-25 23:08:15.376",
       "steam_id": "76561198864938417",
       "username": "Woofie",
@@ -350,56 +338,27 @@
       "x": "3512",
       "y": "10902",
       "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 02:55:20.533",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "disconnected",
+      "x": "3512",
+      "y": "10902",
+      "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 02:55:22.907",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "fully connected",
+      "x": "12062",
+      "y": "6915",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 22:48:26.475",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "x": "10874",
-      "y": "10186",
-      "z": "0",
-      "hours_survived": 36,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 1,
-        "Axe": 1,
-        "Lightfoot": 1,
-        "Nimble": 1,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 1,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 2,
-        "PlantScavenging": 3,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "22-12-25 22:51:44.286",
       "steam_id": "76561198368197161",
@@ -1060,6 +1019,16 @@
       "z": "0",
       "hours_survived": 45,
       "event_type": "died"
+    },
+    {
+      "timestamp": "23-12-25 02:55:23.099",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "x": "12062",
+      "y": "6915",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
@@ -1364,5 +1333,5 @@
       "text": "F to kessel"
     }
   ],
-  "timestamp": "2025-12-23T02:55:01.958961"
+  "timestamp": "2025-12-23T03:00:01.270844"
 }
