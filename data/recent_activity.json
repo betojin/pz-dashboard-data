@@ -354,18 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 18:31:50.867",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10666",
-      "y": "9566",
-      "z": "0",
-      "hours_survived": 367,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "4"
-    },
-    {
       "timestamp": "22-12-25 18:31:51.199",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1132,33 +1120,21 @@
       "event_type": "level_up",
       "skill": "PlantScavenging",
       "level": "5"
+    },
+    {
+      "timestamp": "23-12-25 00:22:08.237",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8124",
+      "y": "11540",
+      "z": "0",
+      "hours_survived": 141,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "8"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 00:05:03.351",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "cant get in"
-    },
-    {
-      "timestamp": "23-12-25 00:05:03.351",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "cant get in"
-    },
-    {
-      "timestamp": "23-12-25 00:05:06.100",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "ok"
-    },
-    {
-      "timestamp": "23-12-25 00:05:06.100",
-      "chat_type": "Local",
-      "author": "Jacko",
-      "text": "ok"
-    },
     {
       "timestamp": "23-12-25 00:05:33.905",
       "chat_type": "Local",
@@ -1434,7 +1410,31 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "mods complicate their bug-hunting process"
+    },
+    {
+      "timestamp": "23-12-25 00:23:54.956",
+      "chat_type": "General",
+      "author": "buttersshoes",
+      "text": "is the old standing on glass trick good for leveling up first aid still"
+    },
+    {
+      "timestamp": "23-12-25 00:23:54.956",
+      "chat_type": "General",
+      "author": "buttersshoes",
+      "text": "is the old standing on glass trick good for leveling up first aid still"
+    },
+    {
+      "timestamp": "23-12-25 00:24:59.182",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "probably"
+    },
+    {
+      "timestamp": "23-12-25 00:24:59.182",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "probably"
     }
   ],
-  "timestamp": "2025-12-23T00:20:01.201335"
+  "timestamp": "2025-12-23T00:25:01.555734"
 }
