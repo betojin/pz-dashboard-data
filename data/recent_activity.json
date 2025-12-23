@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 22:51:23.211",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 22:51:24.907",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "22-12-25 22:51:24.907",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -347,56 +335,27 @@
       "steam_id": "76561198864938417",
       "username": "Woofie",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 02:45:41.362",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "disconnected",
+      "x": "11721",
+      "y": "6751",
+      "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 02:47:14.582",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "fully connected",
+      "x": "2594",
+      "y": "10896",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 22:15:11.245",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "x": "10664",
-      "y": "9528",
-      "z": "-1",
-      "hours_survived": 9,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 9,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 5,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "22-12-25 22:45:53.973",
       "steam_id": "76561198368197161",
@@ -1024,57 +983,56 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "2"
+    },
+    {
+      "timestamp": "23-12-25 02:47:45.703",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "2594",
+      "y": "10896",
+      "z": "0",
+      "hours_survived": 323,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 1,
+        "Fitness": 9,
+        "Strength": 3,
+        "Blunt": 0,
+        "Axe": 2,
+        "Lightfoot": 1,
+        "Nimble": 2,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 4,
+        "Aiming": 1,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 2,
+        "PlantScavenging": 7,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 3,
+        "FlintKnapping": 3,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 3,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 00:43:54.252",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "good for when that last can of beans runs out"
-    },
-    {
-      "timestamp": "23-12-25 00:43:54.253",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "good for when that last can of beans runs out"
-    },
-    {
-      "timestamp": "23-12-25 00:44:09.949",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "*gasp*"
-    },
-    {
-      "timestamp": "23-12-25 00:44:09.949",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "*gasp*"
-    },
-    {
-      "timestamp": "23-12-25 00:44:23.214",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "ill have you know its trash goblins assistant"
-    },
-    {
-      "timestamp": "23-12-25 00:44:23.214",
-      "chat_type": "General",
-      "author": "Woofie",
-      "text": "ill have you know its trash goblins assistant"
-    },
-    {
-      "timestamp": "23-12-25 00:44:58.593",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "23-12-25 00:44:58.594",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "23-12-25 00:45:12.567",
       "chat_type": "General",
@@ -1326,7 +1284,55 @@
       "chat_type": "Local",
       "author": "Sully",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 02:45:51.400",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-12-25 02:45:51.400",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-12-25 02:45:51.590",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 02:45:51.590",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 02:45:51.743",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 02:45:51.743",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 02:45:51.911",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-12-25 02:45:51.911",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-23T02:45:01.129612"
+  "timestamp": "2025-12-23T02:50:01.540531"
 }
