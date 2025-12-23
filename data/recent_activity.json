@@ -354,18 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 22:58:20.255",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "x": "10829",
-      "y": "10224",
-      "z": "0",
-      "hours_survived": 40,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "1"
-    },
-    {
       "timestamp": "22-12-25 22:59:34.204",
       "steam_id": "76561198419791953",
       "username": "Pabstlite",
@@ -988,6 +976,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "23-12-25 03:26:46.154",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "x": "11505",
+      "y": "6825",
+      "z": "0",
+      "hours_survived": 107,
+      "event_type": "level_up",
+      "skill": "Blunt",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1292,5 +1292,5 @@
       "text": "Again, just incase you missed it. 90 Mhz, I got a proposition"
     }
   ],
-  "timestamp": "2025-12-23T03:25:02.066303"
+  "timestamp": "2025-12-23T03:30:01.415207"
 }
