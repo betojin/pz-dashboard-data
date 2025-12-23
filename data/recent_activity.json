@@ -1,39 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-12-25 01:14:23.710",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "action": "disconnected",
-      "x": "10878",
-      "y": "10188",
-      "z": "1"
-    },
-    {
-      "timestamp": "23-12-25 01:14:27.146",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "disconnected",
-      "x": "7915",
-      "y": "8561",
-      "z": "0"
-    },
-    {
-      "timestamp": "23-12-25 01:17:30.069",
-      "steam_id": "76561199092197924",
-      "username": "NotMyFishyy",
-      "action": "fully connected",
-      "x": "8215",
-      "y": "11677",
-      "z": "0"
-    },
-    {
-      "timestamp": "23-12-25 01:22:01.925",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "23-12-25 01:22:01.925",
       "steam_id": "76561198864938417",
       "username": "Woofie",
@@ -359,33 +326,36 @@
       "x": "11724",
       "y": "6751",
       "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 04:34:08.775",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 04:34:08.776",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "23-12-25 04:34:15.024",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 04:34:35.009",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "fully connected",
+      "x": "10824",
+      "y": "9070",
+      "z": "1"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 00:02:50.918",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8144",
-      "y": "11564",
-      "z": "0",
-      "hours_survived": 133,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "7"
-    },
-    {
-      "timestamp": "23-12-25 00:07:00.751",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "x": "10938",
-      "y": "10192",
-      "z": "0",
-      "hours_survived": 67,
-      "event_type": "level_up",
-      "skill": "PlantScavenging",
-      "level": "4"
-    },
     {
       "timestamp": "23-12-25 00:07:03.470",
       "steam_id": "76561198119296623",
@@ -1032,6 +1002,65 @@
       "event_type": "level_up",
       "skill": "SmallBlunt",
       "level": "1"
+    },
+    {
+      "timestamp": "23-12-25 04:34:35.678",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "10824",
+      "y": "9070",
+      "z": "1",
+      "hours_survived": 66,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "23-12-25 04:34:42.317",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "10016",
+      "y": "8244",
+      "z": "0",
+      "hours_survived": 365,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "8"
     }
   ],
   "chat_messages": [
@@ -1336,5 +1365,5 @@
       "text": "theres a sledgehammer head in the bags over there"
     }
   ],
-  "timestamp": "2025-12-23T04:30:01.525889"
+  "timestamp": "2025-12-23T04:35:01.907004"
 }
