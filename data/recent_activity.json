@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-12-25 01:06:05.105",
-      "steam_id": "76561199092197924",
-      "username": "NotMyFishyy",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "23-12-25 01:08:41.427",
       "steam_id": "76561199092197924",
       "username": "NotMyFishyy",
@@ -352,6 +346,15 @@
       "action": "fully connected",
       "x": "11907",
       "y": "6939",
+      "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 04:07:08.155",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "disconnected",
+      "x": "12246",
+      "y": "6752",
       "z": "0"
     }
   ],
@@ -1330,5 +1333,5 @@
       "text": "theres a sledgehammer head in the bags over there"
     }
   ],
-  "timestamp": "2025-12-23T04:05:01.879008"
+  "timestamp": "2025-12-23T04:10:01.200094"
 }
