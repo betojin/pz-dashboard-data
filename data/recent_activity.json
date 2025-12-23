@@ -303,18 +303,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "23-12-25 03:26:46.154",
-      "steam_id": "76561198419791953",
-      "username": "Pabstlite",
-      "x": "11505",
-      "y": "6825",
-      "z": "0",
-      "hours_survived": 107,
-      "event_type": "level_up",
-      "skill": "Blunt",
-      "level": "2"
-    },
-    {
       "timestamp": "23-12-25 03:35:15.921",
       "steam_id": "76561198419791953",
       "username": "Pabstlite",
@@ -1042,33 +1030,21 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "23-12-25 20:08:54.770",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 623,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "3"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 17:45:37.095",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "well tuns out someone already got a generator at the crossroads gas station, dont need a hose now"
-    },
-    {
-      "timestamp": "23-12-25 17:45:37.095",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "well tuns out someone already got a generator at the crossroads gas station, dont need a hose now"
-    },
-    {
-      "timestamp": "23-12-25 17:45:52.659",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "on yeah, that has been up"
-    },
-    {
-      "timestamp": "23-12-25 17:45:52.659",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "on yeah, that has been up"
-    },
     {
       "timestamp": "23-12-25 17:46:00.333",
       "chat_type": "General",
@@ -1344,7 +1320,31 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "let me look real quick for it"
+    },
+    {
+      "timestamp": "23-12-25 20:05:53.101",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-12-25 20:05:53.101",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-12-25 20:09:29.078",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "found a rubber duck"
+    },
+    {
+      "timestamp": "23-12-25 20:09:29.078",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "found a rubber duck"
     }
   ],
-  "timestamp": "2025-12-23T20:05:01.220392"
+  "timestamp": "2025-12-23T20:10:01.556499"
 }

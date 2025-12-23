@@ -213,7 +213,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 606,
+      "total_hours": 623,
       "deaths": 0,
       "skills": {
         "Cooking": 4,
@@ -248,7 +248,7 @@
         "FlintKnapping": 0,
         "Masonry": 0,
         "Pottery": 0,
-        "Carving": 2,
+        "Carving": 3,
         "Butchering": 0,
         "Glassmaking": 0
       },
@@ -417,9 +417,14 @@
           "skill": "Electricity",
           "level": "1",
           "timestamp": "23-12-25 19:26:09.656"
+        },
+        {
+          "skill": "Carving",
+          "level": "3",
+          "timestamp": "23-12-25 20:08:54.770"
         }
       ],
-      "last_seen": "23-12-25 19:26:09.656",
+      "last_seen": "23-12-25 20:08:54.770",
       "connections": 2
     },
     "Molotov Kid": {
@@ -1337,5 +1342,5 @@
     }
   },
   "total_players": 16,
-  "timestamp": "2025-12-23T20:05:01.208685"
+  "timestamp": "2025-12-23T20:10:01.544828"
 }
