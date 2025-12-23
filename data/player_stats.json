@@ -858,7 +858,7 @@
         "Electricity": 0,
         "Blacksmith": 0,
         "MetalWelding": 0,
-        "Mechanics": 0,
+        "Mechanics": 1,
         "Spear": 0,
         "Maintenance": 0,
         "SmallBlade": 0,
@@ -881,8 +881,8 @@
           "timestamp": "22-12-25 04:41:35.890"
         }
       ],
-      "last_seen": "23-12-25 02:55:23.099",
-      "connections": 9
+      "last_seen": "23-12-25 03:58:06.672",
+      "connections": 10
     },
     "buttersshoes": {
       "username": "buttersshoes",
@@ -1173,5 +1173,5 @@
     }
   },
   "total_players": 14,
-  "timestamp": "2025-12-23T03:55:02.065142"
+  "timestamp": "2025-12-23T04:00:01.421069"
 }
