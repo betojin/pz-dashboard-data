@@ -191,21 +191,18 @@
       "x": "11792",
       "y": "6786",
       "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 17:29:30.200",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "disconnected",
+      "x": "10716",
+      "y": "9570",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 02:41:37.412",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "2590",
-      "y": "10917",
-      "z": "0",
-      "hours_survived": 344,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "2"
-    },
     {
       "timestamp": "23-12-25 02:47:45.703",
       "steam_id": "76561198864938417",
@@ -930,6 +927,18 @@
       "event_type": "level_up",
       "skill": "Carving",
       "level": "2"
+    },
+    {
+      "timestamp": "23-12-25 17:26:16.050",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10722",
+      "y": "9566",
+      "z": "0",
+      "hours_survived": 559,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "5"
     }
   ],
   "chat_messages": [
@@ -956,7 +965,19 @@
       "chat_type": "General",
       "author": "TwoHorndUnicorn",
       "text": "hey firestorm"
+    },
+    {
+      "timestamp": "23-12-25 17:25:51.875",
+      "chat_type": "General",
+      "author": "TwoHorndUnicorn",
+      "text": "are you set up in Muldraugh?"
+    },
+    {
+      "timestamp": "23-12-25 17:25:51.875",
+      "chat_type": "General",
+      "author": "TwoHorndUnicorn",
+      "text": "are you set up in Muldraugh?"
     }
   ],
-  "timestamp": "2025-12-23T17:25:01.546120"
+  "timestamp": "2025-12-23T17:30:01.865473"
 }
