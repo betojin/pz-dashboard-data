@@ -1,27 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 22:47:52.394",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 22:47:58.916",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 22:48:26.087",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "action": "fully connected",
-      "x": "10874",
-      "y": "10186",
-      "z": "0"
-    },
-    {
       "timestamp": "22-12-25 22:50:10.771",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -353,6 +332,24 @@
       "x": "7915",
       "y": "8561",
       "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 01:47:26.600",
+      "steam_id": "76561199092197924",
+      "username": "NotMyFishyy",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 01:47:26.600",
+      "steam_id": "76561199092197924",
+      "username": "NotMyFishyy",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "23-12-25 01:49:46.524",
+      "steam_id": "76561199092197924",
+      "username": "NotMyFishyy",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1439,5 +1436,5 @@
       "text": "Mmmm, Highway Massacre"
     }
   ],
-  "timestamp": "2025-12-23T01:45:02.022035"
+  "timestamp": "2025-12-23T01:50:01.377262"
 }
