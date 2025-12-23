@@ -1042,7 +1042,7 @@
     "exoticbutter": {
       "username": "exoticbutter",
       "steam_id": "76561198417595781",
-      "total_hours": 44,
+      "total_hours": 80,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1067,7 +1067,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 0,
+        "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 1,
@@ -1086,9 +1086,14 @@
           "skill": "SmallBlunt",
           "level": "1",
           "timestamp": "23-12-25 19:06:53.558"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "23-12-25 21:52:21.526"
         }
       ],
-      "last_seen": "23-12-25 20:22:31.486",
+      "last_seen": "23-12-25 21:52:21.526",
       "connections": 2
     },
     "Pabstlite": {
@@ -1363,5 +1368,5 @@
     }
   },
   "total_players": 16,
-  "timestamp": "2025-12-23T21:50:02.035409"
+  "timestamp": "2025-12-23T21:55:01.345228"
 }

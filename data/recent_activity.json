@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-12-25 07:28:53.218",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "disconnected",
-      "x": "10049",
-      "y": "12658",
-      "z": "0"
-    },
-    {
-      "timestamp": "23-12-25 08:24:09.868",
-      "steam_id": "76561198014188564",
-      "username": "MarySueGangster",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-12-25 08:24:09.869",
-      "steam_id": "76561198014188564",
-      "username": "MarySueGangster",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "23-12-25 08:24:35.638",
-      "steam_id": "76561198014188564",
-      "username": "MarySueGangster",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "23-12-25 08:25:19.876",
       "steam_id": "76561198014188564",
       "username": "MarySueGangster",
@@ -353,19 +326,39 @@
       "x": "6424",
       "y": "5283",
       "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 21:53:48.318",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "disconnected",
+      "x": "10613",
+      "y": "10456",
+      "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 21:54:47.729",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 21:54:47.729",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "23-12-25 21:54:57.477",
+      "steam_id": "76561199229230518",
+      "username": "Jacko",
+      "action": "disconnected",
+      "x": "10691",
+      "y": "9550",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 06:31:39.640",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "10916",
-      "y": "10133",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
     {
       "timestamp": "23-12-25 07:04:17.362",
       "steam_id": "76561198065774641",
@@ -1098,6 +1091,18 @@
       "event_type": "level_up",
       "skill": "Blunt",
       "level": "2"
+    },
+    {
+      "timestamp": "23-12-25 21:52:21.526",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "10610",
+      "y": "10426",
+      "z": "0",
+      "hours_survived": 80,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1402,5 +1407,5 @@
       "text": "lol"
     }
   ],
-  "timestamp": "2025-12-23T21:50:02.048554"
+  "timestamp": "2025-12-23T21:55:01.358634"
 }
