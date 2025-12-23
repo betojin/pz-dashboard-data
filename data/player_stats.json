@@ -555,7 +555,7 @@
         "Blunt": 0,
         "Axe": 2,
         "Lightfoot": 1,
-        "Nimble": 1,
+        "Nimble": 2,
         "Sprinting": 1,
         "Sneak": 0,
         "Woodwork": 4,
@@ -700,9 +700,14 @@
           "skill": "Aiming",
           "level": "1",
           "timestamp": "23-12-25 02:04:34.716"
+        },
+        {
+          "skill": "Nimble",
+          "level": "2",
+          "timestamp": "23-12-25 02:05:03.089"
         }
       ],
-      "last_seen": "23-12-25 02:04:34.716",
+      "last_seen": "23-12-25 02:05:03.089",
       "connections": 6
     },
     "half": {
@@ -1153,5 +1158,5 @@
     }
   },
   "total_players": 14,
-  "timestamp": "2025-12-23T02:05:01.364513"
+  "timestamp": "2025-12-23T02:10:01.667057"
 }
