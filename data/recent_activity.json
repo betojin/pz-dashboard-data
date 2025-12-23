@@ -354,18 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 18:50:11.817",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "10113",
-      "y": "8240",
-      "z": "0",
-      "hours_survived": 254,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "4"
-    },
-    {
       "timestamp": "22-12-25 19:07:54.701",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1062,21 +1050,21 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "1"
+    },
+    {
+      "timestamp": "23-12-25 00:51:05.186",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "10085",
+      "y": "8261",
+      "z": "1",
+      "hours_survived": 294,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 00:38:11.369",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "jacko and i are base in north muld, we have some completed looting of muld done"
-    },
-    {
-      "timestamp": "23-12-25 00:38:11.370",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "jacko and i are base in north muld, we have some completed looting of muld done"
-    },
     {
       "timestamp": "23-12-25 00:38:26.283",
       "chat_type": "General",
@@ -1364,7 +1352,19 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "of my head"
+    },
+    {
+      "timestamp": "23-12-25 00:52:07.196",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-12-25 00:52:07.197",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-23T00:50:01.279260"
+  "timestamp": "2025-12-23T00:55:01.757789"
 }
