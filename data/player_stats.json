@@ -847,7 +847,7 @@
     "buttersshoes": {
       "username": "buttersshoes",
       "steam_id": "76561198095700017",
-      "total_hours": 69,
+      "total_hours": 79,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -875,7 +875,7 @@
         "Maintenance": 0,
         "SmallBlade": 0,
         "LongBlade": 0,
-        "SmallBlunt": 0,
+        "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
@@ -911,9 +911,14 @@
           "skill": "PlantScavenging",
           "level": "5",
           "timestamp": "23-12-25 00:11:58.611"
+        },
+        {
+          "skill": "SmallBlunt",
+          "level": "1",
+          "timestamp": "23-12-25 00:37:54.257"
         }
       ],
-      "last_seen": "23-12-25 00:11:58.611",
+      "last_seen": "23-12-25 00:37:54.257",
       "connections": 3
     },
     "exoticbutter": {
@@ -1067,5 +1072,5 @@
     }
   },
   "total_players": 13,
-  "timestamp": "2025-12-23T00:35:01.171477"
+  "timestamp": "2025-12-23T00:40:01.501719"
 }
