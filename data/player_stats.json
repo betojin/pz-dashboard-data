@@ -103,7 +103,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 282,
+      "total_hours": 329,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -116,8 +116,8 @@
         "Sprinting": 3,
         "Sneak": 2,
         "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
+        "Aiming": 1,
+        "Reloading": 1,
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
@@ -182,9 +182,19 @@
           "skill": "Sprinting",
           "level": "3",
           "timestamp": "22-12-25 05:21:54.356"
+        },
+        {
+          "skill": "Reloading",
+          "level": "1",
+          "timestamp": "23-12-25 02:04:53.616"
+        },
+        {
+          "skill": "Aiming",
+          "level": "1",
+          "timestamp": "23-12-25 02:04:55.837"
         }
       ],
-      "last_seen": "23-12-25 00:07:03.470",
+      "last_seen": "23-12-25 02:04:55.837",
       "connections": 7
     },
     "Firestorm3050": {
@@ -536,7 +546,7 @@
     "Woofie": {
       "username": "Woofie",
       "steam_id": "76561198864938417",
-      "total_hours": 304,
+      "total_hours": 311,
       "deaths": 0,
       "skills": {
         "Cooking": 1,
@@ -549,7 +559,7 @@
         "Sprinting": 1,
         "Sneak": 0,
         "Woodwork": 4,
-        "Aiming": 0,
+        "Aiming": 1,
         "Reloading": 1,
         "Farming": 0,
         "Fishing": 0,
@@ -685,9 +695,14 @@
           "skill": "Reloading",
           "level": "1",
           "timestamp": "23-12-25 01:09:10.165"
+        },
+        {
+          "skill": "Aiming",
+          "level": "1",
+          "timestamp": "23-12-25 02:04:34.716"
         }
       ],
-      "last_seen": "23-12-25 01:39:51.700",
+      "last_seen": "23-12-25 02:04:34.716",
       "connections": 6
     },
     "half": {
@@ -1138,5 +1153,5 @@
     }
   },
   "total_players": 14,
-  "timestamp": "2025-12-23T02:00:02.029113"
+  "timestamp": "2025-12-23T02:05:01.364513"
 }

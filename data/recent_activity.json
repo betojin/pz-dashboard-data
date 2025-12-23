@@ -354,112 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-12-25 21:38:03.998",
-      "steam_id": "76561198419791953",
-      "username": "Pabstlite",
-      "x": "11735",
-      "y": "6822",
-      "z": "0",
-      "hours_survived": 35,
-      "event_type": "level_up",
-      "skill": "Blunt",
-      "level": "1"
-    },
-    {
-      "timestamp": "22-12-25 21:51:37.443",
-      "steam_id": "76561199229230518",
-      "username": "Jacko",
-      "x": "8215",
-      "y": "11677",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "22-12-25 21:54:49.656",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8125",
-      "y": "11539",
-      "z": "0",
-      "hours_survived": 83,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 9,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 4,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "22-12-25 21:59:19.282",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1132,21 +1026,45 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "23-12-25 02:04:34.716",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "2634",
+      "y": "10896",
+      "z": "0",
+      "hours_survived": 311,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "1"
+    },
+    {
+      "timestamp": "23-12-25 02:04:53.616",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "2621",
+      "y": "10874",
+      "z": "0",
+      "hours_survived": 329,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "1"
+    },
+    {
+      "timestamp": "23-12-25 02:04:55.837",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "2619",
+      "y": "10873",
+      "z": "0",
+      "hours_survived": 329,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 00:41:10.790",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "23-12-25 00:41:10.790",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "23-12-25 00:41:25.096",
       "chat_type": "Local",
@@ -1434,7 +1352,19 @@
       "chat_type": "General",
       "author": "Pabstlite",
       "text": "Mmmm, Highway Massacre"
+    },
+    {
+      "timestamp": "23-12-25 02:02:00.670",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "WHAT IS HAPPENING TO BOB"
+    },
+    {
+      "timestamp": "23-12-25 02:02:00.671",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "WHAT IS HAPPENING TO BOB"
     }
   ],
-  "timestamp": "2025-12-23T02:00:02.056824"
+  "timestamp": "2025-12-23T02:05:01.391081"
 }
