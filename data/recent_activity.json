@@ -1,27 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 21:58:20.687",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 21:58:28.225",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 21:59:16.196",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "fully connected",
-      "x": "5780",
-      "y": "5317",
-      "z": "0"
-    },
-    {
       "timestamp": "22-12-25 22:13:56.110",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -353,6 +332,27 @@
       "steam_id": "76561198864938417",
       "username": "Woofie",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 01:31:13.511",
+      "steam_id": "76561199092197924",
+      "username": "NotMyFishyy",
+      "action": "disconnected",
+      "x": "8156",
+      "y": "11730",
+      "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 01:34:32.395",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 01:34:32.395",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -1369,5 +1369,5 @@
       "text": "night"
     }
   ],
-  "timestamp": "2025-12-23T01:30:01.974593"
+  "timestamp": "2025-12-23T01:35:01.325603"
 }
