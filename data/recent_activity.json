@@ -164,21 +164,21 @@
       "x": "10661",
       "y": "9572",
       "z": "1"
+    },
+    {
+      "timestamp": "23-12-25 16:18:57.674",
+      "steam_id": "76561197988744957",
+      "username": "TwoHorndUnicorn",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 16:18:57.674",
+      "steam_id": "76561197988744957",
+      "username": "TwoHorndUnicorn",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 02:04:34.716",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "2634",
-      "y": "10896",
-      "z": "0",
-      "hours_survived": 311,
-      "event_type": "level_up",
-      "skill": "Aiming",
-      "level": "1"
-    },
     {
       "timestamp": "23-12-25 02:04:53.616",
       "steam_id": "76561198119296623",
@@ -868,8 +868,20 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "1"
+    },
+    {
+      "timestamp": "23-12-25 16:17:00.125",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 531,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "1"
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-23T16:15:01.053289"
+  "timestamp": "2025-12-23T16:20:01.386641"
 }
