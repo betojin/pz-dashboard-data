@@ -1,48 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "22-12-25 22:13:56.110",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 22:13:56.111",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "22-12-25 22:14:11.005",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "22-12-25 22:15:01.463",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "fully connected",
-      "x": "10664",
-      "y": "9528",
-      "z": "-1"
-    },
-    {
-      "timestamp": "22-12-25 22:38:40.313",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "disconnected",
-      "x": "5884",
-      "y": "5738",
-      "z": "0"
-    },
-    {
-      "timestamp": "22-12-25 22:47:52.394",
-      "steam_id": "76561198095700017",
-      "username": "buttersshoes",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "22-12-25 22:47:52.394",
       "steam_id": "76561198095700017",
       "username": "buttersshoes",
@@ -353,33 +311,51 @@
       "steam_id": "76561198864938417",
       "username": "Woofie",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "23-12-25 01:35:10.907",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 01:35:31.546",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 01:35:31.546",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "23-12-25 01:35:45.254",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "23-12-25 01:37:52.008",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "fully connected",
+      "x": "11722",
+      "y": "6749",
+      "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 01:39:37.945",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "action": "fully connected",
+      "x": "7915",
+      "y": "8561",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-12-25 20:54:15.177",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10703",
-      "y": "10147",
-      "z": "0",
-      "hours_survived": 424,
-      "event_type": "level_up",
-      "skill": "Nimble",
-      "level": "1"
-    },
-    {
-      "timestamp": "22-12-25 21:27:49.424",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 438,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "3"
-    },
     {
       "timestamp": "22-12-25 21:38:03.998",
       "steam_id": "76561198419791953",
@@ -1065,6 +1041,100 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "23-12-25 01:37:55.511",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "x": "11722",
+      "y": "6749",
+      "z": "0",
+      "hours_survived": 76,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 3,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 2,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 1,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "23-12-25 01:39:51.700",
+      "steam_id": "76561198864938417",
+      "username": "Woofie",
+      "x": "7915",
+      "y": "8561",
+      "z": "0",
+      "hours_survived": 304,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 1,
+        "Fitness": 9,
+        "Strength": 3,
+        "Blunt": 0,
+        "Axe": 2,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 4,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 2,
+        "PlantScavenging": 7,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 3,
+        "FlintKnapping": 3,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 3,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1369,5 +1439,5 @@
       "text": "night"
     }
   ],
-  "timestamp": "2025-12-23T01:35:01.325603"
+  "timestamp": "2025-12-23T01:40:01.683848"
 }
