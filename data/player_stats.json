@@ -1176,7 +1176,7 @@
     "MarySueGangster": {
       "username": "MarySueGangster",
       "steam_id": "76561198014188564",
-      "total_hours": 12,
+      "total_hours": 27,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1201,7 +1201,7 @@
         "MetalWelding": 0,
         "Mechanics": 3,
         "Spear": 0,
-        "Maintenance": 0,
+        "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 3,
@@ -1225,12 +1225,17 @@
           "skill": "SmallBlunt",
           "level": "3",
           "timestamp": "23-12-25 08:56:37.012"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "23-12-25 09:34:54.530"
         }
       ],
-      "last_seen": "23-12-25 08:56:37.012",
+      "last_seen": "23-12-25 09:34:54.530",
       "connections": 1
     }
   },
   "total_players": 15,
-  "timestamp": "2025-12-23T09:30:01.733640"
+  "timestamp": "2025-12-23T09:35:02.044393"
 }
