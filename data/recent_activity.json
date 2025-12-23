@@ -120,18 +120,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "23-12-25 00:51:05.186",
-      "steam_id": "76561198864938417",
-      "username": "Woofie",
-      "x": "10085",
-      "y": "8261",
-      "z": "1",
-      "hours_survived": 294,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "1"
-    },
-    {
       "timestamp": "23-12-25 01:07:19.609",
       "steam_id": "76561198095700017",
       "username": "buttersshoes",
@@ -890,8 +878,20 @@
       "event_type": "level_up",
       "skill": "SmallBlunt",
       "level": "2"
+    },
+    {
+      "timestamp": "23-12-25 08:56:37.012",
+      "steam_id": "76561198014188564",
+      "username": "MarySueGangster",
+      "x": "11947",
+      "y": "6838",
+      "z": "0",
+      "hours_survived": 12,
+      "event_type": "level_up",
+      "skill": "SmallBlunt",
+      "level": "3"
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-23T08:55:01.500283"
+  "timestamp": "2025-12-23T09:00:01.776985"
 }
