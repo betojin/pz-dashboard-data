@@ -531,7 +531,7 @@
     "CaptainLobo": {
       "username": "CaptainLobo",
       "steam_id": "76561198044597580",
-      "total_hours": 166,
+      "total_hours": 186,
       "deaths": 5,
       "skills": {
         "Cooking": 0,
@@ -556,7 +556,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -620,9 +620,14 @@
           "skill": "Aiming",
           "level": "2",
           "timestamp": "23-12-25 22:55:09.143"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "23-12-25 23:45:46.756"
         }
       ],
-      "last_seen": "23-12-25 22:55:09.143",
+      "last_seen": "23-12-25 23:45:46.756",
       "connections": 3
     },
     "Woofie": {
@@ -1378,5 +1383,5 @@
     }
   },
   "total_players": 16,
-  "timestamp": "2025-12-23T23:45:01.891648"
+  "timestamp": "2025-12-23T23:50:01.183000"
 }
