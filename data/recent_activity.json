@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-12-25 05:27:54.857",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "23-12-25 05:28:01.154",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -355,6 +349,15 @@
       "action": "fully connected",
       "x": "10681",
       "y": "9545",
+      "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 21:19:27.638",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "disconnected",
+      "x": "10659",
+      "y": "9567",
       "z": "0"
     }
   ],
@@ -1068,18 +1071,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "23-12-25 20:28:52.604",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "generator mag"
-    },
-    {
-      "timestamp": "23-12-25 20:28:52.604",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "generator mag"
-    },
-    {
       "timestamp": "23-12-25 20:31:32.224",
       "chat_type": "General",
       "author": "Firestorm3050",
@@ -1366,7 +1357,19 @@
       "chat_type": "General",
       "author": "exoticbutter",
       "text": "they nerfed beer bottles so much"
+    },
+    {
+      "timestamp": "23-12-25 21:19:24.296",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i need to log off. ill be back later today"
+    },
+    {
+      "timestamp": "23-12-25 21:19:24.296",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i need to log off. ill be back later today"
     }
   ],
-  "timestamp": "2025-12-23T21:15:01.793746"
+  "timestamp": "2025-12-23T21:20:01.103369"
 }
