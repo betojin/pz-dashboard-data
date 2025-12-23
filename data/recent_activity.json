@@ -357,16 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "23-12-25 06:28:14.598",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "10118",
-      "y": "12624",
-      "z": "0",
-      "hours_survived": 109,
-      "event_type": "died"
-    },
-    {
       "timestamp": "23-12-25 06:31:39.640",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -1096,45 +1086,21 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "23-12-25 21:47:51.977",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "6628",
+      "y": "5332",
+      "z": "0",
+      "hours_survived": 140,
+      "event_type": "level_up",
+      "skill": "Blunt",
+      "level": "2"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-12-25 21:31:58.722",
-      "chat_type": "Local",
-      "author": "CaptainLobo",
-      "text": "hey"
-    },
-    {
-      "timestamp": "23-12-25 21:31:58.722",
-      "chat_type": "Local",
-      "author": "CaptainLobo",
-      "text": "hey"
-    },
-    {
-      "timestamp": "23-12-25 21:32:00.157",
-      "chat_type": "Local",
-      "author": "CaptainLobo",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "23-12-25 21:32:00.157",
-      "chat_type": "Local",
-      "author": "CaptainLobo",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "23-12-25 21:32:01.073",
-      "chat_type": "Local",
-      "author": "CaptainLobo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "23-12-25 21:32:01.073",
-      "chat_type": "Local",
-      "author": "CaptainLobo",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "23-12-25 21:32:01.490",
       "chat_type": "Local",
@@ -1398,7 +1364,43 @@
       "chat_type": "General",
       "author": "exoticbutter",
       "text": "is fine"
+    },
+    {
+      "timestamp": "23-12-25 21:49:21.401",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "somebody took all the ammo from muldraugh!"
+    },
+    {
+      "timestamp": "23-12-25 21:49:21.402",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "somebody took all the ammo from muldraugh!"
+    },
+    {
+      "timestamp": "23-12-25 21:49:35.807",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "yeah everyone lol"
+    },
+    {
+      "timestamp": "23-12-25 21:49:35.807",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "yeah everyone lol"
+    },
+    {
+      "timestamp": "23-12-25 21:49:41.948",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "lol"
+    },
+    {
+      "timestamp": "23-12-25 21:49:41.948",
+      "chat_type": "General",
+      "author": "Jacko",
+      "text": "lol"
     }
   ],
-  "timestamp": "2025-12-23T21:45:01.654437"
+  "timestamp": "2025-12-23T21:50:02.048554"
 }
