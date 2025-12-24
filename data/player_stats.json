@@ -1489,7 +1489,7 @@
     "Charlie": {
       "username": "Charlie",
       "steam_id": "76561198150738241",
-      "total_hours": 113,
+      "total_hours": 114,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1502,7 +1502,7 @@
         "Sprinting": 0,
         "Sneak": 0,
         "Woodwork": 0,
-        "Aiming": 0,
+        "Aiming": 1,
         "Reloading": 1,
         "Farming": 0,
         "Fishing": 0,
@@ -1553,9 +1553,14 @@
           "skill": "Reloading",
           "level": "1",
           "timestamp": "24-12-25 23:49:15.258"
+        },
+        {
+          "skill": "Aiming",
+          "level": "1",
+          "timestamp": "24-12-25 23:52:06.820"
         }
       ],
-      "last_seen": "24-12-25 23:49:15.258",
+      "last_seen": "24-12-25 23:52:06.820",
       "connections": 1
     },
     "Boba": {
@@ -1989,5 +1994,5 @@
     }
   },
   "total_players": 26,
-  "timestamp": "2025-12-24T23:50:01.918420"
+  "timestamp": "2025-12-24T23:55:01.180747"
 }

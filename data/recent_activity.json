@@ -1,30 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 19:13:36.992",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "disconnected",
-      "x": "10707",
-      "y": "9815",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 19:22:15.832",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "disconnected",
-      "x": "10659",
-      "y": "9567",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 19:37:50.206",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "24-12-25 19:37:50.206",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -359,56 +335,27 @@
       "x": "10707",
       "y": "9815",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 23:52:48.617",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 23:52:48.618",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 23:52:59.454",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 15:26:11.659",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8215",
-      "y": "11677",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 2,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "24-12-25 17:42:16.619",
       "steam_id": "76561197988744957",
@@ -1273,33 +1220,21 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "1"
+    },
+    {
+      "timestamp": "24-12-25 23:52:06.820",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "x": "10923",
+      "y": "9595",
+      "z": "0",
+      "hours_survived": 114,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "24-12-25 23:27:29.217",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i have masonry 1 but no knapping"
-    },
-    {
-      "timestamp": "24-12-25 23:27:29.218",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i have masonry 1 but no knapping"
-    },
-    {
-      "timestamp": "24-12-25 23:27:46.716",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i foraged my stone axe head believe it or not"
-    },
-    {
-      "timestamp": "24-12-25 23:27:46.716",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i foraged my stone axe head believe it or not"
-    },
     {
       "timestamp": "24-12-25 23:27:58.342",
       "chat_type": "General",
@@ -1575,7 +1510,31 @@
       "chat_type": "General",
       "author": "Charlie",
       "text": "merry fucking christmas you mother fuckers"
+    },
+    {
+      "timestamp": "24-12-25 23:51:18.402",
+      "chat_type": "Local",
+      "author": "Charlie",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "24-12-25 23:51:18.402",
+      "chat_type": "Local",
+      "author": "Charlie",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "24-12-25 23:51:19.751",
+      "chat_type": "Local",
+      "author": "Charlie",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "24-12-25 23:51:19.752",
+      "chat_type": "Local",
+      "author": "Charlie",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-24T23:50:01.939254"
+  "timestamp": "2025-12-24T23:55:01.203341"
 }
