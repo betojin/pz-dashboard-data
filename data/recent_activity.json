@@ -1,27 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 18:57:39.325",
-      "steam_id": "76561199484692543",
-      "username": "El_Moctezuma",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "24-12-25 18:57:39.326",
-      "steam_id": "76561199484692543",
-      "username": "El_Moctezuma",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "24-12-25 19:03:24.945",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "disconnected",
-      "x": "10688",
-      "y": "9842",
-      "z": "0"
-    },
-    {
       "timestamp": "24-12-25 19:08:23.053",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -359,6 +338,24 @@
       "x": "10096",
       "y": "7352",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 23:19:55.107",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 23:19:55.107",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 23:20:00.628",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1312,18 +1309,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "24-12-25 22:07:55.269",
-      "chat_type": "Local",
-      "author": "TwoHorndUnicorn",
-      "text": "yeah, i found some eggs that were still good in a horse trailer so i was eating the fuck out of those the other day"
-    },
-    {
-      "timestamp": "24-12-25 22:07:55.269",
-      "chat_type": "Local",
-      "author": "TwoHorndUnicorn",
-      "text": "yeah, i found some eggs that were still good in a horse trailer so i was eating the fuck out of those the other day"
-    },
-    {
       "timestamp": "24-12-25 22:08:40.290",
       "chat_type": "Local",
       "author": "Firestorm3050",
@@ -1610,7 +1595,19 @@
       "chat_type": "Local",
       "author": "Firestorm3050",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "24-12-25 23:19:38.377",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "damn i lost some zomboids with military gear"
+    },
+    {
+      "timestamp": "24-12-25 23:19:38.377",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "damn i lost some zomboids with military gear"
     }
   ],
-  "timestamp": "2025-12-24T23:15:01.761436"
+  "timestamp": "2025-12-24T23:20:02.072506"
 }
