@@ -1411,7 +1411,7 @@
     "TwoHorndUnicorn": {
       "username": "TwoHorndUnicorn",
       "steam_id": "76561197988744957",
-      "total_hours": 64,
+      "total_hours": 116,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1439,7 +1439,7 @@
         "Maintenance": 0,
         "SmallBlade": 0,
         "LongBlade": 0,
-        "SmallBlunt": 0,
+        "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
@@ -1450,8 +1450,14 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "24-12-25 17:42:16.619",
+      "level_ups": [
+        {
+          "skill": "SmallBlunt",
+          "level": "1",
+          "timestamp": "24-12-25 19:50:54.740"
+        }
+      ],
+      "last_seen": "24-12-25 19:50:54.740",
       "connections": 1
     },
     "Charlie": {
@@ -1894,5 +1900,5 @@
     }
   },
   "total_players": 25,
-  "timestamp": "2025-12-24T19:50:01.443189"
+  "timestamp": "2025-12-24T19:55:01.723935"
 }
