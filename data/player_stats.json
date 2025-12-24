@@ -1429,7 +1429,7 @@
     "Charlie": {
       "username": "Charlie",
       "steam_id": "76561198150738241",
-      "total_hours": 85,
+      "total_hours": 90,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1447,7 +1447,7 @@
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
-        "PlantScavenging": 3,
+        "PlantScavenging": 4,
         "Doctor": 0,
         "Electricity": 0,
         "Blacksmith": 0,
@@ -1478,9 +1478,14 @@
           "skill": "PlantScavenging",
           "level": "3",
           "timestamp": "24-12-25 04:44:11.919"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "4",
+          "timestamp": "24-12-25 04:55:11.400"
         }
       ],
-      "last_seen": "24-12-25 04:44:11.919",
+      "last_seen": "24-12-25 04:55:11.400",
       "connections": 2
     },
     "Boba": {
@@ -1620,8 +1625,54 @@
       "level_ups": [],
       "last_seen": "24-12-25 04:39:59.849",
       "connections": 1
+    },
+    "Danford": {
+      "username": "Danford",
+      "steam_id": "76561198148516420",
+      "total_hours": 0,
+      "deaths": 0,
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 10,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      },
+      "level_ups": [],
+      "last_seen": "24-12-25 04:57:25.794",
+      "connections": 1
     }
   },
-  "total_players": 20,
-  "timestamp": "2025-12-24T04:55:01.992556"
+  "total_players": 21,
+  "timestamp": "2025-12-24T05:00:01.256513"
 }
