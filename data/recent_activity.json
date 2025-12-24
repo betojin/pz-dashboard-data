@@ -1,30 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 06:27:53.461",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "fully connected",
-      "x": "12176",
-      "y": "1622",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 06:28:01.559",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "fully connected",
-      "x": "12188",
-      "y": "1613",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 06:28:02.376",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "24-12-25 06:28:02.636",
       "steam_id": "76561199317533255",
       "username": "Boba",
@@ -380,6 +356,24 @@
       "x": "10097",
       "y": "7351",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 18:22:21.765",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 18:22:21.765",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 18:22:39.567",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1390,5 +1384,5 @@
       "text": "hey"
     }
   ],
-  "timestamp": "2025-12-24T18:20:01.740779"
+  "timestamp": "2025-12-24T18:25:02.041408"
 }
