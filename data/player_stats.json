@@ -10,7 +10,7 @@
         "Fitness": 5,
         "Strength": 5,
         "Blunt": 1,
-        "Axe": 0,
+        "Axe": 2,
         "Lightfoot": 0,
         "Nimble": 0,
         "Sprinting": 1,
@@ -57,9 +57,14 @@
           "skill": "Sprinting",
           "level": "1",
           "timestamp": "24-12-25 06:47:04.063"
+        },
+        {
+          "skill": "Axe",
+          "level": "2",
+          "timestamp": "24-12-25 07:52:53.888"
         }
       ],
-      "last_seen": "24-12-25 07:20:17.753",
+      "last_seen": "24-12-25 07:52:53.888",
       "connections": 2
     },
     "admin": {
@@ -1773,5 +1778,5 @@
     }
   },
   "total_players": 23,
-  "timestamp": "2025-12-24T07:50:01.655112"
+  "timestamp": "2025-12-24T07:55:01.957416"
 }
