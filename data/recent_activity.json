@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 15:26:11.109",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "fully connected",
-      "x": "8215",
-      "y": "11677",
-      "z": "0"
-    },
-    {
       "timestamp": "24-12-25 16:02:56.986",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -368,6 +359,15 @@
       "x": "8131",
       "y": "11544",
       "z": "1"
+    },
+    {
+      "timestamp": "24-12-25 21:00:40.815",
+      "steam_id": "76561197988744957",
+      "username": "TwoHorndUnicorn",
+      "action": "disconnected",
+      "x": "11615",
+      "y": "8276",
+      "z": "0"
     }
   ],
   "perk_events": [
@@ -1541,5 +1541,5 @@
       "text": "i wish the weight loss arrow would work again"
     }
   ],
-  "timestamp": "2025-12-24T21:00:01.995389"
+  "timestamp": "2025-12-24T21:05:01.337456"
 }
