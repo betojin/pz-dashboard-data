@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "24-12-25 10:16:05.934",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10662",
-      "y": "9568",
-      "z": "0",
-      "hours_survived": 729,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 4,
-        "Sneak": 0,
-        "Woodwork": 5,
-        "Aiming": 0,
-        "Reloading": 1,
-        "Farming": 2,
-        "Fishing": 2,
-        "Trapping": 1,
-        "PlantScavenging": 3,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 1,
-        "Maintenance": 3,
-        "SmallBlade": 0,
-        "LongBlade": 1,
-        "SmallBlunt": 3,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 5,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "24-12-25 10:49:19.201",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -1343,262 +1296,22 @@
       "event_type": "level_up",
       "skill": "Blunt",
       "level": "1"
+    },
+    {
+      "timestamp": "24-12-25 23:27:03.154",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "2151",
+      "y": "5925",
+      "z": "0",
+      "hours_survived": 275,
+      "event_type": "level_up",
+      "skill": "Axe",
+      "level": "2"
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "24-12-25 22:34:48.344",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "have a safe journey horn"
-    },
-    {
-      "timestamp": "24-12-25 22:34:48.344",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "have a safe journey horn"
-    },
-    {
-      "timestamp": "24-12-25 22:35:00.788",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "thanks, take care down here"
-    },
-    {
-      "timestamp": "24-12-25 22:35:00.788",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "thanks, take care down here"
-    },
-    {
-      "timestamp": "24-12-25 23:02:17.633",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "24-12-25 23:02:17.633",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "24-12-25 23:02:19.728",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "24-12-25 23:02:19.729",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "24-12-25 23:19:38.377",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "damn i lost some zomboids with military gear"
-    },
-    {
-      "timestamp": "24-12-25 23:19:38.377",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "damn i lost some zomboids with military gear"
-    },
-    {
-      "timestamp": "24-12-25 23:20:50.243",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "im backkkkkk"
-    },
-    {
-      "timestamp": "24-12-25 23:20:50.243",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "im backkkkkk"
-    },
-    {
-      "timestamp": "24-12-25 23:20:53.983",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "im ready"
-    },
-    {
-      "timestamp": "24-12-25 23:20:53.983",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "im ready"
-    },
-    {
-      "timestamp": "24-12-25 23:20:56.232",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "welcome"
-    },
-    {
-      "timestamp": "24-12-25 23:20:56.232",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "welcome"
-    },
-    {
-      "timestamp": "24-12-25 23:20:57.931",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "are you ready?"
-    },
-    {
-      "timestamp": "24-12-25 23:20:57.931",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "are you ready?"
-    },
-    {
-      "timestamp": "24-12-25 23:21:02.065",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "hey fire"
-    },
-    {
-      "timestamp": "24-12-25 23:21:02.065",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "hey fire"
-    },
-    {
-      "timestamp": "24-12-25 23:21:06.101",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im 20 minutes away from logging off for the night"
-    },
-    {
-      "timestamp": "24-12-25 23:21:06.102",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im 20 minutes away from logging off for the night"
-    },
-    {
-      "timestamp": "24-12-25 23:21:10.206",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "do you still want the engine parts"
-    },
-    {
-      "timestamp": "24-12-25 23:21:10.207",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "do you still want the engine parts"
-    },
-    {
-      "timestamp": "24-12-25 23:21:15.664",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "sure"
-    },
-    {
-      "timestamp": "24-12-25 23:21:15.664",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "sure"
-    },
-    {
-      "timestamp": "24-12-25 23:21:25.377",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "dude"
-    },
-    {
-      "timestamp": "24-12-25 23:21:25.377",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "dude"
-    },
-    {
-      "timestamp": "24-12-25 23:21:41.082",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i made two double quarter pounder deluxes at home with fries for christmas today"
-    },
-    {
-      "timestamp": "24-12-25 23:21:41.082",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i made two double quarter pounder deluxes at home with fries for christmas today"
-    },
-    {
-      "timestamp": "24-12-25 23:21:41.614",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im trying to finish my chickeen coop before i log"
-    },
-    {
-      "timestamp": "24-12-25 23:21:41.614",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im trying to finish my chickeen coop before i log"
-    },
-    {
-      "timestamp": "24-12-25 23:21:51.558",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "im so tired after finishing that"
-    },
-    {
-      "timestamp": "24-12-25 23:21:51.559",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "im so tired after finishing that"
-    },
-    {
-      "timestamp": "24-12-25 23:22:12.232",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "yeah sorry i wasnt on earlier i scraped my knee also also had to make food and go to store"
-    },
-    {
-      "timestamp": "24-12-25 23:22:12.232",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "yeah sorry i wasnt on earlier i scraped my knee also also had to make food and go to store"
-    },
-    {
-      "timestamp": "24-12-25 23:22:35.202",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "its no worries, i expect holidays to be vvery chaotic anyways"
-    },
-    {
-      "timestamp": "24-12-25 23:22:35.202",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "its no worries, i expect holidays to be vvery chaotic anyways"
-    },
-    {
-      "timestamp": "24-12-25 23:22:57.484",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "also, thunderstorm i think starts this morning"
-    },
-    {
-      "timestamp": "24-12-25 23:22:57.484",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "also, thunderstorm i think starts this morning"
-    },
-    {
-      "timestamp": "24-12-25 23:23:07.231",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "fire"
-    },
-    {
-      "timestamp": "24-12-25 23:23:07.231",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "fire"
-    },
-    {
       "timestamp": "24-12-25 23:23:18.379",
       "chat_type": "General",
       "author": "Charlie",
@@ -1645,7 +1358,259 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "should be 2.7"
+    },
+    {
+      "timestamp": "24-12-25 23:25:07.360",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "no"
+    },
+    {
+      "timestamp": "24-12-25 23:25:07.361",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "no"
+    },
+    {
+      "timestamp": "24-12-25 23:25:08.030",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i have one more trip for logs"
+    },
+    {
+      "timestamp": "24-12-25 23:25:08.030",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i have one more trip for logs"
+    },
+    {
+      "timestamp": "24-12-25 23:25:14.133",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i definitely read the whole thing"
+    },
+    {
+      "timestamp": "24-12-25 23:25:14.133",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i definitely read the whole thing"
+    },
+    {
+      "timestamp": "24-12-25 23:25:19.660",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i just didnt get 2.7"
+    },
+    {
+      "timestamp": "24-12-25 23:25:19.660",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i just didnt get 2.7"
+    },
+    {
+      "timestamp": "24-12-25 23:25:24.360",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "maybe they nerfed aiming"
+    },
+    {
+      "timestamp": "24-12-25 23:25:24.360",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "maybe they nerfed aiming"
+    },
+    {
+      "timestamp": "24-12-25 23:25:43.004",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "it always had less xp than others, i may have misread"
+    },
+    {
+      "timestamp": "24-12-25 23:25:43.004",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "it always had less xp than others, i may have misread"
+    },
+    {
+      "timestamp": "24-12-25 23:25:50.463",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "its 1.35 for me too"
+    },
+    {
+      "timestamp": "24-12-25 23:25:50.464",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "its 1.35 for me too"
+    },
+    {
+      "timestamp": "24-12-25 23:25:52.966",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "dude i ate so much man im so full"
+    },
+    {
+      "timestamp": "24-12-25 23:25:52.966",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "dude i ate so much man im so full"
+    },
+    {
+      "timestamp": "24-12-25 23:26:13.099",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "im leaving over to my mothers house soon for diiinner"
+    },
+    {
+      "timestamp": "24-12-25 23:26:13.099",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "im leaving over to my mothers house soon for diiinner"
+    },
+    {
+      "timestamp": "24-12-25 23:26:33.744",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i made a poke stick"
+    },
+    {
+      "timestamp": "24-12-25 23:26:33.745",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i made a poke stick"
+    },
+    {
+      "timestamp": "24-12-25 23:26:45.282",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "giggity?"
+    },
+    {
+      "timestamp": "24-12-25 23:26:45.283",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "giggity?"
+    },
+    {
+      "timestamp": "24-12-25 23:26:57.163",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "ye"
+    },
+    {
+      "timestamp": "24-12-25 23:26:57.163",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "ye"
+    },
+    {
+      "timestamp": "24-12-25 23:27:10.189",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i need to find a masonry 1 book so i can knap axe heads"
+    },
+    {
+      "timestamp": "24-12-25 23:27:10.190",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i need to find a masonry 1 book so i can knap axe heads"
+    },
+    {
+      "timestamp": "24-12-25 23:27:29.217",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i have masonry 1 but no knapping"
+    },
+    {
+      "timestamp": "24-12-25 23:27:29.218",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i have masonry 1 but no knapping"
+    },
+    {
+      "timestamp": "24-12-25 23:27:46.716",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i foraged my stone axe head believe it or not"
+    },
+    {
+      "timestamp": "24-12-25 23:27:46.716",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i foraged my stone axe head believe it or not"
+    },
+    {
+      "timestamp": "24-12-25 23:27:58.342",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "wha really thats crazy"
+    },
+    {
+      "timestamp": "24-12-25 23:27:58.343",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "wha really thats crazy"
+    },
+    {
+      "timestamp": "24-12-25 23:28:11.990",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "you can come over and read masonry"
+    },
+    {
+      "timestamp": "24-12-25 23:28:11.990",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "you can come over and read masonry"
+    },
+    {
+      "timestamp": "24-12-25 23:28:20.721",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "oh nice"
+    },
+    {
+      "timestamp": "24-12-25 23:28:20.721",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "oh nice"
+    },
+    {
+      "timestamp": "24-12-25 23:29:10.324",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "is beef fat a natural preservative"
+    },
+    {
+      "timestamp": "24-12-25 23:29:10.325",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "is beef fat a natural preservative"
+    },
+    {
+      "timestamp": "24-12-25 23:29:29.042",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "hah me either"
+    },
+    {
+      "timestamp": "24-12-25 23:29:29.042",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "hah me either"
+    },
+    {
+      "timestamp": "24-12-25 23:29:59.634",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i know irl there is a way to render it so that it would be"
+    },
+    {
+      "timestamp": "24-12-25 23:29:59.634",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i know irl there is a way to render it so that it would be"
     }
   ],
-  "timestamp": "2025-12-24T23:25:01.373536"
+  "timestamp": "2025-12-24T23:30:01.716929"
 }

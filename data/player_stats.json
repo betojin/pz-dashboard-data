@@ -566,14 +566,14 @@
     "CaptainLobo": {
       "username": "CaptainLobo",
       "steam_id": "76561198044597580",
-      "total_hours": 258,
+      "total_hours": 275,
       "deaths": 5,
       "skills": {
         "Cooking": 0,
         "Fitness": 7,
         "Strength": 7,
         "Blunt": 2,
-        "Axe": 1,
+        "Axe": 2,
         "Lightfoot": 2,
         "Nimble": 3,
         "Sprinting": 2,
@@ -675,9 +675,14 @@
           "skill": "Aiming",
           "level": "3",
           "timestamp": "24-12-25 22:44:53.798"
+        },
+        {
+          "skill": "Axe",
+          "level": "2",
+          "timestamp": "24-12-25 23:27:03.154"
         }
       ],
-      "last_seen": "24-12-25 22:44:53.798",
+      "last_seen": "24-12-25 23:27:03.154",
       "connections": 3
     },
     "Woofie": {
@@ -1969,5 +1974,5 @@
     }
   },
   "total_players": 26,
-  "timestamp": "2025-12-24T23:25:01.352868"
+  "timestamp": "2025-12-24T23:30:01.696133"
 }
