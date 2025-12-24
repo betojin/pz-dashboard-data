@@ -1152,7 +1152,7 @@
     "Pabstlite": {
       "username": "Pabstlite",
       "steam_id": "76561198419791953",
-      "total_hours": 187,
+      "total_hours": 197,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1164,7 +1164,7 @@
         "Nimble": 0,
         "Sprinting": 1,
         "Sneak": 0,
-        "Woodwork": 4,
+        "Woodwork": 5,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -1216,9 +1216,14 @@
           "skill": "Woodwork",
           "level": "4",
           "timestamp": "24-12-25 02:39:19.343"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "5",
+          "timestamp": "24-12-25 03:23:27.681"
         }
       ],
-      "last_seen": "24-12-25 02:58:43.748",
+      "last_seen": "24-12-25 03:23:27.681",
       "connections": 3
     },
     "Jacko": {
@@ -1478,5 +1483,5 @@
     }
   },
   "total_players": 17,
-  "timestamp": "2025-12-24T03:20:01.905177"
+  "timestamp": "2025-12-24T03:25:01.183947"
 }
