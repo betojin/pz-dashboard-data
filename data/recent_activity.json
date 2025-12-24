@@ -1,69 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-12-25 17:30:27.745",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-12-25 17:30:27.745",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "23-12-25 17:30:38.466",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-12-25 17:31:21.794",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "fully connected",
-      "x": "10716",
-      "y": "9570",
-      "z": "0"
-    },
-    {
-      "timestamp": "23-12-25 18:59:04.586",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-12-25 18:59:04.586",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "23-12-25 18:59:53.162",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-12-25 19:01:31.666",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "fully connected",
-      "x": "11811",
-      "y": "9787",
-      "z": "1"
-    },
-    {
-      "timestamp": "23-12-25 19:09:23.495",
-      "steam_id": "76561197988744957",
-      "username": "TwoHorndUnicorn",
-      "action": "disconnected",
-      "x": "10097",
-      "y": "7351",
-      "z": "0"
-    },
-    {
       "timestamp": "23-12-25 19:22:37.077",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -359,68 +296,72 @@
       "x": "10659",
       "y": "9567",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 00:21:56.771",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 00:21:56.772",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 00:22:05.856",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 00:22:53.388",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "fully connected",
+      "x": "11724",
+      "y": "6751",
+      "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 00:23:11.762",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "disconnected",
+      "x": "11724",
+      "y": "6751",
+      "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 00:23:59.752",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 00:23:59.752",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 00:24:08.385",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 00:24:30.360",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "fully connected",
+      "x": "11724",
+      "y": "6751",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 10:16:57.443",
-      "steam_id": "76561198014188564",
-      "username": "MarySueGangster",
-      "x": "1940",
-      "y": "6410",
-      "z": "0",
-      "hours_survived": 44,
-      "event_type": "level_up",
-      "skill": "SmallBlunt",
-      "level": "4"
-    },
-    {
-      "timestamp": "23-12-25 16:05:57.990",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10661",
-      "y": "9572",
-      "z": "1",
-      "hours_survived": 527,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 4,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 2,
-        "Fishing": 2,
-        "Trapping": 1,
-        "PlantScavenging": 1,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 0,
-        "Maintenance": 3,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 3,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "23-12-25 16:12:04.904",
       "steam_id": "76561198031138505",
@@ -1141,6 +1082,100 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "24-12-25 00:22:54.060",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "x": "11724",
+      "y": "6751",
+      "z": "0",
+      "hours_survived": 126,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 3,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 2,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 1,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "24-12-25 00:24:30.936",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "x": "11724",
+      "y": "6751",
+      "z": "0",
+      "hours_survived": 126,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 3,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 2,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 1,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1445,5 +1480,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-24T00:20:02.029446"
+  "timestamp": "2025-12-24T00:25:01.330988"
 }
