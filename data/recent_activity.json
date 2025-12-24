@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 18:22:21.765",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "24-12-25 18:22:21.765",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "24-12-25 18:22:39.567",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -362,19 +350,24 @@
       "steam_id": "76561199122629737",
       "username": "KeenIslander",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 21:45:52.632",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 21:46:21.396",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "action": "fully connected",
+      "x": "11896",
+      "y": "7015",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 07:01:15.218",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12294",
-      "y": "1319",
-      "z": "0",
-      "hours_survived": 86,
-      "event_type": "died"
-    },
     {
       "timestamp": "24-12-25 07:20:17.753",
       "steam_id": "76561198065774641",
@@ -1270,225 +1263,56 @@
       "event_type": "level_up",
       "skill": "Tailoring",
       "level": "1"
+    },
+    {
+      "timestamp": "24-12-25 21:46:21.842",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "x": "11896",
+      "y": "7015",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 4,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "24-12-25 19:59:55.741",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "thunderstorm eta 4 days"
-    },
-    {
-      "timestamp": "24-12-25 19:59:55.741",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "thunderstorm eta 4 days"
-    },
-    {
-      "timestamp": "24-12-25 20:08:38.630",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "just wasting the night in the westpoint mansions. how you doing firestorm?"
-    },
-    {
-      "timestamp": "24-12-25 20:08:38.631",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "just wasting the night in the westpoint mansions. how you doing firestorm?"
-    },
-    {
-      "timestamp": "24-12-25 20:09:54.338",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "ah got ya. do you have the generator magazine?"
-    },
-    {
-      "timestamp": "24-12-25 20:09:54.338",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "ah got ya. do you have the generator magazine?"
-    },
-    {
-      "timestamp": "24-12-25 20:09:59.623",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i do"
-    },
-    {
-      "timestamp": "24-12-25 20:09:59.623",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i do"
-    },
-    {
-      "timestamp": "24-12-25 20:10:32.068",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "i might come down that way when the sun rises, can i give you somthing for reading it?"
-    },
-    {
-      "timestamp": "24-12-25 20:10:32.069",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "i might come down that way when the sun rises, can i give you somthing for reading it?"
-    },
-    {
-      "timestamp": "24-12-25 20:10:42.066",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "i found a toy plane"
-    },
-    {
-      "timestamp": "24-12-25 20:10:42.066",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "i found a toy plane"
-    },
-    {
-      "timestamp": "24-12-25 20:10:46.304",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "lol"
-    },
-    {
-      "timestamp": "24-12-25 20:10:46.305",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "lol"
-    },
-    {
-      "timestamp": "24-12-25 20:11:36.757",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "if you have a sledge, i have a few things i want to smash."
-    },
-    {
-      "timestamp": "24-12-25 20:11:36.757",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "if you have a sledge, i have a few things i want to smash."
-    },
-    {
-      "timestamp": "24-12-25 20:12:03.954",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "havent came across one yet, but i can do a lap through west point and see if i can find one"
-    },
-    {
-      "timestamp": "24-12-25 20:12:03.954",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "havent came across one yet, but i can do a lap through west point and see if i can find one"
-    },
-    {
-      "timestamp": "24-12-25 20:24:27.183",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "GUESS WHO FOUND A SLEDGE"
-    },
-    {
-      "timestamp": "24-12-25 20:24:27.184",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "GUESS WHO FOUND A SLEDGE"
-    },
-    {
-      "timestamp": "24-12-25 20:25:14.762",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "lol"
-    },
-    {
-      "timestamp": "24-12-25 20:25:14.762",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "lol"
-    },
-    {
-      "timestamp": "24-12-25 20:25:57.784",
-      "chat_type": "General",
-      "author": "half",
-      "text": "whats up horn"
-    },
-    {
-      "timestamp": "24-12-25 20:25:57.784",
-      "chat_type": "General",
-      "author": "half",
-      "text": "whats up horn"
-    },
-    {
-      "timestamp": "24-12-25 20:26:04.920",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "howdy hald"
-    },
-    {
-      "timestamp": "24-12-25 20:26:04.920",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "howdy hald"
-    },
-    {
-      "timestamp": "24-12-25 20:26:09.366",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "*half"
-    },
-    {
-      "timestamp": "24-12-25 20:26:09.366",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "*half"
-    },
-    {
-      "timestamp": "24-12-25 20:44:02.482",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "im doing some inventory management at my base but ill swing by with the sledge after im done Fire"
-    },
-    {
-      "timestamp": "24-12-25 20:44:02.483",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "im doing some inventory management at my base but ill swing by with the sledge after im done Fire"
-    },
-    {
-      "timestamp": "24-12-25 20:44:10.902",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "alr"
-    },
-    {
-      "timestamp": "24-12-25 20:44:10.902",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "alr"
-    },
-    {
-      "timestamp": "24-12-25 20:56:31.817",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i wish the weight loss arrow would work again"
-    },
-    {
-      "timestamp": "24-12-25 20:56:31.817",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i wish the weight loss arrow would work again"
-    },
-    {
-      "timestamp": "24-12-25 21:43:22.116",
-      "chat_type": "Local",
-      "author": "TwoHorndUnicorn",
-      "text": "hey hey"
-    },
-    {
-      "timestamp": "24-12-25 21:43:22.116",
-      "chat_type": "Local",
-      "author": "TwoHorndUnicorn",
-      "text": "hey hey"
-    },
     {
       "timestamp": "24-12-25 21:43:25.437",
       "chat_type": "Local",
@@ -1572,7 +1396,223 @@
       "chat_type": "Local",
       "author": "Firestorm3050",
       "text": "and i plan on turning one of them into a common area"
+    },
+    {
+      "timestamp": "24-12-25 21:45:02.404",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "it looks good, i like the outer perimiter fence"
+    },
+    {
+      "timestamp": "24-12-25 21:45:02.404",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "it looks good, i like the outer perimiter fence"
+    },
+    {
+      "timestamp": "24-12-25 21:45:23.029",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "you sure i can keep the sledge?"
+    },
+    {
+      "timestamp": "24-12-25 21:45:23.029",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "you sure i can keep the sledge?"
+    },
+    {
+      "timestamp": "24-12-25 21:45:32.265",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "iv got a small shak near the mcoy estate"
+    },
+    {
+      "timestamp": "24-12-25 21:45:32.265",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "iv got a small shak near the mcoy estate"
+    },
+    {
+      "timestamp": "24-12-25 21:45:44.188",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "yeah i am not gonna need it"
+    },
+    {
+      "timestamp": "24-12-25 21:45:44.188",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "yeah i am not gonna need it"
+    },
+    {
+      "timestamp": "24-12-25 21:46:12.263",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "glad to see your car is still in good condition"
+    },
+    {
+      "timestamp": "24-12-25 21:46:12.263",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "glad to see your car is still in good condition"
+    },
+    {
+      "timestamp": "24-12-25 21:46:30.173",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "its going well, the engine is suffereing a bit though lol"
+    },
+    {
+      "timestamp": "24-12-25 21:46:30.173",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "its going well, the engine is suffereing a bit though lol"
+    },
+    {
+      "timestamp": "24-12-25 21:46:43.303",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "i nees to work on my mechanic skill anyways"
+    },
+    {
+      "timestamp": "24-12-25 21:46:43.303",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "i nees to work on my mechanic skill anyways"
+    },
+    {
+      "timestamp": "24-12-25 21:46:50.529",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "hmmm, charlie mentioned wanting to gift me engine parts. my mechanics is only lv 2 tho"
+    },
+    {
+      "timestamp": "24-12-25 21:46:50.529",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "hmmm, charlie mentioned wanting to gift me engine parts. my mechanics is only lv 2 tho"
+    },
+    {
+      "timestamp": "24-12-25 21:47:09.107",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "like the eye patch"
+    },
+    {
+      "timestamp": "24-12-25 21:47:09.108",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "like the eye patch"
+    },
+    {
+      "timestamp": "24-12-25 21:47:12.011",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "nice, i have 2 spare parts, but no mech skill yet"
+    },
+    {
+      "timestamp": "24-12-25 21:47:12.011",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "nice, i have 2 spare parts, but no mech skill yet"
+    },
+    {
+      "timestamp": "24-12-25 21:47:26.333",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "just been getting some food stored up and a generatoe"
+    },
+    {
+      "timestamp": "24-12-25 21:47:26.333",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "just been getting some food stored up and a generatoe"
+    },
+    {
+      "timestamp": "24-12-25 21:47:47.593",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "you remember molotov kid?"
+    },
+    {
+      "timestamp": "24-12-25 21:47:47.593",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "you remember molotov kid?"
+    },
+    {
+      "timestamp": "24-12-25 21:47:52.998",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "yeah"
+    },
+    {
+      "timestamp": "24-12-25 21:47:52.998",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "yeah"
+    },
+    {
+      "timestamp": "24-12-25 21:48:08.503",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "Rip"
+    },
+    {
+      "timestamp": "24-12-25 21:48:08.504",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "Rip"
+    },
+    {
+      "timestamp": "24-12-25 21:48:26.138",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "i like the molitov as a tribute"
+    },
+    {
+      "timestamp": "24-12-25 21:48:26.138",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "i like the molitov as a tribute"
+    },
+    {
+      "timestamp": "24-12-25 21:49:15.790",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "i manages to find a big hiking bag this moning been pretty lucky with loot"
+    },
+    {
+      "timestamp": "24-12-25 21:49:15.790",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "i manages to find a big hiking bag this moning been pretty lucky with loot"
+    },
+    {
+      "timestamp": "24-12-25 21:49:48.379",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "i like you can carry both at the same time now"
+    },
+    {
+      "timestamp": "24-12-25 21:49:48.379",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "i like you can carry both at the same time now"
+    },
+    {
+      "timestamp": "24-12-25 21:49:57.616",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "have you seen any dice around, i want to get a full set and the RPG books"
+    },
+    {
+      "timestamp": "24-12-25 21:49:57.617",
+      "chat_type": "Local",
+      "author": "TwoHorndUnicorn",
+      "text": "have you seen any dice around, i want to get a full set and the RPG books"
     }
   ],
-  "timestamp": "2025-12-24T21:45:02.023189"
+  "timestamp": "2025-12-24T21:50:01.355104"
 }
