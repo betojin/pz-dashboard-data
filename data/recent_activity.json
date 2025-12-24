@@ -134,21 +134,18 @@
       "x": "11494",
       "y": "6702",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 06:45:46.170",
+      "steam_id": "76561199124650748",
+      "username": "GameItOut",
+      "action": "disconnected",
+      "x": "11516",
+      "y": "6753",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 01:58:41.584",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "7757",
-      "y": "11889",
-      "z": "0",
-      "hours_survived": 169,
-      "event_type": "level_up",
-      "skill": "Blunt",
-      "level": "2"
-    },
     {
       "timestamp": "24-12-25 02:31:49.127",
       "steam_id": "76561198368197161",
@@ -1194,6 +1191,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "24-12-25 06:47:04.063",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12285",
+      "y": "1317",
+      "z": "0",
+      "hours_survived": 80,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1210,5 +1219,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-24T06:45:01.717766"
+  "timestamp": "2025-12-24T06:50:02.029268"
 }
