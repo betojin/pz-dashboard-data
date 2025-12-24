@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 07:26:57.082",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "disconnected",
-      "x": "12068",
-      "y": "2455",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 07:26:59.636",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "fully connected",
-      "x": "12025",
-      "y": "2592",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 08:10:22.473",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "disconnected",
-      "x": "12024",
-      "y": "2599",
-      "z": "0"
-    },
-    {
       "timestamp": "24-12-25 08:10:32.247",
       "steam_id": "76561199317533255",
       "username": "Boba",
@@ -368,56 +341,36 @@
       "x": "11412",
       "y": "6724",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 19:10:20.085",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "fully connected",
+      "x": "10688",
+      "y": "9842",
+      "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 19:11:40.352",
+      "steam_id": "76561199484692543",
+      "username": "El_Moctezuma",
+      "action": "disconnected",
+      "x": "11393",
+      "y": "6734",
+      "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 19:13:36.992",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "disconnected",
+      "x": "10707",
+      "y": "9815",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 06:27:53.818",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12176",
-      "y": "1622",
-      "z": "0",
-      "hours_survived": 38,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "24-12-25 06:28:02.085",
       "steam_id": "76561198065774641",
@@ -1237,6 +1190,53 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "24-12-25 19:10:20.804",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "10688",
+      "y": "9842",
+      "z": "0",
+      "hours_survived": 10,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 7,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 4,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1359,7 +1359,91 @@
       "chat_type": "Local",
       "author": "El_Moctezuma",
       "text": "Hi"
+    },
+    {
+      "timestamp": "24-12-25 19:10:45.419",
+      "chat_type": "General",
+      "author": "TwoHorndUnicorn",
+      "text": "dose anyone have a hammer thay would be willing to trade for?"
+    },
+    {
+      "timestamp": "24-12-25 19:10:45.420",
+      "chat_type": "General",
+      "author": "TwoHorndUnicorn",
+      "text": "dose anyone have a hammer thay would be willing to trade for?"
+    },
+    {
+      "timestamp": "24-12-25 19:10:51.283",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "ya"
+    },
+    {
+      "timestamp": "24-12-25 19:10:51.283",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "ya"
+    },
+    {
+      "timestamp": "24-12-25 19:11:02.502",
+      "chat_type": "General",
+      "author": "TwoHorndUnicorn",
+      "text": "what would you want for it?"
+    },
+    {
+      "timestamp": "24-12-25 19:11:02.502",
+      "chat_type": "General",
+      "author": "TwoHorndUnicorn",
+      "text": "what would you want for it?"
+    },
+    {
+      "timestamp": "24-12-25 19:11:11.084",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "what do u got"
+    },
+    {
+      "timestamp": "24-12-25 19:11:11.084",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "what do u got"
+    },
+    {
+      "timestamp": "24-12-25 19:12:13.816",
+      "chat_type": "General",
+      "author": "TwoHorndUnicorn",
+      "text": "need ammo? I have some .44, .308, .223"
+    },
+    {
+      "timestamp": "24-12-25 19:12:13.816",
+      "chat_type": "General",
+      "author": "TwoHorndUnicorn",
+      "text": "need ammo? I have some .44, .308, .223"
+    },
+    {
+      "timestamp": "24-12-25 19:12:48.666",
+      "chat_type": "General",
+      "author": "TwoHorndUnicorn",
+      "text": "im an idiot, i have 2 in a shelf that i forgot about"
+    },
+    {
+      "timestamp": "24-12-25 19:12:48.666",
+      "chat_type": "General",
+      "author": "TwoHorndUnicorn",
+      "text": "im an idiot, i have 2 in a shelf that i forgot about"
+    },
+    {
+      "timestamp": "24-12-25 19:13:18.891",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "gtg"
+    },
+    {
+      "timestamp": "24-12-25 19:13:18.891",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "gtg"
     }
   ],
-  "timestamp": "2025-12-24T19:10:02.044416"
+  "timestamp": "2025-12-24T19:15:01.355636"
 }
