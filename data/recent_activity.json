@@ -143,56 +143,27 @@
       "x": "11516",
       "y": "6753",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 06:57:47.548",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "disconnected",
+      "x": "12319",
+      "y": "1366",
+      "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 06:57:49.487",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "fully connected",
+      "x": "12025",
+      "y": "2592",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 02:37:09.230",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "x": "10883",
-      "y": "10159",
-      "z": "0",
-      "hours_survived": 19,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 2,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "24-12-25 02:39:19.343",
       "steam_id": "76561198419791953",
@@ -1201,6 +1172,16 @@
       "z": "0",
       "hours_survived": 50,
       "event_type": "died"
+    },
+    {
+      "timestamp": "24-12-25 06:57:49.605",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "x": "12025",
+      "y": "2592",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
@@ -1229,5 +1210,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-24T06:55:01.320663"
+  "timestamp": "2025-12-24T07:00:01.647552"
 }
