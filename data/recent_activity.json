@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 06:28:02.636",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "24-12-25 06:28:16.327",
       "steam_id": "76561199317533255",
       "username": "Boba",
@@ -374,56 +368,18 @@
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 18:28:45.396",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "fully connected",
+      "x": "10614",
+      "y": "9508",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 04:41:22.668",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "10824",
-      "y": "9070",
-      "z": "0",
-      "hours_survived": 33,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 1,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 3,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 2,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "24-12-25 04:44:11.919",
       "steam_id": "76561198150738241",
@@ -1284,6 +1240,53 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "24-12-25 18:28:46.227",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "10614",
+      "y": "9508",
+      "z": "0",
+      "hours_survived": 101,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 2,
+        "Tailoring": 5,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1382,7 +1385,19 @@
       "chat_type": "Local",
       "author": "TwoHorndUnicorn",
       "text": "hey"
+    },
+    {
+      "timestamp": "24-12-25 18:29:09.335",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "oh no i am kill"
+    },
+    {
+      "timestamp": "24-12-25 18:29:09.335",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "oh no i am kill"
     }
   ],
-  "timestamp": "2025-12-24T18:25:02.041408"
+  "timestamp": "2025-12-24T18:30:01.311691"
 }
