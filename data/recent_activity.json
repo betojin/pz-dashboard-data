@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 19:08:23.054",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "24-12-25 19:08:32.281",
       "steam_id": "76561199484692543",
       "username": "El_Moctezuma",
@@ -359,21 +353,18 @@
       "x": "10703",
       "y": "9549",
       "z": "1"
+    },
+    {
+      "timestamp": "24-12-25 23:31:43.999",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "2076",
+      "y": "5800",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 10:49:19.201",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 743,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "6"
-    },
     {
       "timestamp": "24-12-25 13:39:04.372",
       "steam_id": "76561198044597580",
@@ -1308,153 +1299,21 @@
       "event_type": "level_up",
       "skill": "Axe",
       "level": "2"
+    },
+    {
+      "timestamp": "24-12-25 23:30:36.825",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10655",
+      "y": "9582",
+      "z": "0",
+      "hours_survived": 863,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "6"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "24-12-25 23:23:18.379",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "you want me to drop your parts at your door?"
-    },
-    {
-      "timestamp": "24-12-25 23:23:18.379",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "you want me to drop your parts at your door?"
-    },
-    {
-      "timestamp": "24-12-25 23:23:24.375",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yes, that works"
-    },
-    {
-      "timestamp": "24-12-25 23:23:24.375",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yes, that works"
-    },
-    {
-      "timestamp": "24-12-25 23:23:50.916",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "also do you think i could read your aiming book again im not sure i finished because its at 1.35x xp gain"
-    },
-    {
-      "timestamp": "24-12-25 23:23:50.916",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "also do you think i could read your aiming book again im not sure i finished because its at 1.35x xp gain"
-    },
-    {
-      "timestamp": "24-12-25 23:24:00.497",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "should be 2.7"
-    },
-    {
-      "timestamp": "24-12-25 23:24:00.497",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "should be 2.7"
-    },
-    {
-      "timestamp": "24-12-25 23:25:07.360",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "no"
-    },
-    {
-      "timestamp": "24-12-25 23:25:07.361",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "no"
-    },
-    {
-      "timestamp": "24-12-25 23:25:08.030",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i have one more trip for logs"
-    },
-    {
-      "timestamp": "24-12-25 23:25:08.030",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i have one more trip for logs"
-    },
-    {
-      "timestamp": "24-12-25 23:25:14.133",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i definitely read the whole thing"
-    },
-    {
-      "timestamp": "24-12-25 23:25:14.133",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i definitely read the whole thing"
-    },
-    {
-      "timestamp": "24-12-25 23:25:19.660",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i just didnt get 2.7"
-    },
-    {
-      "timestamp": "24-12-25 23:25:19.660",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i just didnt get 2.7"
-    },
-    {
-      "timestamp": "24-12-25 23:25:24.360",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "maybe they nerfed aiming"
-    },
-    {
-      "timestamp": "24-12-25 23:25:24.360",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "maybe they nerfed aiming"
-    },
-    {
-      "timestamp": "24-12-25 23:25:43.004",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "it always had less xp than others, i may have misread"
-    },
-    {
-      "timestamp": "24-12-25 23:25:43.004",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "it always had less xp than others, i may have misread"
-    },
-    {
-      "timestamp": "24-12-25 23:25:50.463",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "its 1.35 for me too"
-    },
-    {
-      "timestamp": "24-12-25 23:25:50.464",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "its 1.35 for me too"
-    },
-    {
-      "timestamp": "24-12-25 23:25:52.966",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "dude i ate so much man im so full"
-    },
-    {
-      "timestamp": "24-12-25 23:25:52.966",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "dude i ate so much man im so full"
-    },
     {
       "timestamp": "24-12-25 23:26:13.099",
       "chat_type": "General",
@@ -1610,7 +1469,151 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "i know irl there is a way to render it so that it would be"
+    },
+    {
+      "timestamp": "24-12-25 23:30:20.512",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i want to make black powder in this game. i want to make muskets"
+    },
+    {
+      "timestamp": "24-12-25 23:30:20.512",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i want to make black powder in this game. i want to make muskets"
+    },
+    {
+      "timestamp": "24-12-25 23:30:24.808",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "and cap and ball revolvers"
+    },
+    {
+      "timestamp": "24-12-25 23:30:24.808",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "and cap and ball revolvers"
+    },
+    {
+      "timestamp": "24-12-25 23:30:34.224",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i want to pay someone to make a mod for it"
+    },
+    {
+      "timestamp": "24-12-25 23:30:34.224",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i want to pay someone to make a mod for it"
+    },
+    {
+      "timestamp": "24-12-25 23:30:44.038",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "well with the new animals, its probably not too much of a stretch now"
+    },
+    {
+      "timestamp": "24-12-25 23:30:44.039",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "well with the new animals, its probably not too much of a stretch now"
+    },
+    {
+      "timestamp": "24-12-25 23:31:02.631",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "exactly"
+    },
+    {
+      "timestamp": "24-12-25 23:31:02.631",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "exactly"
+    },
+    {
+      "timestamp": "24-12-25 23:31:02.789",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "also, in b41 there was a mod for at least black powder"
+    },
+    {
+      "timestamp": "24-12-25 23:31:02.789",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "also, in b41 there was a mod for at least black powder"
+    },
+    {
+      "timestamp": "24-12-25 23:31:18.811",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i remember"
+    },
+    {
+      "timestamp": "24-12-25 23:31:18.811",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i remember"
+    },
+    {
+      "timestamp": "24-12-25 23:32:10.141",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "man"
+    },
+    {
+      "timestamp": "24-12-25 23:32:10.141",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "man"
+    },
+    {
+      "timestamp": "24-12-25 23:32:20.314",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i must have had like 4,000 calories today"
+    },
+    {
+      "timestamp": "24-12-25 23:32:20.314",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i must have had like 4,000 calories today"
+    },
+    {
+      "timestamp": "24-12-25 23:32:29.359",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i probably wont eat again until tomorrow evening"
+    },
+    {
+      "timestamp": "24-12-25 23:32:29.360",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i probably wont eat again until tomorrow evening"
+    },
+    {
+      "timestamp": "24-12-25 23:32:39.807",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i havent felt this full in ages"
+    },
+    {
+      "timestamp": "24-12-25 23:32:39.808",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i havent felt this full in ages"
+    },
+    {
+      "timestamp": "24-12-25 23:33:20.501",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "even with my gen and house lights on, the inside of my house is still fog grey"
+    },
+    {
+      "timestamp": "24-12-25 23:33:20.501",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "even with my gen and house lights on, the inside of my house is still fog grey"
     }
   ],
-  "timestamp": "2025-12-24T23:30:01.716929"
+  "timestamp": "2025-12-24T23:35:02.027540"
 }
