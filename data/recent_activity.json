@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-12-25 17:29:30.200",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "disconnected",
-      "x": "10716",
-      "y": "9570",
-      "z": "0"
-    },
-    {
       "timestamp": "23-12-25 17:30:27.745",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -359,21 +350,18 @@
       "x": "5375",
       "y": "6322",
       "z": "0"
+    },
+    {
+      "timestamp": "23-12-25 23:55:24.362",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "fully connected",
+      "x": "10659",
+      "y": "9567",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 10:16:06.355",
-      "steam_id": "76561198014188564",
-      "username": "MarySueGangster",
-      "x": "1957",
-      "y": "6406",
-      "z": "0",
-      "hours_survived": 44,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "1"
-    },
     {
       "timestamp": "23-12-25 10:16:57.443",
       "steam_id": "76561198014188564",
@@ -1106,6 +1094,53 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "2"
+    },
+    {
+      "timestamp": "23-12-25 23:55:25.014",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9567",
+      "z": "0",
+      "hours_survived": 651,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 4,
+        "Fitness": 10,
+        "Strength": 9,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 4,
+        "Sneak": 0,
+        "Woodwork": 5,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 2,
+        "Fishing": 2,
+        "Trapping": 1,
+        "PlantScavenging": 3,
+        "Doctor": 0,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 2,
+        "Spear": 1,
+        "Maintenance": 3,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 3,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 4,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1410,5 +1445,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-23T23:55:01.477495"
+  "timestamp": "2025-12-24T00:00:01.756816"
 }
