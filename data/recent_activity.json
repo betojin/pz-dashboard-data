@@ -44,21 +44,36 @@
       "x": "11724",
       "y": "6751",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 03:30:05.704",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 03:30:05.704",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 03:30:10.969",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 03:30:18.970",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "action": "fully connected",
+      "x": "10787",
+      "y": "9510",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 21:47:51.977",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "6628",
-      "y": "5332",
-      "z": "0",
-      "hours_survived": 140,
-      "event_type": "level_up",
-      "skill": "Blunt",
-      "level": "2"
-    },
     {
       "timestamp": "23-12-25 21:52:21.526",
       "steam_id": "76561198417595781",
@@ -931,8 +946,188 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "24-12-25 03:30:19.248",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "x": "10787",
+      "y": "9510",
+      "z": "0",
+      "hours_survived": 57,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 1,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 1,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
-  "chat_messages": [],
-  "timestamp": "2025-12-24T03:30:01.486835"
+  "chat_messages": [
+    {
+      "timestamp": "24-12-25 03:30:40.154",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "back online?"
+    },
+    {
+      "timestamp": "24-12-25 03:30:40.155",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "back online?"
+    },
+    {
+      "timestamp": "24-12-25 03:31:45.354",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i think some of my inv despawned"
+    },
+    {
+      "timestamp": "24-12-25 03:31:45.355",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i think some of my inv despawned"
+    },
+    {
+      "timestamp": "24-12-25 03:31:54.215",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "missing a few batteries"
+    },
+    {
+      "timestamp": "24-12-25 03:31:54.215",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "missing a few batteries"
+    },
+    {
+      "timestamp": "24-12-25 03:33:14.384",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "im trying to think where there might still be loot"
+    },
+    {
+      "timestamp": "24-12-25 03:33:14.384",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "im trying to think where there might still be loot"
+    },
+    {
+      "timestamp": "24-12-25 03:33:29.785",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "LV, Brandenburg"
+    },
+    {
+      "timestamp": "24-12-25 03:33:29.785",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "LV, Brandenburg"
+    },
+    {
+      "timestamp": "24-12-25 03:33:37.354",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "cant get there. no car."
+    },
+    {
+      "timestamp": "24-12-25 03:33:37.354",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "cant get there. no car."
+    },
+    {
+      "timestamp": "24-12-25 03:33:40.649",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Irvington, Ekron"
+    },
+    {
+      "timestamp": "24-12-25 03:33:40.650",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Irvington, Ekron"
+    },
+    {
+      "timestamp": "24-12-25 03:33:56.855",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "its gonna have to be somewhere in mul or close"
+    },
+    {
+      "timestamp": "24-12-25 03:33:56.855",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "its gonna have to be somewhere in mul or close"
+    },
+    {
+      "timestamp": "24-12-25 03:34:43.143",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Just been me and a dude named Kessler"
+    },
+    {
+      "timestamp": "24-12-25 03:34:43.143",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Just been me and a dude named Kessler"
+    },
+    {
+      "timestamp": "24-12-25 03:34:53.356",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Still got the safe room in the Police Station"
+    },
+    {
+      "timestamp": "24-12-25 03:34:53.356",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Still got the safe room in the Police Station"
+    },
+    {
+      "timestamp": "24-12-25 03:34:57.030",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "I think"
+    },
+    {
+      "timestamp": "24-12-25 03:34:57.030",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "I think"
+    }
+  ],
+  "timestamp": "2025-12-24T03:35:01.783700"
 }
