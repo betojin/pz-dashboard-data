@@ -556,7 +556,7 @@
     "CaptainLobo": {
       "username": "CaptainLobo",
       "steam_id": "76561198044597580",
-      "total_hours": 188,
+      "total_hours": 193,
       "deaths": 5,
       "skills": {
         "Cooking": 0,
@@ -565,7 +565,7 @@
         "Blunt": 2,
         "Axe": 1,
         "Lightfoot": 2,
-        "Nimble": 2,
+        "Nimble": 3,
         "Sprinting": 2,
         "Sneak": 2,
         "Woodwork": 0,
@@ -650,9 +650,14 @@
           "skill": "Maintenance",
           "level": "2",
           "timestamp": "23-12-25 23:45:46.756"
+        },
+        {
+          "skill": "Nimble",
+          "level": "3",
+          "timestamp": "24-12-25 13:51:36.488"
         }
       ],
-      "last_seen": "24-12-25 13:39:04.372",
+      "last_seen": "24-12-25 13:51:36.488",
       "connections": 1
     },
     "Woofie": {
@@ -1790,5 +1795,5 @@
     }
   },
   "total_players": 23,
-  "timestamp": "2025-12-24T13:50:01.255801"
+  "timestamp": "2025-12-24T13:55:01.761940"
 }
