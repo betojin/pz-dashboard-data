@@ -75,18 +75,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "23-12-25 21:52:21.526",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "x": "10610",
-      "y": "10426",
-      "z": "0",
-      "hours_survived": 80,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "1"
-    },
-    {
       "timestamp": "23-12-25 21:55:19.126",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -993,6 +981,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "24-12-25 03:51:12.487",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "x": "10901",
+      "y": "9548",
+      "z": "0",
+      "hours_survived": 65,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1223,7 +1223,79 @@
       "chat_type": "General",
       "author": "Charlie",
       "text": "what do you listen to"
+    },
+    {
+      "timestamp": "24-12-25 03:52:30.263",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Window by Still Woozy to be specific"
+    },
+    {
+      "timestamp": "24-12-25 03:52:30.263",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Window by Still Woozy to be specific"
+    },
+    {
+      "timestamp": "24-12-25 03:52:42.492",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "is that rap"
+    },
+    {
+      "timestamp": "24-12-25 03:52:42.492",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "is that rap"
+    },
+    {
+      "timestamp": "24-12-25 03:52:51.145",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "hmmm"
+    },
+    {
+      "timestamp": "24-12-25 03:52:51.145",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "hmmm"
+    },
+    {
+      "timestamp": "24-12-25 03:52:54.237",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "No, but yes"
+    },
+    {
+      "timestamp": "24-12-25 03:52:54.237",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "No, but yes"
+    },
+    {
+      "timestamp": "24-12-25 03:54:33.029",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "cool"
+    },
+    {
+      "timestamp": "24-12-25 03:54:33.029",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "cool"
+    },
+    {
+      "timestamp": "24-12-25 03:54:42.832",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Thats the best way I can put it"
+    },
+    {
+      "timestamp": "24-12-25 03:54:42.832",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Thats the best way I can put it"
     }
   ],
-  "timestamp": "2025-12-24T03:50:01.706205"
+  "timestamp": "2025-12-24T03:55:02.012227"
 }

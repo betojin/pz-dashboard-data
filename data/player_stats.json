@@ -1428,7 +1428,7 @@
     "Charlie": {
       "username": "Charlie",
       "steam_id": "76561198150738241",
-      "total_hours": 57,
+      "total_hours": 65,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1446,7 +1446,7 @@
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
-        "PlantScavenging": 1,
+        "PlantScavenging": 2,
         "Doctor": 0,
         "Electricity": 0,
         "Blacksmith": 0,
@@ -1467,11 +1467,17 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "24-12-25 03:30:19.248",
+      "level_ups": [
+        {
+          "skill": "PlantScavenging",
+          "level": "2",
+          "timestamp": "24-12-25 03:51:12.487"
+        }
+      ],
+      "last_seen": "24-12-25 03:51:12.487",
       "connections": 1
     }
   },
   "total_players": 17,
-  "timestamp": "2025-12-24T03:50:01.693894"
+  "timestamp": "2025-12-24T03:55:02.000604"
 }
