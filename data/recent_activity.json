@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 06:28:16.327",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "fully connected",
-      "x": "12173",
-      "y": "1614",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 06:28:16.765",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "fully connected",
-      "x": "12170",
-      "y": "1618",
-      "z": "0"
-    },
-    {
       "timestamp": "24-12-25 06:43:18.528",
       "steam_id": "76561199124650748",
       "username": "GameItOut",
@@ -377,68 +359,27 @@
       "x": "10614",
       "y": "9508",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 18:31:22.443",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "disconnected",
+      "x": "10618",
+      "y": "9506",
+      "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 18:31:24.018",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "fully connected",
+      "x": "6527",
+      "y": "5431",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 04:44:11.919",
-      "steam_id": "76561198150738241",
-      "username": "Charlie",
-      "x": "10732",
-      "y": "9529",
-      "z": "0",
-      "hours_survived": 85,
-      "event_type": "level_up",
-      "skill": "PlantScavenging",
-      "level": "3"
-    },
-    {
-      "timestamp": "24-12-25 04:46:55.619",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "10834",
-      "y": "9489",
-      "z": "0",
-      "hours_survived": 1,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "24-12-25 04:55:11.400",
       "steam_id": "76561198150738241",
@@ -1287,6 +1228,26 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "24-12-25 18:30:47.924",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "10618",
+      "y": "9506",
+      "z": "0",
+      "hours_survived": 102,
+      "event_type": "died"
+    },
+    {
+      "timestamp": "24-12-25 18:31:24.205",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "6527",
+      "y": "5431",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
@@ -1399,5 +1360,5 @@
       "text": "oh no i am kill"
     }
   ],
-  "timestamp": "2025-12-24T18:30:01.311691"
+  "timestamp": "2025-12-24T18:35:01.578602"
 }
