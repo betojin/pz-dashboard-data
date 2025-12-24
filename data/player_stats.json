@@ -1550,14 +1550,14 @@
       "deaths": 1,
       "skills": {
         "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
+        "Fitness": 10,
+        "Strength": 10,
         "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
+        "Axe": 1,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
         "Woodwork": 0,
         "Aiming": 0,
         "Reloading": 0,
@@ -1586,8 +1586,8 @@
         "Glassmaking": 0
       },
       "level_ups": [],
-      "last_seen": "24-12-25 07:22:51.886",
-      "connections": 2
+      "last_seen": "24-12-25 07:26:59.769",
+      "connections": 3
     },
     "ExpiredMayo": {
       "username": "ExpiredMayo",
@@ -1773,5 +1773,5 @@
     }
   },
   "total_players": 23,
-  "timestamp": "2025-12-24T07:25:01.132864"
+  "timestamp": "2025-12-24T07:30:01.396269"
 }

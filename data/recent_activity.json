@@ -215,21 +215,27 @@
       "x": "12025",
       "y": "2592",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 07:26:57.082",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "disconnected",
+      "x": "12068",
+      "y": "2455",
+      "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 07:26:59.636",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "fully connected",
+      "x": "12025",
+      "y": "2592",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 03:23:27.681",
-      "steam_id": "76561198419791953",
-      "username": "Pabstlite",
-      "x": "11734",
-      "y": "6768",
-      "z": "0",
-      "hours_survived": 197,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "5"
-    },
     {
       "timestamp": "24-12-25 03:28:21.359",
       "steam_id": "76561198419791953",
@@ -1195,6 +1201,53 @@
       "z": "0",
       "hours_survived": 59,
       "event_type": "died"
+    },
+    {
+      "timestamp": "24-12-25 07:26:59.769",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12025",
+      "y": "2592",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 10,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1223,5 +1276,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-24T07:25:01.147295"
+  "timestamp": "2025-12-24T07:30:01.410602"
 }
