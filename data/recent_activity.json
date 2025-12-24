@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 00:23:11.762",
-      "steam_id": "76561198419791953",
-      "username": "Pabstlite",
-      "action": "disconnected",
-      "x": "11724",
-      "y": "6751",
-      "z": "0"
-    },
-    {
       "timestamp": "24-12-25 00:23:59.752",
       "steam_id": "76561198419791953",
       "username": "Pabstlite",
@@ -352,6 +343,15 @@
       "action": "fully connected",
       "x": "8125",
       "y": "11540",
+      "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 03:17:47.946",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "disconnected",
+      "x": "8132",
+      "y": "11554",
       "z": "0"
     }
   ],
@@ -1279,42 +1279,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "24-12-25 03:05:50.052",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i have a gift for you fire"
-    },
-    {
-      "timestamp": "24-12-25 03:05:50.052",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i have a gift for you fire"
-    },
-    {
-      "timestamp": "24-12-25 03:05:58.295",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "oh?"
-    },
-    {
-      "timestamp": "24-12-25 03:05:58.296",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "oh?"
-    },
-    {
-      "timestamp": "24-12-25 03:06:06.160",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "yea"
-    },
-    {
-      "timestamp": "24-12-25 03:06:06.160",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "yea"
-    },
-    {
       "timestamp": "24-12-25 03:06:49.582",
       "chat_type": "Local",
       "author": "Charlie",
@@ -1577,7 +1541,43 @@
       "chat_type": "General",
       "author": "Pabstlite",
       "text": "Have fun Fire! O/"
+    },
+    {
+      "timestamp": "24-12-25 03:15:04.896",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "my character is complaining that shes tired. Bitch its the mf apocalypse"
+    },
+    {
+      "timestamp": "24-12-25 03:15:04.896",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "my character is complaining that shes tired. Bitch its the mf apocalypse"
+    },
+    {
+      "timestamp": "24-12-25 03:19:46.996",
+      "chat_type": "Local",
+      "author": "Charlie",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "24-12-25 03:19:46.997",
+      "chat_type": "Local",
+      "author": "Charlie",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "24-12-25 03:19:49.563",
+      "chat_type": "Local",
+      "author": "Charlie",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "24-12-25 03:19:49.563",
+      "chat_type": "Local",
+      "author": "Charlie",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-24T03:15:01.571676"
+  "timestamp": "2025-12-24T03:20:01.924470"
 }
