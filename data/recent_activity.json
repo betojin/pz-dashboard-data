@@ -4,12 +4,6 @@
       "timestamp": "24-12-25 03:30:05.704",
       "steam_id": "76561198150738241",
       "username": "Charlie",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "24-12-25 03:30:05.704",
-      "steam_id": "76561198150738241",
-      "username": "Charlie",
       "action": "allowed to join"
     },
     {
@@ -350,6 +344,15 @@
       "x": "11724",
       "y": "6777",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 05:25:20.727",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "action": "disconnected",
+      "x": "10703",
+      "y": "9549",
+      "z": "1"
     }
   ],
   "perk_events": [
@@ -1346,18 +1349,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "24-12-25 04:56:01.204",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "24-12-25 04:56:01.204",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
       "timestamp": "24-12-25 04:56:01.657",
       "chat_type": "Local",
       "author": "Boba",
@@ -1644,7 +1635,19 @@
       "chat_type": "General",
       "author": "Charlie",
       "text": "who is bob and what does he do"
+    },
+    {
+      "timestamp": "24-12-25 05:26:51.439",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "24-12-25 05:26:51.440",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-24T05:25:01.980682"
+  "timestamp": "2025-12-24T05:30:01.263798"
 }
