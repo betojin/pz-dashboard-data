@@ -1,45 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 07:19:48.983",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "24-12-25 07:19:57.633",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "24-12-25 07:20:15.400",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "disconnected",
-      "x": "12294",
-      "y": "1319",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 07:20:17.454",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "fully connected",
-      "x": "12019",
-      "y": "2589",
-      "z": "1"
-    },
-    {
-      "timestamp": "24-12-25 07:20:17.678",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "fully connected",
-      "x": "12025",
-      "y": "2592",
-      "z": "0"
-    },
-    {
       "timestamp": "24-12-25 07:26:57.082",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -374,19 +335,42 @@
       "x": "10688",
       "y": "9842",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 19:08:23.053",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 19:08:23.054",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 19:08:32.281",
+      "steam_id": "76561199484692543",
+      "username": "El_Moctezuma",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 19:08:37.801",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 19:09:22.368",
+      "steam_id": "76561199484692543",
+      "username": "El_Moctezuma",
+      "action": "fully connected",
+      "x": "11412",
+      "y": "6724",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 05:48:38.506",
-      "steam_id": "76561198084682353",
-      "username": "Kersene",
-      "x": "5986",
-      "y": "5399",
-      "z": "0",
-      "hours_survived": 17,
-      "event_type": "died"
-    },
     {
       "timestamp": "24-12-25 06:27:53.818",
       "steam_id": "76561199511597958",
@@ -1206,6 +1190,53 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "24-12-25 19:09:22.803",
+      "steam_id": "76561199484692543",
+      "username": "El_Moctezuma",
+      "x": "11412",
+      "y": "6724",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 6,
+        "Strength": 9,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1316,7 +1347,19 @@
       "chat_type": "General",
       "author": "exoticbutter",
       "text": "oh no i am kill"
+    },
+    {
+      "timestamp": "24-12-25 19:09:48.767",
+      "chat_type": "Local",
+      "author": "El_Moctezuma",
+      "text": "Hi"
+    },
+    {
+      "timestamp": "24-12-25 19:09:48.767",
+      "chat_type": "Local",
+      "author": "El_Moctezuma",
+      "text": "Hi"
     }
   ],
-  "timestamp": "2025-12-24T19:05:01.706522"
+  "timestamp": "2025-12-24T19:10:02.044416"
 }
