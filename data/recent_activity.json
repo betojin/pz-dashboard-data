@@ -147,18 +147,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "24-12-25 02:31:49.127",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "7756",
-      "y": "11887",
-      "z": "0",
-      "hours_survived": 182,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "4"
-    },
-    {
       "timestamp": "24-12-25 02:37:09.230",
       "steam_id": "76561198065774641",
       "username": "admin",
@@ -1203,6 +1191,16 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "1"
+    },
+    {
+      "timestamp": "24-12-25 06:54:57.113",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "x": "12319",
+      "y": "1366",
+      "z": "0",
+      "hours_survived": 50,
+      "event_type": "died"
     }
   ],
   "chat_messages": [
@@ -1217,7 +1215,19 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "24-12-25 06:53:44.925",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "24-12-25 06:53:44.925",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-24T06:50:02.029268"
+  "timestamp": "2025-12-24T06:55:01.320663"
 }
