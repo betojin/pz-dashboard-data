@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 03:30:05.704",
-      "steam_id": "76561198150738241",
-      "username": "Charlie",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "24-12-25 03:30:10.969",
       "steam_id": "76561198150738241",
       "username": "Charlie",
@@ -353,56 +347,18 @@
       "x": "10703",
       "y": "9549",
       "z": "1"
+    },
+    {
+      "timestamp": "24-12-25 05:49:14.132",
+      "steam_id": "76561198084682353",
+      "username": "Kersene",
+      "action": "disconnected",
+      "x": "5986",
+      "y": "5399",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 01:01:02.320",
-      "steam_id": "76561198150738241",
-      "username": "Charlie",
-      "x": "10803",
-      "y": "10073",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 1,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 1,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "24-12-25 01:01:58.027",
       "steam_id": "76561198368197161",
@@ -1345,6 +1301,16 @@
         "Butchering": 1,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "24-12-25 05:48:38.506",
+      "steam_id": "76561198084682353",
+      "username": "Kersene",
+      "x": "5986",
+      "y": "5399",
+      "z": "0",
+      "hours_survived": 17,
+      "event_type": "died"
     }
   ],
   "chat_messages": [
@@ -1649,5 +1615,5 @@
       "text": "hey"
     }
   ],
-  "timestamp": "2025-12-24T05:45:01.288778"
+  "timestamp": "2025-12-24T05:50:01.788833"
 }
