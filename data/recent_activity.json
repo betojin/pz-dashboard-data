@@ -1,39 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 06:43:38.271",
-      "steam_id": "76561199124650748",
-      "username": "GameItOut",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "24-12-25 06:43:51.297",
-      "steam_id": "76561199124650748",
-      "username": "GameItOut",
-      "action": "fully connected",
-      "x": "11494",
-      "y": "6702",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 06:45:46.170",
-      "steam_id": "76561199124650748",
-      "username": "GameItOut",
-      "action": "disconnected",
-      "x": "11516",
-      "y": "6753",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 06:57:47.548",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "disconnected",
-      "x": "12319",
-      "y": "1366",
-      "z": "0"
-    },
-    {
       "timestamp": "24-12-25 06:57:49.487",
       "steam_id": "76561199510927772",
       "username": "ExpiredMayo",
@@ -383,56 +350,36 @@
       "x": "10951",
       "y": "9490",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 18:50:22.360",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 18:50:22.361",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 18:50:34.187",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 18:50:55.337",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "fully connected",
+      "x": "10662",
+      "y": "9569",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 05:03:34.040",
-      "steam_id": "76561198084682353",
-      "username": "Kersene",
-      "x": "5779",
-      "y": "5358",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 2,
-        "Fitness": 4,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
-        "Woodwork": 1,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 1,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "24-12-25 05:48:38.506",
       "steam_id": "76561198084682353",
@@ -1215,6 +1162,53 @@
       "z": "0",
       "hours_survived": 0,
       "event_type": "created"
+    },
+    {
+      "timestamp": "24-12-25 18:50:55.899",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10662",
+      "y": "9569",
+      "z": "0",
+      "hours_survived": 760,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 4,
+        "Fitness": 10,
+        "Strength": 9,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 4,
+        "Sneak": 0,
+        "Woodwork": 5,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 2,
+        "Fishing": 2,
+        "Trapping": 1,
+        "PlantScavenging": 3,
+        "Doctor": 0,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 2,
+        "Spear": 1,
+        "Maintenance": 3,
+        "SmallBlade": 0,
+        "LongBlade": 1,
+        "SmallBlunt": 3,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 6,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1327,5 +1321,5 @@
       "text": "oh no i am kill"
     }
   ],
-  "timestamp": "2025-12-24T18:50:01.612343"
+  "timestamp": "2025-12-24T18:55:01.914394"
 }
