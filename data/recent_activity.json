@@ -363,63 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "24-12-25 07:22:51.886",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12068",
-      "y": "2455",
-      "z": "0",
-      "hours_survived": 59,
-      "event_type": "died"
-    },
-    {
-      "timestamp": "24-12-25 07:26:59.769",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12025",
-      "y": "2592",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 10,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 1,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "24-12-25 07:52:53.888",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -1341,6 +1284,30 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "24-12-25 22:42:59.301",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "2062",
+      "y": "5837",
+      "z": "0",
+      "hours_survived": 258,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "3"
+    },
+    {
+      "timestamp": "24-12-25 22:44:53.798",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "2069",
+      "y": "5821",
+      "z": "0",
+      "hours_survived": 258,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1645,5 +1612,5 @@
       "text": "thanks, take care down here"
     }
   ],
-  "timestamp": "2025-12-24T22:40:01.668729"
+  "timestamp": "2025-12-24T22:45:01.960413"
 }
