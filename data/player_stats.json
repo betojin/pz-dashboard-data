@@ -1489,7 +1489,7 @@
     "Charlie": {
       "username": "Charlie",
       "steam_id": "76561198150738241",
-      "total_hours": 102,
+      "total_hours": 109,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1514,7 +1514,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -1543,9 +1543,14 @@
           "skill": "PlantScavenging",
           "level": "4",
           "timestamp": "24-12-25 04:55:11.400"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "24-12-25 23:39:32.774"
         }
       ],
-      "last_seen": "24-12-25 23:20:41.082",
+      "last_seen": "24-12-25 23:39:32.774",
       "connections": 1
     },
     "Boba": {
@@ -1979,5 +1984,5 @@
     }
   },
   "total_players": 26,
-  "timestamp": "2025-12-24T23:35:02.006413"
+  "timestamp": "2025-12-24T23:40:01.299988"
 }

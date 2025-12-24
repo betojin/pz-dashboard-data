@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 19:08:32.281",
-      "steam_id": "76561199484692543",
-      "username": "El_Moctezuma",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "24-12-25 19:08:37.801",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -362,56 +356,18 @@
       "x": "2076",
       "y": "5800",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 23:38:26.649",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "disconnected",
+      "x": "10663",
+      "y": "9569",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 13:39:04.372",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5375",
-      "y": "6322",
-      "z": "0",
-      "hours_survived": 188,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 7,
-        "Blunt": 2,
-        "Axe": 1,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 2,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 2,
-        "Reloading": 2,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "24-12-25 13:51:36.488",
       "steam_id": "76561198044597580",
@@ -1311,21 +1267,21 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "6"
+    },
+    {
+      "timestamp": "24-12-25 23:39:32.774",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "x": "10972",
+      "y": "9681",
+      "z": "0",
+      "hours_survived": 109,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "2"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "24-12-25 23:26:13.099",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im leaving over to my mothers house soon for diiinner"
-    },
-    {
-      "timestamp": "24-12-25 23:26:13.099",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im leaving over to my mothers house soon for diiinner"
-    },
     {
       "timestamp": "24-12-25 23:26:33.744",
       "chat_type": "General",
@@ -1613,7 +1569,19 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "even with my gen and house lights on, the inside of my house is still fog grey"
+    },
+    {
+      "timestamp": "24-12-25 23:38:21.963",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "alr, i need to log. ill spend a touch few mor minutes online if i finish getting ready early enough"
+    },
+    {
+      "timestamp": "24-12-25 23:38:21.963",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "alr, i need to log. ill spend a touch few mor minutes online if i finish getting ready early enough"
     }
   ],
-  "timestamp": "2025-12-24T23:35:02.027540"
+  "timestamp": "2025-12-24T23:40:01.320203"
 }
