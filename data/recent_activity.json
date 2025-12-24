@@ -1,39 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-12-25 22:48:31.208",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-12-25 22:49:37.469",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "fully connected",
-      "x": "5717",
-      "y": "5729",
-      "z": "-1"
-    },
-    {
-      "timestamp": "23-12-25 23:48:34.951",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-12-25 23:48:34.951",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "23-12-25 23:48:46.792",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "23-12-25 23:51:08.797",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -350,21 +317,45 @@
       "x": "10883",
       "y": "10159",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 02:57:14.690",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "disconnected",
+      "x": "11725",
+      "y": "6748",
+      "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 02:58:01.798",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 02:58:01.799",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 02:58:09.531",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 02:58:43.409",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "action": "fully connected",
+      "x": "11725",
+      "y": "6748",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 20:40:32.653",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10790",
-      "y": "10298",
-      "z": "0",
-      "hours_survived": 636,
-      "event_type": "level_up",
-      "skill": "Spear",
-      "level": "1"
-    },
     {
       "timestamp": "23-12-25 20:44:49.719",
       "steam_id": "76561199229230518",
@@ -1237,117 +1228,56 @@
       "event_type": "level_up",
       "skill": "LongBlade",
       "level": "1"
+    },
+    {
+      "timestamp": "24-12-25 02:58:43.748",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "x": "11725",
+      "y": "6748",
+      "z": "0",
+      "hours_survived": 187,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 4,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 2,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 2,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 1,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "24-12-25 02:18:25.801",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Dope"
-    },
-    {
-      "timestamp": "24-12-25 02:18:25.801",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Dope"
-    },
-    {
-      "timestamp": "24-12-25 02:18:35.216",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "I thought so but asking never hurts"
-    },
-    {
-      "timestamp": "24-12-25 02:18:35.216",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "I thought so but asking never hurts"
-    },
-    {
-      "timestamp": "24-12-25 02:18:40.759",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "loot still respawns after player moves furniture or brake window"
-    },
-    {
-      "timestamp": "24-12-25 02:18:40.759",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "loot still respawns after player moves furniture or brake window"
-    },
-    {
-      "timestamp": "24-12-25 02:19:13.504",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "i can check that later and give you more details later"
-    },
-    {
-      "timestamp": "24-12-25 02:19:13.505",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "i can check that later and give you more details later"
-    },
-    {
-      "timestamp": "24-12-25 02:19:27.176",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "default should be 2 weeks in game days?"
-    },
-    {
-      "timestamp": "24-12-25 02:19:27.176",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "default should be 2 weeks in game days?"
-    },
-    {
-      "timestamp": "24-12-25 02:19:50.556",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "ah okay"
-    },
-    {
-      "timestamp": "24-12-25 02:19:50.556",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "ah okay"
-    },
-    {
-      "timestamp": "24-12-25 02:25:19.729",
-      "chat_type": "General",
-      "author": "half",
-      "text": "how does the composter work now?"
-    },
-    {
-      "timestamp": "24-12-25 02:25:19.729",
-      "chat_type": "General",
-      "author": "half",
-      "text": "how does the composter work now?"
-    },
-    {
-      "timestamp": "24-12-25 02:25:38.572",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "same as before, except if you keep it indoors you can grow worms in winter"
-    },
-    {
-      "timestamp": "24-12-25 02:25:38.572",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "same as before, except if you keep it indoors you can grow worms in winter"
-    },
-    {
-      "timestamp": "24-12-25 02:26:06.328",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "it should show admins a countdown before loot respawn imo"
-    },
-    {
-      "timestamp": "24-12-25 02:26:06.328",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "it should show admins a countdown before loot respawn imo"
-    },
     {
       "timestamp": "24-12-25 02:28:04.115",
       "chat_type": "General",
@@ -1539,7 +1469,115 @@
       "chat_type": "Local",
       "author": "Charlie",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "24-12-25 02:55:08.367",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "taat"
+    },
+    {
+      "timestamp": "24-12-25 02:55:08.367",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "taat"
+    },
+    {
+      "timestamp": "24-12-25 02:55:10.054",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "fire did you loot the store next to our base"
+    },
+    {
+      "timestamp": "24-12-25 02:55:10.054",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "fire did you loot the store next to our base"
+    },
+    {
+      "timestamp": "24-12-25 02:55:15.805",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yes"
+    },
+    {
+      "timestamp": "24-12-25 02:55:15.805",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yes"
+    },
+    {
+      "timestamp": "24-12-25 02:55:19.829",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Wuh, I was typing while chat was closed? Thats fun"
+    },
+    {
+      "timestamp": "24-12-25 02:55:19.829",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Wuh, I was typing while chat was closed? Thats fun"
+    },
+    {
+      "timestamp": "24-12-25 02:55:20.142",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "ok thanks"
+    },
+    {
+      "timestamp": "24-12-25 02:55:20.143",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "ok thanks"
+    },
+    {
+      "timestamp": "24-12-25 02:55:25.385",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "That shit could get me killed"
+    },
+    {
+      "timestamp": "24-12-25 02:55:25.385",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "That shit could get me killed"
+    },
+    {
+      "timestamp": "24-12-25 02:57:13.119",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Lemme re-log"
+    },
+    {
+      "timestamp": "24-12-25 02:57:13.119",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Lemme re-log"
+    },
+    {
+      "timestamp": "24-12-25 02:58:59.719",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Dope, re-logging fixed washing machine"
+    },
+    {
+      "timestamp": "24-12-25 02:58:59.719",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Dope, re-logging fixed washing machine"
+    },
+    {
+      "timestamp": "24-12-25 02:59:02.876",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "I HAVE PLUMBING!"
+    },
+    {
+      "timestamp": "24-12-25 02:59:02.876",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "I HAVE PLUMBING!"
     }
   ],
-  "timestamp": "2025-12-24T02:55:02.041231"
+  "timestamp": "2025-12-24T03:00:01.342903"
 }
