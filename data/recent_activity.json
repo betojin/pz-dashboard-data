@@ -1,39 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 19:08:37.801",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "24-12-25 19:09:22.368",
-      "steam_id": "76561199484692543",
-      "username": "El_Moctezuma",
-      "action": "fully connected",
-      "x": "11412",
-      "y": "6724",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 19:10:20.085",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "fully connected",
-      "x": "10688",
-      "y": "9842",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 19:11:40.352",
-      "steam_id": "76561199484692543",
-      "username": "El_Moctezuma",
-      "action": "disconnected",
-      "x": "11393",
-      "y": "6734",
-      "z": "0"
-    },
-    {
       "timestamp": "24-12-25 19:13:36.992",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -365,21 +332,36 @@
       "x": "10663",
       "y": "9569",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 23:41:27.495",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 23:41:27.496",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 23:41:42.269",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 23:42:38.313",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "fully connected",
+      "x": "10707",
+      "y": "9815",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 13:51:36.488",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "4236",
-      "y": "6068",
-      "z": "0",
-      "hours_survived": 193,
-      "event_type": "level_up",
-      "skill": "Nimble",
-      "level": "3"
-    },
     {
       "timestamp": "24-12-25 14:42:06.933",
       "steam_id": "76561198044597580",
@@ -1279,21 +1261,56 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "2"
+    },
+    {
+      "timestamp": "24-12-25 23:42:43.497",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "10707",
+      "y": "9815",
+      "z": "0",
+      "hours_survived": 12,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 7,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 4,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "24-12-25 23:26:33.744",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i made a poke stick"
-    },
-    {
-      "timestamp": "24-12-25 23:26:33.745",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i made a poke stick"
-    },
     {
       "timestamp": "24-12-25 23:26:45.282",
       "chat_type": "General",
@@ -1581,7 +1598,19 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "alr, i need to log. ill spend a touch few mor minutes online if i finish getting ready early enough"
+    },
+    {
+      "timestamp": "24-12-25 23:43:08.608",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "golly the zombies are easy"
+    },
+    {
+      "timestamp": "24-12-25 23:43:08.608",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "golly the zombies are easy"
     }
   ],
-  "timestamp": "2025-12-24T23:40:01.320203"
+  "timestamp": "2025-12-24T23:45:01.622665"
 }
