@@ -60,7 +60,7 @@
     "admin": {
       "username": "admin",
       "steam_id": "76561198065774641",
-      "total_hours": 13,
+      "total_hours": 19,
       "deaths": 0,
       "skills": {
         "Cooking": 2,
@@ -100,9 +100,10 @@
         "Glassmaking": 0
       },
       "level_ups": [],
-      "last_seen": "21-12-25 03:41:48.852",
+      "last_seen": "24-12-25 02:37:09.230",
+      "connections": 1,
       "role_id": 7,
-      "last_connection_db": "2025-12-21 03:41:19"
+      "last_connection_db": "2025-12-24 02:36:42"
     },
     "Sully": {
       "username": "Sully",
@@ -1146,7 +1147,7 @@
     "Pabstlite": {
       "username": "Pabstlite",
       "steam_id": "76561198419791953",
-      "total_hours": 145,
+      "total_hours": 180,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1158,7 +1159,7 @@
         "Nimble": 0,
         "Sprinting": 1,
         "Sneak": 0,
-        "Woodwork": 3,
+        "Woodwork": 4,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -1205,9 +1206,14 @@
           "skill": "SmallBlunt",
           "level": "2",
           "timestamp": "24-12-25 01:12:29.714"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "4",
+          "timestamp": "24-12-25 02:39:19.343"
         }
       ],
-      "last_seen": "24-12-25 01:12:29.714",
+      "last_seen": "24-12-25 02:39:19.343",
       "connections": 2
     },
     "Jacko": {
@@ -1467,5 +1473,5 @@
     }
   },
   "total_players": 17,
-  "timestamp": "2025-12-24T02:35:01.451629"
+  "timestamp": "2025-12-24T02:40:01.980363"
 }
