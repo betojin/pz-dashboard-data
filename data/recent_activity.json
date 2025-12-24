@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 08:10:32.247",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "disconnected",
-      "x": "12021",
-      "y": "2596",
-      "z": "1"
-    },
-    {
       "timestamp": "24-12-25 08:30:21.615",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -367,6 +358,15 @@
       "action": "disconnected",
       "x": "10707",
       "y": "9815",
+      "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 19:22:15.832",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "disconnected",
+      "x": "10659",
+      "y": "9567",
       "z": "0"
     }
   ],
@@ -1408,7 +1408,31 @@
       "chat_type": "General",
       "author": "exoticbutter",
       "text": "gtg"
+    },
+    {
+      "timestamp": "24-12-25 19:22:08.220",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "ill be back"
+    },
+    {
+      "timestamp": "24-12-25 19:22:08.220",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "ill be back"
+    },
+    {
+      "timestamp": "24-12-25 19:22:13.733",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ill be back"
+    },
+    {
+      "timestamp": "24-12-25 19:22:13.733",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ill be back"
     }
   ],
-  "timestamp": "2025-12-24T19:20:01.690867"
+  "timestamp": "2025-12-24T19:25:02.027679"
 }
