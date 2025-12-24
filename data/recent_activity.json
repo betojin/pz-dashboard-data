@@ -305,21 +305,36 @@
       "x": "10834",
       "y": "9489",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 04:46:32.771",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 04:46:32.771",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 04:46:41.043",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 04:46:54.857",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "fully connected",
+      "x": "10834",
+      "y": "9489",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 00:31:04.608",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 665,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "5"
-    },
     {
       "timestamp": "24-12-25 00:46:02.066",
       "steam_id": "76561199251232344",
@@ -1297,70 +1312,57 @@
       "event_type": "level_up",
       "skill": "PlantScavenging",
       "level": "3"
+    },
+    {
+      "timestamp": "24-12-25 04:46:55.619",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "10834",
+      "y": "9489",
+      "z": "0",
+      "hours_survived": 1,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "24-12-25 03:35:28.947",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Huh, box a nails dissapeared"
-    },
-    {
-      "timestamp": "24-12-25 03:35:28.948",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Huh, box a nails dissapeared"
-    },
-    {
-      "timestamp": "24-12-25 03:35:38.618",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "yeah my loot despawned too"
-    },
-    {
-      "timestamp": "24-12-25 03:35:38.618",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "yeah my loot despawned too"
-    },
-    {
-      "timestamp": "24-12-25 03:36:05.181",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Lucky me it was only that box"
-    },
-    {
-      "timestamp": "24-12-25 03:36:05.181",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Lucky me it was only that box"
-    },
-    {
-      "timestamp": "24-12-25 03:36:54.288",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Unlucky me, that was my last box"
-    },
-    {
-      "timestamp": "24-12-25 03:36:54.288",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Unlucky me, that was my last box"
-    },
-    {
-      "timestamp": "24-12-25 03:38:06.820",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "shit happens tm"
-    },
-    {
-      "timestamp": "24-12-25 03:38:06.820",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "shit happens tm"
-    },
-    {
       "timestamp": "24-12-25 03:45:12.700",
       "chat_type": "General",
       "author": "Charlie",
@@ -1599,7 +1601,67 @@
       "chat_type": "General",
       "author": "Charlie",
       "text": "see ye"
+    },
+    {
+      "timestamp": "24-12-25 04:48:12.004",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "hey charlie do you have a generator?"
+    },
+    {
+      "timestamp": "24-12-25 04:48:12.004",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "hey charlie do you have a generator?"
+    },
+    {
+      "timestamp": "24-12-25 04:48:21.348",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "that we can hook up to gas station for a second?"
+    },
+    {
+      "timestamp": "24-12-25 04:48:21.348",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "that we can hook up to gas station for a second?"
+    },
+    {
+      "timestamp": "24-12-25 04:48:27.204",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "no"
+    },
+    {
+      "timestamp": "24-12-25 04:48:27.205",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "no"
+    },
+    {
+      "timestamp": "24-12-25 04:48:33.170",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "im sorry i have no genny"
+    },
+    {
+      "timestamp": "24-12-25 04:48:33.171",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "im sorry i have no genny"
+    },
+    {
+      "timestamp": "24-12-25 04:49:08.301",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "a fresh spawned in mul btw but i think theres nothing in the area for him to loot. I kinda already looted"
+    },
+    {
+      "timestamp": "24-12-25 04:49:08.302",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "a fresh spawned in mul btw but i think theres nothing in the area for him to loot. I kinda already looted"
     }
   ],
-  "timestamp": "2025-12-24T04:45:01.403627"
+  "timestamp": "2025-12-24T04:50:01.690449"
 }
