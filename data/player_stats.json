@@ -54,8 +54,8 @@
           "timestamp": "23-12-25 04:48:48.017"
         }
       ],
-      "last_seen": "24-12-25 04:29:40.652",
-      "connections": 1
+      "last_seen": "24-12-25 04:41:22.668",
+      "connections": 2
     },
     "admin": {
       "username": "admin",
@@ -1429,7 +1429,7 @@
     "Charlie": {
       "username": "Charlie",
       "steam_id": "76561198150738241",
-      "total_hours": 79,
+      "total_hours": 85,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1447,7 +1447,7 @@
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
-        "PlantScavenging": 2,
+        "PlantScavenging": 3,
         "Doctor": 0,
         "Electricity": 0,
         "Blacksmith": 0,
@@ -1473,15 +1473,20 @@
           "skill": "PlantScavenging",
           "level": "2",
           "timestamp": "24-12-25 03:51:12.487"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "3",
+          "timestamp": "24-12-25 04:44:11.919"
         }
       ],
-      "last_seen": "24-12-25 04:26:49.538",
+      "last_seen": "24-12-25 04:44:11.919",
       "connections": 2
     },
     "Boba": {
       "username": "Boba",
       "steam_id": "76561199317533255",
-      "total_hours": 0,
+      "total_hours": 1,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1521,8 +1526,8 @@
         "Glassmaking": 0
       },
       "level_ups": [],
-      "last_seen": "24-12-25 04:32:01.683",
-      "connections": 1
+      "last_seen": "24-12-25 04:41:21.560",
+      "connections": 2
     },
     "RottenPotato": {
       "username": "RottenPotato",
@@ -1618,5 +1623,5 @@
     }
   },
   "total_players": 20,
-  "timestamp": "2025-12-24T04:40:01.805943"
+  "timestamp": "2025-12-24T04:45:01.391202"
 }
