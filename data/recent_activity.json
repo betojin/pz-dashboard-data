@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 19:08:23.053",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "24-12-25 19:08:23.054",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -356,33 +350,18 @@
       "steam_id": "76561198150738241",
       "username": "Charlie",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 23:20:40.434",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "action": "fully connected",
+      "x": "10703",
+      "y": "9549",
+      "z": "1"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 07:52:53.888",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12234",
-      "y": "2613",
-      "z": "0",
-      "hours_survived": 12,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "2"
-    },
-    {
-      "timestamp": "24-12-25 08:06:44.485",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "12185",
-      "y": "2597",
-      "z": "0",
-      "hours_survived": 80,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "1"
-    },
     {
       "timestamp": "24-12-25 10:16:05.934",
       "steam_id": "76561198031138505",
@@ -1305,249 +1284,68 @@
       "event_type": "level_up",
       "skill": "Aiming",
       "level": "3"
+    },
+    {
+      "timestamp": "24-12-25 23:20:41.082",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "x": "10703",
+      "y": "9549",
+      "z": "1",
+      "hours_survived": 102,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 4,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 1,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "24-12-25 23:21:25.756",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "x": "12721",
+      "y": "4384",
+      "z": "0",
+      "hours_survived": 29,
+      "event_type": "level_up",
+      "skill": "Blunt",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "24-12-25 22:08:40.290",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "so far, only 1 is"
-    },
-    {
-      "timestamp": "24-12-25 22:08:40.290",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "so far, only 1 is"
-    },
-    {
-      "timestamp": "24-12-25 22:08:46.591",
-      "chat_type": "Local",
-      "author": "TwoHorndUnicorn",
-      "text": "thats a good call"
-    },
-    {
-      "timestamp": "24-12-25 22:08:46.591",
-      "chat_type": "Local",
-      "author": "TwoHorndUnicorn",
-      "text": "thats a good call"
-    },
-    {
-      "timestamp": "24-12-25 22:09:33.904",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "but cows can kill you if they get scared or upset"
-    },
-    {
-      "timestamp": "24-12-25 22:09:33.904",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "but cows can kill you if they get scared or upset"
-    },
-    {
-      "timestamp": "24-12-25 22:09:35.205",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "merryquacx boys"
-    },
-    {
-      "timestamp": "24-12-25 22:09:35.206",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "merryquacx boys"
-    },
-    {
-      "timestamp": "24-12-25 22:09:38.569",
-      "chat_type": "Local",
-      "author": "TwoHorndUnicorn",
-      "text": "oh nice."
-    },
-    {
-      "timestamp": "24-12-25 22:09:38.570",
-      "chat_type": "Local",
-      "author": "TwoHorndUnicorn",
-      "text": "oh nice."
-    },
-    {
-      "timestamp": "24-12-25 22:09:56.775",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "merry xmas 1 day early"
-    },
-    {
-      "timestamp": "24-12-25 22:09:56.775",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "merry xmas 1 day early"
-    },
-    {
-      "timestamp": "24-12-25 22:10:11.617",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "happy crimbus!"
-    },
-    {
-      "timestamp": "24-12-25 22:10:11.617",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "happy crimbus!"
-    },
-    {
-      "timestamp": "24-12-25 22:10:43.944",
-      "chat_type": "Local",
-      "author": "TwoHorndUnicorn",
-      "text": "i did, its just a struggle"
-    },
-    {
-      "timestamp": "24-12-25 22:10:43.945",
-      "chat_type": "Local",
-      "author": "TwoHorndUnicorn",
-      "text": "i did, its just a struggle"
-    },
-    {
-      "timestamp": "24-12-25 22:11:14.584",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "i need to go afk rq, ill be back in a min"
-    },
-    {
-      "timestamp": "24-12-25 22:11:14.584",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "i need to go afk rq, ill be back in a min"
-    },
-    {
-      "timestamp": "24-12-25 22:11:25.114",
-      "chat_type": "Local",
-      "author": "TwoHorndUnicorn",
-      "text": "icool, im gonna wander"
-    },
-    {
-      "timestamp": "24-12-25 22:11:25.114",
-      "chat_type": "Local",
-      "author": "TwoHorndUnicorn",
-      "text": "icool, im gonna wander"
-    },
-    {
-      "timestamp": "24-12-25 22:12:51.387",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "did you ever find knapping 1?"
-    },
-    {
-      "timestamp": "24-12-25 22:12:51.387",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "did you ever find knapping 1?"
-    },
-    {
-      "timestamp": "24-12-25 22:12:59.511",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i have not"
-    },
-    {
-      "timestamp": "24-12-25 22:12:59.511",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i have not"
-    },
-    {
-      "timestamp": "24-12-25 22:13:13.995",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "but i did manage to forage the axehead i was hoping to knapp"
-    },
-    {
-      "timestamp": "24-12-25 22:13:13.995",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "but i did manage to forage the axehead i was hoping to knapp"
-    },
-    {
-      "timestamp": "24-12-25 22:13:50.742",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "i got knapping 2 n 3"
-    },
-    {
-      "timestamp": "24-12-25 22:13:50.742",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "i got knapping 2 n 3"
-    },
-    {
-      "timestamp": "24-12-25 22:14:01.478",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i do need to log off in about 45 minutes and ill be gone prob for the rest of the night"
-    },
-    {
-      "timestamp": "24-12-25 22:14:01.478",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i do need to log off in about 45 minutes and ill be gone prob for the rest of the night"
-    },
-    {
-      "timestamp": "24-12-25 22:14:33.577",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "btw thunderstorm incoming soon"
-    },
-    {
-      "timestamp": "24-12-25 22:14:33.577",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "btw thunderstorm incoming soon"
-    },
-    {
-      "timestamp": "24-12-25 22:15:02.172",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "thats gonna be fun to drive home through"
-    },
-    {
-      "timestamp": "24-12-25 22:15:02.172",
-      "chat_type": "General",
-      "author": "TwoHorndUnicorn",
-      "text": "thats gonna be fun to drive home through"
-    },
-    {
-      "timestamp": "24-12-25 22:17:18.765",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "i need to chop a tree"
-    },
-    {
-      "timestamp": "24-12-25 22:17:18.765",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "i need to chop a tree"
-    },
-    {
-      "timestamp": "24-12-25 22:17:26.949",
-      "chat_type": "Local",
-      "author": "TwoHorndUnicorn",
-      "text": "found an rpg mag and some dice"
-    },
-    {
-      "timestamp": "24-12-25 22:17:26.949",
-      "chat_type": "Local",
-      "author": "TwoHorndUnicorn",
-      "text": "found an rpg mag and some dice"
-    },
-    {
-      "timestamp": "24-12-25 22:17:31.114",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "nice"
-    },
-    {
-      "timestamp": "24-12-25 22:17:31.114",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "nice"
-    },
     {
       "timestamp": "24-12-25 22:34:48.344",
       "chat_type": "General",
@@ -1607,7 +1405,247 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "damn i lost some zomboids with military gear"
+    },
+    {
+      "timestamp": "24-12-25 23:20:50.243",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "im backkkkkk"
+    },
+    {
+      "timestamp": "24-12-25 23:20:50.243",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "im backkkkkk"
+    },
+    {
+      "timestamp": "24-12-25 23:20:53.983",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "im ready"
+    },
+    {
+      "timestamp": "24-12-25 23:20:53.983",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "im ready"
+    },
+    {
+      "timestamp": "24-12-25 23:20:56.232",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "welcome"
+    },
+    {
+      "timestamp": "24-12-25 23:20:56.232",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "welcome"
+    },
+    {
+      "timestamp": "24-12-25 23:20:57.931",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "are you ready?"
+    },
+    {
+      "timestamp": "24-12-25 23:20:57.931",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "are you ready?"
+    },
+    {
+      "timestamp": "24-12-25 23:21:02.065",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "hey fire"
+    },
+    {
+      "timestamp": "24-12-25 23:21:02.065",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "hey fire"
+    },
+    {
+      "timestamp": "24-12-25 23:21:06.101",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "im 20 minutes away from logging off for the night"
+    },
+    {
+      "timestamp": "24-12-25 23:21:06.102",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "im 20 minutes away from logging off for the night"
+    },
+    {
+      "timestamp": "24-12-25 23:21:10.206",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "do you still want the engine parts"
+    },
+    {
+      "timestamp": "24-12-25 23:21:10.207",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "do you still want the engine parts"
+    },
+    {
+      "timestamp": "24-12-25 23:21:15.664",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "sure"
+    },
+    {
+      "timestamp": "24-12-25 23:21:15.664",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "sure"
+    },
+    {
+      "timestamp": "24-12-25 23:21:25.377",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "dude"
+    },
+    {
+      "timestamp": "24-12-25 23:21:25.377",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "dude"
+    },
+    {
+      "timestamp": "24-12-25 23:21:41.082",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i made two double quarter pounder deluxes at home with fries for christmas today"
+    },
+    {
+      "timestamp": "24-12-25 23:21:41.082",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i made two double quarter pounder deluxes at home with fries for christmas today"
+    },
+    {
+      "timestamp": "24-12-25 23:21:41.614",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "im trying to finish my chickeen coop before i log"
+    },
+    {
+      "timestamp": "24-12-25 23:21:41.614",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "im trying to finish my chickeen coop before i log"
+    },
+    {
+      "timestamp": "24-12-25 23:21:51.558",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "im so tired after finishing that"
+    },
+    {
+      "timestamp": "24-12-25 23:21:51.559",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "im so tired after finishing that"
+    },
+    {
+      "timestamp": "24-12-25 23:22:12.232",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "yeah sorry i wasnt on earlier i scraped my knee also also had to make food and go to store"
+    },
+    {
+      "timestamp": "24-12-25 23:22:12.232",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "yeah sorry i wasnt on earlier i scraped my knee also also had to make food and go to store"
+    },
+    {
+      "timestamp": "24-12-25 23:22:35.202",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "its no worries, i expect holidays to be vvery chaotic anyways"
+    },
+    {
+      "timestamp": "24-12-25 23:22:35.202",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "its no worries, i expect holidays to be vvery chaotic anyways"
+    },
+    {
+      "timestamp": "24-12-25 23:22:57.484",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "also, thunderstorm i think starts this morning"
+    },
+    {
+      "timestamp": "24-12-25 23:22:57.484",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "also, thunderstorm i think starts this morning"
+    },
+    {
+      "timestamp": "24-12-25 23:23:07.231",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "fire"
+    },
+    {
+      "timestamp": "24-12-25 23:23:07.231",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "fire"
+    },
+    {
+      "timestamp": "24-12-25 23:23:18.379",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "you want me to drop your parts at your door?"
+    },
+    {
+      "timestamp": "24-12-25 23:23:18.379",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "you want me to drop your parts at your door?"
+    },
+    {
+      "timestamp": "24-12-25 23:23:24.375",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yes, that works"
+    },
+    {
+      "timestamp": "24-12-25 23:23:24.375",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yes, that works"
+    },
+    {
+      "timestamp": "24-12-25 23:23:50.916",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "also do you think i could read your aiming book again im not sure i finished because its at 1.35x xp gain"
+    },
+    {
+      "timestamp": "24-12-25 23:23:50.916",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "also do you think i could read your aiming book again im not sure i finished because its at 1.35x xp gain"
+    },
+    {
+      "timestamp": "24-12-25 23:24:00.497",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "should be 2.7"
+    },
+    {
+      "timestamp": "24-12-25 23:24:00.497",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "should be 2.7"
     }
   ],
-  "timestamp": "2025-12-24T23:20:02.072506"
+  "timestamp": "2025-12-24T23:25:01.373536"
 }

@@ -1479,7 +1479,7 @@
     "Charlie": {
       "username": "Charlie",
       "steam_id": "76561198150738241",
-      "total_hours": 90,
+      "total_hours": 102,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1535,7 +1535,8 @@
           "timestamp": "24-12-25 04:55:11.400"
         }
       ],
-      "last_seen": "24-12-25 04:55:11.400"
+      "last_seen": "24-12-25 23:20:41.082",
+      "connections": 1
     },
     "Boba": {
       "username": "Boba",
@@ -1917,13 +1918,13 @@
     "KeenIslander": {
       "username": "KeenIslander",
       "steam_id": "76561199122629737",
-      "total_hours": 7,
+      "total_hours": 29,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
         "Fitness": 7,
         "Strength": 5,
-        "Blunt": 0,
+        "Blunt": 1,
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 0,
@@ -1956,11 +1957,17 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "24-12-25 22:28:37.009",
+      "level_ups": [
+        {
+          "skill": "Blunt",
+          "level": "1",
+          "timestamp": "24-12-25 23:21:25.756"
+        }
+      ],
+      "last_seen": "24-12-25 23:21:25.756",
       "connections": 2
     }
   },
   "total_players": 26,
-  "timestamp": "2025-12-24T23:20:02.051697"
+  "timestamp": "2025-12-24T23:25:01.352868"
 }
