@@ -1,51 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-12-25 23:51:08.797",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "disconnected",
-      "x": "5375",
-      "y": "6322",
-      "z": "0"
-    },
-    {
-      "timestamp": "23-12-25 23:55:24.362",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "fully connected",
-      "x": "10659",
-      "y": "9567",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 00:21:56.771",
-      "steam_id": "76561198419791953",
-      "username": "Pabstlite",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "24-12-25 00:21:56.772",
-      "steam_id": "76561198419791953",
-      "username": "Pabstlite",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "24-12-25 00:22:05.856",
-      "steam_id": "76561198419791953",
-      "username": "Pabstlite",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "24-12-25 00:22:53.388",
-      "steam_id": "76561198419791953",
-      "username": "Pabstlite",
-      "action": "fully connected",
-      "x": "11724",
-      "y": "6751",
-      "z": "0"
-    },
-    {
       "timestamp": "24-12-25 00:23:11.762",
       "steam_id": "76561198419791953",
       "username": "Pabstlite",
@@ -353,56 +308,54 @@
       "x": "11725",
       "y": "6748",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 03:12:18.270",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "disconnected",
+      "x": "10662",
+      "y": "9568",
+      "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 03:12:42.006",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "disconnected",
+      "x": "8125",
+      "y": "11540",
+      "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 03:13:17.208",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 03:13:17.208",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 03:13:21.295",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 03:13:30.045",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "fully connected",
+      "x": "8125",
+      "y": "11540",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 20:44:49.719",
-      "steam_id": "76561199229230518",
-      "username": "Jacko",
-      "x": "10681",
-      "y": "9545",
-      "z": "0",
-      "hours_survived": 53,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "23-12-25 21:21:53.193",
       "steam_id": "76561198014188564",
@@ -1275,189 +1228,56 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "24-12-25 03:13:30.390",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8125",
+      "y": "11540",
+      "z": "0",
+      "hours_survived": 198,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 9,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 2,
+        "Sneak": 0,
+        "Woodwork": 8,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "24-12-25 02:53:01.587",
-      "chat_type": "General",
-      "author": "half",
-      "text": "is the choke tube full or improved better i forget"
-    },
-    {
-      "timestamp": "24-12-25 02:53:01.588",
-      "chat_type": "General",
-      "author": "half",
-      "text": "is the choke tube full or improved better i forget"
-    },
-    {
-      "timestamp": "24-12-25 02:53:27.330",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "oof"
-    },
-    {
-      "timestamp": "24-12-25 02:53:27.330",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "oof"
-    },
-    {
-      "timestamp": "24-12-25 02:54:19.052",
-      "chat_type": "Local",
-      "author": "Charlie",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "24-12-25 02:54:19.052",
-      "chat_type": "Local",
-      "author": "Charlie",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "24-12-25 02:55:08.367",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "taat"
-    },
-    {
-      "timestamp": "24-12-25 02:55:08.367",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "taat"
-    },
-    {
-      "timestamp": "24-12-25 02:55:10.054",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "fire did you loot the store next to our base"
-    },
-    {
-      "timestamp": "24-12-25 02:55:10.054",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "fire did you loot the store next to our base"
-    },
-    {
-      "timestamp": "24-12-25 02:55:15.805",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yes"
-    },
-    {
-      "timestamp": "24-12-25 02:55:15.805",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yes"
-    },
-    {
-      "timestamp": "24-12-25 02:55:19.829",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Wuh, I was typing while chat was closed? Thats fun"
-    },
-    {
-      "timestamp": "24-12-25 02:55:19.829",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Wuh, I was typing while chat was closed? Thats fun"
-    },
-    {
-      "timestamp": "24-12-25 02:55:20.142",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "ok thanks"
-    },
-    {
-      "timestamp": "24-12-25 02:55:20.143",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "ok thanks"
-    },
-    {
-      "timestamp": "24-12-25 02:55:25.385",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "That shit could get me killed"
-    },
-    {
-      "timestamp": "24-12-25 02:55:25.385",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "That shit could get me killed"
-    },
-    {
-      "timestamp": "24-12-25 02:57:13.119",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Lemme re-log"
-    },
-    {
-      "timestamp": "24-12-25 02:57:13.119",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Lemme re-log"
-    },
-    {
-      "timestamp": "24-12-25 02:58:59.719",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Dope, re-logging fixed washing machine"
-    },
-    {
-      "timestamp": "24-12-25 02:58:59.719",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Dope, re-logging fixed washing machine"
-    },
-    {
-      "timestamp": "24-12-25 02:59:02.876",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "I HAVE PLUMBING!"
-    },
-    {
-      "timestamp": "24-12-25 02:59:02.876",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "I HAVE PLUMBING!"
-    },
-    {
-      "timestamp": "24-12-25 03:03:02.058",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "hows it going fire"
-    },
-    {
-      "timestamp": "24-12-25 03:03:02.058",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "hows it going fire"
-    },
-    {
-      "timestamp": "24-12-25 03:03:10.312",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im returning to base"
-    },
-    {
-      "timestamp": "24-12-25 03:03:10.312",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im returning to base"
-    },
-    {
-      "timestamp": "24-12-25 03:03:17.083",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "irl dinner is almost ready"
-    },
-    {
-      "timestamp": "24-12-25 03:03:17.083",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "irl dinner is almost ready"
-    },
     {
       "timestamp": "24-12-25 03:05:50.052",
       "chat_type": "General",
@@ -1577,7 +1397,187 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "i prob will be back on"
+    },
+    {
+      "timestamp": "24-12-25 03:10:26.907",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "damn"
+    },
+    {
+      "timestamp": "24-12-25 03:10:26.907",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "damn"
+    },
+    {
+      "timestamp": "24-12-25 03:10:32.162",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i was gonna give you something"
+    },
+    {
+      "timestamp": "24-12-25 03:10:32.162",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i was gonna give you something"
+    },
+    {
+      "timestamp": "24-12-25 03:10:40.580",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "a sledge?"
+    },
+    {
+      "timestamp": "24-12-25 03:10:40.580",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "a sledge?"
+    },
+    {
+      "timestamp": "24-12-25 03:10:44.772",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "engine parts"
+    },
+    {
+      "timestamp": "24-12-25 03:10:44.772",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "engine parts"
+    },
+    {
+      "timestamp": "24-12-25 03:10:47.996",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ah"
+    },
+    {
+      "timestamp": "24-12-25 03:10:47.996",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ah"
+    },
+    {
+      "timestamp": "24-12-25 03:11:02.885",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "well, we got the community area planned out now"
+    },
+    {
+      "timestamp": "24-12-25 03:11:02.885",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "well, we got the community area planned out now"
+    },
+    {
+      "timestamp": "24-12-25 03:11:11.881",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "nice"
+    },
+    {
+      "timestamp": "24-12-25 03:11:11.881",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "nice"
+    },
+    {
+      "timestamp": "24-12-25 03:11:19.156",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i found a shotgun too"
+    },
+    {
+      "timestamp": "24-12-25 03:11:19.156",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i found a shotgun too"
+    },
+    {
+      "timestamp": "24-12-25 03:11:24.995",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "and i will prob be back. if not tonight, tomorrow morning for sure"
+    },
+    {
+      "timestamp": "24-12-25 03:11:24.995",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "and i will prob be back. if not tonight, tomorrow morning for sure"
+    },
+    {
+      "timestamp": "24-12-25 03:11:34.918",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "ok"
+    },
+    {
+      "timestamp": "24-12-25 03:11:34.918",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "ok"
+    },
+    {
+      "timestamp": "24-12-25 03:11:46.020",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i will just leave the gift in my house when we see each other again"
+    },
+    {
+      "timestamp": "24-12-25 03:11:46.020",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i will just leave the gift in my house when we see each other again"
+    },
+    {
+      "timestamp": "24-12-25 03:11:51.153",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "merry christmas"
+    },
+    {
+      "timestamp": "24-12-25 03:11:51.153",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "merry christmas"
+    },
+    {
+      "timestamp": "24-12-25 03:11:59.871",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "alr"
+    },
+    {
+      "timestamp": "24-12-25 03:11:59.871",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "alr"
+    },
+    {
+      "timestamp": "24-12-25 03:12:12.382",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "either way, i do need to leave. i made it back to base"
+    },
+    {
+      "timestamp": "24-12-25 03:12:12.382",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "either way, i do need to leave. i made it back to base"
+    },
+    {
+      "timestamp": "24-12-25 03:13:44.946",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Have fun Fire! O/"
+    },
+    {
+      "timestamp": "24-12-25 03:13:44.946",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Have fun Fire! O/"
     }
   ],
-  "timestamp": "2025-12-24T03:10:01.278743"
+  "timestamp": "2025-12-24T03:15:01.571676"
 }
