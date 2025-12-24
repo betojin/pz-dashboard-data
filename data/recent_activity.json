@@ -1,42 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-12-25 21:22:48.768",
-      "steam_id": "76561198014188564",
-      "username": "MarySueGangster",
-      "action": "disconnected",
-      "x": "1956",
-      "y": "6413",
-      "z": "0"
-    },
-    {
-      "timestamp": "23-12-25 21:24:55.255",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-12-25 21:24:55.255",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "23-12-25 21:25:02.922",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-12-25 21:25:23.749",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "fully connected",
-      "x": "6424",
-      "y": "5283",
-      "z": "0"
-    },
-    {
       "timestamp": "23-12-25 21:53:48.318",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -353,21 +317,45 @@
       "steam_id": "76561198391686484",
       "username": "GrandArchivist",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 01:26:34.639",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 01:26:34.639",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 01:26:43.857",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 01:28:01.403",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "disconnected",
+      "x": "10614",
+      "y": "9508",
+      "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 01:28:17.156",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "fully connected",
+      "x": "10049",
+      "y": "12658",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 19:06:53.558",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "x": "11838",
-      "y": "9752",
-      "z": "0",
-      "hours_survived": 37,
-      "event_type": "level_up",
-      "skill": "SmallBlunt",
-      "level": "1"
-    },
     {
       "timestamp": "23-12-25 19:26:09.656",
       "steam_id": "76561198031138505",
@@ -1205,213 +1193,56 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "1"
+    },
+    {
+      "timestamp": "24-12-25 01:28:17.848",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "10049",
+      "y": "12658",
+      "z": "0",
+      "hours_survived": 19,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 1,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 3,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 2,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "24-12-25 01:16:07.293",
-      "chat_type": "General",
-      "author": "half",
-      "text": "nice run fire"
-    },
-    {
-      "timestamp": "24-12-25 01:16:07.293",
-      "chat_type": "General",
-      "author": "half",
-      "text": "nice run fire"
-    },
-    {
-      "timestamp": "24-12-25 01:16:13.082",
-      "chat_type": "General",
-      "author": "half",
-      "text": "good workout"
-    },
-    {
-      "timestamp": "24-12-25 01:16:13.083",
-      "chat_type": "General",
-      "author": "half",
-      "text": "good workout"
-    },
-    {
-      "timestamp": "24-12-25 01:16:32.285",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "gen mag in your glovebox"
-    },
-    {
-      "timestamp": "24-12-25 01:16:32.285",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "gen mag in your glovebox"
-    },
-    {
-      "timestamp": "24-12-25 01:17:17.414",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "btw, half is not acting like his normal self tonight, i wonder if he took meds or something?"
-    },
-    {
-      "timestamp": "24-12-25 01:17:17.414",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "btw, half is not acting like his normal self tonight, i wonder if he took meds or something?"
-    },
-    {
-      "timestamp": "24-12-25 01:18:08.000",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "half and i were in our own apartment when everyone else was in the big apartment"
-    },
-    {
-      "timestamp": "24-12-25 01:18:08.001",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "half and i were in our own apartment when everyone else was in the big apartment"
-    },
-    {
-      "timestamp": "24-12-25 01:18:26.145",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "nice, it has sirens"
-    },
-    {
-      "timestamp": "24-12-25 01:18:26.145",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "nice, it has sirens"
-    },
-    {
-      "timestamp": "24-12-25 01:18:47.904",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "half im driving on the right lane"
-    },
-    {
-      "timestamp": "24-12-25 01:18:47.904",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "half im driving on the right lane"
-    },
-    {
-      "timestamp": "24-12-25 01:18:48.897",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "battery is 0"
-    },
-    {
-      "timestamp": "24-12-25 01:18:48.897",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "battery is 0"
-    },
-    {
-      "timestamp": "24-12-25 01:19:10.431",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "thats why i tell you"
-    },
-    {
-      "timestamp": "24-12-25 01:19:10.431",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "thats why i tell you"
-    },
-    {
-      "timestamp": "24-12-25 01:19:15.868",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "stay on the CORRECT AMERICAN lane"
-    },
-    {
-      "timestamp": "24-12-25 01:19:15.868",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "stay on the CORRECT AMERICAN lane"
-    },
-    {
-      "timestamp": "24-12-25 01:19:20.315",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "random mattress in the woods"
-    },
-    {
-      "timestamp": "24-12-25 01:19:20.315",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "random mattress in the woods"
-    },
-    {
-      "timestamp": "24-12-25 01:19:21.329",
-      "chat_type": "General",
-      "author": "half",
-      "text": "your lwft"
-    },
-    {
-      "timestamp": "24-12-25 01:19:21.330",
-      "chat_type": "General",
-      "author": "half",
-      "text": "your lwft"
-    },
-    {
-      "timestamp": "24-12-25 01:19:29.156",
-      "chat_type": "General",
-      "author": "half",
-      "text": "wait"
-    },
-    {
-      "timestamp": "24-12-25 01:19:29.156",
-      "chat_type": "General",
-      "author": "half",
-      "text": "wait"
-    },
-    {
-      "timestamp": "24-12-25 01:19:33.567",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "i was driving on the right side of the right lane"
-    },
-    {
-      "timestamp": "24-12-25 01:19:33.567",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "i was driving on the right side of the right lane"
-    },
-    {
-      "timestamp": "24-12-25 01:19:51.620",
-      "chat_type": "General",
-      "author": "half",
-      "text": "well my scrren its the left labne"
-    },
-    {
-      "timestamp": "24-12-25 01:19:51.620",
-      "chat_type": "General",
-      "author": "half",
-      "text": "well my scrren its the left labne"
-    },
-    {
-      "timestamp": "24-12-25 01:20:14.016",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "heavy duty"
-    },
-    {
-      "timestamp": "24-12-25 01:20:14.016",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "heavy duty"
-    },
-    {
-      "timestamp": "24-12-25 01:21:50.848",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "there wont be many left on this server unless loot respawns"
-    },
-    {
-      "timestamp": "24-12-25 01:21:50.848",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "there wont be many left on this server unless loot respawns"
-    },
     {
       "timestamp": "24-12-25 01:22:11.218",
       "chat_type": "General",
@@ -1507,7 +1338,211 @@
       "chat_type": "General",
       "author": "Charlie",
       "text": "theres a strip club on the way to lv near wp"
+    },
+    {
+      "timestamp": "24-12-25 01:25:02.023",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "you might find it there"
+    },
+    {
+      "timestamp": "24-12-25 01:25:02.023",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "you might find it there"
+    },
+    {
+      "timestamp": "24-12-25 01:25:07.908",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Joey Fantana appreciates the generosity his friends in Muldraugh have shown him and hopes to continue this partnership in hte near future"
+    },
+    {
+      "timestamp": "24-12-25 01:25:07.908",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Joey Fantana appreciates the generosity his friends in Muldraugh have shown him and hopes to continue this partnership in hte near future"
+    },
+    {
+      "timestamp": "24-12-25 01:26:08.675",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Joey Fantana will check it out"
+    },
+    {
+      "timestamp": "24-12-25 01:26:08.675",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Joey Fantana will check it out"
+    },
+    {
+      "timestamp": "24-12-25 01:26:48.167",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "i did need to get gas"
+    },
+    {
+      "timestamp": "24-12-25 01:26:48.167",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "i did need to get gas"
+    },
+    {
+      "timestamp": "24-12-25 01:27:03.195",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "96.0?"
+    },
+    {
+      "timestamp": "24-12-25 01:27:03.195",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "96.0?"
+    },
+    {
+      "timestamp": "24-12-25 01:27:19.049",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "err i mean tt he personal"
+    },
+    {
+      "timestamp": "24-12-25 01:27:19.049",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "err i mean tt he personal"
+    },
+    {
+      "timestamp": "24-12-25 01:27:28.642",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "90.0"
+    },
+    {
+      "timestamp": "24-12-25 01:27:28.643",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "90.0"
+    },
+    {
+      "timestamp": "24-12-25 01:27:54.405",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "hope it works without voice"
+    },
+    {
+      "timestamp": "24-12-25 01:27:54.405",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "hope it works without voice"
+    },
+    {
+      "timestamp": "24-12-25 01:28:12.060",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "alr"
+    },
+    {
+      "timestamp": "24-12-25 01:28:12.060",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "alr"
+    },
+    {
+      "timestamp": "24-12-25 01:28:22.100",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "i do plan on putting a ham or military radio inside my base"
+    },
+    {
+      "timestamp": "24-12-25 01:28:22.100",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "i do plan on putting a ham or military radio inside my base"
+    },
+    {
+      "timestamp": "24-12-25 01:28:35.921",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "IM BRING BACK THE CAR"
+    },
+    {
+      "timestamp": "24-12-25 01:28:35.921",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "IM BRING BACK THE CAR"
+    },
+    {
+      "timestamp": "24-12-25 01:28:44.331",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "oh now lol"
+    },
+    {
+      "timestamp": "24-12-25 01:28:44.331",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "oh now lol"
+    },
+    {
+      "timestamp": "24-12-25 01:29:00.130",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "Its been a FAR MINUTE"
+    },
+    {
+      "timestamp": "24-12-25 01:29:00.130",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "Its been a FAR MINUTE"
+    },
+    {
+      "timestamp": "24-12-25 01:29:02.457",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "i think beto took my car last night"
+    },
+    {
+      "timestamp": "24-12-25 01:29:02.457",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "i think beto took my car last night"
+    },
+    {
+      "timestamp": "24-12-25 01:29:04.738",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "FAT*"
+    },
+    {
+      "timestamp": "24-12-25 01:29:04.738",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "FAT*"
+    },
+    {
+      "timestamp": "24-12-25 01:29:14.303",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "do you want a carving II book fire"
+    },
+    {
+      "timestamp": "24-12-25 01:29:14.303",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "do you want a carving II book fire"
+    },
+    {
+      "timestamp": "24-12-25 01:29:28.967",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i found 2 and 3, i need 4 and 5 now"
+    },
+    {
+      "timestamp": "24-12-25 01:29:28.967",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i found 2 and 3, i need 4 and 5 now"
     }
   ],
-  "timestamp": "2025-12-24T01:25:01.860351"
+  "timestamp": "2025-12-24T01:30:01.168030"
 }
