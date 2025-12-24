@@ -237,53 +237,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "24-12-25 03:30:19.248",
-      "steam_id": "76561198150738241",
-      "username": "Charlie",
-      "x": "10787",
-      "y": "9510",
-      "z": "0",
-      "hours_survived": 57,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 1,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 1,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "24-12-25 03:51:12.487",
       "steam_id": "76561198150738241",
       "username": "Charlie",
@@ -1213,6 +1166,18 @@
       "event_type": "level_up",
       "skill": "Axe",
       "level": "2"
+    },
+    {
+      "timestamp": "24-12-25 08:06:44.485",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "12185",
+      "y": "2597",
+      "z": "0",
+      "hours_survived": 80,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1253,5 +1218,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-24T08:05:01.674999"
+  "timestamp": "2025-12-24T08:10:02.062308"
 }

@@ -1499,7 +1499,7 @@
     "Boba": {
       "username": "Boba",
       "steam_id": "76561199317533255",
-      "total_hours": 45,
+      "total_hours": 80,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1509,7 +1509,7 @@
         "Axe": 0,
         "Lightfoot": 2,
         "Nimble": 2,
-        "Sprinting": 0,
+        "Sprinting": 1,
         "Sneak": 2,
         "Woodwork": 0,
         "Aiming": 0,
@@ -1543,9 +1543,14 @@
           "skill": "Blunt",
           "level": "1",
           "timestamp": "24-12-25 06:39:11.610"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "24-12-25 08:06:44.485"
         }
       ],
-      "last_seen": "24-12-25 06:39:11.610",
+      "last_seen": "24-12-25 08:06:44.485",
       "connections": 1
     },
     "RottenPotato": {
@@ -1778,5 +1783,5 @@
     }
   },
   "total_players": 23,
-  "timestamp": "2025-12-24T08:05:01.660520"
+  "timestamp": "2025-12-24T08:10:02.048065"
 }
