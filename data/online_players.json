@@ -1,15 +1,24 @@
 {
-  "count": 1,
+  "count": 2,
   "players": [
     {
-      "username": "Pabstlite",
-      "steam_id": "76561198419791953",
-      "connected_at": "24-12-25 03:28:21.005",
-      "x": 11731,
-      "y": 6748,
+      "username": "Charlie",
+      "steam_id": "76561198150738241",
+      "connected_at": "24-12-25 04:26:49.258",
+      "x": 10703,
+      "y": 9550,
+      "z": 0,
+      "online": true
+    },
+    {
+      "username": "BetoJin",
+      "steam_id": "76561198065774641",
+      "connected_at": "24-12-25 04:29:40.180",
+      "x": 10824,
+      "y": 9067,
       "z": 0,
       "online": true
     }
   ],
-  "timestamp": "2025-12-24T04:25:01.907914"
+  "timestamp": "2025-12-24T04:30:01.209563"
 }
