@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-12-25 21:20:44.285",
-      "steam_id": "76561198014188564",
-      "username": "MarySueGangster",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-12-25 21:21:49.484",
-      "steam_id": "76561198014188564",
-      "username": "MarySueGangster",
-      "action": "fully connected",
-      "x": "1940",
-      "y": "6403",
-      "z": "0"
-    },
-    {
       "timestamp": "23-12-25 21:22:48.768",
       "steam_id": "76561198014188564",
       "username": "MarySueGangster",
@@ -356,6 +341,18 @@
       "x": "10803",
       "y": "10073",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 01:15:27.438",
+      "steam_id": "76561198391686484",
+      "username": "GrandArchivist",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 01:15:27.439",
+      "steam_id": "76561198391686484",
+      "username": "GrandArchivist",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -1212,186 +1209,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "24-12-25 01:06:10.577",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yes"
-    },
-    {
-      "timestamp": "24-12-25 01:06:10.577",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yes"
-    },
-    {
-      "timestamp": "24-12-25 01:06:12.440",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "fuuck"
-    },
-    {
-      "timestamp": "24-12-25 01:06:12.440",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "fuuck"
-    },
-    {
-      "timestamp": "24-12-25 01:06:16.379",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "not bob"
-    },
-    {
-      "timestamp": "24-12-25 01:06:16.379",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "not bob"
-    },
-    {
-      "timestamp": "24-12-25 01:06:37.074",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "thats a good spot"
-    },
-    {
-      "timestamp": "24-12-25 01:06:37.074",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "thats a good spot"
-    },
-    {
-      "timestamp": "24-12-25 01:06:51.930",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "sure i will get a safehouse over there. is your house at the end of the cul de sac"
-    },
-    {
-      "timestamp": "24-12-25 01:06:51.931",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "sure i will get a safehouse over there. is your house at the end of the cul de sac"
-    },
-    {
-      "timestamp": "24-12-25 01:07:19.571",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "with the car in front"
-    },
-    {
-      "timestamp": "24-12-25 01:07:19.571",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "with the car in front"
-    },
-    {
-      "timestamp": "24-12-25 01:09:27.820",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "got it"
-    },
-    {
-      "timestamp": "24-12-25 01:09:27.820",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "got it"
-    },
-    {
-      "timestamp": "24-12-25 01:09:37.516",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i might be a while too i spawned all the way by courtman"
-    },
-    {
-      "timestamp": "24-12-25 01:09:37.517",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i might be a while too i spawned all the way by courtman"
-    },
-    {
-      "timestamp": "24-12-25 01:09:50.221",
-      "chat_type": "Local",
-      "author": "half",
-      "text": "howdy"
-    },
-    {
-      "timestamp": "24-12-25 01:09:50.221",
-      "chat_type": "Local",
-      "author": "half",
-      "text": "howdy"
-    },
-    {
-      "timestamp": "24-12-25 01:09:57.706",
-      "chat_type": "Local",
-      "author": "half",
-      "text": "yes"
-    },
-    {
-      "timestamp": "24-12-25 01:09:57.707",
-      "chat_type": "Local",
-      "author": "half",
-      "text": "yes"
-    },
-    {
-      "timestamp": "24-12-25 01:10:45.718",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i think someone already beat you there because the store next door definitely seems looted of food"
-    },
-    {
-      "timestamp": "24-12-25 01:10:45.718",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i think someone already beat you there because the store next door definitely seems looted of food"
-    },
-    {
-      "timestamp": "24-12-25 01:11:06.856",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "yeah courtman is already looted"
-    },
-    {
-      "timestamp": "24-12-25 01:11:06.856",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "yeah courtman is already looted"
-    },
-    {
-      "timestamp": "24-12-25 01:11:49.944",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "bummer"
-    },
-    {
-      "timestamp": "24-12-25 01:11:49.944",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "bummer"
-    },
-    {
-      "timestamp": "24-12-25 01:12:32.520",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "when the feature to claim cars comes back, i plan on having a faction safehouse instead of neighborhood"
-    },
-    {
-      "timestamp": "24-12-25 01:12:32.520",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "when the feature to claim cars comes back, i plan on having a faction safehouse instead of neighborhood"
-    },
-    {
-      "timestamp": "24-12-25 01:12:51.906",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "but every player needs their own safe storage area, and safehouses are the only option so far"
-    },
-    {
-      "timestamp": "24-12-25 01:12:51.906",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "but every player needs their own safe storage area, and safehouses are the only option so far"
-    },
-    {
       "timestamp": "24-12-25 01:12:59.829",
       "chat_type": "Local",
       "author": "Firestorm3050",
@@ -1510,7 +1327,187 @@
       "chat_type": "General",
       "author": "Pabstlite",
       "text": "Caps my b"
+    },
+    {
+      "timestamp": "24-12-25 01:16:07.293",
+      "chat_type": "General",
+      "author": "half",
+      "text": "nice run fire"
+    },
+    {
+      "timestamp": "24-12-25 01:16:07.293",
+      "chat_type": "General",
+      "author": "half",
+      "text": "nice run fire"
+    },
+    {
+      "timestamp": "24-12-25 01:16:13.082",
+      "chat_type": "General",
+      "author": "half",
+      "text": "good workout"
+    },
+    {
+      "timestamp": "24-12-25 01:16:13.083",
+      "chat_type": "General",
+      "author": "half",
+      "text": "good workout"
+    },
+    {
+      "timestamp": "24-12-25 01:16:32.285",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "gen mag in your glovebox"
+    },
+    {
+      "timestamp": "24-12-25 01:16:32.285",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "gen mag in your glovebox"
+    },
+    {
+      "timestamp": "24-12-25 01:17:17.414",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "btw, half is not acting like his normal self tonight, i wonder if he took meds or something?"
+    },
+    {
+      "timestamp": "24-12-25 01:17:17.414",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "btw, half is not acting like his normal self tonight, i wonder if he took meds or something?"
+    },
+    {
+      "timestamp": "24-12-25 01:18:08.000",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "half and i were in our own apartment when everyone else was in the big apartment"
+    },
+    {
+      "timestamp": "24-12-25 01:18:08.001",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "half and i were in our own apartment when everyone else was in the big apartment"
+    },
+    {
+      "timestamp": "24-12-25 01:18:26.145",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "nice, it has sirens"
+    },
+    {
+      "timestamp": "24-12-25 01:18:26.145",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "nice, it has sirens"
+    },
+    {
+      "timestamp": "24-12-25 01:18:47.904",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "half im driving on the right lane"
+    },
+    {
+      "timestamp": "24-12-25 01:18:47.904",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "half im driving on the right lane"
+    },
+    {
+      "timestamp": "24-12-25 01:18:48.897",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "battery is 0"
+    },
+    {
+      "timestamp": "24-12-25 01:18:48.897",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "battery is 0"
+    },
+    {
+      "timestamp": "24-12-25 01:19:10.431",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "thats why i tell you"
+    },
+    {
+      "timestamp": "24-12-25 01:19:10.431",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "thats why i tell you"
+    },
+    {
+      "timestamp": "24-12-25 01:19:15.868",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "stay on the CORRECT AMERICAN lane"
+    },
+    {
+      "timestamp": "24-12-25 01:19:15.868",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "stay on the CORRECT AMERICAN lane"
+    },
+    {
+      "timestamp": "24-12-25 01:19:20.315",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "random mattress in the woods"
+    },
+    {
+      "timestamp": "24-12-25 01:19:20.315",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "random mattress in the woods"
+    },
+    {
+      "timestamp": "24-12-25 01:19:21.329",
+      "chat_type": "General",
+      "author": "half",
+      "text": "your lwft"
+    },
+    {
+      "timestamp": "24-12-25 01:19:21.330",
+      "chat_type": "General",
+      "author": "half",
+      "text": "your lwft"
+    },
+    {
+      "timestamp": "24-12-25 01:19:29.156",
+      "chat_type": "General",
+      "author": "half",
+      "text": "wait"
+    },
+    {
+      "timestamp": "24-12-25 01:19:29.156",
+      "chat_type": "General",
+      "author": "half",
+      "text": "wait"
+    },
+    {
+      "timestamp": "24-12-25 01:19:33.567",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "i was driving on the right side of the right lane"
+    },
+    {
+      "timestamp": "24-12-25 01:19:33.567",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "i was driving on the right side of the right lane"
+    },
+    {
+      "timestamp": "24-12-25 01:19:51.620",
+      "chat_type": "General",
+      "author": "half",
+      "text": "well my scrren its the left labne"
+    },
+    {
+      "timestamp": "24-12-25 01:19:51.620",
+      "chat_type": "General",
+      "author": "half",
+      "text": "well my scrren its the left labne"
     }
   ],
-  "timestamp": "2025-12-24T01:15:01.245784"
+  "timestamp": "2025-12-24T01:20:01.592157"
 }
