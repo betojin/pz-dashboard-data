@@ -360,65 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "23-12-25 17:43:30.667",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10655",
-      "y": "9540",
-      "z": "0",
-      "hours_survived": 565,
-      "event_type": "level_up",
-      "skill": "PlantScavenging",
-      "level": "3"
-    },
-    {
-      "timestamp": "23-12-25 19:01:32.407",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "x": "11811",
-      "y": "9787",
-      "z": "1",
-      "hours_survived": 35,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 9,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 5,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "23-12-25 19:06:53.558",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -1243,189 +1184,33 @@
       "event_type": "level_up",
       "skill": "SmallBlunt",
       "level": "2"
+    },
+    {
+      "timestamp": "24-12-25 01:12:29.714",
+      "steam_id": "76561198419791953",
+      "username": "Pabstlite",
+      "x": "11641",
+      "y": "8452",
+      "z": "0",
+      "hours_survived": 145,
+      "event_type": "level_up",
+      "skill": "SmallBlunt",
+      "level": "2"
+    },
+    {
+      "timestamp": "24-12-25 01:13:44.546",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "10060",
+      "y": "12656",
+      "z": "0",
+      "hours_survived": 95,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "24-12-25 01:03:37.080",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i would say were mostly solo, but we frequently meet up and do things randomly"
-    },
-    {
-      "timestamp": "24-12-25 01:03:37.081",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i would say were mostly solo, but we frequently meet up and do things randomly"
-    },
-    {
-      "timestamp": "24-12-25 01:03:47.245",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "most of the players on this server know of each other"
-    },
-    {
-      "timestamp": "24-12-25 01:03:47.245",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "most of the players on this server know of each other"
-    },
-    {
-      "timestamp": "24-12-25 01:04:00.758",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "charlie what do you want to get in pz"
-    },
-    {
-      "timestamp": "24-12-25 01:04:00.758",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "charlie what do you want to get in pz"
-    },
-    {
-      "timestamp": "24-12-25 01:04:11.916",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "what do you mean?"
-    },
-    {
-      "timestamp": "24-12-25 01:04:11.916",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "what do you mean?"
-    },
-    {
-      "timestamp": "24-12-25 01:04:29.941",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "whats ur goal"
-    },
-    {
-      "timestamp": "24-12-25 01:04:29.942",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "whats ur goal"
-    },
-    {
-      "timestamp": "24-12-25 01:04:49.583",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i restarted my faction already and have a neighborhood with 3 empty houses in it"
-    },
-    {
-      "timestamp": "24-12-25 01:04:49.584",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i restarted my faction already and have a neighborhood with 3 empty houses in it"
-    },
-    {
-      "timestamp": "24-12-25 01:05:03.796",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i just want to make a settlement with people. ive played this build alone for so long. Thats why i joined"
-    },
-    {
-      "timestamp": "24-12-25 01:05:03.796",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i just want to make a settlement with people. ive played this build alone for so long. Thats why i joined"
-    },
-    {
-      "timestamp": "24-12-25 01:05:04.018",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "for example my goal is to get an all crafted getup"
-    },
-    {
-      "timestamp": "24-12-25 01:05:04.018",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "for example my goal is to get an all crafted getup"
-    },
-    {
-      "timestamp": "24-12-25 01:05:08.216",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "but i lag like crazy if i try to do loot runs with a partner"
-    },
-    {
-      "timestamp": "24-12-25 01:05:08.217",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "but i lag like crazy if i try to do loot runs with a partner"
-    },
-    {
-      "timestamp": "24-12-25 01:05:29.864",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "you would be welcome to claim a safehouse next to mine"
-    },
-    {
-      "timestamp": "24-12-25 01:05:29.864",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "you would be welcome to claim a safehouse next to mine"
-    },
-    {
-      "timestamp": "24-12-25 01:05:39.133",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "1 complex, like 20 people. God it was magNIFICENT"
-    },
-    {
-      "timestamp": "24-12-25 01:05:39.133",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "1 complex, like 20 people. God it was magNIFICENT"
-    },
-    {
-      "timestamp": "24-12-25 01:05:45.607",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "where is your safehouse firestorm"
-    },
-    {
-      "timestamp": "24-12-25 01:05:45.607",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "where is your safehouse firestorm"
-    },
-    {
-      "timestamp": "24-12-25 01:05:53.265",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "is it the gated 2 stories in mul"
-    },
-    {
-      "timestamp": "24-12-25 01:05:53.265",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "is it the gated 2 stories in mul"
-    },
-    {
-      "timestamp": "24-12-25 01:05:53.822",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im in muldraugh, near the north"
-    },
-    {
-      "timestamp": "24-12-25 01:05:53.822",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im in muldraugh, near the north"
-    },
-    {
-      "timestamp": "24-12-25 01:06:03.414",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Joey Fantana has room for 2 if you prefer West Point"
-    },
-    {
-      "timestamp": "24-12-25 01:06:03.415",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Joey Fantana has room for 2 if you prefer West Point"
-    },
     {
       "timestamp": "24-12-25 01:06:10.577",
       "chat_type": "General",
@@ -1545,7 +1330,187 @@
       "chat_type": "Local",
       "author": "half",
       "text": "yes"
+    },
+    {
+      "timestamp": "24-12-25 01:10:45.718",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i think someone already beat you there because the store next door definitely seems looted of food"
+    },
+    {
+      "timestamp": "24-12-25 01:10:45.718",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i think someone already beat you there because the store next door definitely seems looted of food"
+    },
+    {
+      "timestamp": "24-12-25 01:11:06.856",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "yeah courtman is already looted"
+    },
+    {
+      "timestamp": "24-12-25 01:11:06.856",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "yeah courtman is already looted"
+    },
+    {
+      "timestamp": "24-12-25 01:11:49.944",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "bummer"
+    },
+    {
+      "timestamp": "24-12-25 01:11:49.944",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "bummer"
+    },
+    {
+      "timestamp": "24-12-25 01:12:32.520",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "when the feature to claim cars comes back, i plan on having a faction safehouse instead of neighborhood"
+    },
+    {
+      "timestamp": "24-12-25 01:12:32.520",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "when the feature to claim cars comes back, i plan on having a faction safehouse instead of neighborhood"
+    },
+    {
+      "timestamp": "24-12-25 01:12:51.906",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "but every player needs their own safe storage area, and safehouses are the only option so far"
+    },
+    {
+      "timestamp": "24-12-25 01:12:51.906",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "but every player needs their own safe storage area, and safehouses are the only option so far"
+    },
+    {
+      "timestamp": "24-12-25 01:12:59.829",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "hiya"
+    },
+    {
+      "timestamp": "24-12-25 01:12:59.829",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "hiya"
+    },
+    {
+      "timestamp": "24-12-25 01:13:06.064",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "running up to the crossroads"
+    },
+    {
+      "timestamp": "24-12-25 01:13:06.064",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "running up to the crossroads"
+    },
+    {
+      "timestamp": "24-12-25 01:13:30.166",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "you offering a ride or just saying hi?"
+    },
+    {
+      "timestamp": "24-12-25 01:13:30.166",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "you offering a ride or just saying hi?"
+    },
+    {
+      "timestamp": "24-12-25 01:13:39.432",
+      "chat_type": "Local",
+      "author": "half",
+      "text": "get a move on buddy"
+    },
+    {
+      "timestamp": "24-12-25 01:13:39.432",
+      "chat_type": "Local",
+      "author": "half",
+      "text": "get a move on buddy"
+    },
+    {
+      "timestamp": "24-12-25 01:14:11.279",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "im cooked"
+    },
+    {
+      "timestamp": "24-12-25 01:14:11.279",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "im cooked"
+    },
+    {
+      "timestamp": "24-12-25 01:14:20.259",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "can u die from zombification in this"
+    },
+    {
+      "timestamp": "24-12-25 01:14:20.259",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "can u die from zombification in this"
+    },
+    {
+      "timestamp": "24-12-25 01:14:25.649",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "yes"
+    },
+    {
+      "timestamp": "24-12-25 01:14:25.649",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "yes"
+    },
+    {
+      "timestamp": "24-12-25 01:14:28.983",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yes"
+    },
+    {
+      "timestamp": "24-12-25 01:14:28.983",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "yes"
+    },
+    {
+      "timestamp": "24-12-25 01:14:29.739",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "YES"
+    },
+    {
+      "timestamp": "24-12-25 01:14:29.739",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "YES"
+    },
+    {
+      "timestamp": "24-12-25 01:14:33.979",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Caps my b"
+    },
+    {
+      "timestamp": "24-12-25 01:14:33.979",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Caps my b"
     }
   ],
-  "timestamp": "2025-12-24T01:10:01.440418"
+  "timestamp": "2025-12-24T01:15:01.245784"
 }

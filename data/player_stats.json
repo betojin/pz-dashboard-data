@@ -1069,7 +1069,7 @@
     "exoticbutter": {
       "username": "exoticbutter",
       "steam_id": "76561198417595781",
-      "total_hours": 93,
+      "total_hours": 95,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1079,7 +1079,7 @@
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 0,
-        "Sprinting": 0,
+        "Sprinting": 1,
         "Sneak": 0,
         "Woodwork": 0,
         "Aiming": 0,
@@ -1123,15 +1123,20 @@
           "skill": "SmallBlunt",
           "level": "2",
           "timestamp": "24-12-25 01:08:49.284"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "24-12-25 01:13:44.546"
         }
       ],
-      "last_seen": "24-12-25 01:08:49.284",
+      "last_seen": "24-12-25 01:13:44.546",
       "connections": 4
     },
     "Pabstlite": {
       "username": "Pabstlite",
       "steam_id": "76561198419791953",
-      "total_hours": 126,
+      "total_hours": 145,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1159,7 +1164,7 @@
         "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 0,
-        "SmallBlunt": 1,
+        "SmallBlunt": 2,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
@@ -1185,9 +1190,14 @@
           "skill": "Blunt",
           "level": "2",
           "timestamp": "23-12-25 03:26:46.154"
+        },
+        {
+          "skill": "SmallBlunt",
+          "level": "2",
+          "timestamp": "24-12-25 01:12:29.714"
         }
       ],
-      "last_seen": "24-12-25 00:24:30.936",
+      "last_seen": "24-12-25 01:12:29.714",
       "connections": 2
     },
     "Jacko": {
@@ -1447,5 +1457,5 @@
     }
   },
   "total_players": 17,
-  "timestamp": "2025-12-24T01:10:01.424539"
+  "timestamp": "2025-12-24T01:15:01.230120"
 }
