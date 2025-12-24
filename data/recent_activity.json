@@ -287,21 +287,18 @@
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 10:16:01.726",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "fully connected",
+      "x": "10662",
+      "y": "9568",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 03:51:12.487",
-      "steam_id": "76561198150738241",
-      "username": "Charlie",
-      "x": "10901",
-      "y": "9548",
-      "z": "0",
-      "hours_survived": 65,
-      "event_type": "level_up",
-      "skill": "PlantScavenging",
-      "level": "2"
-    },
     {
       "timestamp": "24-12-25 04:26:49.538",
       "steam_id": "76561198150738241",
@@ -1232,6 +1229,53 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "1"
+    },
+    {
+      "timestamp": "24-12-25 10:16:05.934",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10662",
+      "y": "9568",
+      "z": "0",
+      "hours_survived": 729,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 4,
+        "Fitness": 10,
+        "Strength": 9,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 4,
+        "Sneak": 0,
+        "Woodwork": 5,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 2,
+        "Fishing": 2,
+        "Trapping": 1,
+        "PlantScavenging": 3,
+        "Doctor": 0,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 2,
+        "Spear": 1,
+        "Maintenance": 3,
+        "SmallBlade": 0,
+        "LongBlade": 1,
+        "SmallBlunt": 3,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 5,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1296,5 +1340,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-24T10:15:01.552706"
+  "timestamp": "2025-12-24T10:20:01.862507"
 }
