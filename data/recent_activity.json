@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-12-25 21:20:35.184",
-      "steam_id": "76561198014188564",
-      "username": "MarySueGangster",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-12-25 21:20:35.184",
-      "steam_id": "76561198014188564",
-      "username": "MarySueGangster",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "23-12-25 21:20:44.285",
       "steam_id": "76561198014188564",
       "username": "MarySueGangster",
@@ -353,33 +341,24 @@
       "steam_id": "76561198150738241",
       "username": "Charlie",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 01:00:37.506",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 01:01:02.025",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "action": "fully connected",
+      "x": "10803",
+      "y": "10073",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-12-25 17:22:03.770",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 557,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "2"
-    },
-    {
-      "timestamp": "23-12-25 17:26:16.050",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10722",
-      "y": "9566",
-      "z": "0",
-      "hours_survived": 559,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "5"
-    },
     {
       "timestamp": "23-12-25 17:31:22.075",
       "steam_id": "76561198031138505",
@@ -1240,309 +1219,368 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "24-12-25 01:01:02.320",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "x": "10803",
+      "y": "10073",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 1,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 1,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "24-12-25 01:01:58.027",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8130",
+      "y": "11573",
+      "z": "0",
+      "hours_survived": 146,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "2"
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "24-12-25 00:53:14.647",
+      "timestamp": "24-12-25 01:00:09.089",
       "chat_type": "General",
       "author": "Firestorm3050",
-      "text": "sue was the siister"
+      "text": "ill run up over to you"
     },
     {
-      "timestamp": "24-12-25 00:53:14.648",
+      "timestamp": "24-12-25 01:00:09.089",
       "chat_type": "General",
       "author": "Firestorm3050",
-      "text": "sue was the siister"
+      "text": "ill run up over to you"
     },
     {
-      "timestamp": "24-12-25 00:53:48.233",
+      "timestamp": "24-12-25 01:00:41.574",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Joey Fantana appreciates teh assistance"
+    },
+    {
+      "timestamp": "24-12-25 01:00:41.574",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Joey Fantana appreciates teh assistance"
+    },
+    {
+      "timestamp": "24-12-25 01:01:02.912",
       "chat_type": "General",
       "author": "Firestorm3050",
-      "text": "its an old faction that was around back when i first joined"
+      "text": "crossroads does have a connect gen already tho too"
     },
     {
-      "timestamp": "24-12-25 00:53:48.233",
+      "timestamp": "24-12-25 01:01:02.912",
       "chat_type": "General",
       "author": "Firestorm3050",
-      "text": "its an old faction that was around back when i first joined"
+      "text": "crossroads does have a connect gen already tho too"
     },
     {
-      "timestamp": "24-12-25 00:53:50.647",
+      "timestamp": "24-12-25 01:01:09.329",
       "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "I am not Sue"
+      "author": "Charlie",
+      "text": "hello"
     },
     {
-      "timestamp": "24-12-25 00:53:50.647",
+      "timestamp": "24-12-25 01:01:09.329",
       "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "I am not Sue"
+      "author": "Charlie",
+      "text": "hello"
     },
     {
-      "timestamp": "24-12-25 00:54:03.251",
-      "chat_type": "General",
-      "author": "half",
-      "text": "hello sue"
-    },
-    {
-      "timestamp": "24-12-25 00:54:03.251",
-      "chat_type": "General",
-      "author": "half",
-      "text": "hello sue"
-    },
-    {
-      "timestamp": "24-12-25 00:54:26.845",
+      "timestamp": "24-12-25 01:01:13.299",
       "chat_type": "General",
       "author": "Firestorm3050",
-      "text": "what have i started?"
+      "text": "hello"
     },
     {
-      "timestamp": "24-12-25 00:54:26.845",
+      "timestamp": "24-12-25 01:01:13.299",
       "chat_type": "General",
       "author": "Firestorm3050",
-      "text": "what have i started?"
+      "text": "hello"
     },
     {
-      "timestamp": "24-12-25 00:54:36.046",
-      "chat_type": "General",
-      "author": "half",
-      "text": "a fire storm"
-    },
-    {
-      "timestamp": "24-12-25 00:54:36.046",
-      "chat_type": "General",
-      "author": "half",
-      "text": "a fire storm"
-    },
-    {
-      "timestamp": "24-12-25 00:54:43.178",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Joey will remember that"
-    },
-    {
-      "timestamp": "24-12-25 00:54:43.178",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Joey will remember that"
-    },
-    {
-      "timestamp": "24-12-25 00:55:18.427",
-      "chat_type": "General",
-      "author": "half",
-      "text": "jess shubert will not remember that"
-    },
-    {
-      "timestamp": "24-12-25 00:55:18.427",
-      "chat_type": "General",
-      "author": "half",
-      "text": "jess shubert will not remember that"
-    },
-    {
-      "timestamp": "24-12-25 00:55:55.018",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "bob will remember. bob always remembers"
-    },
-    {
-      "timestamp": "24-12-25 00:55:55.018",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "bob will remember. bob always remembers"
-    },
-    {
-      "timestamp": "24-12-25 00:55:58.358",
-      "chat_type": "General",
-      "author": "half",
-      "text": "i ahve no idea whats going on"
-    },
-    {
-      "timestamp": "24-12-25 00:55:58.358",
-      "chat_type": "General",
-      "author": "half",
-      "text": "i ahve no idea whats going on"
-    },
-    {
-      "timestamp": "24-12-25 00:56:53.860",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "A wonderful trade"
-    },
-    {
-      "timestamp": "24-12-25 00:56:53.860",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "A wonderful trade"
-    },
-    {
-      "timestamp": "24-12-25 00:56:57.586",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Nearly at the site"
-    },
-    {
-      "timestamp": "24-12-25 00:56:57.586",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Nearly at the site"
-    },
-    {
-      "timestamp": "24-12-25 00:57:13.764",
-      "chat_type": "General",
-      "author": "half",
-      "text": "im new here please be nice to me"
-    },
-    {
-      "timestamp": "24-12-25 00:57:13.764",
-      "chat_type": "General",
-      "author": "half",
-      "text": "im new here please be nice to me"
-    },
-    {
-      "timestamp": "24-12-25 00:57:37.215",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "got the magazine @pabst"
-    },
-    {
-      "timestamp": "24-12-25 00:57:37.215",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "got the magazine @pabst"
-    },
-    {
-      "timestamp": "24-12-25 00:57:47.270",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "You were here yesterday \"New\" can hardly be used in this scenario"
-    },
-    {
-      "timestamp": "24-12-25 00:57:47.270",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "You were here yesterday \"New\" can hardly be used in this scenario"
-    },
-    {
-      "timestamp": "24-12-25 00:57:53.875",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "and I got the pickup @fire"
-    },
-    {
-      "timestamp": "24-12-25 00:57:53.875",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "and I got the pickup @fire"
-    },
-    {
-      "timestamp": "24-12-25 00:58:03.815",
-      "chat_type": "General",
-      "author": "half",
-      "text": "that was my half brother"
-    },
-    {
-      "timestamp": "24-12-25 00:58:03.815",
-      "chat_type": "General",
-      "author": "half",
-      "text": "that was my half brother"
-    },
-    {
-      "timestamp": "24-12-25 00:58:07.810",
-      "chat_type": "General",
-      "author": "half",
-      "text": "not me"
-    },
-    {
-      "timestamp": "24-12-25 00:58:07.810",
-      "chat_type": "General",
-      "author": "half",
-      "text": "not me"
-    },
-    {
-      "timestamp": "24-12-25 00:58:47.286",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Well your have brother owes me a 20, so you may have to cough it up"
-    },
-    {
-      "timestamp": "24-12-25 00:58:47.286",
-      "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Well your have brother owes me a 20, so you may have to cough it up"
-    },
-    {
-      "timestamp": "24-12-25 00:58:56.282",
-      "chat_type": "Local",
-      "author": "exoticbutter",
-      "text": "now entering the freaking evil bunker"
-    },
-    {
-      "timestamp": "24-12-25 00:58:56.282",
-      "chat_type": "Local",
-      "author": "exoticbutter",
-      "text": "now entering the freaking evil bunker"
-    },
-    {
-      "timestamp": "24-12-25 00:59:01.461",
+      "timestamp": "24-12-25 01:01:18.464",
       "chat_type": "General",
       "author": "exoticbutter",
-      "text": "now entering evil bunker"
+      "text": "wow crowded server"
     },
     {
-      "timestamp": "24-12-25 00:59:01.461",
+      "timestamp": "24-12-25 01:01:18.465",
       "chat_type": "General",
       "author": "exoticbutter",
-      "text": "now entering evil bunker"
+      "text": "wow crowded server"
     },
     {
-      "timestamp": "24-12-25 00:59:15.093",
+      "timestamp": "24-12-25 01:01:30.049",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "where is everyone? we all grouping together?"
+    },
+    {
+      "timestamp": "24-12-25 01:01:30.049",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "where is everyone? we all grouping together?"
+    },
+    {
+      "timestamp": "24-12-25 01:01:39.707",
       "chat_type": "General",
       "author": "half",
-      "text": "i have 300 grass cuttings all yours"
+      "text": "i have a church"
     },
     {
-      "timestamp": "24-12-25 00:59:15.093",
+      "timestamp": "24-12-25 01:01:39.707",
       "chat_type": "General",
       "author": "half",
-      "text": "i have 300 grass cuttings all yours"
+      "text": "i have a church"
     },
     {
-      "timestamp": "24-12-25 00:59:21.965",
+      "timestamp": "24-12-25 01:01:40.106",
       "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Works for me"
+      "author": "exoticbutter",
+      "text": "i am the tailor goat"
     },
     {
-      "timestamp": "24-12-25 00:59:21.965",
+      "timestamp": "24-12-25 01:01:40.106",
       "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Works for me"
+      "author": "exoticbutter",
+      "text": "i am the tailor goat"
     },
     {
-      "timestamp": "24-12-25 00:59:39.267",
+      "timestamp": "24-12-25 01:01:50.622",
       "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Ok @Fire, small hiccup"
+      "author": "Charlie",
+      "text": "well i have 1 carving"
     },
     {
-      "timestamp": "24-12-25 00:59:39.267",
+      "timestamp": "24-12-25 01:01:50.622",
       "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "Ok @Fire, small hiccup"
+      "author": "Charlie",
+      "text": "well i have 1 carving"
     },
     {
-      "timestamp": "24-12-25 01:00:00.049",
+      "timestamp": "24-12-25 01:01:52.928",
       "chat_type": "General",
-      "author": "Pabstlite",
-      "text": "The reason I need the mag has caught up with me, fuel ran dry up the road from the meet point"
+      "author": "exoticbutter",
+      "text": "if you need some cool freaking pants or a chest rig ring me up"
     },
     {
-      "timestamp": "24-12-25 01:00:00.049",
+      "timestamp": "24-12-25 01:01:52.928",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "if you need some cool freaking pants or a chest rig ring me up"
+    },
+    {
+      "timestamp": "24-12-25 01:01:54.077",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i just started"
+    },
+    {
+      "timestamp": "24-12-25 01:01:54.077",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "i just started"
+    },
+    {
+      "timestamp": "24-12-25 01:01:58.671",
       "chat_type": "General",
       "author": "Pabstlite",
-      "text": "The reason I need the mag has caught up with me, fuel ran dry up the road from the meet point"
+      "text": "Joey will fix this and meet you soon"
+    },
+    {
+      "timestamp": "24-12-25 01:01:58.671",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "Joey will fix this and meet you soon"
+    },
+    {
+      "timestamp": "24-12-25 01:01:59.958",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i am running on foot from muld to wp to deliver a gen magaizne"
+    },
+    {
+      "timestamp": "24-12-25 01:01:59.959",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i am running on foot from muld to wp to deliver a gen magaizne"
+    },
+    {
+      "timestamp": "24-12-25 01:02:26.726",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "you guys play in a group or solo"
+    },
+    {
+      "timestamp": "24-12-25 01:02:26.726",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "you guys play in a group or solo"
+    },
+    {
+      "timestamp": "24-12-25 01:02:56.705",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "im playing kinda solo"
+    },
+    {
+      "timestamp": "24-12-25 01:02:56.706",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "im playing kinda solo"
+    },
+    {
+      "timestamp": "24-12-25 01:03:01.500",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "but im open to whatever"
+    },
+    {
+      "timestamp": "24-12-25 01:03:01.500",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "but im open to whatever"
+    },
+    {
+      "timestamp": "24-12-25 01:03:04.369",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "So far, \"Solo\" base is mine but I trade with the otehrs"
+    },
+    {
+      "timestamp": "24-12-25 01:03:04.369",
+      "chat_type": "General",
+      "author": "Pabstlite",
+      "text": "So far, \"Solo\" base is mine but I trade with the otehrs"
+    },
+    {
+      "timestamp": "24-12-25 01:03:28.775",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "im looking to play with others"
+    },
+    {
+      "timestamp": "24-12-25 01:03:28.775",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "im looking to play with others"
+    },
+    {
+      "timestamp": "24-12-25 01:03:37.080",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i would say were mostly solo, but we frequently meet up and do things randomly"
+    },
+    {
+      "timestamp": "24-12-25 01:03:37.081",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i would say were mostly solo, but we frequently meet up and do things randomly"
+    },
+    {
+      "timestamp": "24-12-25 01:03:47.245",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "most of the players on this server know of each other"
+    },
+    {
+      "timestamp": "24-12-25 01:03:47.245",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "most of the players on this server know of each other"
+    },
+    {
+      "timestamp": "24-12-25 01:04:00.758",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "charlie what do you want to get in pz"
+    },
+    {
+      "timestamp": "24-12-25 01:04:00.758",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "charlie what do you want to get in pz"
+    },
+    {
+      "timestamp": "24-12-25 01:04:11.916",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "what do you mean?"
+    },
+    {
+      "timestamp": "24-12-25 01:04:11.916",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "what do you mean?"
+    },
+    {
+      "timestamp": "24-12-25 01:04:29.941",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "whats ur goal"
+    },
+    {
+      "timestamp": "24-12-25 01:04:29.942",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "whats ur goal"
+    },
+    {
+      "timestamp": "24-12-25 01:04:49.583",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i restarted my faction already and have a neighborhood with 3 empty houses in it"
+    },
+    {
+      "timestamp": "24-12-25 01:04:49.584",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i restarted my faction already and have a neighborhood with 3 empty houses in it"
     }
   ],
-  "timestamp": "2025-12-24T01:00:01.632888"
+  "timestamp": "2025-12-24T01:05:02.035627"
 }

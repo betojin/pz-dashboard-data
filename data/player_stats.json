@@ -809,7 +809,7 @@
     "half": {
       "username": "half",
       "steam_id": "76561198368197161",
-      "total_hours": 142,
+      "total_hours": 146,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -819,7 +819,7 @@
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 0,
-        "Sprinting": 1,
+        "Sprinting": 2,
         "Sneak": 0,
         "Woodwork": 8,
         "Aiming": 0,
@@ -913,9 +913,14 @@
           "skill": "Woodwork",
           "level": "8",
           "timestamp": "23-12-25 00:22:08.237"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "2",
+          "timestamp": "24-12-25 01:01:58.027"
         }
       ],
-      "last_seen": "24-12-25 00:52:13.895",
+      "last_seen": "24-12-25 01:01:58.027",
       "connections": 1
     },
     "Kessel": {
@@ -1388,8 +1393,54 @@
       "level_ups": [],
       "last_seen": "23-12-25 16:26:39.751",
       "connections": 1
+    },
+    "Charlie": {
+      "username": "Charlie",
+      "steam_id": "76561198150738241",
+      "total_hours": 0,
+      "deaths": 0,
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 1,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 1,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      },
+      "level_ups": [],
+      "last_seen": "24-12-25 01:01:02.320",
+      "connections": 1
     }
   },
-  "total_players": 16,
-  "timestamp": "2025-12-24T01:00:01.617784"
+  "total_players": 17,
+  "timestamp": "2025-12-24T01:05:02.020492"
 }
