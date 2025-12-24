@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 06:57:49.487",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "fully connected",
-      "x": "12025",
-      "y": "2592",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 07:18:45.696",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "disconnected",
-      "x": "12019",
-      "y": "2589",
-      "z": "1"
-    },
-    {
       "timestamp": "24-12-25 07:19:48.982",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -377,6 +359,18 @@
       "x": "10662",
       "y": "9569",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 18:57:39.325",
+      "steam_id": "76561199484692543",
+      "username": "El_Moctezuma",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 18:57:39.326",
+      "steam_id": "76561199484692543",
+      "username": "El_Moctezuma",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -1321,5 +1315,5 @@
       "text": "oh no i am kill"
     }
   ],
-  "timestamp": "2025-12-24T18:55:01.914394"
+  "timestamp": "2025-12-24T19:00:01.208208"
 }
