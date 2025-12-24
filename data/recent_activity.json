@@ -1,27 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-12-25 19:22:37.077",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "disconnected",
-      "x": "11612",
-      "y": "8869",
-      "z": "0"
-    },
-    {
-      "timestamp": "23-12-25 19:48:25.816",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-12-25 19:48:25.816",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "23-12-25 19:48:33.323",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -359,6 +338,24 @@
       "x": "11724",
       "y": "6751",
       "z": "0"
+    },
+    {
+      "timestamp": "24-12-25 00:38:23.961",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-12-25 00:38:23.962",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-12-25 00:38:57.860",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1480,5 +1477,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-24T00:35:01.058941"
+  "timestamp": "2025-12-24T00:40:01.423650"
 }
