@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 20:24:50.999",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "24-12-25 20:25:18.067",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -356,6 +350,15 @@
       "steam_id": "76561199161777966",
       "username": "teak",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-12-25 00:13:34.137",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "action": "disconnected",
+      "x": "12733",
+      "y": "4377",
+      "z": "0"
     }
   ],
   "perk_events": [
@@ -1239,42 +1242,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "24-12-25 23:55:35.725",
-      "chat_type": "General",
-      "author": "KeenIslander",
-      "text": "all the animals"
-    },
-    {
-      "timestamp": "24-12-25 23:55:35.725",
-      "chat_type": "General",
-      "author": "KeenIslander",
-      "text": "all the animals"
-    },
-    {
-      "timestamp": "24-12-25 23:55:40.055",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "HAH"
-    },
-    {
-      "timestamp": "24-12-25 23:55:40.055",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "HAH"
-    },
-    {
-      "timestamp": "24-12-25 23:55:48.110",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "KILL THAT MF"
-    },
-    {
-      "timestamp": "24-12-25 23:55:48.110",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "KILL THAT MF"
-    },
-    {
       "timestamp": "24-12-25 23:55:53.885",
       "chat_type": "General",
       "author": "KeenIslander",
@@ -1537,7 +1504,43 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "crafted stone axe"
+    },
+    {
+      "timestamp": "25-12-25 00:10:33.438",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "oh dear lord"
+    },
+    {
+      "timestamp": "25-12-25 00:10:33.438",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "oh dear lord"
+    },
+    {
+      "timestamp": "25-12-25 00:10:38.356",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "where is my 30 hunting knives"
+    },
+    {
+      "timestamp": "25-12-25 00:10:38.356",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "where is my 30 hunting knives"
+    },
+    {
+      "timestamp": "25-12-25 00:10:44.478",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "please grant this boon to me"
+    },
+    {
+      "timestamp": "25-12-25 00:10:44.478",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "please grant this boon to me"
     }
   ],
-  "timestamp": "2025-12-25T00:10:01.313297"
+  "timestamp": "2025-12-25T00:15:01.630841"
 }
