@@ -4,12 +4,6 @@
       "timestamp": "25-12-25 03:12:05.366",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "25-12-25 03:12:05.366",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
       "action": "allowed to join"
     },
     {
@@ -359,56 +353,18 @@
       "x": "8133",
       "y": "11546",
       "z": "0"
+    },
+    {
+      "timestamp": "25-12-25 17:04:11.669",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "disconnected",
+      "x": "8127",
+      "y": "11541",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "25-12-25 00:45:35.746",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "x": "8313",
-      "y": "10093",
-      "z": "0",
-      "hours_survived": 31,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 7,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 4,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "25-12-25 00:48:50.073",
       "steam_id": "76561198417595781",
@@ -1211,6 +1167,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "25-12-25 17:02:34.834",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8121",
+      "y": "11540",
+      "z": "0",
+      "hours_survived": 211,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1515,5 +1483,5 @@
       "text": "hey"
     }
   ],
-  "timestamp": "2025-12-25T17:00:01.333299"
+  "timestamp": "2025-12-25T17:05:01.704303"
 }

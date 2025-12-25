@@ -900,7 +900,7 @@
     "half": {
       "username": "half",
       "steam_id": "76561198368197161",
-      "total_hours": 209,
+      "total_hours": 211,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -923,7 +923,7 @@
         "Electricity": 0,
         "Blacksmith": 0,
         "MetalWelding": 0,
-        "Mechanics": 0,
+        "Mechanics": 1,
         "Spear": 0,
         "Maintenance": 4,
         "SmallBlade": 0,
@@ -1019,9 +1019,14 @@
           "skill": "Maintenance",
           "level": "4",
           "timestamp": "24-12-25 02:31:49.127"
+        },
+        {
+          "skill": "Mechanics",
+          "level": "1",
+          "timestamp": "25-12-25 17:02:34.834"
         }
       ],
-      "last_seen": "25-12-25 16:58:55.235",
+      "last_seen": "25-12-25 17:02:34.834",
       "connections": 6
     },
     "Kessel": {
@@ -2124,5 +2129,5 @@
     }
   },
   "total_players": 27,
-  "timestamp": "2025-12-25T17:00:01.308417"
+  "timestamp": "2025-12-25T17:05:01.679554"
 }
