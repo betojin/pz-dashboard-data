@@ -571,7 +571,7 @@
     "CaptainLobo": {
       "username": "CaptainLobo",
       "steam_id": "76561198044597580",
-      "total_hours": 277,
+      "total_hours": 281,
       "deaths": 5,
       "skills": {
         "Cooking": 0,
@@ -585,7 +585,7 @@
         "Sneak": 2,
         "Woodwork": 0,
         "Aiming": 3,
-        "Reloading": 3,
+        "Reloading": 4,
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
@@ -685,9 +685,14 @@
           "skill": "Axe",
           "level": "2",
           "timestamp": "24-12-25 23:27:03.154"
+        },
+        {
+          "skill": "Reloading",
+          "level": "4",
+          "timestamp": "25-12-25 03:21:43.576"
         }
       ],
-      "last_seen": "25-12-25 03:12:52.195",
+      "last_seen": "25-12-25 03:21:43.576",
       "connections": 4
     },
     "Woofie": {
@@ -1862,7 +1867,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 0,
+      "total_hours": 37,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1902,8 +1907,8 @@
         "Glassmaking": 0
       },
       "level_ups": [],
-      "last_seen": "24-12-25 15:26:11.659",
-      "connections": 1
+      "last_seen": "25-12-25 03:24:43.892",
+      "connections": 2
     },
     "El_Moctezuma": {
       "username": "El_Moctezuma",
@@ -2005,5 +2010,5 @@
     }
   },
   "total_players": 26,
-  "timestamp": "2025-12-25T03:20:02.021012"
+  "timestamp": "2025-12-25T03:25:01.378277"
 }
