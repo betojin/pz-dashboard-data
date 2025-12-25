@@ -1198,7 +1198,7 @@
         "Sprinting": 1,
         "Sneak": 0,
         "Woodwork": 0,
-        "Aiming": 0,
+        "Aiming": 1,
         "Reloading": 1,
         "Farming": 0,
         "Fishing": 0,
@@ -1269,9 +1269,14 @@
           "skill": "Reloading",
           "level": "1",
           "timestamp": "25-12-25 23:06:22.913"
+        },
+        {
+          "skill": "Aiming",
+          "level": "1",
+          "timestamp": "25-12-25 23:19:04.355"
         }
       ],
-      "last_seen": "25-12-25 23:06:22.913",
+      "last_seen": "25-12-25 23:19:04.355",
       "connections": 7
     },
     "Pabstlite": {
@@ -2200,5 +2205,5 @@
     }
   },
   "total_players": 28,
-  "timestamp": "2025-12-25T23:15:01.582391"
+  "timestamp": "2025-12-25T23:20:01.902685"
 }

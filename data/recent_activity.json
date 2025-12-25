@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "25-12-25 05:59:08.955",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10041",
-      "y": "8061",
-      "z": "0",
-      "hours_survived": 438,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "1"
-    },
-    {
       "timestamp": "25-12-25 06:15:45.569",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1281,33 +1269,21 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "1"
+    },
+    {
+      "timestamp": "25-12-25 23:19:04.355",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "2592",
+      "y": "10918",
+      "z": "0",
+      "hours_survived": 88,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "25-12-25 22:07:16.783",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "damn wack"
-    },
-    {
-      "timestamp": "25-12-25 22:07:16.783",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "damn wack"
-    },
-    {
-      "timestamp": "25-12-25 22:10:41.511",
-      "chat_type": "General",
-      "author": "half",
-      "text": "is anyone else having problems when building things or when picking/dropping things"
-    },
-    {
-      "timestamp": "25-12-25 22:10:41.511",
-      "chat_type": "General",
-      "author": "half",
-      "text": "is anyone else having problems when building things or when picking/dropping things"
-    },
     {
       "timestamp": "25-12-25 22:12:03.060",
       "chat_type": "General",
@@ -1583,7 +1559,31 @@
       "chat_type": "General",
       "author": "exoticbutter",
       "text": "dude you mean to tell me i cant show?"
+    },
+    {
+      "timestamp": "25-12-25 23:15:44.577",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "i couldnt shove"
+    },
+    {
+      "timestamp": "25-12-25 23:15:44.577",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "i couldnt shove"
+    },
+    {
+      "timestamp": "25-12-25 23:15:48.673",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "and i got bit on the head"
+    },
+    {
+      "timestamp": "25-12-25 23:15:48.673",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "and i got bit on the head"
     }
   ],
-  "timestamp": "2025-12-25T23:15:01.610944"
+  "timestamp": "2025-12-25T23:20:01.930123"
 }
