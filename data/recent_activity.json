@@ -1,39 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "25-12-25 16:42:40.083",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "fully connected",
-      "x": "8129",
-      "y": "11540",
-      "z": "0"
-    },
-    {
-      "timestamp": "25-12-25 16:48:04.309",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "disconnected",
-      "x": "5718",
-      "y": "5727",
-      "z": "0"
-    },
-    {
-      "timestamp": "25-12-25 16:58:00.539",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "disconnected",
-      "x": "8133",
-      "y": "11546",
-      "z": "0"
-    },
-    {
-      "timestamp": "25-12-25 16:58:30.277",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "25-12-25 16:58:30.278",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -359,21 +326,36 @@
       "x": "10878",
       "y": "10028",
       "z": "0"
+    },
+    {
+      "timestamp": "25-12-25 22:00:03.389",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-12-25 22:00:03.389",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "25-12-25 22:00:13.687",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-12-25 22:00:32.082",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "fully connected",
+      "x": "8130",
+      "y": "11547",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "25-12-25 04:43:09.864",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "9014",
-      "y": "8730",
-      "z": "0",
-      "hours_survived": 68,
-      "event_type": "level_up",
-      "skill": "PlantScavenging",
-      "level": "1"
-    },
     {
       "timestamp": "25-12-25 04:47:13.648",
       "steam_id": "76561198060886931",
@@ -1246,117 +1228,56 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "25-12-25 22:00:32.622",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8130",
+      "y": "11547",
+      "z": "0",
+      "hours_survived": 222,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 9,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 2,
+        "Sneak": 0,
+        "Woodwork": 8,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "25-12-25 03:39:04.983",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "everytime"
-    },
-    {
-      "timestamp": "25-12-25 03:39:04.984",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "everytime"
-    },
-    {
-      "timestamp": "25-12-25 03:39:37.104",
-      "chat_type": "Local",
-      "author": "Omar",
-      "text": "can i join you? im friendly"
-    },
-    {
-      "timestamp": "25-12-25 03:39:37.104",
-      "chat_type": "Local",
-      "author": "Omar",
-      "text": "can i join you? im friendly"
-    },
-    {
-      "timestamp": "25-12-25 03:40:01.931",
-      "chat_type": "Local",
-      "author": "Omar",
-      "text": "im new"
-    },
-    {
-      "timestamp": "25-12-25 03:40:01.932",
-      "chat_type": "Local",
-      "author": "Omar",
-      "text": "im new"
-    },
-    {
-      "timestamp": "25-12-25 05:29:06.848",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "psst"
-    },
-    {
-      "timestamp": "25-12-25 05:29:06.848",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "psst"
-    },
-    {
-      "timestamp": "25-12-25 05:29:07.655",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "25-12-25 05:29:07.655",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "25-12-25 05:29:08.339",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "psst"
-    },
-    {
-      "timestamp": "25-12-25 05:29:08.339",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "psst"
-    },
-    {
-      "timestamp": "25-12-25 05:29:08.521",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "psst"
-    },
-    {
-      "timestamp": "25-12-25 05:29:08.522",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "psst"
-    },
-    {
-      "timestamp": "25-12-25 05:29:08.672",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "psst"
-    },
-    {
-      "timestamp": "25-12-25 05:29:08.672",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "psst"
-    },
-    {
-      "timestamp": "25-12-25 05:29:21.302",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "pssst!"
-    },
-    {
-      "timestamp": "25-12-25 05:29:21.302",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "pssst!"
-    },
     {
       "timestamp": "25-12-25 05:29:22.221",
       "chat_type": "Local",
@@ -1548,7 +1469,115 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "at me"
+    },
+    {
+      "timestamp": "25-12-25 22:00:57.134",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "near rosewood"
+    },
+    {
+      "timestamp": "25-12-25 22:00:57.135",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "near rosewood"
+    },
+    {
+      "timestamp": "25-12-25 22:01:07.968",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "still clearing it out"
+    },
+    {
+      "timestamp": "25-12-25 22:01:07.968",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "still clearing it out"
+    },
+    {
+      "timestamp": "25-12-25 22:03:55.795",
+      "chat_type": "General",
+      "author": "half",
+      "text": "whats up"
+    },
+    {
+      "timestamp": "25-12-25 22:03:55.795",
+      "chat_type": "General",
+      "author": "half",
+      "text": "whats up"
+    },
+    {
+      "timestamp": "25-12-25 22:04:05.705",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "military base"
+    },
+    {
+      "timestamp": "25-12-25 22:04:05.705",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "military base"
+    },
+    {
+      "timestamp": "25-12-25 22:04:32.548",
+      "chat_type": "General",
+      "author": "half",
+      "text": "ah ok"
+    },
+    {
+      "timestamp": "25-12-25 22:04:32.548",
+      "chat_type": "General",
+      "author": "half",
+      "text": "ah ok"
+    },
+    {
+      "timestamp": "25-12-25 22:04:40.056",
+      "chat_type": "General",
+      "author": "half",
+      "text": "i didnt feel like going up there"
+    },
+    {
+      "timestamp": "25-12-25 22:04:40.056",
+      "chat_type": "General",
+      "author": "half",
+      "text": "i didnt feel like going up there"
+    },
+    {
+      "timestamp": "25-12-25 22:04:47.836",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "oh dude"
+    },
+    {
+      "timestamp": "25-12-25 22:04:47.836",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "oh dude"
+    },
+    {
+      "timestamp": "25-12-25 22:04:54.036",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "i heard the loot there is crap"
+    },
+    {
+      "timestamp": "25-12-25 22:04:54.036",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "i heard the loot there is crap"
+    },
+    {
+      "timestamp": "25-12-25 22:04:58.705",
+      "chat_type": "General",
+      "author": "half",
+      "text": "always is"
+    },
+    {
+      "timestamp": "25-12-25 22:04:58.705",
+      "chat_type": "General",
+      "author": "half",
+      "text": "always is"
     }
   ],
-  "timestamp": "2025-12-25T22:00:01.554074"
+  "timestamp": "2025-12-25T22:05:01.872892"
 }
