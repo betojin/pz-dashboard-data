@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 21:42:54.608",
-      "steam_id": "76561199122629737",
-      "username": "KeenIslander",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "24-12-25 21:45:52.632",
-      "steam_id": "76561199122629737",
-      "username": "KeenIslander",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "24-12-25 21:46:21.396",
       "steam_id": "76561199122629737",
       "username": "KeenIslander",
@@ -353,56 +341,27 @@
       "steam_id": "76561199251232344",
       "username": "Kessel",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-12-25 02:50:39.718",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "fully connected",
+      "x": "12245",
+      "y": "6752",
+      "z": "0"
+    },
+    {
+      "timestamp": "25-12-25 02:51:36.240",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "action": "disconnected",
+      "x": "12243",
+      "y": "6751",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 18:50:55.899",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10662",
-      "y": "9569",
-      "z": "0",
-      "hours_survived": 760,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 4,
-        "Sneak": 0,
-        "Woodwork": 5,
-        "Aiming": 0,
-        "Reloading": 1,
-        "Farming": 2,
-        "Fishing": 2,
-        "Trapping": 1,
-        "PlantScavenging": 3,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 1,
-        "Maintenance": 3,
-        "SmallBlade": 0,
-        "LongBlade": 1,
-        "SmallBlunt": 3,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 6,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "24-12-25 19:09:22.803",
       "steam_id": "76561199484692543",
@@ -1310,105 +1269,56 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "25-12-25 02:50:41.782",
+      "steam_id": "76561199251232344",
+      "username": "Kessel",
+      "x": "12245",
+      "y": "6752",
+      "z": "0",
+      "hours_survived": 27,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 6,
+        "Strength": 6,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "24-12-25 23:59:38.483",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "game changing"
-    },
-    {
-      "timestamp": "24-12-25 23:59:38.483",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "game changing"
-    },
-    {
-      "timestamp": "25-12-25 00:01:23.371",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "perhaps i should go railroad spikes"
-    },
-    {
-      "timestamp": "25-12-25 00:01:23.371",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "perhaps i should go railroad spikes"
-    },
-    {
-      "timestamp": "25-12-25 00:01:28.420",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "lost 2 short blades to 4 zombies"
-    },
-    {
-      "timestamp": "25-12-25 00:01:28.420",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "lost 2 short blades to 4 zombies"
-    },
-    {
-      "timestamp": "25-12-25 00:01:53.375",
-      "chat_type": "General",
-      "author": "KeenIslander",
-      "text": "are you grinding xp"
-    },
-    {
-      "timestamp": "25-12-25 00:01:53.375",
-      "chat_type": "General",
-      "author": "KeenIslander",
-      "text": "are you grinding xp"
-    },
-    {
-      "timestamp": "25-12-25 00:02:01.627",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "ya"
-    },
-    {
-      "timestamp": "25-12-25 00:02:01.627",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "ya"
-    },
-    {
-      "timestamp": "25-12-25 00:02:08.136",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "no, i want an enclosure to keep my chickens from escaping"
-    },
-    {
-      "timestamp": "25-12-25 00:02:08.136",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "no, i want an enclosure to keep my chickens from escaping"
-    },
-    {
-      "timestamp": "25-12-25 00:02:09.320",
-      "chat_type": "General",
-      "author": "KeenIslander",
-      "text": "railroad spikes dont give any sadly"
-    },
-    {
-      "timestamp": "25-12-25 00:02:09.320",
-      "chat_type": "General",
-      "author": "KeenIslander",
-      "text": "railroad spikes dont give any sadly"
-    },
-    {
-      "timestamp": "25-12-25 00:02:15.635",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "scalpels dont either"
-    },
-    {
-      "timestamp": "25-12-25 00:02:15.636",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "scalpels dont either"
-    },
     {
       "timestamp": "25-12-25 00:02:18.956",
       "chat_type": "General",
@@ -1612,7 +1522,103 @@
       "chat_type": "General",
       "author": "Charlie",
       "text": "no one left"
+    },
+    {
+      "timestamp": "25-12-25 02:50:37.853",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "hey beto"
+    },
+    {
+      "timestamp": "25-12-25 02:50:37.854",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "hey beto"
+    },
+    {
+      "timestamp": "25-12-25 02:50:41.343",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "hows it going"
+    },
+    {
+      "timestamp": "25-12-25 02:50:41.343",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "hows it going"
+    },
+    {
+      "timestamp": "25-12-25 02:50:50.956",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "good good how are you?"
+    },
+    {
+      "timestamp": "25-12-25 02:50:50.956",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "good good how are you?"
+    },
+    {
+      "timestamp": "25-12-25 02:51:47.993",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "nice!! happy holidays"
+    },
+    {
+      "timestamp": "25-12-25 02:51:47.993",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "nice!! happy holidays"
+    },
+    {
+      "timestamp": "25-12-25 02:51:55.637",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "what did you have"
+    },
+    {
+      "timestamp": "25-12-25 02:51:55.638",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "what did you have"
+    },
+    {
+      "timestamp": "25-12-25 02:52:11.020",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "panda express lol"
+    },
+    {
+      "timestamp": "25-12-25 02:52:11.020",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "panda express lol"
+    },
+    {
+      "timestamp": "25-12-25 02:52:20.263",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "thats a vibe. i live next to one myself"
+    },
+    {
+      "timestamp": "25-12-25 02:52:20.263",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "thats a vibe. i live next to one myself"
+    },
+    {
+      "timestamp": "25-12-25 02:52:41.014",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "it cost me like 40 bucks to buy all the stuff for the burgers"
+    },
+    {
+      "timestamp": "25-12-25 02:52:41.014",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "it cost me like 40 bucks to buy all the stuff for the burgers"
     }
   ],
-  "timestamp": "2025-12-25T02:50:01.875805"
+  "timestamp": "2025-12-25T02:55:01.187736"
 }
