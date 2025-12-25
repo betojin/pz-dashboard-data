@@ -1,42 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "25-12-25 00:59:49.567",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "disconnected",
-      "x": "8027",
-      "y": "10169",
-      "z": "1"
-    },
-    {
-      "timestamp": "25-12-25 01:33:00.143",
-      "steam_id": "76561198150738241",
-      "username": "Charlie",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "25-12-25 01:33:00.144",
-      "steam_id": "76561198150738241",
-      "username": "Charlie",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "25-12-25 01:33:05.933",
-      "steam_id": "76561198150738241",
-      "username": "Charlie",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "25-12-25 01:33:20.506",
-      "steam_id": "76561198150738241",
-      "username": "Charlie",
-      "action": "fully connected",
-      "x": "10706",
-      "y": "9548",
-      "z": "0"
-    },
-    {
       "timestamp": "25-12-25 02:42:32.427",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -359,21 +323,45 @@
       "x": "2399",
       "y": "5848",
       "z": "0"
+    },
+    {
+      "timestamp": "25-12-25 16:31:01.809",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "5716",
+      "y": "5727",
+      "z": "-1"
+    },
+    {
+      "timestamp": "25-12-25 16:32:35.112",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-12-25 16:32:35.112",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "25-12-25 16:32:42.550",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-12-25 16:33:22.511",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "5716",
+      "y": "5727",
+      "z": "-1"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 23:49:15.258",
-      "steam_id": "76561198150738241",
-      "username": "Charlie",
-      "x": "10916",
-      "y": "9689",
-      "z": "0",
-      "hours_survived": 113,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "1"
-    },
     {
       "timestamp": "24-12-25 23:52:06.820",
       "steam_id": "76561198150738241",
@@ -1141,6 +1129,53 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "25-12-25 16:33:22.867",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5716",
+      "y": "5727",
+      "z": "-1",
+      "hours_survived": 315,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 7,
+        "Blunt": 2,
+        "Axe": 2,
+        "Lightfoot": 2,
+        "Nimble": 3,
+        "Sprinting": 2,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 3,
+        "Reloading": 4,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1445,5 +1480,5 @@
       "text": "hey"
     }
   ],
-  "timestamp": "2025-12-25T16:30:01.219234"
+  "timestamp": "2025-12-25T16:35:01.531932"
 }
