@@ -7,15 +7,15 @@
       "deaths": 2,
       "skills": {
         "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
+        "Fitness": 10,
+        "Strength": 10,
         "Blunt": 1,
         "Axe": 2,
         "Lightfoot": 0,
         "Nimble": 0,
         "Sprinting": 1,
         "Sneak": 0,
-        "Woodwork": 1,
+        "Woodwork": 0,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -31,12 +31,12 @@
         "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
-        "SmallBlunt": 3,
+        "SmallBlunt": 0,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
         "FlintKnapping": 0,
-        "Masonry": 2,
+        "Masonry": 0,
         "Pottery": 0,
         "Carving": 0,
         "Butchering": 0,
@@ -64,8 +64,8 @@
           "timestamp": "24-12-25 07:52:53.888"
         }
       ],
-      "last_seen": "24-12-25 07:52:53.888",
-      "connections": 2
+      "last_seen": "25-12-25 02:45:27.196",
+      "connections": 3
     },
     "admin": {
       "username": "admin",
@@ -2004,5 +2004,5 @@
     }
   },
   "total_players": 26,
-  "timestamp": "2025-12-25T02:45:01.580246"
+  "timestamp": "2025-12-25T02:50:01.853889"
 }
