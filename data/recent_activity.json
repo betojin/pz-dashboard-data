@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 23:31:43.999",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "disconnected",
-      "x": "2076",
-      "y": "5800",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 23:38:26.649",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "disconnected",
-      "x": "10663",
-      "y": "9569",
-      "z": "0"
-    },
-    {
       "timestamp": "24-12-25 23:41:27.495",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -353,21 +335,24 @@
       "x": "10097",
       "y": "8259",
       "z": "0"
+    },
+    {
+      "timestamp": "25-12-25 03:35:12.468",
+      "steam_id": "76561199807466888",
+      "username": "Omar",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-12-25 03:36:12.644",
+      "steam_id": "76561199807466888",
+      "username": "Omar",
+      "action": "fully connected",
+      "x": "11537",
+      "y": "6986",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 19:50:54.740",
-      "steam_id": "76561197988744957",
-      "username": "TwoHorndUnicorn",
-      "x": "10142",
-      "y": "6665",
-      "z": "0",
-      "hours_survived": 116,
-      "event_type": "level_up",
-      "skill": "SmallBlunt",
-      "level": "1"
-    },
     {
       "timestamp": "24-12-25 20:25:18.715",
       "steam_id": "76561198368197161",
@@ -1310,81 +1295,56 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "25-12-25 03:36:12.984",
+      "steam_id": "76561199807466888",
+      "username": "Omar",
+      "x": "11537",
+      "y": "6986",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 1,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "25-12-25 00:07:31.603",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "crafted stone axe"
-    },
-    {
-      "timestamp": "25-12-25 00:07:31.604",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "crafted stone axe"
-    },
-    {
-      "timestamp": "25-12-25 00:10:33.438",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "oh dear lord"
-    },
-    {
-      "timestamp": "25-12-25 00:10:33.438",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "oh dear lord"
-    },
-    {
-      "timestamp": "25-12-25 00:10:38.356",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "where is my 30 hunting knives"
-    },
-    {
-      "timestamp": "25-12-25 00:10:38.356",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "where is my 30 hunting knives"
-    },
-    {
-      "timestamp": "25-12-25 00:10:44.478",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "please grant this boon to me"
-    },
-    {
-      "timestamp": "25-12-25 00:10:44.478",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "please grant this boon to me"
-    },
-    {
-      "timestamp": "25-12-25 00:21:37.716",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "sledge"
-    },
-    {
-      "timestamp": "25-12-25 00:21:37.716",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "sledge"
-    },
-    {
-      "timestamp": "25-12-25 00:29:37.365",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "i wish i had ammo"
-    },
-    {
-      "timestamp": "25-12-25 00:29:37.365",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "i wish i had ammo"
-    },
     {
       "timestamp": "25-12-25 01:33:50.486",
       "chat_type": "General",
@@ -1612,7 +1572,79 @@
       "chat_type": "General",
       "author": "Charlie",
       "text": "man i feel tired as hell"
+    },
+    {
+      "timestamp": "25-12-25 03:36:48.805",
+      "chat_type": "Local",
+      "author": "Omar",
+      "text": "hola"
+    },
+    {
+      "timestamp": "25-12-25 03:36:48.805",
+      "chat_type": "Local",
+      "author": "Omar",
+      "text": "hola"
+    },
+    {
+      "timestamp": "25-12-25 03:36:52.972",
+      "chat_type": "Local",
+      "author": "Omar",
+      "text": "hi"
+    },
+    {
+      "timestamp": "25-12-25 03:36:52.972",
+      "chat_type": "Local",
+      "author": "Omar",
+      "text": "hi"
+    },
+    {
+      "timestamp": "25-12-25 03:38:28.350",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "this weather man"
+    },
+    {
+      "timestamp": "25-12-25 03:38:28.350",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "this weather man"
+    },
+    {
+      "timestamp": "25-12-25 03:38:53.573",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "nooooooooooooo not bob"
+    },
+    {
+      "timestamp": "25-12-25 03:38:53.573",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "nooooooooooooo not bob"
+    },
+    {
+      "timestamp": "25-12-25 03:39:04.983",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "everytime"
+    },
+    {
+      "timestamp": "25-12-25 03:39:04.984",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "everytime"
+    },
+    {
+      "timestamp": "25-12-25 03:39:37.104",
+      "chat_type": "Local",
+      "author": "Omar",
+      "text": "can i join you? im friendly"
+    },
+    {
+      "timestamp": "25-12-25 03:39:37.104",
+      "chat_type": "Local",
+      "author": "Omar",
+      "text": "can i join you? im friendly"
     }
   ],
-  "timestamp": "2025-12-25T03:35:01.544275"
+  "timestamp": "2025-12-25T03:40:01.909082"
 }
