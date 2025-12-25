@@ -360,18 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "25-12-25 04:47:13.648",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "9053",
-      "y": "8736",
-      "z": "0",
-      "hours_survived": 70,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "1"
-    },
-    {
       "timestamp": "25-12-25 05:07:32.934",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1278,6 +1266,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "25-12-25 22:21:48.398",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "5532",
+      "y": "9660",
+      "z": "0",
+      "hours_survived": 66,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1582,5 +1582,5 @@
       "text": "not bob"
     }
   ],
-  "timestamp": "2025-12-25T22:20:01.855249"
+  "timestamp": "2025-12-25T22:25:01.219878"
 }
