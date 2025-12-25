@@ -1672,7 +1672,7 @@
         "Fitness": 10,
         "Strength": 10,
         "Blunt": 0,
-        "Axe": 1,
+        "Axe": 2,
         "Lightfoot": 0,
         "Nimble": 0,
         "Sprinting": 1,
@@ -1704,8 +1704,14 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "25-12-25 06:37:57.192",
+      "level_ups": [
+        {
+          "skill": "Axe",
+          "level": "2",
+          "timestamp": "25-12-25 07:03:45.684"
+        }
+      ],
+      "last_seen": "25-12-25 07:03:45.684",
       "connections": 4
     },
     "ExpiredMayo": {
@@ -2103,5 +2109,5 @@
     }
   },
   "total_players": 27,
-  "timestamp": "2025-12-25T07:00:01.534945"
+  "timestamp": "2025-12-25T07:05:01.810735"
 }
