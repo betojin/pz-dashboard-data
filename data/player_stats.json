@@ -1868,7 +1868,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 37,
+      "total_hours": 54,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1882,7 +1882,7 @@
         "Sneak": 0,
         "Woodwork": 0,
         "Aiming": 0,
-        "Reloading": 0,
+        "Reloading": 1,
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
@@ -1907,8 +1907,14 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "25-12-25 03:24:43.892",
+      "level_ups": [
+        {
+          "skill": "Reloading",
+          "level": "1",
+          "timestamp": "25-12-25 04:08:17.172"
+        }
+      ],
+      "last_seen": "25-12-25 04:08:17.172",
       "connections": 2
     },
     "El_Moctezuma": {
@@ -2057,5 +2063,5 @@
     }
   },
   "total_players": 27,
-  "timestamp": "2025-12-25T04:05:01.436761"
+  "timestamp": "2025-12-25T04:10:01.770566"
 }
