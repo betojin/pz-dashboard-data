@@ -1,30 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 20:34:30.657",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "disconnected",
-      "x": "8131",
-      "y": "11544",
-      "z": "1"
-    },
-    {
-      "timestamp": "24-12-25 21:00:40.815",
-      "steam_id": "76561197988744957",
-      "username": "TwoHorndUnicorn",
-      "action": "disconnected",
-      "x": "11615",
-      "y": "8276",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 21:32:07.525",
-      "steam_id": "76561197988744957",
-      "username": "TwoHorndUnicorn",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "24-12-25 21:32:07.525",
       "steam_id": "76561197988744957",
       "username": "TwoHorndUnicorn",
@@ -359,6 +335,24 @@
       "x": "10706",
       "y": "9548",
       "z": "0"
+    },
+    {
+      "timestamp": "25-12-25 02:42:32.427",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-12-25 02:42:32.428",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "25-12-25 02:42:39.078",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1583,5 +1577,5 @@
       "text": "no one left"
     }
   ],
-  "timestamp": "2025-12-25T02:40:01.295620"
+  "timestamp": "2025-12-25T02:45:01.602466"
 }
