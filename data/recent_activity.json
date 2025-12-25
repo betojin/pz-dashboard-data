@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "25-12-25 05:07:32.934",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "13336",
-      "y": "4920",
-      "z": "0",
-      "hours_survived": 418,
-      "event_type": "level_up",
-      "skill": "Nimble",
-      "level": "3"
-    },
-    {
       "timestamp": "25-12-25 05:59:08.955",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1281,21 +1269,21 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "1"
+    },
+    {
+      "timestamp": "25-12-25 23:06:22.913",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "2587",
+      "y": "10892",
+      "z": "0",
+      "hours_survived": 83,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "25-12-25 22:04:58.705",
-      "chat_type": "General",
-      "author": "half",
-      "text": "always is"
-    },
-    {
-      "timestamp": "25-12-25 22:04:58.705",
-      "chat_type": "General",
-      "author": "half",
-      "text": "always is"
-    },
     {
       "timestamp": "25-12-25 22:05:09.735",
       "chat_type": "General",
@@ -1583,7 +1571,19 @@
       "chat_type": "General",
       "author": "exoticbutter",
       "text": "it has guns"
+    },
+    {
+      "timestamp": "25-12-25 23:08:43.969",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "if you find a d8 let me know"
+    },
+    {
+      "timestamp": "25-12-25 23:08:43.969",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "if you find a d8 let me know"
     }
   ],
-  "timestamp": "2025-12-25T23:05:01.982355"
+  "timestamp": "2025-12-25T23:10:01.322933"
 }
