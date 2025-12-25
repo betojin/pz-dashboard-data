@@ -117,7 +117,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 380,
+      "total_hours": 418,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -126,7 +126,7 @@
         "Blunt": 2,
         "Axe": 2,
         "Lightfoot": 2,
-        "Nimble": 2,
+        "Nimble": 3,
         "Sprinting": 3,
         "Sneak": 2,
         "Woodwork": 0,
@@ -216,9 +216,14 @@
           "skill": "Aiming",
           "level": "2",
           "timestamp": "23-12-25 03:06:47.041"
+        },
+        {
+          "skill": "Nimble",
+          "level": "3",
+          "timestamp": "25-12-25 05:07:32.934"
         }
       ],
-      "last_seen": "25-12-25 03:34:21.632",
+      "last_seen": "25-12-25 05:07:32.934",
       "connections": 1
     },
     "Firestorm3050": {
@@ -2078,5 +2083,5 @@
     }
   },
   "total_players": 27,
-  "timestamp": "2025-12-25T05:05:01.952206"
+  "timestamp": "2025-12-25T05:10:01.287908"
 }

@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "24-12-25 21:41:22.045",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10661",
-      "y": "9573",
-      "z": "1",
-      "hours_survived": 820,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "1"
-    },
-    {
       "timestamp": "24-12-25 21:46:21.842",
       "steam_id": "76561199122629737",
       "username": "KeenIslander",
@@ -1211,6 +1199,18 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "1"
+    },
+    {
+      "timestamp": "25-12-25 05:07:32.934",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "13336",
+      "y": "4920",
+      "z": "0",
+      "hours_survived": 418,
+      "event_type": "level_up",
+      "skill": "Nimble",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1515,5 +1515,5 @@
       "text": "im new"
     }
   ],
-  "timestamp": "2025-12-25T05:05:01.974835"
+  "timestamp": "2025-12-25T05:10:01.317057"
 }
