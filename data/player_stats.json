@@ -1221,7 +1221,7 @@
         "Masonry": 0,
         "Pottery": 0,
         "Carving": 0,
-        "Butchering": 0,
+        "Butchering": 1,
         "Glassmaking": 0
       },
       "level_ups": [
@@ -1254,9 +1254,14 @@
           "skill": "Maintenance",
           "level": "1",
           "timestamp": "25-12-25 00:49:37.984"
+        },
+        {
+          "skill": "Butchering",
+          "level": "1",
+          "timestamp": "25-12-25 21:32:53.692"
         }
       ],
-      "last_seen": "25-12-25 21:08:23.856",
+      "last_seen": "25-12-25 21:32:53.692",
       "connections": 7
     },
     "Pabstlite": {
@@ -2139,5 +2144,5 @@
     }
   },
   "total_players": 27,
-  "timestamp": "2025-12-25T21:30:01.510397"
+  "timestamp": "2025-12-25T21:35:01.927217"
 }

@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "25-12-25 04:08:17.172",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "9048",
-      "y": "8733",
-      "z": "1",
-      "hours_survived": 54,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "1"
-    },
-    {
       "timestamp": "25-12-25 04:27:41.457",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -1211,6 +1199,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "25-12-25 21:32:53.692",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "7300",
+      "y": "9776",
+      "z": "0",
+      "hours_survived": 46,
+      "event_type": "level_up",
+      "skill": "Butchering",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1515,5 +1515,5 @@
       "text": "wana raid the military base for it?"
     }
   ],
-  "timestamp": "2025-12-25T21:30:01.540638"
+  "timestamp": "2025-12-25T21:35:01.953808"
 }
