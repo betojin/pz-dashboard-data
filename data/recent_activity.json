@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 23:41:27.496",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "24-12-25 23:41:42.269",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "24-12-25 23:42:38.313",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -352,6 +340,24 @@
       "action": "disconnected",
       "x": "10703",
       "y": "9546",
+      "z": "0"
+    },
+    {
+      "timestamp": "25-12-25 03:56:06.619",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "2399",
+      "y": "5848",
+      "z": "0"
+    },
+    {
+      "timestamp": "25-12-25 03:56:09.603",
+      "steam_id": "76561199807466888",
+      "username": "Omar",
+      "action": "disconnected",
+      "x": "11668",
+      "y": "7047",
       "z": "0"
     }
   ],
@@ -1649,5 +1655,5 @@
       "text": "im new"
     }
   ],
-  "timestamp": "2025-12-25T03:55:01.884308"
+  "timestamp": "2025-12-25T04:00:01.173452"
 }
