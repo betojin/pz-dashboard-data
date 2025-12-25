@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "25-12-25 16:42:21.351",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "25-12-25 16:42:40.083",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -356,21 +350,18 @@
       "steam_id": "76561199249031770",
       "username": "squibby",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-12-25 21:45:17.846",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "action": "fully connected",
+      "x": "10878",
+      "y": "10028",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "25-12-25 04:27:41.457",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "9121",
-      "y": "9325",
-      "z": "0",
-      "hours_survived": 62,
-      "event_type": "level_up",
-      "skill": "SmallBlunt",
-      "level": "1"
-    },
     {
       "timestamp": "25-12-25 04:43:09.864",
       "steam_id": "76561198060886931",
@@ -1208,57 +1199,56 @@
       "event_type": "level_up",
       "skill": "Butchering",
       "level": "1"
+    },
+    {
+      "timestamp": "25-12-25 21:45:18.961",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "x": "10878",
+      "y": "10028",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 4,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "25-12-25 03:08:35.806",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "because i only kill it when driving around"
-    },
-    {
-      "timestamp": "25-12-25 03:08:35.806",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "because i only kill it when driving around"
-    },
-    {
-      "timestamp": "25-12-25 03:14:42.258",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "careful driving over a pile of bodies"
-    },
-    {
-      "timestamp": "25-12-25 03:14:42.258",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "careful driving over a pile of bodies"
-    },
-    {
-      "timestamp": "25-12-25 03:19:17.902",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "man i feel tired as hell"
-    },
-    {
-      "timestamp": "25-12-25 03:19:17.902",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "man i feel tired as hell"
-    },
-    {
-      "timestamp": "25-12-25 03:36:48.805",
-      "chat_type": "Local",
-      "author": "Omar",
-      "text": "hola"
-    },
-    {
-      "timestamp": "25-12-25 03:36:48.805",
-      "chat_type": "Local",
-      "author": "Omar",
-      "text": "hola"
-    },
     {
       "timestamp": "25-12-25 03:36:52.972",
       "chat_type": "Local",
@@ -1510,7 +1500,55 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "wana raid the military base for it?"
+    },
+    {
+      "timestamp": "25-12-25 21:45:30.388",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "25-12-25 21:45:30.388",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "25-12-25 21:45:43.275",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "25-12-25 21:45:43.275",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "25-12-25 21:48:43.799",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "25-12-25 21:48:43.799",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "25-12-25 21:48:45.218",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "25-12-25 21:48:45.218",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-25T21:45:01.566375"
+  "timestamp": "2025-12-25T21:50:01.939134"
 }
