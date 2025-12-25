@@ -1159,7 +1159,7 @@
         "Mechanics": 0,
         "Spear": 0,
         "Maintenance": 1,
-        "SmallBlade": 0,
+        "SmallBlade": 1,
         "LongBlade": 0,
         "SmallBlunt": 2,
         "Tailoring": 4,
@@ -1192,10 +1192,20 @@
           "skill": "Sprinting",
           "level": "1",
           "timestamp": "24-12-25 01:13:44.546"
+        },
+        {
+          "skill": "SmallBlade",
+          "level": "1",
+          "timestamp": "25-12-25 00:48:50.073"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "25-12-25 00:49:37.984"
         }
       ],
-      "last_seen": "24-12-25 23:42:43.497",
-      "connections": 5
+      "last_seen": "25-12-25 00:49:37.984",
+      "connections": 6
     },
     "Pabstlite": {
       "username": "Pabstlite",
@@ -1994,5 +2004,5 @@
     }
   },
   "total_players": 26,
-  "timestamp": "2025-12-25T00:45:01.632210"
+  "timestamp": "2025-12-25T00:50:01.936124"
 }
