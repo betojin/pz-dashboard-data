@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 19:37:50.206",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "24-12-25 19:38:02.751",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "24-12-25 19:44:24.988",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "fully connected",
-      "x": "10659",
-      "y": "9567",
-      "z": "0"
-    },
-    {
-      "timestamp": "24-12-25 20:24:45.615",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "24-12-25 20:24:45.617",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -353,56 +326,39 @@
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-12-25 00:01:28.579",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "fully connected",
+      "x": "10663",
+      "y": "9569",
+      "z": "0"
+    },
+    {
+      "timestamp": "25-12-25 00:04:13.327",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "action": "disconnected",
+      "x": "10706",
+      "y": "9548",
+      "z": "0"
+    },
+    {
+      "timestamp": "25-12-25 00:04:31.638",
+      "steam_id": "76561199161777966",
+      "username": "teak",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-12-25 00:04:31.639",
+      "steam_id": "76561199161777966",
+      "username": "teak",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 17:42:16.619",
-      "steam_id": "76561197988744957",
-      "username": "TwoHorndUnicorn",
-      "x": "10097",
-      "y": "7351",
-      "z": "0",
-      "hours_survived": 64,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 2,
-        "Reloading": 2,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "24-12-25 18:28:46.227",
       "steam_id": "76561198417595781",
@@ -1232,189 +1188,56 @@
       "event_type": "level_up",
       "skill": "Aiming",
       "level": "1"
+    },
+    {
+      "timestamp": "25-12-25 00:01:29.149",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10663",
+      "y": "9569",
+      "z": "0",
+      "hours_survived": 866,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 4,
+        "Fitness": 10,
+        "Strength": 9,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 4,
+        "Sneak": 0,
+        "Woodwork": 6,
+        "Aiming": 0,
+        "Reloading": 2,
+        "Farming": 2,
+        "Fishing": 2,
+        "Trapping": 1,
+        "PlantScavenging": 3,
+        "Doctor": 0,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 2,
+        "Spear": 1,
+        "Maintenance": 3,
+        "SmallBlade": 0,
+        "LongBlade": 1,
+        "SmallBlunt": 3,
+        "Tailoring": 1,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 6,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "24-12-25 23:31:02.631",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "exactly"
-    },
-    {
-      "timestamp": "24-12-25 23:31:02.631",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "exactly"
-    },
-    {
-      "timestamp": "24-12-25 23:31:02.789",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "also, in b41 there was a mod for at least black powder"
-    },
-    {
-      "timestamp": "24-12-25 23:31:02.789",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "also, in b41 there was a mod for at least black powder"
-    },
-    {
-      "timestamp": "24-12-25 23:31:18.811",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i remember"
-    },
-    {
-      "timestamp": "24-12-25 23:31:18.811",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i remember"
-    },
-    {
-      "timestamp": "24-12-25 23:32:10.141",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "man"
-    },
-    {
-      "timestamp": "24-12-25 23:32:10.141",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "man"
-    },
-    {
-      "timestamp": "24-12-25 23:32:20.314",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i must have had like 4,000 calories today"
-    },
-    {
-      "timestamp": "24-12-25 23:32:20.314",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i must have had like 4,000 calories today"
-    },
-    {
-      "timestamp": "24-12-25 23:32:29.359",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i probably wont eat again until tomorrow evening"
-    },
-    {
-      "timestamp": "24-12-25 23:32:29.360",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i probably wont eat again until tomorrow evening"
-    },
-    {
-      "timestamp": "24-12-25 23:32:39.807",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i havent felt this full in ages"
-    },
-    {
-      "timestamp": "24-12-25 23:32:39.808",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "i havent felt this full in ages"
-    },
-    {
-      "timestamp": "24-12-25 23:33:20.501",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "even with my gen and house lights on, the inside of my house is still fog grey"
-    },
-    {
-      "timestamp": "24-12-25 23:33:20.501",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "even with my gen and house lights on, the inside of my house is still fog grey"
-    },
-    {
-      "timestamp": "24-12-25 23:38:21.963",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "alr, i need to log. ill spend a touch few mor minutes online if i finish getting ready early enough"
-    },
-    {
-      "timestamp": "24-12-25 23:38:21.963",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "alr, i need to log. ill spend a touch few mor minutes online if i finish getting ready early enough"
-    },
-    {
-      "timestamp": "24-12-25 23:43:08.608",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "golly the zombies are easy"
-    },
-    {
-      "timestamp": "24-12-25 23:43:08.608",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "golly the zombies are easy"
-    },
-    {
-      "timestamp": "24-12-25 23:47:19.508",
-      "chat_type": "General",
-      "author": "KeenIslander",
-      "text": "no kidding"
-    },
-    {
-      "timestamp": "24-12-25 23:47:19.508",
-      "chat_type": "General",
-      "author": "KeenIslander",
-      "text": "no kidding"
-    },
-    {
-      "timestamp": "24-12-25 23:47:36.113",
-      "chat_type": "General",
-      "author": "KeenIslander",
-      "text": "hopefully next wipe he increases the difficulty a bit"
-    },
-    {
-      "timestamp": "24-12-25 23:47:36.113",
-      "chat_type": "General",
-      "author": "KeenIslander",
-      "text": "hopefully next wipe he increases the difficulty a bit"
-    },
-    {
-      "timestamp": "24-12-25 23:47:39.691",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "merry fucking christmas you mother fuckers"
-    },
-    {
-      "timestamp": "24-12-25 23:47:39.691",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "merry fucking christmas you mother fuckers"
-    },
-    {
-      "timestamp": "24-12-25 23:51:18.402",
-      "chat_type": "Local",
-      "author": "Charlie",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "24-12-25 23:51:18.402",
-      "chat_type": "Local",
-      "author": "Charlie",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "24-12-25 23:51:19.751",
-      "chat_type": "Local",
-      "author": "Charlie",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "24-12-25 23:51:19.752",
-      "chat_type": "Local",
-      "author": "Charlie",
-      "text": "HEY!"
-    },
     {
       "timestamp": "24-12-25 23:55:21.605",
       "chat_type": "General",
@@ -1534,7 +1357,187 @@
       "chat_type": "General",
       "author": "exoticbutter",
       "text": "game changing"
+    },
+    {
+      "timestamp": "25-12-25 00:01:23.371",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "perhaps i should go railroad spikes"
+    },
+    {
+      "timestamp": "25-12-25 00:01:23.371",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "perhaps i should go railroad spikes"
+    },
+    {
+      "timestamp": "25-12-25 00:01:28.420",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "lost 2 short blades to 4 zombies"
+    },
+    {
+      "timestamp": "25-12-25 00:01:28.420",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "lost 2 short blades to 4 zombies"
+    },
+    {
+      "timestamp": "25-12-25 00:01:53.375",
+      "chat_type": "General",
+      "author": "KeenIslander",
+      "text": "are you grinding xp"
+    },
+    {
+      "timestamp": "25-12-25 00:01:53.375",
+      "chat_type": "General",
+      "author": "KeenIslander",
+      "text": "are you grinding xp"
+    },
+    {
+      "timestamp": "25-12-25 00:02:01.627",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "ya"
+    },
+    {
+      "timestamp": "25-12-25 00:02:01.627",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "ya"
+    },
+    {
+      "timestamp": "25-12-25 00:02:08.136",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "no, i want an enclosure to keep my chickens from escaping"
+    },
+    {
+      "timestamp": "25-12-25 00:02:08.136",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "no, i want an enclosure to keep my chickens from escaping"
+    },
+    {
+      "timestamp": "25-12-25 00:02:09.320",
+      "chat_type": "General",
+      "author": "KeenIslander",
+      "text": "railroad spikes dont give any sadly"
+    },
+    {
+      "timestamp": "25-12-25 00:02:09.320",
+      "chat_type": "General",
+      "author": "KeenIslander",
+      "text": "railroad spikes dont give any sadly"
+    },
+    {
+      "timestamp": "25-12-25 00:02:15.635",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "scalpels dont either"
+    },
+    {
+      "timestamp": "25-12-25 00:02:15.636",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "scalpels dont either"
+    },
+    {
+      "timestamp": "25-12-25 00:02:18.956",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "which is fucked up"
+    },
+    {
+      "timestamp": "25-12-25 00:02:18.956",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "which is fucked up"
+    },
+    {
+      "timestamp": "25-12-25 00:02:25.039",
+      "chat_type": "General",
+      "author": "KeenIslander",
+      "text": "tru"
+    },
+    {
+      "timestamp": "25-12-25 00:02:25.039",
+      "chat_type": "General",
+      "author": "KeenIslander",
+      "text": "tru"
+    },
+    {
+      "timestamp": "25-12-25 00:02:26.934",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "u cant even get scalpels that fast"
+    },
+    {
+      "timestamp": "25-12-25 00:02:26.934",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "u cant even get scalpels that fast"
+    },
+    {
+      "timestamp": "25-12-25 00:02:36.186",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "railroad spikes i understand that shits plentiful"
+    },
+    {
+      "timestamp": "25-12-25 00:02:36.186",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "railroad spikes i understand that shits plentiful"
+    },
+    {
+      "timestamp": "25-12-25 00:02:58.636",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ah, not my convo"
+    },
+    {
+      "timestamp": "25-12-25 00:02:58.636",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ah, not my convo"
+    },
+    {
+      "timestamp": "25-12-25 00:03:47.325",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "how do you get all them planks over to ur builds mister firestorm"
+    },
+    {
+      "timestamp": "25-12-25 00:03:47.325",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "how do you get all them planks over to ur builds mister firestorm"
+    },
+    {
+      "timestamp": "25-12-25 00:03:59.932",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "chop trees and carry it on foot"
+    },
+    {
+      "timestamp": "25-12-25 00:03:59.932",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "chop trees and carry it on foot"
+    },
+    {
+      "timestamp": "25-12-25 00:04:35.749",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i do the sawing within my walls"
+    },
+    {
+      "timestamp": "25-12-25 00:04:35.749",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i do the sawing within my walls"
     }
   ],
-  "timestamp": "2025-12-25T00:00:01.651025"
+  "timestamp": "2025-12-25T00:05:01.995766"
 }
