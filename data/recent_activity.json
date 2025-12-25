@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 20:25:18.067",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "fully connected",
-      "x": "8132",
-      "y": "11554",
-      "z": "0"
-    },
-    {
       "timestamp": "24-12-25 20:28:21.492",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -358,6 +349,15 @@
       "action": "disconnected",
       "x": "12733",
       "y": "4377",
+      "z": "0"
+    },
+    {
+      "timestamp": "25-12-25 00:16:17.505",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "disconnected",
+      "x": "10659",
+      "y": "9566",
       "z": "0"
     }
   ],
@@ -1542,5 +1542,5 @@
       "text": "please grant this boon to me"
     }
   ],
-  "timestamp": "2025-12-25T00:15:01.630841"
+  "timestamp": "2025-12-25T00:20:01.958576"
 }
