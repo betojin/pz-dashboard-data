@@ -1868,7 +1868,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 68,
+      "total_hours": 70,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1878,7 +1878,7 @@
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 0,
-        "Sprinting": 0,
+        "Sprinting": 1,
         "Sneak": 0,
         "Woodwork": 0,
         "Aiming": 0,
@@ -1922,9 +1922,14 @@
           "skill": "PlantScavenging",
           "level": "1",
           "timestamp": "25-12-25 04:43:09.864"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "25-12-25 04:47:13.648"
         }
       ],
-      "last_seen": "25-12-25 04:43:09.864",
+      "last_seen": "25-12-25 04:47:13.648",
       "connections": 2
     },
     "El_Moctezuma": {
@@ -2073,5 +2078,5 @@
     }
   },
   "total_players": 27,
-  "timestamp": "2025-12-25T04:45:01.727590"
+  "timestamp": "2025-12-25T04:50:02.035078"
 }
