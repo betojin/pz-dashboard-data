@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "25-12-25 16:58:54.672",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "fully connected",
-      "x": "8133",
-      "y": "11546",
-      "z": "0"
-    },
-    {
       "timestamp": "25-12-25 17:04:11.669",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -358,6 +349,15 @@
       "action": "disconnected",
       "x": "10662",
       "y": "10347",
+      "z": "0"
+    },
+    {
+      "timestamp": "25-12-25 23:13:27.423",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "5530",
+      "y": "6049",
       "z": "0"
     }
   ],
@@ -1285,18 +1285,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "25-12-25 22:05:09.735",
-      "chat_type": "General",
-      "author": "half",
-      "text": "itd just a cool place"
-    },
-    {
-      "timestamp": "25-12-25 22:05:09.735",
-      "chat_type": "General",
-      "author": "half",
-      "text": "itd just a cool place"
-    },
-    {
       "timestamp": "25-12-25 22:07:16.783",
       "chat_type": "General",
       "author": "CaptainLobo",
@@ -1583,7 +1571,19 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "if you find a d8 let me know"
+    },
+    {
+      "timestamp": "25-12-25 23:14:42.094",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "dude you mean to tell me i cant show?"
+    },
+    {
+      "timestamp": "25-12-25 23:14:42.094",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "dude you mean to tell me i cant show?"
     }
   ],
-  "timestamp": "2025-12-25T23:10:01.322933"
+  "timestamp": "2025-12-25T23:15:01.610944"
 }
