@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "24-12-25 20:29:09.124",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8143",
-      "y": "11540",
-      "z": "0",
-      "hours_survived": 201,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 8,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "24-12-25 20:32:24.583",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -1316,6 +1269,18 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "1"
+    },
+    {
+      "timestamp": "25-12-25 04:27:41.457",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "9121",
+      "y": "9325",
+      "z": "0",
+      "hours_survived": 62,
+      "event_type": "level_up",
+      "skill": "SmallBlunt",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1620,5 +1585,5 @@
       "text": "im new"
     }
   ],
-  "timestamp": "2025-12-25T04:25:01.383220"
+  "timestamp": "2025-12-25T04:30:01.747129"
 }

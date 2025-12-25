@@ -1868,7 +1868,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 54,
+      "total_hours": 62,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1896,7 +1896,7 @@
         "Maintenance": 0,
         "SmallBlade": 0,
         "LongBlade": 0,
-        "SmallBlunt": 0,
+        "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
@@ -1912,9 +1912,14 @@
           "skill": "Reloading",
           "level": "1",
           "timestamp": "25-12-25 04:08:17.172"
+        },
+        {
+          "skill": "SmallBlunt",
+          "level": "1",
+          "timestamp": "25-12-25 04:27:41.457"
         }
       ],
-      "last_seen": "25-12-25 04:08:17.172",
+      "last_seen": "25-12-25 04:27:41.457",
       "connections": 2
     },
     "El_Moctezuma": {
@@ -2063,5 +2068,5 @@
     }
   },
   "total_players": 27,
-  "timestamp": "2025-12-25T04:25:01.359798"
+  "timestamp": "2025-12-25T04:30:01.723751"
 }
