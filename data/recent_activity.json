@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "24-12-25 23:30:36.825",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10655",
-      "y": "9582",
-      "z": "0",
-      "hours_survived": 863,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "6"
-    },
-    {
       "timestamp": "24-12-25 23:39:32.774",
       "steam_id": "76561198150738241",
       "username": "Charlie",
@@ -1106,6 +1094,18 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "5"
+    },
+    {
+      "timestamp": "25-12-25 08:04:13.261",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12091",
+      "y": "2473",
+      "z": "0",
+      "hours_survived": 60,
+      "event_type": "level_up",
+      "skill": "Axe",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1410,5 +1410,5 @@
       "text": "hey"
     }
   ],
-  "timestamp": "2025-12-25T08:00:01.569743"
+  "timestamp": "2025-12-25T08:05:01.893184"
 }

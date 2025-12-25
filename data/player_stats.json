@@ -1670,14 +1670,14 @@
     "RottenPotato": {
       "username": "RottenPotato",
       "steam_id": "76561199511597958",
-      "total_hours": 59,
+      "total_hours": 60,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
         "Fitness": 10,
         "Strength": 10,
         "Blunt": 0,
-        "Axe": 2,
+        "Axe": 3,
         "Lightfoot": 0,
         "Nimble": 0,
         "Sprinting": 1,
@@ -1719,9 +1719,14 @@
           "skill": "Maintenance",
           "level": "1",
           "timestamp": "25-12-25 07:16:41.916"
+        },
+        {
+          "skill": "Axe",
+          "level": "3",
+          "timestamp": "25-12-25 08:04:13.261"
         }
       ],
-      "last_seen": "25-12-25 07:16:41.916",
+      "last_seen": "25-12-25 08:04:13.261",
       "connections": 4
     },
     "ExpiredMayo": {
@@ -2119,5 +2124,5 @@
     }
   },
   "total_players": 27,
-  "timestamp": "2025-12-25T08:00:01.539934"
+  "timestamp": "2025-12-25T08:05:01.865162"
 }
