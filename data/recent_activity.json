@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 20:24:45.617",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "24-12-25 20:24:50.999",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -356,6 +350,12 @@
       "steam_id": "76561199161777966",
       "username": "teak",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "25-12-25 00:08:59.228",
+      "steam_id": "76561199161777966",
+      "username": "teak",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1239,30 +1239,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "24-12-25 23:55:21.605",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "kill bob do ittt"
-    },
-    {
-      "timestamp": "24-12-25 23:55:21.605",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "kill bob do ittt"
-    },
-    {
-      "timestamp": "24-12-25 23:55:29.367",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "what is bob anyway"
-    },
-    {
-      "timestamp": "24-12-25 23:55:29.367",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "what is bob anyway"
-    },
-    {
       "timestamp": "24-12-25 23:55:35.725",
       "chat_type": "General",
       "author": "KeenIslander",
@@ -1537,7 +1513,31 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "i do the sawing within my walls"
+    },
+    {
+      "timestamp": "25-12-25 00:07:19.498",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "do u use looted axe or crafted axe"
+    },
+    {
+      "timestamp": "25-12-25 00:07:19.498",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "do u use looted axe or crafted axe"
+    },
+    {
+      "timestamp": "25-12-25 00:07:31.603",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "crafted stone axe"
+    },
+    {
+      "timestamp": "25-12-25 00:07:31.604",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "crafted stone axe"
     }
   ],
-  "timestamp": "2025-12-25T00:05:01.995766"
+  "timestamp": "2025-12-25T00:10:01.313297"
 }
