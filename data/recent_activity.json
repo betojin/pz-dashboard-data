@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "25-12-25 17:31:25.312",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "25-12-25 17:31:36.787",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "fully connected",
-      "x": "5718",
-      "y": "5727",
-      "z": "0"
-    },
-    {
       "timestamp": "25-12-25 18:27:26.792",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -356,6 +341,18 @@
     },
     {
       "timestamp": "25-12-25 23:32:49.751",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "25-12-25 23:38:04.951",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-12-25 23:38:04.951",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
       "action": "allowed to join"
@@ -1585,5 +1582,5 @@
       "text": "okay so i found where the zombies went"
     }
   ],
-  "timestamp": "2025-12-25T23:35:01.862918"
+  "timestamp": "2025-12-25T23:40:01.284131"
 }
