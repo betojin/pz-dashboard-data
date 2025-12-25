@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 20:31:53.024",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "24-12-25 20:31:53.025",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "24-12-25 20:32:00.898",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "24-12-25 20:32:24.022",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "fully connected",
-      "x": "8142",
-      "y": "11544",
-      "z": "0"
-    },
-    {
       "timestamp": "24-12-25 20:34:30.657",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -359,19 +332,36 @@
       "x": "8027",
       "y": "10169",
       "z": "1"
+    },
+    {
+      "timestamp": "25-12-25 01:33:00.143",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-12-25 01:33:00.144",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "25-12-25 01:33:05.933",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-12-25 01:33:20.506",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "action": "fully connected",
+      "x": "10706",
+      "y": "9548",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "24-12-25 18:35:02.587",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "x": "6600",
-      "y": "5441",
-      "z": "0",
-      "hours_survived": 1,
-      "event_type": "died"
-    },
     {
       "timestamp": "24-12-25 18:36:00.547",
       "steam_id": "76561198417595781",
@@ -1242,33 +1232,56 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "1"
+    },
+    {
+      "timestamp": "25-12-25 01:33:21.153",
+      "steam_id": "76561198150738241",
+      "username": "Charlie",
+      "x": "10706",
+      "y": "9548",
+      "z": "0",
+      "hours_survived": 119,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 1,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 4,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 1,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "24-12-25 23:56:05.594",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "suicide bomber rat"
-    },
-    {
-      "timestamp": "24-12-25 23:56:05.594",
-      "chat_type": "General",
-      "author": "Charlie",
-      "text": "suicide bomber rat"
-    },
-    {
-      "timestamp": "24-12-25 23:59:26.338",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "you can sharpen stuff while driving"
-    },
-    {
-      "timestamp": "24-12-25 23:59:26.339",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "you can sharpen stuff while driving"
-    },
     {
       "timestamp": "24-12-25 23:59:38.483",
       "chat_type": "General",
@@ -1544,7 +1557,31 @@
       "chat_type": "General",
       "author": "exoticbutter",
       "text": "i wish i had ammo"
+    },
+    {
+      "timestamp": "25-12-25 01:33:50.486",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "alone in the world"
+    },
+    {
+      "timestamp": "25-12-25 01:33:50.487",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "alone in the world"
+    },
+    {
+      "timestamp": "25-12-25 01:33:54.087",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "no one left"
+    },
+    {
+      "timestamp": "25-12-25 01:33:54.087",
+      "chat_type": "General",
+      "author": "Charlie",
+      "text": "no one left"
     }
   ],
-  "timestamp": "2025-12-25T01:30:01.880560"
+  "timestamp": "2025-12-25T01:35:01.184490"
 }

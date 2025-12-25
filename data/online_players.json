@@ -1,5 +1,15 @@
 {
-  "count": 0,
-  "players": [],
-  "timestamp": "2025-12-25T01:30:01.868973"
+  "count": 1,
+  "players": [
+    {
+      "username": "Charlie",
+      "steam_id": "76561198150738241",
+      "connected_at": "25-12-25 01:33:20.506",
+      "x": 10706,
+      "y": 9548,
+      "z": 0,
+      "online": true
+    }
+  ],
+  "timestamp": "2025-12-25T01:35:01.172858"
 }
