@@ -900,7 +900,7 @@
     "half": {
       "username": "half",
       "steam_id": "76561198368197161",
-      "total_hours": 213,
+      "total_hours": 217,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -920,7 +920,7 @@
         "Trapping": 1,
         "PlantScavenging": 0,
         "Doctor": 0,
-        "Electricity": 0,
+        "Electricity": 1,
         "Blacksmith": 0,
         "MetalWelding": 0,
         "Mechanics": 1,
@@ -1024,9 +1024,14 @@
           "skill": "Mechanics",
           "level": "1",
           "timestamp": "25-12-25 17:02:34.834"
+        },
+        {
+          "skill": "Electricity",
+          "level": "1",
+          "timestamp": "25-12-25 19:46:06.369"
         }
       ],
-      "last_seen": "25-12-25 19:36:10.595",
+      "last_seen": "25-12-25 19:46:06.369",
       "connections": 8
     },
     "Kessel": {
@@ -2129,5 +2134,5 @@
     }
   },
   "total_players": 27,
-  "timestamp": "2025-12-25T19:45:01.203491"
+  "timestamp": "2025-12-25T19:50:01.487312"
 }
