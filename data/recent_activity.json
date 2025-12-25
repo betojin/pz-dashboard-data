@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "24-12-25 20:28:21.492",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "disconnected",
-      "x": "8143",
-      "y": "11540",
-      "z": "0"
-    },
-    {
       "timestamp": "24-12-25 20:28:44.285",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -358,6 +349,15 @@
       "action": "disconnected",
       "x": "10659",
       "y": "9566",
+      "z": "0"
+    },
+    {
+      "timestamp": "25-12-25 00:29:56.916",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "disconnected",
+      "x": "8313",
+      "y": "10093",
       "z": "0"
     }
   ],
@@ -1242,18 +1242,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "24-12-25 23:56:04.399",
-      "chat_type": "General",
-      "author": "KeenIslander",
-      "text": "this is unstable afterall ig"
-    },
-    {
-      "timestamp": "24-12-25 23:56:04.399",
-      "chat_type": "General",
-      "author": "KeenIslander",
-      "text": "this is unstable afterall ig"
-    },
-    {
       "timestamp": "24-12-25 23:56:05.594",
       "chat_type": "General",
       "author": "Charlie",
@@ -1540,7 +1528,19 @@
       "chat_type": "General",
       "author": "exoticbutter",
       "text": "sledge"
+    },
+    {
+      "timestamp": "25-12-25 00:29:37.365",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "i wish i had ammo"
+    },
+    {
+      "timestamp": "25-12-25 00:29:37.365",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "i wish i had ammo"
     }
   ],
-  "timestamp": "2025-12-25T00:25:01.252240"
+  "timestamp": "2025-12-25T00:30:01.555318"
 }
