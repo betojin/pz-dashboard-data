@@ -1,48 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "25-12-25 19:17:29.808",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "25-12-25 19:17:48.546",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "fully connected",
-      "x": "8127",
-      "y": "11541",
-      "z": "0"
-    },
-    {
-      "timestamp": "25-12-25 19:21:51.353",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "disconnected",
-      "x": "8124",
-      "y": "11540",
-      "z": "0"
-    },
-    {
-      "timestamp": "25-12-25 19:35:47.812",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "25-12-25 19:35:47.812",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "25-12-25 19:35:53.138",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "25-12-25 19:36:10.024",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -359,80 +317,54 @@
       "x": "8126",
       "y": "11544",
       "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 00:11:16.182",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "disconnected",
+      "x": "10951",
+      "y": "9481",
+      "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 00:11:19.033",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "fully connected",
+      "x": "10908",
+      "y": "9994",
+      "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 00:12:00.628",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 00:12:00.629",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "26-12-25 00:12:18.648",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 00:13:06.729",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "5530",
+      "y": "6049",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "25-12-25 06:30:52.711",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10042",
-      "y": "8079",
-      "z": "0",
-      "hours_survived": 451,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "4"
-    },
-    {
-      "timestamp": "25-12-25 06:37:57.192",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12023",
-      "y": "2592",
-      "z": "0",
-      "hours_survived": 25,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 10,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 1,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "25-12-25 07:03:45.684",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12440",
-      "y": "1780",
-      "z": "0",
-      "hours_survived": 35,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "2"
-    },
     {
       "timestamp": "25-12-25 07:16:41.916",
       "steam_id": "76561199511597958",
@@ -1351,6 +1283,110 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "26-12-25 00:10:16.578",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "10951",
+      "y": "9481",
+      "z": "0",
+      "hours_survived": 11,
+      "event_type": "died"
+    },
+    {
+      "timestamp": "26-12-25 00:11:19.271",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "10908",
+      "y": "9994",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "26-12-25 00:13:07.036",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5530",
+      "y": "6049",
+      "z": "0",
+      "hours_survived": 445,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 7,
+        "Blunt": 2,
+        "Axe": 2,
+        "Lightfoot": 2,
+        "Nimble": 3,
+        "Sprinting": 2,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 4,
+        "Reloading": 4,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1655,5 +1691,5 @@
       "text": "okay so i found where the zombies went"
     }
   ],
-  "timestamp": "2025-12-26T00:10:01.290426"
+  "timestamp": "2025-12-26T00:15:01.583205"
 }
