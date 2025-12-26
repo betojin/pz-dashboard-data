@@ -2045,7 +2045,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 0,
+        "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 1,
@@ -2079,9 +2079,14 @@
           "skill": "SmallBlunt",
           "level": "1",
           "timestamp": "26-12-25 21:23:28.708"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "26-12-25 22:55:54.034"
         }
       ],
-      "last_seen": "26-12-25 21:23:28.708",
+      "last_seen": "26-12-25 22:55:54.034",
       "connections": 3
     },
     "Danford": {
@@ -2222,7 +2227,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 122,
+      "total_hours": 124,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -2240,7 +2245,7 @@
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
-        "PlantScavenging": 1,
+        "PlantScavenging": 2,
         "Doctor": 1,
         "Electricity": 0,
         "Blacksmith": 0,
@@ -2257,7 +2262,7 @@
         "FlintKnapping": 0,
         "Masonry": 0,
         "Pottery": 0,
-        "Carving": 3,
+        "Carving": 4,
         "Butchering": 0,
         "Glassmaking": 0
       },
@@ -2291,9 +2296,19 @@
           "skill": "Carving",
           "level": "3",
           "timestamp": "26-12-25 22:53:47.257"
+        },
+        {
+          "skill": "Carving",
+          "level": "4",
+          "timestamp": "26-12-25 22:55:41.876"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "2",
+          "timestamp": "26-12-25 22:58:02.030"
         }
       ],
-      "last_seen": "26-12-25 22:53:47.257",
+      "last_seen": "26-12-25 22:58:02.030",
       "connections": 3
     },
     "El_Moctezuma": {
@@ -2627,5 +2642,5 @@
     }
   },
   "total_players": 31,
-  "timestamp": "2025-12-26T22:55:01.764517"
+  "timestamp": "2025-12-26T23:00:01.092995"
 }
