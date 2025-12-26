@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "26-12-25 19:56:13.756",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "fully connected",
-      "x": "5436",
-      "y": "5869",
-      "z": "0"
-    },
-    {
-      "timestamp": "26-12-25 20:01:13.810",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "disconnected",
-      "x": "10658",
-      "y": "9566",
-      "z": "0"
-    },
-    {
       "timestamp": "26-12-25 20:36:17.110",
       "steam_id": "76561198994115626",
       "username": "Alexbg6000",
@@ -362,45 +344,24 @@
       "steam_id": "76561198143098309",
       "username": "Kirkinator",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "26-12-25 23:40:16.495",
+      "steam_id": "76561198143098309",
+      "username": "Kirkinator",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 23:41:31.508",
+      "steam_id": "76561198143098309",
+      "username": "Kirkinator",
+      "action": "fully connected",
+      "x": "11792",
+      "y": "6786",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "26-12-25 20:53:26.807",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5717",
-      "y": "5729",
-      "z": "0",
-      "hours_survived": 480,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "1"
-    },
-    {
-      "timestamp": "26-12-25 20:53:31.912",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5717",
-      "y": "5729",
-      "z": "0",
-      "hours_survived": 480,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "2"
-    },
-    {
-      "timestamp": "26-12-25 20:53:39.802",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5717",
-      "y": "5729",
-      "z": "0",
-      "hours_survived": 481,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "3"
-    },
     {
       "timestamp": "26-12-25 20:54:05.554",
       "steam_id": "76561198065774641",
@@ -965,6 +926,77 @@
       "event_type": "level_up",
       "skill": "Cooking",
       "level": "1"
+    },
+    {
+      "timestamp": "26-12-25 23:41:32.107",
+      "steam_id": "76561198143098309",
+      "username": "Kirkinator",
+      "x": "11792",
+      "y": "6786",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 2,
+        "Fitness": 7,
+        "Strength": 7,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "26-12-25 23:42:57.120",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8617",
+      "y": "8822",
+      "z": "0",
+      "hours_survived": 142,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "6"
+    },
+    {
+      "timestamp": "26-12-25 23:43:17.431",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10100",
+      "y": "8260",
+      "z": "0",
+      "hours_survived": 581,
+      "event_type": "level_up",
+      "skill": "Electricity",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1269,5 +1301,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-26T23:40:02.006743"
+  "timestamp": "2025-12-26T23:45:01.314186"
 }

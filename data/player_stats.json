@@ -198,7 +198,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 579,
+      "total_hours": 581,
       "deaths": 1,
       "skills": {
         "Cooking": 2,
@@ -218,7 +218,7 @@
         "Trapping": 0,
         "PlantScavenging": 0,
         "Doctor": 0,
-        "Electricity": 0,
+        "Electricity": 1,
         "Blacksmith": 0,
         "MetalWelding": 0,
         "Mechanics": 0,
@@ -347,9 +347,14 @@
           "skill": "Cooking",
           "level": "1",
           "timestamp": "26-12-25 23:37:51.124"
+        },
+        {
+          "skill": "Electricity",
+          "level": "1",
+          "timestamp": "26-12-25 23:43:17.431"
         }
       ],
-      "last_seen": "26-12-25 23:37:51.124",
+      "last_seen": "26-12-25 23:43:17.431",
       "connections": 2
     },
     "Firestorm3050": {
@@ -2237,7 +2242,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 139,
+      "total_hours": 142,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -2272,7 +2277,7 @@
         "FlintKnapping": 0,
         "Masonry": 0,
         "Pottery": 0,
-        "Carving": 5,
+        "Carving": 6,
         "Butchering": 0,
         "Glassmaking": 0
       },
@@ -2326,9 +2331,14 @@
           "skill": "Carving",
           "level": "5",
           "timestamp": "26-12-25 23:35:19.617"
+        },
+        {
+          "skill": "Carving",
+          "level": "6",
+          "timestamp": "26-12-25 23:42:57.120"
         }
       ],
-      "last_seen": "26-12-25 23:35:19.617",
+      "last_seen": "26-12-25 23:42:57.120",
       "connections": 3
     },
     "El_Moctezuma": {
@@ -2659,8 +2669,54 @@
       "level_ups": [],
       "last_seen": "26-12-25 20:40:48.333",
       "connections": 1
+    },
+    "Kirkinator": {
+      "username": "Kirkinator",
+      "steam_id": "76561198143098309",
+      "total_hours": 0,
+      "deaths": 0,
+      "skills": {
+        "Cooking": 2,
+        "Fitness": 7,
+        "Strength": 7,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      },
+      "level_ups": [],
+      "last_seen": "26-12-25 23:41:32.107",
+      "connections": 1
     }
   },
-  "total_players": 31,
-  "timestamp": "2025-12-26T23:40:01.976424"
+  "total_players": 32,
+  "timestamp": "2025-12-26T23:45:01.265334"
 }
