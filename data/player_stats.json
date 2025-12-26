@@ -325,7 +325,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 909,
+      "total_hours": 925,
       "deaths": 0,
       "skills": {
         "Cooking": 4,
@@ -345,7 +345,7 @@
         "Trapping": 1,
         "PlantScavenging": 4,
         "Doctor": 0,
-        "Electricity": 1,
+        "Electricity": 2,
         "Blacksmith": 0,
         "MetalWelding": 0,
         "Mechanics": 2,
@@ -589,9 +589,14 @@
           "skill": "Woodwork",
           "level": "7",
           "timestamp": "26-12-25 18:25:04.427"
+        },
+        {
+          "skill": "Electricity",
+          "level": "2",
+          "timestamp": "26-12-25 19:59:47.230"
         }
       ],
-      "last_seen": "26-12-25 19:21:27.689",
+      "last_seen": "26-12-25 19:59:47.230",
       "connections": 2
     },
     "Molotov Kid": {
@@ -683,7 +688,7 @@
     "CaptainLobo": {
       "username": "CaptainLobo",
       "steam_id": "76561198044597580",
-      "total_hours": 445,
+      "total_hours": 458,
       "deaths": 5,
       "skills": {
         "Cooking": 0,
@@ -809,7 +814,8 @@
           "timestamp": "25-12-25 21:04:34.081"
         }
       ],
-      "last_seen": "26-12-25 00:13:07.036"
+      "last_seen": "26-12-25 19:56:14.281",
+      "connections": 1
     },
     "Woofie": {
       "username": "Woofie",
@@ -2415,5 +2421,5 @@
     }
   },
   "total_players": 30,
-  "timestamp": "2025-12-26T19:55:01.447727"
+  "timestamp": "2025-12-26T20:00:01.710147"
 }
