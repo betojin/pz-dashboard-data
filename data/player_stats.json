@@ -127,7 +127,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 553,
+      "total_hours": 559,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -152,7 +152,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -261,9 +261,14 @@
           "skill": "Woodwork",
           "level": "6",
           "timestamp": "26-12-25 06:49:53.581"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "26-12-25 07:04:29.129"
         }
       ],
-      "last_seen": "26-12-25 06:49:53.581",
+      "last_seen": "26-12-25 07:04:29.129",
       "connections": 2
     },
     "Firestorm3050": {
@@ -1720,7 +1725,7 @@
     "RottenPotato": {
       "username": "RottenPotato",
       "steam_id": "76561199511597958",
-      "total_hours": 121,
+      "total_hours": 126,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -1730,7 +1735,7 @@
         "Axe": 4,
         "Lightfoot": 0,
         "Nimble": 0,
-        "Sprinting": 1,
+        "Sprinting": 2,
         "Sneak": 0,
         "Woodwork": 0,
         "Aiming": 0,
@@ -1779,15 +1784,20 @@
           "skill": "Axe",
           "level": "4",
           "timestamp": "26-12-25 06:48:12.132"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "2",
+          "timestamp": "26-12-25 07:01:14.329"
         }
       ],
-      "last_seen": "26-12-25 06:48:12.132",
+      "last_seen": "26-12-25 07:01:14.329",
       "connections": 7
     },
     "ExpiredMayo": {
       "username": "ExpiredMayo",
       "steam_id": "76561199510927772",
-      "total_hours": 50,
+      "total_hours": 77,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -1797,7 +1807,7 @@
         "Axe": 0,
         "Lightfoot": 2,
         "Nimble": 2,
-        "Sprinting": 0,
+        "Sprinting": 1,
         "Sneak": 2,
         "Woodwork": 0,
         "Aiming": 0,
@@ -1826,8 +1836,14 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "26-12-25 05:02:14.075",
+      "level_ups": [
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "26-12-25 07:03:50.185"
+        }
+      ],
+      "last_seen": "26-12-25 07:03:50.185",
       "connections": 3
     },
     "Danford": {
@@ -2271,5 +2287,5 @@
     }
   },
   "total_players": 29,
-  "timestamp": "2025-12-26T07:00:01.664231"
+  "timestamp": "2025-12-26T07:05:01.982957"
 }
