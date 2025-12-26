@@ -1,36 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "26-12-25 19:08:07.016",
-      "steam_id": "76561199454159707",
-      "username": "Sharkey",
-      "action": "fully connected",
-      "x": "11533",
-      "y": "6924",
-      "z": "0"
-    },
-    {
-      "timestamp": "26-12-25 19:12:49.033",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "disconnected",
-      "x": "12046",
-      "y": "2606",
-      "z": "0"
-    },
-    {
-      "timestamp": "26-12-25 19:13:12.020",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "26-12-25 19:13:12.021",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "26-12-25 19:13:18.184",
       "steam_id": "76561198065774641",
       "username": "admin",
@@ -368,33 +338,36 @@
       "x": "8613",
       "y": "8826",
       "z": "-1"
+    },
+    {
+      "timestamp": "26-12-25 22:35:15.972",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 22:35:15.972",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "26-12-25 22:35:27.318",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 22:36:19.051",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "action": "fully connected",
+      "x": "12363",
+      "y": "1457",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "26-12-25 20:33:58.259",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5716",
-      "y": "5728",
-      "z": "0",
-      "hours_survived": 473,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "1"
-    },
-    {
-      "timestamp": "26-12-25 20:34:02.270",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5716",
-      "y": "5728",
-      "z": "0",
-      "hours_survived": 473,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "2"
-    },
     {
       "timestamp": "26-12-25 20:35:33.571",
       "steam_id": "76561198044597580",
@@ -905,6 +878,63 @@
       "event_type": "level_up",
       "skill": "Doctor",
       "level": "1"
+    },
+    {
+      "timestamp": "26-12-25 22:36:28.958",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "12363",
+      "y": "1457",
+      "z": "0",
+      "hours_survived": 281,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 1,
+        "Axe": 1,
+        "Lightfoot": 2,
+        "Nimble": 3,
+        "Sprinting": 2,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 1,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "26-12-25 22:36:44.289",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "12363",
+      "y": "1457",
+      "z": "0",
+      "hours_survived": 281,
+      "event_type": "died"
     }
   ],
   "chat_messages": [
@@ -1209,5 +1239,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-26T22:35:01.475574"
+  "timestamp": "2025-12-26T22:40:01.765804"
 }
