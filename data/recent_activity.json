@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "26-12-25 17:44:11.883",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "26-12-25 17:44:24.184",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "26-12-25 17:46:16.027",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -353,56 +341,21 @@
       "x": "10658",
       "y": "9566",
       "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 20:36:17.110",
+      "steam_id": "76561198994115626",
+      "username": "Alexbg6000",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 20:36:17.110",
+      "steam_id": "76561198994115626",
+      "username": "Alexbg6000",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "26-12-25 17:46:16.668",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9566",
-      "z": "0",
-      "hours_survived": 872,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 4,
-        "Sneak": 0,
-        "Woodwork": 6,
-        "Aiming": 0,
-        "Reloading": 2,
-        "Farming": 2,
-        "Fishing": 2,
-        "Trapping": 1,
-        "PlantScavenging": 3,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 1,
-        "Maintenance": 3,
-        "SmallBlade": 0,
-        "LongBlade": 1,
-        "SmallBlunt": 3,
-        "Tailoring": 1,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 6,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "26-12-25 18:11:41.543",
       "steam_id": "76561198031138505",
@@ -1100,21 +1053,21 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "2"
+    },
+    {
+      "timestamp": "26-12-25 20:35:33.571",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5717",
+      "y": "5728",
+      "z": "0",
+      "hours_survived": 474,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "3"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "26-12-25 19:31:19.376",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "26-12-25 19:31:19.376",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "26-12-25 19:31:19.622",
       "chat_type": "Local",
@@ -1402,7 +1355,19 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "26-12-25 20:39:21.875",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "is level 3 the max we can get from tapes?"
+    },
+    {
+      "timestamp": "26-12-25 20:39:21.876",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "is level 3 the max we can get from tapes?"
     }
   ],
-  "timestamp": "2025-12-26T20:35:01.347853"
+  "timestamp": "2025-12-26T20:40:01.703165"
 }
