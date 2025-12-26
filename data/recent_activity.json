@@ -183,16 +183,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "26-12-25 03:11:05.588",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12025",
-      "y": "2537",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
-    {
       "timestamp": "26-12-25 03:22:53.097",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -949,6 +939,18 @@
       "event_type": "level_up",
       "skill": "SmallBlunt",
       "level": "1"
+    },
+    {
+      "timestamp": "26-12-25 09:38:07.064",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "13975",
+      "y": "3244",
+      "z": "0",
+      "hours_survived": 98,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1253,5 +1255,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-26T09:35:01.381497"
+  "timestamp": "2025-12-26T09:40:01.721723"
 }
