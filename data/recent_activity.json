@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "26-12-25 20:30:52.709",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "12510",
-      "y": "4336",
-      "z": "0",
-      "hours_survived": 236,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "1"
-    },
-    {
       "timestamp": "26-12-25 20:30:55.065",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -896,6 +884,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "26-12-25 21:42:43.563",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "9046",
+      "y": "8735",
+      "z": "0",
+      "hours_survived": 100,
+      "event_type": "level_up",
+      "skill": "Doctor",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1200,5 +1200,5 @@
       "text": "i mean safety i guess"
     }
   ],
-  "timestamp": "2025-12-26T21:40:01.876871"
+  "timestamp": "2025-12-26T21:45:01.184613"
 }

@@ -2212,7 +2212,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 99,
+      "total_hours": 100,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -2231,7 +2231,7 @@
         "Fishing": 0,
         "Trapping": 0,
         "PlantScavenging": 1,
-        "Doctor": 0,
+        "Doctor": 1,
         "Electricity": 0,
         "Blacksmith": 0,
         "MetalWelding": 0,
@@ -2271,9 +2271,14 @@
           "skill": "Sprinting",
           "level": "1",
           "timestamp": "25-12-25 04:47:13.648"
+        },
+        {
+          "skill": "Doctor",
+          "level": "1",
+          "timestamp": "26-12-25 21:42:43.563"
         }
       ],
-      "last_seen": "26-12-25 21:39:19.438",
+      "last_seen": "26-12-25 21:42:43.563",
       "connections": 2
     },
     "El_Moctezuma": {
@@ -2607,5 +2612,5 @@
     }
   },
   "total_players": 31,
-  "timestamp": "2025-12-26T21:40:01.852528"
+  "timestamp": "2025-12-26T21:45:01.154118"
 }
