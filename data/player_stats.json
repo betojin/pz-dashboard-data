@@ -1668,7 +1668,7 @@
     "Boba": {
       "username": "Boba",
       "steam_id": "76561199317533255",
-      "total_hours": 82,
+      "total_hours": 124,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1695,7 +1695,7 @@
         "Spear": 0,
         "Maintenance": 0,
         "SmallBlade": 0,
-        "LongBlade": 0,
+        "LongBlade": 1,
         "SmallBlunt": 0,
         "Tailoring": 0,
         "Tracking": 0,
@@ -1717,9 +1717,14 @@
           "skill": "Sprinting",
           "level": "1",
           "timestamp": "24-12-25 08:06:44.485"
+        },
+        {
+          "skill": "LongBlade",
+          "level": "1",
+          "timestamp": "26-12-25 07:28:23.692"
         }
       ],
-      "last_seen": "26-12-25 05:43:04.378",
+      "last_seen": "26-12-25 07:28:23.692",
       "connections": 2
     },
     "RottenPotato": {
@@ -2292,5 +2297,5 @@
     }
   },
   "total_players": 29,
-  "timestamp": "2025-12-26T07:25:01.491917"
+  "timestamp": "2025-12-26T07:30:01.876105"
 }

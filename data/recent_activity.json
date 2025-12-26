@@ -372,16 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "26-12-25 00:31:24.983",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "10803",
-      "y": "10073",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
-    {
       "timestamp": "26-12-25 00:35:17.346",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -1056,33 +1046,21 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "2"
+    },
+    {
+      "timestamp": "26-12-25 07:28:23.692",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "13819",
+      "y": "2620",
+      "z": "0",
+      "hours_survived": 124,
+      "event_type": "level_up",
+      "skill": "LongBlade",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "26-12-25 05:33:44.324",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "26-12-25 05:33:44.324",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "26-12-25 05:33:44.633",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "26-12-25 05:33:44.633",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "26-12-25 05:33:44.868",
       "chat_type": "Local",
@@ -1358,7 +1336,31 @@
       "chat_type": "Local",
       "author": "ExpiredMayo",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "26-12-25 07:28:32.662",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "26-12-25 07:28:32.663",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "26-12-25 07:28:46.424",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "26-12-25 07:28:46.424",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-26T07:25:01.524397"
+  "timestamp": "2025-12-26T07:30:01.907140"
 }
