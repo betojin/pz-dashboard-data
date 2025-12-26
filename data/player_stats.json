@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 148,
+      "total_hours": 152,
       "deaths": 3,
       "skills": {
         "Cooking": 0,
@@ -15,7 +15,7 @@
         "Nimble": 0,
         "Sprinting": 2,
         "Sneak": 0,
-        "Woodwork": 5,
+        "Woodwork": 6,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -117,9 +117,14 @@
           "skill": "Woodwork",
           "level": "5",
           "timestamp": "26-12-25 19:37:49.524"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "6",
+          "timestamp": "26-12-25 19:48:19.419"
         }
       ],
-      "last_seen": "26-12-25 19:37:49.524",
+      "last_seen": "26-12-25 19:48:19.419",
       "connections": 4
     },
     "admin": {
@@ -1883,7 +1888,7 @@
         "Fishing": 0,
         "Trapping": 0,
         "PlantScavenging": 0,
-        "Doctor": 0,
+        "Doctor": 1,
         "Electricity": 0,
         "Blacksmith": 0,
         "MetalWelding": 0,
@@ -1913,9 +1918,14 @@
           "skill": "SmallBlunt",
           "level": "1",
           "timestamp": "26-12-25 09:00:35.863"
+        },
+        {
+          "skill": "Doctor",
+          "level": "1",
+          "timestamp": "26-12-25 19:48:22.446"
         }
       ],
-      "last_seen": "26-12-25 19:01:01.314",
+      "last_seen": "26-12-25 19:48:22.446",
       "connections": 3
     },
     "Danford": {
@@ -2405,5 +2415,5 @@
     }
   },
   "total_players": 30,
-  "timestamp": "2025-12-26T19:45:01.821253"
+  "timestamp": "2025-12-26T19:50:01.130434"
 }

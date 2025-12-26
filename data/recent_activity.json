@@ -354,30 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "26-12-25 08:04:53.852",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12019",
-      "y": "2598",
-      "z": "0",
-      "hours_survived": 62,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "1"
-    },
-    {
-      "timestamp": "26-12-25 08:06:29.749",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12019",
-      "y": "2598",
-      "z": "0",
-      "hours_survived": 62,
-      "event_type": "level_up",
-      "skill": "Trapping",
-      "level": "1"
-    },
-    {
       "timestamp": "26-12-25 08:56:41.555",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -1161,6 +1137,30 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "5"
+    },
+    {
+      "timestamp": "26-12-25 19:48:19.419",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12057",
+      "y": "2594",
+      "z": "0",
+      "hours_survived": 152,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "6"
+    },
+    {
+      "timestamp": "26-12-25 19:48:22.446",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "x": "12021",
+      "y": "2590",
+      "z": "0",
+      "hours_survived": 25,
+      "event_type": "level_up",
+      "skill": "Doctor",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1465,5 +1465,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-26T19:45:01.842516"
+  "timestamp": "2025-12-26T19:50:01.159303"
 }
