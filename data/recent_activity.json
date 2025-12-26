@@ -188,6 +188,33 @@
       "x": "13594",
       "y": "1405",
       "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 10:36:02.182",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "action": "disconnected",
+      "x": "13184",
+      "y": "1257",
+      "z": "1"
+    },
+    {
+      "timestamp": "26-12-25 10:39:20.294",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 10:39:20.294",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "26-12-25 10:39:40.740",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1231,5 +1258,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-26T10:35:01.708166"
+  "timestamp": "2025-12-26T10:40:01.126016"
 }
