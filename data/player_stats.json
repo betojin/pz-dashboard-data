@@ -1841,7 +1841,7 @@
     "Boba": {
       "username": "Boba",
       "steam_id": "76561199317533255",
-      "total_hours": 252,
+      "total_hours": 258,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1850,7 +1850,7 @@
         "Blunt": 1,
         "Axe": 1,
         "Lightfoot": 2,
-        "Nimble": 2,
+        "Nimble": 3,
         "Sprinting": 2,
         "Sneak": 2,
         "Woodwork": 0,
@@ -1920,9 +1920,14 @@
           "skill": "Doctor",
           "level": "1",
           "timestamp": "26-12-25 21:09:23.439"
+        },
+        {
+          "skill": "Nimble",
+          "level": "3",
+          "timestamp": "26-12-25 21:24:06.824"
         }
       ],
-      "last_seen": "26-12-25 21:09:23.439",
+      "last_seen": "26-12-25 21:24:06.824",
       "connections": 3
     },
     "RottenPotato": {
@@ -2059,9 +2064,14 @@
           "skill": "Doctor",
           "level": "1",
           "timestamp": "26-12-25 19:48:22.446"
+        },
+        {
+          "skill": "SmallBlunt",
+          "level": "1",
+          "timestamp": "26-12-25 21:23:28.708"
         }
       ],
-      "last_seen": "26-12-25 19:48:22.446",
+      "last_seen": "26-12-25 21:23:28.708",
       "connections": 3
     },
     "Danford": {
@@ -2597,5 +2607,5 @@
     }
   },
   "total_players": 31,
-  "timestamp": "2025-12-26T21:20:01.500536"
+  "timestamp": "2025-12-26T21:25:01.864437"
 }

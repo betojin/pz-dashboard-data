@@ -363,30 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "26-12-25 19:59:47.230",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10665",
-      "y": "9574",
-      "z": "0",
-      "hours_survived": 925,
-      "event_type": "level_up",
-      "skill": "Electricity",
-      "level": "2"
-    },
-    {
-      "timestamp": "26-12-25 20:23:22.963",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "12564",
-      "y": "4692",
-      "z": "0",
-      "hours_survived": 233,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "1"
-    },
-    {
       "timestamp": "26-12-25 20:27:20.751",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -826,6 +802,30 @@
       "event_type": "level_up",
       "skill": "Tailoring",
       "level": "2"
+    },
+    {
+      "timestamp": "26-12-25 21:23:28.708",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "x": "12557",
+      "y": "2667",
+      "z": "0",
+      "hours_survived": 64,
+      "event_type": "level_up",
+      "skill": "SmallBlunt",
+      "level": "1"
+    },
+    {
+      "timestamp": "26-12-25 21:24:06.824",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "12557",
+      "y": "2707",
+      "z": "0",
+      "hours_survived": 258,
+      "event_type": "level_up",
+      "skill": "Nimble",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1130,5 +1130,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-26T21:20:01.524412"
+  "timestamp": "2025-12-26T21:25:01.888264"
 }
