@@ -183,16 +183,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "26-12-25 03:29:29.722",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12025",
-      "y": "2537",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
-    {
       "timestamp": "26-12-25 03:55:34.937",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -953,6 +943,18 @@
       "event_type": "level_up",
       "skill": "Axe",
       "level": "4"
+    },
+    {
+      "timestamp": "26-12-25 09:55:45.655",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "13683",
+      "y": "1616",
+      "z": "0",
+      "hours_survived": 105,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1257,5 +1259,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-26T09:55:01.749246"
+  "timestamp": "2025-12-26T10:00:02.063584"
 }
