@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 143,
+      "total_hours": 148,
       "deaths": 3,
       "skills": {
         "Cooking": 0,
@@ -15,7 +15,7 @@
         "Nimble": 0,
         "Sprinting": 2,
         "Sneak": 0,
-        "Woodwork": 4,
+        "Woodwork": 5,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -112,9 +112,14 @@
           "skill": "Woodwork",
           "level": "4",
           "timestamp": "26-12-25 19:25:35.777"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "5",
+          "timestamp": "26-12-25 19:37:49.524"
         }
       ],
-      "last_seen": "26-12-25 19:25:35.777",
+      "last_seen": "26-12-25 19:37:49.524",
       "connections": 4
     },
     "admin": {
@@ -2349,7 +2354,7 @@
     "Sharkey": {
       "username": "Sharkey",
       "steam_id": "76561199454159707",
-      "total_hours": 0,
+      "total_hours": 10,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -2374,7 +2379,7 @@
         "MetalWelding": 0,
         "Mechanics": 1,
         "Spear": 0,
-        "Maintenance": 0,
+        "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -2388,11 +2393,17 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "26-12-25 19:08:07.721",
+      "level_ups": [
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "26-12-25 19:35:43.701"
+        }
+      ],
+      "last_seen": "26-12-25 19:35:43.701",
       "connections": 1
     }
   },
   "total_players": 30,
-  "timestamp": "2025-12-26T19:35:01.071282"
+  "timestamp": "2025-12-26T19:40:01.459120"
 }
