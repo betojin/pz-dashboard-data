@@ -914,8 +914,8 @@
           "timestamp": "26-12-25 20:53:39.802"
         }
       ],
-      "last_seen": "26-12-25 20:53:39.802",
-      "connections": 2
+      "last_seen": "26-12-25 20:55:36.388",
+      "connections": 3
     },
     "Woofie": {
       "username": "Woofie",
@@ -1831,7 +1831,7 @@
     "Boba": {
       "username": "Boba",
       "steam_id": "76561199317533255",
-      "total_hours": 236,
+      "total_hours": 247,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1856,7 +1856,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 1,
         "SmallBlunt": 0,
@@ -1900,9 +1900,14 @@
           "skill": "Maintenance",
           "level": "1",
           "timestamp": "26-12-25 20:30:52.709"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "26-12-25 20:56:34.655"
         }
       ],
-      "last_seen": "26-12-25 20:30:52.709",
+      "last_seen": "26-12-25 20:56:34.655",
       "connections": 3
     },
     "RottenPotato": {
@@ -2577,5 +2582,5 @@
     }
   },
   "total_players": 31,
-  "timestamp": "2025-12-26T20:55:01.605405"
+  "timestamp": "2025-12-26T21:00:01.106926"
 }

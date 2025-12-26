@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "26-12-25 18:43:00.970",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "26-12-25 18:43:59.210",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "fully connected",
-      "x": "9047",
-      "y": "8732",
-      "z": "0"
-    },
-    {
-      "timestamp": "26-12-25 18:59:39.116",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "26-12-25 18:59:39.117",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "26-12-25 18:59:51.015",
       "steam_id": "76561199317533255",
       "username": "Boba",
@@ -356,33 +329,36 @@
       "x": "5717",
       "y": "5729",
       "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 20:55:13.822",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 20:55:13.822",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "26-12-25 20:55:20.611",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 20:55:36.061",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "5717",
+      "y": "5729",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "26-12-25 19:35:43.701",
-      "steam_id": "76561199454159707",
-      "username": "Sharkey",
-      "x": "11765",
-      "y": "6826",
-      "z": "0",
-      "hours_survived": 10,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "1"
-    },
-    {
-      "timestamp": "26-12-25 19:37:49.524",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12057",
-      "y": "2591",
-      "z": "0",
-      "hours_survived": 148,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "5"
-    },
     {
       "timestamp": "26-12-25 19:48:19.419",
       "steam_id": "76561198065774641",
@@ -823,21 +799,68 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "3"
+    },
+    {
+      "timestamp": "26-12-25 20:55:36.388",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5717",
+      "y": "5729",
+      "z": "0",
+      "hours_survived": 481,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 3,
+        "Fitness": 7,
+        "Strength": 7,
+        "Blunt": 2,
+        "Axe": 2,
+        "Lightfoot": 2,
+        "Nimble": 3,
+        "Sprinting": 2,
+        "Sneak": 2,
+        "Woodwork": 3,
+        "Aiming": 4,
+        "Reloading": 4,
+        "Farming": 0,
+        "Fishing": 3,
+        "Trapping": 3,
+        "PlantScavenging": 2,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 3,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "26-12-25 20:56:34.655",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "12532",
+      "y": "4255",
+      "z": "0",
+      "hours_survived": 247,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "2"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "26-12-25 19:58:01.711",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "thanks Captain"
-    },
-    {
-      "timestamp": "26-12-25 19:58:01.712",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "thanks Captain"
-    },
     {
       "timestamp": "26-12-25 19:58:46.349",
       "chat_type": "General",
@@ -1125,7 +1148,19 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "26-12-25 20:55:13.452",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "26-12-25 20:55:13.452",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-26T20:55:01.629312"
+  "timestamp": "2025-12-26T21:00:01.131267"
 }
