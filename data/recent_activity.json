@@ -1,72 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "26-12-25 07:52:57.231",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "26-12-25 07:53:04.016",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "26-12-25 07:53:06.877",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "fully connected",
-      "x": "12021",
-      "y": "2588",
-      "z": "0"
-    },
-    {
-      "timestamp": "26-12-25 07:53:10.454",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "fully connected",
-      "x": "12021",
-      "y": "2589",
-      "z": "0"
-    },
-    {
-      "timestamp": "26-12-25 07:53:26.161",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "fully connected",
-      "x": "12022",
-      "y": "2595",
-      "z": "0"
-    },
-    {
-      "timestamp": "26-12-25 07:53:33.533",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "fully connected",
-      "x": "12022",
-      "y": "2588",
-      "z": "0"
-    },
-    {
-      "timestamp": "26-12-25 07:55:53.478",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "26-12-25 07:55:53.479",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "26-12-25 07:56:09.465",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "26-12-25 07:57:29.590",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -365,45 +299,72 @@
       "steam_id": "76561198065774641",
       "username": "BetoJin",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "26-12-25 19:00:05.027",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 19:00:24.224",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "fully connected",
+      "x": "12026",
+      "y": "2597",
+      "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 19:00:39.316",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 19:00:39.316",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "26-12-25 19:00:45.730",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 19:00:50.780",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "action": "fully connected",
+      "x": "12019",
+      "y": "2589",
+      "z": "1"
+    },
+    {
+      "timestamp": "26-12-25 19:01:00.884",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "fully connected",
+      "x": "12019",
+      "y": "2600",
+      "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 19:02:21.710",
+      "steam_id": "76561199454159707",
+      "username": "Sharkey",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 19:02:21.710",
+      "steam_id": "76561199454159707",
+      "username": "Sharkey",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "26-12-25 06:28:45.488",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12247",
-      "y": "1335",
-      "z": "0",
-      "hours_survived": 27,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "3"
-    },
-    {
-      "timestamp": "26-12-25 06:48:12.132",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "14032",
-      "y": "2194",
-      "z": "0",
-      "hours_survived": 121,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "4"
-    },
-    {
-      "timestamp": "26-12-25 06:49:53.581",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10062",
-      "y": "8218",
-      "z": "0",
-      "hours_survived": 553,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "6"
-    },
     {
       "timestamp": "26-12-25 07:01:14.329",
       "steam_id": "76561199511597958",
@@ -1106,57 +1067,150 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "26-12-25 19:00:24.924",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12026",
+      "y": "2597",
+      "z": "0",
+      "hours_survived": 135,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 10,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 4,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 2,
+        "Sneak": 0,
+        "Woodwork": 1,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "26-12-25 19:00:56.063",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "12019",
+      "y": "2589",
+      "z": "1",
+      "hours_survived": 201,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 1,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 1,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "26-12-25 19:01:01.314",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "x": "12019",
+      "y": "2600",
+      "z": "0",
+      "hours_survived": 7,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "26-12-25 08:45:54.402",
-      "chat_type": "Local",
-      "author": "Boba",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "26-12-25 08:45:54.402",
-      "chat_type": "Local",
-      "author": "Boba",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "26-12-25 08:45:54.578",
-      "chat_type": "Local",
-      "author": "Boba",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "26-12-25 08:45:54.579",
-      "chat_type": "Local",
-      "author": "Boba",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "26-12-25 09:32:02.057",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "26-12-25 09:32:02.057",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "26-12-25 09:32:53.270",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "26-12-25 09:32:53.270",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "26-12-25 09:32:54.039",
       "chat_type": "Local",
@@ -1408,7 +1462,55 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "26-12-25 19:04:19.231",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "Hey yall, XP multiplier updated. More detail on discord."
+    },
+    {
+      "timestamp": "26-12-25 19:04:19.231",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "Hey yall, XP multiplier updated. More detail on discord."
+    },
+    {
+      "timestamp": "26-12-25 19:04:34.925",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "Learn more about b42 skills more easily"
+    },
+    {
+      "timestamp": "26-12-25 19:04:34.925",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "Learn more about b42 skills more easily"
+    },
+    {
+      "timestamp": "26-12-25 19:04:36.306",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ty"
+    },
+    {
+      "timestamp": "26-12-25 19:04:36.306",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ty"
+    },
+    {
+      "timestamp": "26-12-25 19:04:59.041",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "I think all the new b42 skills are 6x now"
+    },
+    {
+      "timestamp": "26-12-25 19:04:59.041",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "I think all the new b42 skills are 6x now"
     }
   ],
-  "timestamp": "2025-12-26T19:00:01.825152"
+  "timestamp": "2025-12-26T19:05:01.132868"
 }
