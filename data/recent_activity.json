@@ -4,12 +4,6 @@
       "timestamp": "26-12-25 17:44:11.883",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "26-12-25 17:44:11.883",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
       "action": "allowed to join"
     },
     {
@@ -349,6 +343,15 @@
       "action": "fully connected",
       "x": "5436",
       "y": "5869",
+      "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 20:01:13.810",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "disconnected",
+      "x": "10658",
+      "y": "9566",
       "z": "0"
     }
   ],
@@ -1165,18 +1168,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "26-12-25 19:21:03.627",
-      "chat_type": "Local",
-      "author": "Boba",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "26-12-25 19:21:03.628",
-      "chat_type": "Local",
-      "author": "Boba",
-      "text": "HEY YOU!"
-    },
-    {
       "timestamp": "26-12-25 19:21:11.905",
       "chat_type": "Local",
       "author": "ExpiredMayo",
@@ -1463,7 +1454,19 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "just doing my part"
+    },
+    {
+      "timestamp": "26-12-25 20:02:32.521",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "how was everyones christmas?"
+    },
+    {
+      "timestamp": "26-12-25 20:02:32.522",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "how was everyones christmas?"
     }
   ],
-  "timestamp": "2025-12-26T20:00:01.739098"
+  "timestamp": "2025-12-26T20:05:02.048674"
 }
