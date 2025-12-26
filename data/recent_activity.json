@@ -4,12 +4,6 @@
       "timestamp": "26-12-25 19:02:21.710",
       "steam_id": "76561199454159707",
       "username": "Sharkey",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "26-12-25 19:02:21.710",
-      "steam_id": "76561199454159707",
-      "username": "Sharkey",
       "action": "allowed to join"
     },
     {
@@ -358,6 +352,15 @@
       "action": "fully connected",
       "x": "9052",
       "y": "8732",
+      "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 21:56:11.161",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "5717",
+      "y": "5723",
       "z": "0"
     }
   ],
@@ -900,18 +903,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "26-12-25 20:31:33.421",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "26-12-25 20:31:33.421",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
       "timestamp": "26-12-25 20:32:01.862",
       "chat_type": "Local",
       "author": "BetoJin",
@@ -1198,7 +1189,19 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "i mean safety i guess"
+    },
+    {
+      "timestamp": "26-12-25 21:59:31.030",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "26-12-25 21:59:31.030",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-26T21:55:01.844551"
+  "timestamp": "2025-12-26T22:00:01.170497"
 }
