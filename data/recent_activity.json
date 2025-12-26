@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "26-12-25 18:59:51.015",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "26-12-25 18:59:58.421",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -356,21 +350,18 @@
       "x": "5717",
       "y": "5729",
       "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 21:08:46.753",
+      "steam_id": "76561198994115626",
+      "username": "Alexbg6000",
+      "action": "disconnected",
+      "x": "11287",
+      "y": "6667",
+      "z": "1"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "26-12-25 19:48:19.419",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12057",
-      "y": "2594",
-      "z": "0",
-      "hours_survived": 152,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "6"
-    },
     {
       "timestamp": "26-12-25 19:48:22.446",
       "steam_id": "76561199510927772",
@@ -858,6 +849,18 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "2"
+    },
+    {
+      "timestamp": "26-12-25 21:09:23.439",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "12024",
+      "y": "2595",
+      "z": "0",
+      "hours_survived": 252,
+      "event_type": "level_up",
+      "skill": "Doctor",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1162,5 +1165,5 @@
       "text": "damn i had a generator in my farm all along lmao"
     }
   ],
-  "timestamp": "2025-12-26T21:05:01.436474"
+  "timestamp": "2025-12-26T21:10:01.794093"
 }
