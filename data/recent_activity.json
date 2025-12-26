@@ -336,16 +336,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "26-12-25 05:18:56.857",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12207",
-      "y": "2483",
-      "z": "0",
-      "hours_survived": 43,
-      "event_type": "died"
-    },
-    {
       "timestamp": "26-12-25 05:20:22.704",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -1034,6 +1024,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "26-12-25 18:11:41.543",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10761",
+      "y": "9591",
+      "z": "0",
+      "hours_survived": 883,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1338,5 +1340,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-26T18:10:01.485668"
+  "timestamp": "2025-12-26T18:15:01.779796"
 }
