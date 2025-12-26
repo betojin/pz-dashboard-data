@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "26-12-25 19:13:18.184",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "26-12-25 19:13:30.889",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "fully connected",
-      "x": "10881",
-      "y": "10152",
-      "z": "0"
-    },
-    {
       "timestamp": "26-12-25 19:16:56.800",
       "steam_id": "76561198065774641",
       "username": "admin",
@@ -365,21 +350,27 @@
       "x": "12363",
       "y": "1457",
       "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 22:42:17.648",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "action": "disconnected",
+      "x": "12363",
+      "y": "1457",
+      "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 22:42:23.020",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "action": "fully connected",
+      "x": "12025",
+      "y": "2592",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "26-12-25 20:35:33.571",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5717",
-      "y": "5728",
-      "z": "0",
-      "hours_survived": 474,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "3"
-    },
     {
       "timestamp": "26-12-25 20:40:18.279",
       "steam_id": "76561198044597580",
@@ -935,6 +926,16 @@
       "z": "0",
       "hours_survived": 281,
       "event_type": "died"
+    },
+    {
+      "timestamp": "26-12-25 22:42:23.152",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "12025",
+      "y": "2592",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
@@ -1239,5 +1240,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-26T22:40:01.765804"
+  "timestamp": "2025-12-26T22:45:01.103432"
 }
