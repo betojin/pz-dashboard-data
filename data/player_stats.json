@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 212,
+      "total_hours": 248,
       "deaths": 3,
       "skills": {
         "Cooking": 0,
@@ -15,7 +15,7 @@
         "Nimble": 0,
         "Sprinting": 2,
         "Sneak": 0,
-        "Woodwork": 6,
+        "Woodwork": 7,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -142,9 +142,14 @@
           "skill": "Doctor",
           "level": "1",
           "timestamp": "26-12-25 22:16:58.945"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "7",
+          "timestamp": "26-12-25 23:46:14.093"
         }
       ],
-      "last_seen": "26-12-25 22:16:58.945",
+      "last_seen": "26-12-25 23:46:14.093",
       "connections": 4
     },
     "admin": {
@@ -1867,7 +1872,7 @@
       "username": "Boba",
       "steam_id": "76561199317533255",
       "total_hours": 281,
-      "deaths": 1,
+      "deaths": 2,
       "skills": {
         "Cooking": 0,
         "Fitness": 5,
@@ -1952,8 +1957,8 @@
           "timestamp": "26-12-25 21:24:06.824"
         }
       ],
-      "last_seen": "26-12-25 23:13:27.130",
-      "connections": 6
+      "last_seen": "26-12-25 23:49:21.873",
+      "connections": 7
     },
     "RottenPotato": {
       "username": "RottenPotato",
@@ -2718,5 +2723,5 @@
     }
   },
   "total_players": 32,
-  "timestamp": "2025-12-26T23:45:01.265334"
+  "timestamp": "2025-12-26T23:50:01.629490"
 }
