@@ -372,18 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "25-12-25 23:19:04.355",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "x": "2592",
-      "y": "10918",
-      "z": "0",
-      "hours_survived": 88,
-      "event_type": "level_up",
-      "skill": "Aiming",
-      "level": "1"
-    },
-    {
       "timestamp": "25-12-25 23:40:41.233",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -1192,6 +1180,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "26-12-25 06:28:45.488",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12247",
+      "y": "1335",
+      "z": "0",
+      "hours_survived": 27,
+      "event_type": "level_up",
+      "skill": "Axe",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1496,5 +1496,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-26T06:25:01.967694"
+  "timestamp": "2025-12-26T06:30:01.357259"
 }
