@@ -1,39 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "25-12-25 18:54:09.766",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "25-12-25 18:54:16.893",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "25-12-25 18:54:37.910",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "fully connected",
-      "x": "7126",
-      "y": "6347",
-      "z": "0"
-    },
-    {
-      "timestamp": "25-12-25 19:17:24.296",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "25-12-25 19:17:24.297",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "25-12-25 19:17:29.808",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -356,21 +323,45 @@
       "x": "10944",
       "y": "9374",
       "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 00:00:28.337",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 00:00:28.337",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "26-12-25 00:00:35.739",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 00:00:53.318",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "fully connected",
+      "x": "8133",
+      "y": "11553",
+      "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 00:02:01.206",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "disconnected",
+      "x": "8126",
+      "y": "11544",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "25-12-25 06:22:43.472",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10042",
-      "y": "8068",
-      "z": "0",
-      "hours_survived": 448,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "3"
-    },
     {
       "timestamp": "25-12-25 06:30:52.711",
       "steam_id": "76561198119296623",
@@ -1313,6 +1304,53 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "26-12-25 00:00:53.869",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8133",
+      "y": "11553",
+      "z": "0",
+      "hours_survived": 229,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 9,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 2,
+        "Sneak": 0,
+        "Woodwork": 8,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1617,5 +1655,5 @@
       "text": "okay so i found where the zombies went"
     }
   ],
-  "timestamp": "2025-12-26T00:00:01.596059"
+  "timestamp": "2025-12-26T00:05:01.981820"
 }
