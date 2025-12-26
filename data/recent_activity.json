@@ -323,56 +323,18 @@
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 17:46:16.027",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "fully connected",
+      "x": "10659",
+      "y": "9566",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "26-12-25 05:16:47.328",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12030",
-      "y": "2595",
-      "z": "0",
-      "hours_survived": 85,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 10,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 3,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "26-12-25 05:18:56.857",
       "steam_id": "76561198065774641",
@@ -1025,6 +987,53 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "26-12-25 17:46:16.668",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9566",
+      "z": "0",
+      "hours_survived": 872,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 4,
+        "Fitness": 10,
+        "Strength": 9,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 4,
+        "Sneak": 0,
+        "Woodwork": 6,
+        "Aiming": 0,
+        "Reloading": 2,
+        "Farming": 2,
+        "Fishing": 2,
+        "Trapping": 1,
+        "PlantScavenging": 3,
+        "Doctor": 0,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 2,
+        "Spear": 1,
+        "Maintenance": 3,
+        "SmallBlade": 0,
+        "LongBlade": 1,
+        "SmallBlunt": 3,
+        "Tailoring": 1,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 6,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1329,5 +1338,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-26T17:45:02.044096"
+  "timestamp": "2025-12-26T17:50:01.342794"
 }
