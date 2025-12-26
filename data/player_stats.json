@@ -1725,7 +1725,7 @@
     "RottenPotato": {
       "username": "RottenPotato",
       "steam_id": "76561199511597958",
-      "total_hours": 126,
+      "total_hours": 132,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -1750,7 +1750,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -1789,9 +1789,14 @@
           "skill": "Sprinting",
           "level": "2",
           "timestamp": "26-12-25 07:01:14.329"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "26-12-25 07:16:09.684"
         }
       ],
-      "last_seen": "26-12-25 07:01:14.329",
+      "last_seen": "26-12-25 07:16:09.684",
       "connections": 7
     },
     "ExpiredMayo": {
@@ -2287,5 +2292,5 @@
     }
   },
   "total_players": 29,
-  "timestamp": "2025-12-26T07:15:01.751977"
+  "timestamp": "2025-12-26T07:20:01.125716"
 }
