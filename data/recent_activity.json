@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "25-12-25 23:28:33.680",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "action": "disconnected",
-      "x": "2589",
-      "y": "10925",
-      "z": "0"
-    },
-    {
-      "timestamp": "25-12-25 23:32:49.750",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "25-12-25 23:32:49.751",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -371,21 +356,27 @@
       "x": "12025",
       "y": "2537",
       "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 03:29:27.086",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "disconnected",
+      "x": "12114",
+      "y": "2381",
+      "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 03:29:29.548",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "fully connected",
+      "x": "12025",
+      "y": "2537",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "25-12-25 19:46:06.369",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8178",
-      "y": "11601",
-      "z": "1",
-      "hours_survived": 217,
-      "event_type": "level_up",
-      "skill": "Electricity",
-      "level": "1"
-    },
     {
       "timestamp": "25-12-25 20:15:46.972",
       "steam_id": "76561198044597580",
@@ -1203,6 +1194,16 @@
       "z": "0",
       "hours_survived": 4,
       "event_type": "died"
+    },
+    {
+      "timestamp": "26-12-25 03:29:29.722",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "12025",
+      "y": "2537",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
@@ -1507,5 +1508,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-26T03:25:01.543675"
+  "timestamp": "2025-12-26T03:30:01.907782"
 }
