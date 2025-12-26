@@ -2222,7 +2222,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 120,
+      "total_hours": 122,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -2257,7 +2257,7 @@
         "FlintKnapping": 0,
         "Masonry": 0,
         "Pottery": 0,
-        "Carving": 2,
+        "Carving": 3,
         "Butchering": 0,
         "Glassmaking": 0
       },
@@ -2286,9 +2286,14 @@
           "skill": "Doctor",
           "level": "1",
           "timestamp": "26-12-25 21:42:43.563"
+        },
+        {
+          "skill": "Carving",
+          "level": "3",
+          "timestamp": "26-12-25 22:53:47.257"
         }
       ],
-      "last_seen": "26-12-25 22:47:44.723",
+      "last_seen": "26-12-25 22:53:47.257",
       "connections": 3
     },
     "El_Moctezuma": {
@@ -2622,5 +2627,5 @@
     }
   },
   "total_players": 31,
-  "timestamp": "2025-12-26T22:50:01.418623"
+  "timestamp": "2025-12-26T22:55:01.764517"
 }
