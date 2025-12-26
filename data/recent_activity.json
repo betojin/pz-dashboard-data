@@ -357,142 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "26-12-25 09:55:45.655",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "13683",
-      "y": "1616",
-      "z": "0",
-      "hours_survived": 105,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "2"
-    },
-    {
-      "timestamp": "26-12-25 10:01:32.003",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "13594",
-      "y": "1405",
-      "z": "0",
-      "hours_survived": 195,
-      "event_type": "died"
-    },
-    {
-      "timestamp": "26-12-25 10:40:50.796",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "13184",
-      "y": "1257",
-      "z": "1",
-      "hours_survived": 196,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 1,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 1,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "26-12-25 10:41:56.034",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "x": "13196",
-      "y": "1258",
-      "z": "0",
-      "hours_survived": 161,
-      "event_type": "died"
-    },
-    {
-      "timestamp": "26-12-25 10:51:26.068",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "x": "12025",
-      "y": "2592",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
-    {
-      "timestamp": "26-12-25 13:05:01.979",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8126",
-      "y": "11544",
-      "z": "0",
-      "hours_survived": 229,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 8,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "26-12-25 17:46:16.668",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -1164,69 +1028,81 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "2"
+    },
+    {
+      "timestamp": "26-12-25 20:30:31.293",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5717",
+      "y": "5729",
+      "z": "0",
+      "hours_survived": 472,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "1"
+    },
+    {
+      "timestamp": "26-12-25 20:30:52.709",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "12510",
+      "y": "4336",
+      "z": "0",
+      "hours_survived": 236,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "1"
+    },
+    {
+      "timestamp": "26-12-25 20:30:55.065",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5717",
+      "y": "5729",
+      "z": "0",
+      "hours_survived": 472,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "2"
+    },
+    {
+      "timestamp": "26-12-25 20:32:41.466",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5717",
+      "y": "5729",
+      "z": "0",
+      "hours_survived": 473,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "3"
+    },
+    {
+      "timestamp": "26-12-25 20:33:58.259",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5716",
+      "y": "5728",
+      "z": "0",
+      "hours_survived": 473,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "1"
+    },
+    {
+      "timestamp": "26-12-25 20:34:02.270",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5716",
+      "y": "5728",
+      "z": "0",
+      "hours_survived": 473,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "2"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "26-12-25 19:21:59.634",
-      "chat_type": "Local",
-      "author": "Boba",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "26-12-25 19:21:59.634",
-      "chat_type": "Local",
-      "author": "Boba",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "26-12-25 19:31:10.124",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "26-12-25 19:31:10.124",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "26-12-25 19:31:13.406",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "26-12-25 19:31:13.406",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "26-12-25 19:31:13.974",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "26-12-25 19:31:13.974",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "26-12-25 19:31:16.729",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "26-12-25 19:31:16.729",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "26-12-25 19:31:19.376",
       "chat_type": "Local",
@@ -1466,7 +1342,67 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "26-12-25 20:31:09.240",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "26-12-25 20:31:09.240",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "26-12-25 20:31:24.120",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "26-12-25 20:31:24.120",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "26-12-25 20:31:33.421",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "26-12-25 20:31:33.421",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "26-12-25 20:32:01.862",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "26-12-25 20:32:01.862",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "26-12-25 20:32:59.494",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "26-12-25 20:32:59.494",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-26T20:30:01.999700"
+  "timestamp": "2025-12-26T20:35:01.347853"
 }

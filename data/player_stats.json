@@ -693,7 +693,7 @@
     "CaptainLobo": {
       "username": "CaptainLobo",
       "steam_id": "76561198044597580",
-      "total_hours": 458,
+      "total_hours": 473,
       "deaths": 5,
       "skills": {
         "Cooking": 0,
@@ -705,7 +705,7 @@
         "Nimble": 3,
         "Sprinting": 2,
         "Sneak": 2,
-        "Woodwork": 0,
+        "Woodwork": 2,
         "Aiming": 4,
         "Reloading": 4,
         "Farming": 0,
@@ -716,7 +716,7 @@
         "Electricity": 0,
         "Blacksmith": 0,
         "MetalWelding": 0,
-        "Mechanics": 0,
+        "Mechanics": 3,
         "Spear": 0,
         "Maintenance": 2,
         "SmallBlade": 0,
@@ -817,9 +817,34 @@
           "skill": "Aiming",
           "level": "4",
           "timestamp": "25-12-25 21:04:34.081"
+        },
+        {
+          "skill": "Mechanics",
+          "level": "1",
+          "timestamp": "26-12-25 20:30:31.293"
+        },
+        {
+          "skill": "Mechanics",
+          "level": "2",
+          "timestamp": "26-12-25 20:30:55.065"
+        },
+        {
+          "skill": "Mechanics",
+          "level": "3",
+          "timestamp": "26-12-25 20:32:41.466"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "1",
+          "timestamp": "26-12-25 20:33:58.259"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "2",
+          "timestamp": "26-12-25 20:34:02.270"
         }
       ],
-      "last_seen": "26-12-25 19:56:14.281",
+      "last_seen": "26-12-25 20:34:02.270",
       "connections": 1
     },
     "Woofie": {
@@ -1736,7 +1761,7 @@
     "Boba": {
       "username": "Boba",
       "steam_id": "76561199317533255",
-      "total_hours": 233,
+      "total_hours": 236,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1761,7 +1786,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 0,
+        "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 1,
         "SmallBlunt": 0,
@@ -1800,9 +1825,14 @@
           "skill": "Axe",
           "level": "1",
           "timestamp": "26-12-25 20:23:22.963"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "26-12-25 20:30:52.709"
         }
       ],
-      "last_seen": "26-12-25 20:23:22.963",
+      "last_seen": "26-12-25 20:30:52.709",
       "connections": 3
     },
     "RottenPotato": {
@@ -2431,5 +2461,5 @@
     }
   },
   "total_players": 30,
-  "timestamp": "2025-12-26T20:30:01.976386"
+  "timestamp": "2025-12-26T20:35:01.318810"
 }
