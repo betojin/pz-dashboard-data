@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "25-12-25 19:36:10.024",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "fully connected",
-      "x": "8124",
-      "y": "11540",
-      "z": "0"
-    },
-    {
-      "timestamp": "25-12-25 19:59:46.345",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "disconnected",
-      "x": "8130",
-      "y": "11547",
-      "z": "0"
-    },
-    {
       "timestamp": "25-12-25 20:12:16.781",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -362,33 +344,27 @@
       "x": "5530",
       "y": "6049",
       "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 00:31:22.384",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "disconnected",
+      "x": "10842",
+      "y": "10053",
+      "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 00:31:24.812",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "fully connected",
+      "x": "10803",
+      "y": "10073",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "25-12-25 07:16:41.916",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12442",
-      "y": "1756",
-      "z": "0",
-      "hours_survived": 41,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "1"
-    },
-    {
-      "timestamp": "25-12-25 07:33:27.613",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10045",
-      "y": "8103",
-      "z": "0",
-      "hours_survived": 476,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "5"
-    },
     {
       "timestamp": "25-12-25 08:04:13.261",
       "steam_id": "76561199511597958",
@@ -1387,21 +1363,29 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "26-12-25 00:30:33.839",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "10842",
+      "y": "10053",
+      "z": "0",
+      "hours_survived": 7,
+      "event_type": "died"
+    },
+    {
+      "timestamp": "26-12-25 00:31:24.983",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "10803",
+      "y": "10073",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "25-12-25 22:13:55.277",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "where are ammo"
-    },
-    {
-      "timestamp": "25-12-25 22:13:55.277",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "where are ammo"
-    },
     {
       "timestamp": "25-12-25 22:14:27.798",
       "chat_type": "General",
@@ -1689,7 +1673,19 @@
       "chat_type": "General",
       "author": "exoticbutter",
       "text": "okay so i found where the zombies went"
+    },
+    {
+      "timestamp": "26-12-25 00:30:44.980",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "rip"
+    },
+    {
+      "timestamp": "26-12-25 00:30:44.981",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "rip"
     }
   ],
-  "timestamp": "2025-12-26T00:30:01.745727"
+  "timestamp": "2025-12-26T00:35:02.056561"
 }
