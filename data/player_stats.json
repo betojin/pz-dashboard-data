@@ -15,7 +15,7 @@
         "Nimble": 0,
         "Sprinting": 2,
         "Sneak": 0,
-        "Woodwork": 3,
+        "Woodwork": 4,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -107,9 +107,14 @@
           "skill": "Woodwork",
           "level": "3",
           "timestamp": "26-12-25 19:24:00.676"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "4",
+          "timestamp": "26-12-25 19:25:35.777"
         }
       ],
-      "last_seen": "26-12-25 19:24:00.676",
+      "last_seen": "26-12-25 19:25:35.777",
       "connections": 4
     },
     "admin": {
@@ -1710,7 +1715,7 @@
     "Boba": {
       "username": "Boba",
       "steam_id": "76561199317533255",
-      "total_hours": 201,
+      "total_hours": 211,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1720,7 +1725,7 @@
         "Axe": 0,
         "Lightfoot": 2,
         "Nimble": 2,
-        "Sprinting": 1,
+        "Sprinting": 2,
         "Sneak": 2,
         "Woodwork": 0,
         "Aiming": 0,
@@ -1764,9 +1769,14 @@
           "skill": "LongBlade",
           "level": "1",
           "timestamp": "26-12-25 07:28:23.692"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "2",
+          "timestamp": "26-12-25 19:28:07.966"
         }
       ],
-      "last_seen": "26-12-25 19:00:56.063",
+      "last_seen": "26-12-25 19:28:07.966",
       "connections": 3
     },
     "RottenPotato": {
@@ -2384,5 +2394,5 @@
     }
   },
   "total_players": 30,
-  "timestamp": "2025-12-26T19:25:01.392169"
+  "timestamp": "2025-12-26T19:30:01.747247"
 }
