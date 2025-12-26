@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "26-12-25 07:57:29.590",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "fully connected",
-      "x": "10060",
-      "y": "8147",
-      "z": "0"
-    },
-    {
-      "timestamp": "26-12-25 07:57:48.593",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "disconnected",
-      "x": "10059",
-      "y": "8145",
-      "z": "0"
-    },
-    {
       "timestamp": "26-12-25 08:54:51.140",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -362,21 +344,24 @@
       "steam_id": "76561199454159707",
       "username": "Sharkey",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "26-12-25 19:06:54.220",
+      "steam_id": "76561199454159707",
+      "username": "Sharkey",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 19:08:07.016",
+      "steam_id": "76561199454159707",
+      "username": "Sharkey",
+      "action": "fully connected",
+      "x": "11533",
+      "y": "6924",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "26-12-25 07:01:14.329",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "14003",
-      "y": "2185",
-      "z": "0",
-      "hours_survived": 126,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "2"
-    },
     {
       "timestamp": "26-12-25 07:03:50.185",
       "steam_id": "76561199510927772",
@@ -1208,6 +1193,53 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "26-12-25 19:08:07.721",
+      "steam_id": "76561199454159707",
+      "username": "Sharkey",
+      "x": "11533",
+      "y": "6924",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 10,
+        "Strength": 8,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1512,5 +1544,5 @@
       "text": "I think all the new b42 skills are 6x now"
     }
   ],
-  "timestamp": "2025-12-26T19:05:01.132868"
+  "timestamp": "2025-12-26T19:10:01.426266"
 }
