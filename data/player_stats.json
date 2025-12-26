@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 152,
+      "total_hours": 168,
       "deaths": 3,
       "skills": {
         "Cooking": 0,
@@ -28,7 +28,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -122,9 +122,14 @@
           "skill": "Woodwork",
           "level": "6",
           "timestamp": "26-12-25 19:48:19.419"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "26-12-25 20:27:20.751"
         }
       ],
-      "last_seen": "26-12-25 19:48:19.419",
+      "last_seen": "26-12-25 20:27:20.751",
       "connections": 4
     },
     "admin": {
@@ -2426,5 +2431,5 @@
     }
   },
   "total_players": 30,
-  "timestamp": "2025-12-26T20:25:01.603694"
+  "timestamp": "2025-12-26T20:30:01.976386"
 }
