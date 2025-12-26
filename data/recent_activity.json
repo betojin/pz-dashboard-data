@@ -1,36 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "26-12-25 19:00:39.316",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "26-12-25 19:00:45.730",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "26-12-25 19:00:50.780",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "fully connected",
-      "x": "12019",
-      "y": "2589",
-      "z": "1"
-    },
-    {
-      "timestamp": "26-12-25 19:01:00.884",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "fully connected",
-      "x": "12019",
-      "y": "2600",
-      "z": "0"
-    },
-    {
       "timestamp": "26-12-25 19:02:21.710",
       "steam_id": "76561199454159707",
       "username": "Sharkey",
@@ -362,21 +332,36 @@
       "x": "5685",
       "y": "5737",
       "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 21:36:48.756",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 21:36:48.757",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "26-12-25 21:36:59.917",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 21:39:18.808",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "fully connected",
+      "x": "9052",
+      "y": "8732",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "26-12-25 20:30:31.293",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5717",
-      "y": "5729",
-      "z": "0",
-      "hours_survived": 472,
-      "event_type": "level_up",
-      "skill": "Mechanics",
-      "level": "1"
-    },
     {
       "timestamp": "26-12-25 20:30:52.709",
       "steam_id": "76561199317533255",
@@ -864,45 +849,56 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "26-12-25 21:39:19.438",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "9052",
+      "y": "8732",
+      "z": "0",
+      "hours_survived": 99,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 1,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "26-12-25 20:27:02.634",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "26-12-25 20:27:02.635",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "26-12-25 20:31:09.240",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "26-12-25 20:31:09.240",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "26-12-25 20:31:24.120",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "26-12-25 20:31:24.120",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "26-12-25 20:31:33.421",
       "chat_type": "Local",
@@ -1166,7 +1162,43 @@
       "chat_type": "Local",
       "author": "Boba",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "26-12-25 21:35:23.130",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "damn you cant saw in the dark"
+    },
+    {
+      "timestamp": "26-12-25 21:35:23.130",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "damn you cant saw in the dark"
+    },
+    {
+      "timestamp": "26-12-25 21:35:27.818",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "damn"
+    },
+    {
+      "timestamp": "26-12-25 21:35:27.818",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "damn"
+    },
+    {
+      "timestamp": "26-12-25 21:36:16.064",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "i mean safety i guess"
+    },
+    {
+      "timestamp": "26-12-25 21:36:16.064",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "i mean safety i guess"
     }
   ],
-  "timestamp": "2025-12-26T21:35:01.502474"
+  "timestamp": "2025-12-26T21:40:01.876871"
 }
