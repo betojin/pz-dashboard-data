@@ -15,7 +15,7 @@
         "Nimble": 0,
         "Sprinting": 1,
         "Sneak": 0,
-        "Woodwork": 0,
+        "Woodwork": 1,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -72,9 +72,14 @@
           "skill": "Axe",
           "level": "3",
           "timestamp": "26-12-25 06:28:45.488"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "1",
+          "timestamp": "26-12-25 08:04:53.852"
         }
       ],
-      "last_seen": "26-12-25 07:53:27.127",
+      "last_seen": "26-12-25 08:04:53.852",
       "connections": 1
     },
     "admin": {
@@ -2283,5 +2288,5 @@
     }
   },
   "total_players": 29,
-  "timestamp": "2025-12-26T08:00:02.037987"
+  "timestamp": "2025-12-26T08:05:01.416310"
 }
