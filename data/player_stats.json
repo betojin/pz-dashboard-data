@@ -20,7 +20,7 @@
         "Reloading": 0,
         "Farming": 0,
         "Fishing": 0,
-        "Trapping": 0,
+        "Trapping": 1,
         "PlantScavenging": 0,
         "Doctor": 0,
         "Electricity": 0,
@@ -77,9 +77,14 @@
           "skill": "Woodwork",
           "level": "1",
           "timestamp": "26-12-25 08:04:53.852"
+        },
+        {
+          "skill": "Trapping",
+          "level": "1",
+          "timestamp": "26-12-25 08:06:29.749"
         }
       ],
-      "last_seen": "26-12-25 08:04:53.852",
+      "last_seen": "26-12-25 08:06:29.749",
       "connections": 1
     },
     "admin": {
@@ -2288,5 +2293,5 @@
     }
   },
   "total_players": 29,
-  "timestamp": "2025-12-26T08:05:01.416310"
+  "timestamp": "2025-12-26T08:10:01.823547"
 }

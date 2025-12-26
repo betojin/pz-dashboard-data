@@ -147,16 +147,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "26-12-25 02:55:00.818",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12172",
-      "y": "2448",
-      "z": "0",
-      "hours_survived": 51,
-      "event_type": "died"
-    },
-    {
       "timestamp": "26-12-25 02:56:49.049",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -872,8 +862,20 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "1"
+    },
+    {
+      "timestamp": "26-12-25 08:06:29.749",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12019",
+      "y": "2598",
+      "z": "0",
+      "hours_survived": 62,
+      "event_type": "level_up",
+      "skill": "Trapping",
+      "level": "1"
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-26T08:05:01.433835"
+  "timestamp": "2025-12-26T08:10:01.841107"
 }
