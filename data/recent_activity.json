@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "26-12-25 00:12:18.648",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "26-12-25 00:13:06.729",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -374,56 +368,18 @@
       "steam_id": "76561198065774641",
       "username": "BetoJin",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "26-12-25 05:06:31.500",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "fully connected",
+      "x": "12025",
+      "y": "2596",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "25-12-25 21:08:23.856",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "x": "8027",
-      "y": "10169",
-      "z": "1",
-      "hours_survived": 36,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 7,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 4,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "25-12-25 21:32:53.692",
       "steam_id": "76561198417595781",
@@ -1202,33 +1158,56 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "26-12-25 05:06:32.296",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12025",
+      "y": "2596",
+      "z": "0",
+      "hours_survived": 38,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 10,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 2,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "26-12-25 03:36:24.965",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "26-12-25 03:36:24.965",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "26-12-25 03:36:25.101",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "26-12-25 03:36:25.101",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "26-12-25 03:36:25.454",
       "chat_type": "Local",
@@ -1504,7 +1483,31 @@
       "chat_type": "Local",
       "author": "RottenTomato",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "26-12-25 05:06:55.546",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "Merry Christmas Sully^^"
+    },
+    {
+      "timestamp": "26-12-25 05:06:55.546",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "Merry Christmas Sully^^"
+    },
+    {
+      "timestamp": "26-12-25 05:07:16.318",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "merry Christmas"
+    },
+    {
+      "timestamp": "26-12-25 05:07:16.318",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "merry Christmas"
     }
   ],
-  "timestamp": "2025-12-26T05:05:01.564730"
+  "timestamp": "2025-12-26T05:10:01.881909"
 }
