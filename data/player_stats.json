@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 140,
+      "total_hours": 143,
       "deaths": 3,
       "skills": {
         "Cooking": 0,
@@ -15,7 +15,7 @@
         "Nimble": 0,
         "Sprinting": 2,
         "Sneak": 0,
-        "Woodwork": 2,
+        "Woodwork": 3,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -102,9 +102,14 @@
           "skill": "Woodwork",
           "level": "2",
           "timestamp": "26-12-25 19:18:24.539"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "3",
+          "timestamp": "26-12-25 19:24:00.676"
         }
       ],
-      "last_seen": "26-12-25 19:18:24.539",
+      "last_seen": "26-12-25 19:24:00.676",
       "connections": 4
     },
     "admin": {
@@ -305,7 +310,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 888,
+      "total_hours": 909,
       "deaths": 0,
       "skills": {
         "Cooking": 4,
@@ -571,8 +576,8 @@
           "timestamp": "26-12-25 18:25:04.427"
         }
       ],
-      "last_seen": "26-12-25 18:25:04.427",
-      "connections": 1
+      "last_seen": "26-12-25 19:21:27.689",
+      "connections": 2
     },
     "Molotov Kid": {
       "username": "Molotov Kid",
@@ -2379,5 +2384,5 @@
     }
   },
   "total_players": 30,
-  "timestamp": "2025-12-26T19:20:01.099174"
+  "timestamp": "2025-12-26T19:25:01.392169"
 }
