@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 175,
+      "total_hours": 179,
       "deaths": 3,
       "skills": {
         "Cooking": 0,
@@ -28,7 +28,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 2,
+        "Maintenance": 3,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -132,9 +132,14 @@
           "skill": "Axe",
           "level": "5",
           "timestamp": "26-12-25 20:45:06.169"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "3",
+          "timestamp": "26-12-25 20:54:05.554"
         }
       ],
-      "last_seen": "26-12-25 20:45:06.169",
+      "last_seen": "26-12-25 20:54:05.554",
       "connections": 4
     },
     "admin": {
@@ -698,10 +703,10 @@
     "CaptainLobo": {
       "username": "CaptainLobo",
       "steam_id": "76561198044597580",
-      "total_hours": 479,
+      "total_hours": 481,
       "deaths": 5,
       "skills": {
-        "Cooking": 0,
+        "Cooking": 3,
         "Fitness": 7,
         "Strength": 7,
         "Blunt": 2,
@@ -892,9 +897,24 @@
           "skill": "PlantScavenging",
           "level": "2",
           "timestamp": "26-12-25 20:49:14.684"
+        },
+        {
+          "skill": "Cooking",
+          "level": "1",
+          "timestamp": "26-12-25 20:53:26.807"
+        },
+        {
+          "skill": "Cooking",
+          "level": "2",
+          "timestamp": "26-12-25 20:53:31.912"
+        },
+        {
+          "skill": "Cooking",
+          "level": "3",
+          "timestamp": "26-12-25 20:53:39.802"
         }
       ],
-      "last_seen": "26-12-25 20:49:14.684",
+      "last_seen": "26-12-25 20:53:39.802",
       "connections": 2
     },
     "Woofie": {
@@ -2557,5 +2577,5 @@
     }
   },
   "total_players": 31,
-  "timestamp": "2025-12-26T20:50:01.310490"
+  "timestamp": "2025-12-26T20:55:01.605405"
 }

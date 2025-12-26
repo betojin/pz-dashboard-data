@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "26-12-25 18:42:43.419",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "26-12-25 18:43:00.970",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -353,92 +347,18 @@
       "x": "5717",
       "y": "5729",
       "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 20:54:51.821",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "5717",
+      "y": "5729",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "26-12-25 19:21:27.689",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 909,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 4,
-        "Sneak": 0,
-        "Woodwork": 7,
-        "Aiming": 0,
-        "Reloading": 2,
-        "Farming": 2,
-        "Fishing": 2,
-        "Trapping": 1,
-        "PlantScavenging": 4,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 1,
-        "Maintenance": 3,
-        "SmallBlade": 0,
-        "LongBlade": 1,
-        "SmallBlunt": 3,
-        "Tailoring": 1,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 6,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "26-12-25 19:24:00.676",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12057",
-      "y": "2608",
-      "z": "0",
-      "hours_survived": 143,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "3"
-    },
-    {
-      "timestamp": "26-12-25 19:25:35.777",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12057",
-      "y": "2602",
-      "z": "0",
-      "hours_survived": 143,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "4"
-    },
-    {
-      "timestamp": "26-12-25 19:28:07.966",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "12367",
-      "y": "1396",
-      "z": "0",
-      "hours_survived": 211,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "2"
-    },
     {
       "timestamp": "26-12-25 19:35:43.701",
       "steam_id": "76561199454159707",
@@ -855,33 +775,57 @@
       "event_type": "level_up",
       "skill": "PlantScavenging",
       "level": "2"
+    },
+    {
+      "timestamp": "26-12-25 20:53:26.807",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5717",
+      "y": "5729",
+      "z": "0",
+      "hours_survived": 480,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "1"
+    },
+    {
+      "timestamp": "26-12-25 20:53:31.912",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5717",
+      "y": "5729",
+      "z": "0",
+      "hours_survived": 480,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "2"
+    },
+    {
+      "timestamp": "26-12-25 20:53:39.802",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5717",
+      "y": "5729",
+      "z": "0",
+      "hours_survived": 481,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "3"
+    },
+    {
+      "timestamp": "26-12-25 20:54:05.554",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12530",
+      "y": "4259",
+      "z": "0",
+      "hours_survived": 179,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "3"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "26-12-25 19:57:42.009",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "both gas stations near riverside are up and running"
-    },
-    {
-      "timestamp": "26-12-25 19:57:42.010",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "both gas stations near riverside are up and running"
-    },
-    {
-      "timestamp": "26-12-25 19:57:52.620",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "sweet"
-    },
-    {
-      "timestamp": "26-12-25 19:57:52.620",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "sweet"
-    },
     {
       "timestamp": "26-12-25 19:58:01.711",
       "chat_type": "General",
@@ -1157,7 +1101,31 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "26-12-25 20:51:21.475",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "26-12-25 20:51:21.475",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "26-12-25 20:53:54.793",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "26-12-25 20:53:54.793",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-26T20:50:01.333208"
+  "timestamp": "2025-12-26T20:55:01.629312"
 }
