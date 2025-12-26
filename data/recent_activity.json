@@ -183,16 +183,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "26-12-25 03:22:53.097",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12114",
-      "y": "2381",
-      "z": "0",
-      "hours_survived": 4,
-      "event_type": "died"
-    },
-    {
       "timestamp": "26-12-25 03:29:29.722",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -951,21 +941,21 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "1"
+    },
+    {
+      "timestamp": "26-12-25 09:50:14.657",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "13702",
+      "y": "1787",
+      "z": "0",
+      "hours_survived": 103,
+      "event_type": "level_up",
+      "skill": "Axe",
+      "level": "4"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "26-12-25 08:45:53.844",
-      "chat_type": "Local",
-      "author": "Boba",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "26-12-25 08:45:53.845",
-      "chat_type": "Local",
-      "author": "Boba",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "26-12-25 08:45:54.030",
       "chat_type": "Local",
@@ -1253,7 +1243,19 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "26-12-25 09:53:23.825",
+      "chat_type": "Local",
+      "author": "ExpiredMayo",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "26-12-25 09:53:23.825",
+      "chat_type": "Local",
+      "author": "ExpiredMayo",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-26T09:50:01.424476"
+  "timestamp": "2025-12-26T09:55:01.749246"
 }
