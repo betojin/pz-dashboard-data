@@ -703,7 +703,7 @@
     "CaptainLobo": {
       "username": "CaptainLobo",
       "steam_id": "76561198044597580",
-      "total_hours": 481,
+      "total_hours": 491,
       "deaths": 5,
       "skills": {
         "Cooking": 3,
@@ -732,7 +732,7 @@
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
-        "Tailoring": 0,
+        "Tailoring": 2,
         "Tracking": 0,
         "Husbandry": 0,
         "FlintKnapping": 0,
@@ -912,9 +912,19 @@
           "skill": "Cooking",
           "level": "3",
           "timestamp": "26-12-25 20:53:39.802"
+        },
+        {
+          "skill": "Tailoring",
+          "level": "1",
+          "timestamp": "26-12-25 21:18:14.705"
+        },
+        {
+          "skill": "Tailoring",
+          "level": "2",
+          "timestamp": "26-12-25 21:19:42.824"
         }
       ],
-      "last_seen": "26-12-25 20:55:36.388",
+      "last_seen": "26-12-25 21:19:42.824",
       "connections": 3
     },
     "Woofie": {
@@ -2587,5 +2597,5 @@
     }
   },
   "total_players": 31,
-  "timestamp": "2025-12-26T21:15:01.162372"
+  "timestamp": "2025-12-26T21:20:01.500536"
 }
