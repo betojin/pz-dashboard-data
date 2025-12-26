@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 179,
+      "total_hours": 212,
       "deaths": 3,
       "skills": {
         "Cooking": 0,
@@ -22,7 +22,7 @@
         "Fishing": 0,
         "Trapping": 1,
         "PlantScavenging": 0,
-        "Doctor": 0,
+        "Doctor": 1,
         "Electricity": 0,
         "Blacksmith": 0,
         "MetalWelding": 0,
@@ -137,9 +137,14 @@
           "skill": "Maintenance",
           "level": "3",
           "timestamp": "26-12-25 20:54:05.554"
+        },
+        {
+          "skill": "Doctor",
+          "level": "1",
+          "timestamp": "26-12-25 22:16:58.945"
         }
       ],
-      "last_seen": "26-12-25 20:54:05.554",
+      "last_seen": "26-12-25 22:16:58.945",
       "connections": 4
     },
     "admin": {
@@ -2617,5 +2622,5 @@
     }
   },
   "total_players": 31,
-  "timestamp": "2025-12-26T22:15:01.130491"
+  "timestamp": "2025-12-26T22:20:01.449019"
 }
