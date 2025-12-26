@@ -198,10 +198,10 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 575,
+      "total_hours": 579,
       "deaths": 1,
       "skills": {
-        "Cooking": 0,
+        "Cooking": 2,
         "Fitness": 5,
         "Strength": 9,
         "Blunt": 2,
@@ -337,9 +337,19 @@
           "skill": "Maintenance",
           "level": "2",
           "timestamp": "26-12-25 07:04:29.129"
+        },
+        {
+          "skill": "Cooking",
+          "level": "2",
+          "timestamp": "26-12-25 23:37:51.123"
+        },
+        {
+          "skill": "Cooking",
+          "level": "1",
+          "timestamp": "26-12-25 23:37:51.124"
         }
       ],
-      "last_seen": "26-12-25 23:26:37.725",
+      "last_seen": "26-12-25 23:37:51.124",
       "connections": 2
     },
     "Firestorm3050": {
@@ -2227,7 +2237,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 125,
+      "total_hours": 139,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -2262,7 +2272,7 @@
         "FlintKnapping": 0,
         "Masonry": 0,
         "Pottery": 0,
-        "Carving": 4,
+        "Carving": 5,
         "Butchering": 0,
         "Glassmaking": 0
       },
@@ -2311,9 +2321,14 @@
           "skill": "PlantScavenging",
           "level": "3",
           "timestamp": "26-12-25 23:00:43.572"
+        },
+        {
+          "skill": "Carving",
+          "level": "5",
+          "timestamp": "26-12-25 23:35:19.617"
         }
       ],
-      "last_seen": "26-12-25 23:00:43.572",
+      "last_seen": "26-12-25 23:35:19.617",
       "connections": 3
     },
     "El_Moctezuma": {
@@ -2647,5 +2662,5 @@
     }
   },
   "total_players": 31,
-  "timestamp": "2025-12-26T23:35:01.661498"
+  "timestamp": "2025-12-26T23:40:01.976424"
 }
