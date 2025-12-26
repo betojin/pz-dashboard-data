@@ -127,7 +127,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 483,
+      "total_hours": 553,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -139,7 +139,7 @@
         "Nimble": 3,
         "Sprinting": 3,
         "Sneak": 2,
-        "Woodwork": 5,
+        "Woodwork": 6,
         "Aiming": 2,
         "Reloading": 2,
         "Farming": 0,
@@ -256,9 +256,14 @@
           "skill": "Woodwork",
           "level": "5",
           "timestamp": "25-12-25 07:33:27.613"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "6",
+          "timestamp": "26-12-25 06:49:53.581"
         }
       ],
-      "last_seen": "26-12-25 03:55:34.937",
+      "last_seen": "26-12-25 06:49:53.581",
       "connections": 2
     },
     "Firestorm3050": {
@@ -1715,14 +1720,14 @@
     "RottenPotato": {
       "username": "RottenPotato",
       "steam_id": "76561199511597958",
-      "total_hours": 85,
+      "total_hours": 121,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
         "Fitness": 10,
         "Strength": 10,
         "Blunt": 0,
-        "Axe": 3,
+        "Axe": 4,
         "Lightfoot": 0,
         "Nimble": 0,
         "Sprinting": 1,
@@ -1769,9 +1774,14 @@
           "skill": "Axe",
           "level": "3",
           "timestamp": "25-12-25 08:04:13.261"
+        },
+        {
+          "skill": "Axe",
+          "level": "4",
+          "timestamp": "26-12-25 06:48:12.132"
         }
       ],
-      "last_seen": "26-12-25 05:16:47.328",
+      "last_seen": "26-12-25 06:48:12.132",
       "connections": 7
     },
     "ExpiredMayo": {
@@ -2261,5 +2271,5 @@
     }
   },
   "total_players": 29,
-  "timestamp": "2025-12-26T06:45:01.546524"
+  "timestamp": "2025-12-26T06:50:01.965419"
 }
