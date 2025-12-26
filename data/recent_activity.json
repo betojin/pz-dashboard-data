@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "26-12-25 19:06:54.220",
-      "steam_id": "76561199454159707",
-      "username": "Sharkey",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "26-12-25 19:08:07.016",
       "steam_id": "76561199454159707",
       "username": "Sharkey",
@@ -365,6 +359,15 @@
       "x": "12363",
       "y": "1457",
       "z": "0"
+    },
+    {
+      "timestamp": "26-12-25 22:32:42.232",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "disconnected",
+      "x": "8613",
+      "y": "8826",
+      "z": "-1"
     }
   ],
   "perk_events": [
@@ -1206,5 +1209,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-26T22:30:01.119663"
+  "timestamp": "2025-12-26T22:35:01.475574"
 }
