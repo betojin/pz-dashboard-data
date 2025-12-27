@@ -223,7 +223,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 767,
+      "total_hours": 775,
       "deaths": 1,
       "skills": {
         "Cooking": 2,
@@ -241,7 +241,7 @@
         "Farming": 0,
         "Fishing": 1,
         "Trapping": 0,
-        "PlantScavenging": 0,
+        "PlantScavenging": 2,
         "Doctor": 0,
         "Electricity": 2,
         "Blacksmith": 0,
@@ -472,9 +472,19 @@
           "skill": "Husbandry",
           "level": "4",
           "timestamp": "27-12-25 20:20:19.387"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "1",
+          "timestamp": "27-12-25 20:39:10.474"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "2",
+          "timestamp": "27-12-25 20:39:30.522"
         }
       ],
-      "last_seen": "27-12-25 20:20:19.387",
+      "last_seen": "27-12-25 20:39:30.522",
       "connections": 4
     },
     "Firestorm3050": {
@@ -3196,5 +3206,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-27T20:35:01.128009"
+  "timestamp": "2025-12-27T20:40:01.501595"
 }
