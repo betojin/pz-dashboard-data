@@ -2040,9 +2040,14 @@
           "skill": "Nimble",
           "level": "3",
           "timestamp": "26-12-25 21:24:06.824"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "27-12-25 06:35:53.564"
         }
       ],
-      "last_seen": "27-12-25 06:03:41.912",
+      "last_seen": "27-12-25 06:35:53.564",
       "connections": 9
     },
     "RottenPotato": {
@@ -2135,7 +2140,7 @@
     "ExpiredMayo": {
       "username": "ExpiredMayo",
       "steam_id": "76561199510927772",
-      "total_hours": 184,
+      "total_hours": 190,
       "deaths": 2,
       "skills": {
         "Cooking": 0,
@@ -2206,8 +2211,8 @@
           "timestamp": "27-12-25 06:21:52.000"
         }
       ],
-      "last_seen": "27-12-25 06:21:52.000",
-      "connections": 4
+      "last_seen": "27-12-25 06:36:56.129",
+      "connections": 5
     },
     "Danford": {
       "username": "Danford",
@@ -2931,5 +2936,5 @@
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T06:35:01.768284"
+  "timestamp": "2025-12-27T06:40:01.119844"
 }
