@@ -530,7 +530,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 1047,
+      "total_hours": 1061,
       "deaths": 0,
       "skills": {
         "Cooking": 6,
@@ -546,7 +546,7 @@
         "Aiming": 0,
         "Reloading": 2,
         "Farming": 2,
-        "Fishing": 3,
+        "Fishing": 4,
         "Trapping": 1,
         "PlantScavenging": 5,
         "Doctor": 0,
@@ -859,9 +859,14 @@
           "skill": "Carving",
           "level": "7",
           "timestamp": "27-12-25 22:13:08.674"
+        },
+        {
+          "skill": "Fishing",
+          "level": "4",
+          "timestamp": "27-12-25 22:48:59.919"
         }
       ],
-      "last_seen": "27-12-25 22:13:08.674",
+      "last_seen": "27-12-25 22:48:59.919",
       "connections": 6
     },
     "Molotov Kid": {
@@ -2588,7 +2593,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 283,
+      "total_hours": 328,
       "deaths": 0,
       "skills": {
         "Cooking": 2,
@@ -2606,7 +2611,7 @@
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
-        "PlantScavenging": 4,
+        "PlantScavenging": 5,
         "Doctor": 1,
         "Electricity": 0,
         "Blacksmith": 0,
@@ -2752,9 +2757,14 @@
           "skill": "Woodwork",
           "level": "4",
           "timestamp": "27-12-25 20:56:10.937"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "5",
+          "timestamp": "27-12-25 22:47:22.870"
         }
       ],
-      "last_seen": "27-12-25 20:56:10.937",
+      "last_seen": "27-12-25 22:47:22.870",
       "connections": 14
     },
     "El_Moctezuma": {
@@ -3271,5 +3281,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-27T22:45:01.762101"
+  "timestamp": "2025-12-27T22:50:01.146319"
 }

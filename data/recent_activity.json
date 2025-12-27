@@ -366,65 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 19:45:41.732",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10889",
-      "y": "9405",
-      "z": "0",
-      "hours_survived": 994,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "4"
-    },
-    {
-      "timestamp": "27-12-25 19:48:28.963",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "x": "912",
-      "y": "9907",
-      "z": "0",
-      "hours_survived": 117,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 7,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 1,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 4,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 2,
-        "Butchering": 1,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "27-12-25 19:49:20.657",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -1039,6 +980,30 @@
       "event_type": "level_up",
       "skill": "Cooking",
       "level": "3"
+    },
+    {
+      "timestamp": "27-12-25 22:47:22.870",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8501",
+      "y": "8872",
+      "z": "0",
+      "hours_survived": 328,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "5"
+    },
+    {
+      "timestamp": "27-12-25 22:48:59.919",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "11017",
+      "y": "10255",
+      "z": "0",
+      "hours_survived": 1061,
+      "event_type": "level_up",
+      "skill": "Fishing",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1343,5 +1308,5 @@
       "text": "not me"
     }
   ],
-  "timestamp": "2025-12-27T22:45:01.802334"
+  "timestamp": "2025-12-27T22:50:01.186338"
 }
