@@ -372,26 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "26-12-25 23:47:43.599",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "12227",
-      "y": "2133",
-      "z": "0",
-      "hours_survived": 24,
-      "event_type": "died"
-    },
-    {
-      "timestamp": "26-12-25 23:49:21.873",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "12025",
-      "y": "2592",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
-    {
       "timestamp": "26-12-25 23:59:07.359",
       "steam_id": "76561198143098309",
       "username": "Kirkinator",
@@ -1041,6 +1021,30 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "3"
+    },
+    {
+      "timestamp": "27-12-25 03:31:03.162",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "11644",
+      "y": "8639",
+      "z": "0",
+      "hours_survived": 655,
+      "event_type": "level_up",
+      "skill": "MetalWelding",
+      "level": "1"
+    },
+    {
+      "timestamp": "27-12-25 03:33:22.939",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8611",
+      "y": "8829",
+      "z": "1",
+      "hours_survived": 204,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1345,5 +1349,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-27T03:30:01.140582"
+  "timestamp": "2025-12-27T03:35:01.488754"
 }
