@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 03:05:06.129",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "11679",
-      "y": "8371",
-      "z": "0",
-      "hours_survived": 645,
-      "event_type": "level_up",
-      "skill": "Mechanics",
-      "level": "2"
-    },
-    {
       "timestamp": "27-12-25 03:09:49.669",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -958,6 +946,18 @@
       "event_type": "level_up",
       "skill": "Husbandry",
       "level": "3"
+    },
+    {
+      "timestamp": "27-12-25 07:17:59.375",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12418",
+      "y": "1415",
+      "z": "0",
+      "hours_survived": 323,
+      "event_type": "level_up",
+      "skill": "Electricity",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1262,5 +1262,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-27T07:15:01.459391"
+  "timestamp": "2025-12-27T07:20:01.819963"
 }
