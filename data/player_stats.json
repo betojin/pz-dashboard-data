@@ -203,7 +203,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 585,
+      "total_hours": 596,
       "deaths": 1,
       "skills": {
         "Cooking": 2,
@@ -215,7 +215,7 @@
         "Nimble": 3,
         "Sprinting": 3,
         "Sneak": 2,
-        "Woodwork": 6,
+        "Woodwork": 7,
         "Aiming": 2,
         "Reloading": 2,
         "Farming": 0,
@@ -357,9 +357,14 @@
           "skill": "Electricity",
           "level": "1",
           "timestamp": "26-12-25 23:43:17.431"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "7",
+          "timestamp": "27-12-25 01:02:51.509"
         }
       ],
-      "last_seen": "27-12-25 00:36:48.700",
+      "last_seen": "27-12-25 01:02:51.509",
       "connections": 3
     },
     "Firestorm3050": {
@@ -2801,5 +2806,5 @@
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T01:00:02.015725"
+  "timestamp": "2025-12-27T01:05:01.324458"
 }
