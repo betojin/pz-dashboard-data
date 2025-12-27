@@ -363,65 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 02:42:08.733",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10103",
-      "y": "8240",
-      "z": "0",
-      "hours_survived": 635,
-      "event_type": "level_up",
-      "skill": "Mechanics",
-      "level": "1"
-    },
-    {
-      "timestamp": "27-12-25 02:57:42.140",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8569",
-      "y": "8808",
-      "z": "0",
-      "hours_survived": 190,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 1,
-        "Fitness": 7,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 1,
-        "Aiming": 0,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 3,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 1,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 6,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "27-12-25 03:05:06.129",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -993,6 +934,30 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "27-12-25 06:50:31.725",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "x": "12051",
+      "y": "2581",
+      "z": "0",
+      "hours_survived": 195,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "1"
+    },
+    {
+      "timestamp": "27-12-25 06:54:14.376",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10059",
+      "y": "8245",
+      "z": "0",
+      "hours_survived": 736,
+      "event_type": "level_up",
+      "skill": "Husbandry",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1297,5 +1262,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-27T06:50:01.911968"
+  "timestamp": "2025-12-27T06:55:01.198748"
 }

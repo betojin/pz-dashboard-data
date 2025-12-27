@@ -203,7 +203,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 726,
+      "total_hours": 736,
       "deaths": 1,
       "skills": {
         "Cooking": 2,
@@ -234,7 +234,7 @@
         "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
-        "Husbandry": 2,
+        "Husbandry": 3,
         "FlintKnapping": 0,
         "Masonry": 0,
         "Pottery": 0,
@@ -442,9 +442,14 @@
           "skill": "Maintenance",
           "level": "4",
           "timestamp": "27-12-25 06:27:28.291"
+        },
+        {
+          "skill": "Husbandry",
+          "level": "3",
+          "timestamp": "27-12-25 06:54:14.376"
         }
       ],
-      "last_seen": "27-12-25 06:27:28.291",
+      "last_seen": "27-12-25 06:54:14.376",
       "connections": 3
     },
     "Firestorm3050": {
@@ -2140,7 +2145,7 @@
     "ExpiredMayo": {
       "username": "ExpiredMayo",
       "steam_id": "76561199510927772",
-      "total_hours": 190,
+      "total_hours": 195,
       "deaths": 2,
       "skills": {
         "Cooking": 0,
@@ -2209,9 +2214,14 @@
           "skill": "Axe",
           "level": "1",
           "timestamp": "27-12-25 06:21:52.000"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "27-12-25 06:50:31.725"
         }
       ],
-      "last_seen": "27-12-25 06:36:56.129",
+      "last_seen": "27-12-25 06:50:31.725",
       "connections": 5
     },
     "Danford": {
@@ -2936,5 +2946,5 @@
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T06:50:01.879561"
+  "timestamp": "2025-12-27T06:55:01.168260"
 }
