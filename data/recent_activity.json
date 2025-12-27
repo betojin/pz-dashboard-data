@@ -354,53 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 16:11:44.275",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8123",
-      "y": "11540",
-      "z": "0",
-      "hours_survived": 235,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 8,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "27-12-25 16:20:40.451",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -1167,45 +1120,21 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "27-12-25 20:19:50.150",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 1006,
+      "event_type": "level_up",
+      "skill": "FlintKnapping",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "27-12-25 20:02:21.287",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "why does my tunk have 0%"
-    },
-    {
-      "timestamp": "27-12-25 20:02:21.287",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "why does my tunk have 0%"
-    },
-    {
-      "timestamp": "27-12-25 20:02:26.038",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "i didnt collide with anything"
-    },
-    {
-      "timestamp": "27-12-25 20:02:26.038",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "i didnt collide with anything"
-    },
-    {
-      "timestamp": "27-12-25 20:02:41.550",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "have you guys made wood charcoal with the barrel before?"
-    },
-    {
-      "timestamp": "27-12-25 20:02:41.550",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "have you guys made wood charcoal with the barrel before?"
-    },
     {
       "timestamp": "27-12-25 20:02:48.299",
       "chat_type": "General",
@@ -1469,7 +1398,43 @@
       "chat_type": "General",
       "author": "exoticbutter",
       "text": "what is dis?"
+    },
+    {
+      "timestamp": "27-12-25 20:16:38.576",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "how do i use water purification tablets?"
+    },
+    {
+      "timestamp": "27-12-25 20:16:38.576",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "how do i use water purification tablets?"
+    },
+    {
+      "timestamp": "27-12-25 20:17:02.585",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "fill a container with tainted water . right click . choose purify option in menu"
+    },
+    {
+      "timestamp": "27-12-25 20:17:02.585",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "fill a container with tainted water . right click . choose purify option in menu"
+    },
+    {
+      "timestamp": "27-12-25 20:17:50.132",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "ah has to be a container not a rain tank :o"
+    },
+    {
+      "timestamp": "27-12-25 20:17:50.132",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "ah has to be a container not a rain tank :o"
     }
   ],
-  "timestamp": "2025-12-27T20:15:01.671413"
+  "timestamp": "2025-12-27T20:20:02.028282"
 }
