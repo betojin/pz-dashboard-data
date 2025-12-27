@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 01:39:47.029",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10054",
-      "y": "8256",
-      "z": "0",
-      "hours_survived": 611,
-      "event_type": "level_up",
-      "skill": "Husbandry",
-      "level": "2"
-    },
-    {
       "timestamp": "27-12-25 01:50:05.453",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -993,6 +981,18 @@
       "event_type": "level_up",
       "skill": "Axe",
       "level": "2"
+    },
+    {
+      "timestamp": "27-12-25 06:18:39.452",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "12520",
+      "y": "4567",
+      "z": "0",
+      "hours_survived": 722,
+      "event_type": "level_up",
+      "skill": "SmallBlade",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1297,5 +1297,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-27T06:15:01.164929"
+  "timestamp": "2025-12-27T06:20:01.544766"
 }
