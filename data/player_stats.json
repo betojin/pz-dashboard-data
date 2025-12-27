@@ -2247,7 +2247,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 142,
+      "total_hours": 153,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -2272,7 +2272,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 0,
+        "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 1,
@@ -2341,9 +2341,14 @@
           "skill": "Carving",
           "level": "6",
           "timestamp": "26-12-25 23:42:57.120"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "27-12-25 00:09:45.640"
         }
       ],
-      "last_seen": "26-12-25 23:42:57.120",
+      "last_seen": "27-12-25 00:09:45.640",
       "connections": 3
     },
     "El_Moctezuma": {
@@ -2729,5 +2734,5 @@
     }
   },
   "total_players": 32,
-  "timestamp": "2025-12-27T00:05:01.127135"
+  "timestamp": "2025-12-27T00:10:01.464709"
 }
