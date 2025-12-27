@@ -369,53 +369,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 19:21:53.202",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "7409",
-      "y": "8380",
-      "z": "1",
-      "hours_survived": 245,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 2,
-        "Fitness": 7,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 3,
-        "Aiming": 0,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 4,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 3,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 1,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 6,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "27-12-25 19:34:36.049",
       "steam_id": "76561199249031770",
       "username": "squibby",
@@ -1042,6 +995,18 @@
       "event_type": "level_up",
       "skill": "Fishing",
       "level": "2"
+    },
+    {
+      "timestamp": "27-12-25 22:13:08.674",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 1047,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "7"
     }
   ],
   "chat_messages": [
@@ -1346,5 +1311,5 @@
       "text": "not me"
     }
   ],
-  "timestamp": "2025-12-27T22:10:02.106036"
+  "timestamp": "2025-12-27T22:15:01.485459"
 }
