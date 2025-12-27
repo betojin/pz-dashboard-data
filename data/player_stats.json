@@ -1970,15 +1970,15 @@
       "deaths": 3,
       "skills": {
         "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
+        "Fitness": 7,
+        "Strength": 7,
         "Blunt": 1,
         "Axe": 1,
-        "Lightfoot": 2,
+        "Lightfoot": 0,
         "Nimble": 3,
         "Sprinting": 2,
-        "Sneak": 2,
-        "Woodwork": 0,
+        "Sneak": 0,
+        "Woodwork": 1,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -1994,12 +1994,12 @@
         "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 1,
-        "SmallBlunt": 0,
+        "SmallBlunt": 3,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
         "FlintKnapping": 0,
-        "Masonry": 0,
+        "Masonry": 2,
         "Pottery": 0,
         "Carving": 0,
         "Butchering": 0,
@@ -2057,8 +2057,8 @@
           "timestamp": "27-12-25 06:35:53.564"
         }
       ],
-      "last_seen": "27-12-25 06:35:53.564",
-      "connections": 9
+      "last_seen": "27-12-25 07:58:01.599",
+      "connections": 10
     },
     "RottenPotato": {
       "username": "RottenPotato",
@@ -2981,5 +2981,5 @@
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T07:55:01.068169"
+  "timestamp": "2025-12-27T08:00:01.408486"
 }
