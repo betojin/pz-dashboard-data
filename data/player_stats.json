@@ -495,7 +495,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 1008,
+      "total_hours": 1020,
       "deaths": 0,
       "skills": {
         "Cooking": 6,
@@ -511,7 +511,7 @@
         "Aiming": 0,
         "Reloading": 2,
         "Farming": 2,
-        "Fishing": 2,
+        "Fishing": 3,
         "Trapping": 1,
         "PlantScavenging": 5,
         "Doctor": 0,
@@ -809,9 +809,14 @@
           "skill": "FlintKnapping",
           "level": "2",
           "timestamp": "27-12-25 20:24:32.912"
+        },
+        {
+          "skill": "Fishing",
+          "level": "3",
+          "timestamp": "27-12-25 20:55:07.826"
         }
       ],
-      "last_seen": "27-12-25 20:24:32.912",
+      "last_seen": "27-12-25 20:55:07.826",
       "connections": 4
     },
     "Molotov Kid": {
@@ -2533,7 +2538,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 245,
+      "total_hours": 283,
       "deaths": 0,
       "skills": {
         "Cooking": 2,
@@ -2545,7 +2550,7 @@
         "Nimble": 0,
         "Sprinting": 2,
         "Sneak": 0,
-        "Woodwork": 3,
+        "Woodwork": 4,
         "Aiming": 0,
         "Reloading": 1,
         "Farming": 0,
@@ -2692,9 +2697,14 @@
           "skill": "PlantScavenging",
           "level": "4",
           "timestamp": "27-12-25 18:54:53.705"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "4",
+          "timestamp": "27-12-25 20:56:10.937"
         }
       ],
-      "last_seen": "27-12-25 19:21:53.202",
+      "last_seen": "27-12-25 20:56:10.937",
       "connections": 14
     },
     "El_Moctezuma": {
@@ -3211,5 +3221,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-27T20:55:01.496097"
+  "timestamp": "2025-12-27T21:00:01.862051"
 }

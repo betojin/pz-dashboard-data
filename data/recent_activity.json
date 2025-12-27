@@ -360,30 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 17:00:47.692",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9566",
-      "z": "0",
-      "hours_survived": 928,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "6"
-    },
-    {
-      "timestamp": "27-12-25 17:14:38.343",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8603",
-      "y": "8819",
-      "z": "0",
-      "hours_survived": 231,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "3"
-    },
-    {
       "timestamp": "27-12-25 17:56:04.973",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -1068,69 +1044,33 @@
       "event_type": "level_up",
       "skill": "PlantScavenging",
       "level": "3"
+    },
+    {
+      "timestamp": "27-12-25 20:55:07.826",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10996",
+      "y": "10233",
+      "z": "0",
+      "hours_survived": 1020,
+      "event_type": "level_up",
+      "skill": "Fishing",
+      "level": "3"
+    },
+    {
+      "timestamp": "27-12-25 20:56:10.937",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8618",
+      "y": "8827",
+      "z": "0",
+      "hours_survived": 283,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "4"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "27-12-25 20:06:17.646",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "any idea how to hunt"
-    },
-    {
-      "timestamp": "27-12-25 20:06:17.646",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "any idea how to hunt"
-    },
-    {
-      "timestamp": "27-12-25 20:06:31.607",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "all higher end tailoring recipes require it"
-    },
-    {
-      "timestamp": "27-12-25 20:06:31.607",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "all higher end tailoring recipes require it"
-    },
-    {
-      "timestamp": "27-12-25 20:06:34.936",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "you get that from butchering, but picking thread from bullet proof vests also provides aramid thread, which does the same"
-    },
-    {
-      "timestamp": "27-12-25 20:06:34.936",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "you get that from butchering, but picking thread from bullet proof vests also provides aramid thread, which does the same"
-    },
-    {
-      "timestamp": "27-12-25 20:06:36.766",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "and u cant loot ts"
-    },
-    {
-      "timestamp": "27-12-25 20:06:36.766",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "and u cant loot ts"
-    },
-    {
-      "timestamp": "27-12-25 20:06:49.981",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "ive found one zombie with a bulletproof vest"
-    },
-    {
-      "timestamp": "27-12-25 20:06:49.981",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "ive found one zombie with a bulletproof vest"
-    },
     {
       "timestamp": "27-12-25 20:08:36.512",
       "chat_type": "General",
@@ -1370,7 +1310,67 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "it looks like for the b42 crafting skills, b41 crafting skills are x3? i think"
+    },
+    {
+      "timestamp": "27-12-25 20:55:18.104",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "but i need to double check"
+    },
+    {
+      "timestamp": "27-12-25 20:55:18.104",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "but i need to double check"
+    },
+    {
+      "timestamp": "27-12-25 20:58:02.713",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "not kidding, just found knapping 1"
+    },
+    {
+      "timestamp": "27-12-25 20:58:02.714",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "not kidding, just found knapping 1"
+    },
+    {
+      "timestamp": "27-12-25 20:58:16.778",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "lol. just in time to not need it xD"
+    },
+    {
+      "timestamp": "27-12-25 20:58:16.779",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "lol. just in time to not need it xD"
+    },
+    {
+      "timestamp": "27-12-25 20:59:12.895",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "found a really good survivor zomboid"
+    },
+    {
+      "timestamp": "27-12-25 20:59:12.895",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "found a really good survivor zomboid"
+    },
+    {
+      "timestamp": "27-12-25 20:59:32.482",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "finally getting my first bath since the water shut off"
+    },
+    {
+      "timestamp": "27-12-25 20:59:32.482",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "finally getting my first bath since the water shut off"
     }
   ],
-  "timestamp": "2025-12-27T20:55:01.533115"
+  "timestamp": "2025-12-27T21:00:01.903485"
 }
