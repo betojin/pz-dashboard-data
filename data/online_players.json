@@ -1,5 +1,5 @@
 {
-  "count": 1,
+  "count": 2,
   "players": [
     {
       "username": "Sully",
@@ -9,7 +9,16 @@
       "y": 8241,
       "z": 0,
       "online": true
+    },
+    {
+      "username": "Zero",
+      "steam_id": "76561198060886931",
+      "connected_at": "27-12-25 02:32:59.266",
+      "x": 8614,
+      "y": 8823,
+      "z": 0,
+      "online": true
     }
   ],
-  "timestamp": "2025-12-27T02:30:02.035218"
+  "timestamp": "2025-12-27T02:35:01.351403"
 }
