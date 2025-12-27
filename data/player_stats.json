@@ -2277,7 +2277,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 181,
+      "total_hours": 184,
       "deaths": 0,
       "skills": {
         "Cooking": 1,
@@ -2302,7 +2302,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 1,
@@ -2401,9 +2401,14 @@
           "skill": "Woodwork",
           "level": "1",
           "timestamp": "27-12-25 01:58:10.377"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "27-12-25 02:38:30.570"
         }
       ],
-      "last_seen": "27-12-25 02:33:00.143",
+      "last_seen": "27-12-25 02:38:30.570",
       "connections": 7
     },
     "El_Moctezuma": {
@@ -2841,5 +2846,5 @@
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T02:35:01.335763"
+  "timestamp": "2025-12-27T02:40:01.703010"
 }
