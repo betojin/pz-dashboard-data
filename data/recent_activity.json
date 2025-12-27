@@ -363,30 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 01:58:10.377",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8613",
-      "y": "8832",
-      "z": "0",
-      "hours_survived": 181,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "1"
-    },
-    {
-      "timestamp": "27-12-25 02:16:50.368",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10088",
-      "y": "8202",
-      "z": "0",
-      "hours_survived": 625,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "9"
-    },
-    {
       "timestamp": "27-12-25 02:33:00.143",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -993,21 +969,33 @@
       "event_type": "level_up",
       "skill": "Axe",
       "level": "1"
+    },
+    {
+      "timestamp": "27-12-25 06:26:05.162",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "12517",
+      "y": "4337",
+      "z": "0",
+      "hours_survived": 725,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "3"
+    },
+    {
+      "timestamp": "27-12-25 06:27:28.291",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "12506",
+      "y": "4322",
+      "z": "0",
+      "hours_survived": 726,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "4"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "27-12-25 06:03:37.238",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 06:03:37.238",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "27-12-25 06:03:37.455",
       "chat_type": "Local",
@@ -1295,7 +1283,19 @@
       "chat_type": "Local",
       "author": "ExpiredMayo",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "27-12-25 06:25:27.286",
+      "chat_type": "Local",
+      "author": "ExpiredMayo",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 06:25:27.286",
+      "chat_type": "Local",
+      "author": "ExpiredMayo",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-27T06:25:01.907526"
+  "timestamp": "2025-12-27T06:30:01.304412"
 }
