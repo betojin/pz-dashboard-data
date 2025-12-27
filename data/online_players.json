@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 3,
   "players": [
     {
       "username": "RottenPotato",
@@ -11,14 +11,23 @@
       "online": true
     },
     {
+      "username": "ExpiredMayo",
+      "steam_id": "76561199510927772",
+      "connected_at": "27-12-25 04:18:12.441",
+      "x": 12022,
+      "y": 2589,
+      "z": 1,
+      "online": true
+    },
+    {
       "username": "Sully",
       "steam_id": "76561198119296623",
       "connected_at": "27-12-25 00:36:48.211",
-      "x": 13200,
-      "y": 6351,
+      "x": 13469,
+      "y": 5984,
       "z": 0,
       "online": true
     }
   ],
-  "timestamp": "2025-12-27T04:15:01.522576"
+  "timestamp": "2025-12-27T04:20:01.894230"
 }
