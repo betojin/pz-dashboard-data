@@ -372,18 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "26-12-25 23:37:51.123",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10087",
-      "y": "8261",
-      "z": "1",
-      "hours_survived": 579,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "2"
-    },
-    {
       "timestamp": "26-12-25 23:37:51.124",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1006,6 +994,18 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "2"
+    },
+    {
+      "timestamp": "27-12-25 02:42:08.733",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10103",
+      "y": "8240",
+      "z": "0",
+      "hours_survived": 635,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1310,5 +1310,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-27T02:40:01.730340"
+  "timestamp": "2025-12-27T02:45:02.056264"
 }
