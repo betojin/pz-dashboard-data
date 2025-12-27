@@ -203,7 +203,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 596,
+      "total_hours": 606,
       "deaths": 1,
       "skills": {
         "Cooking": 2,
@@ -215,7 +215,7 @@
         "Nimble": 3,
         "Sprinting": 3,
         "Sneak": 2,
-        "Woodwork": 7,
+        "Woodwork": 8,
         "Aiming": 2,
         "Reloading": 2,
         "Farming": 0,
@@ -362,9 +362,14 @@
           "skill": "Woodwork",
           "level": "7",
           "timestamp": "27-12-25 01:02:51.509"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "8",
+          "timestamp": "27-12-25 01:27:26.139"
         }
       ],
-      "last_seen": "27-12-25 01:02:51.509",
+      "last_seen": "27-12-25 01:27:26.139",
       "connections": 3
     },
     "Firestorm3050": {
@@ -2252,7 +2257,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 165,
+      "total_hours": 169,
       "deaths": 0,
       "skills": {
         "Cooking": 1,
@@ -2368,8 +2373,8 @@
           "timestamp": "27-12-25 00:56:21.894"
         }
       ],
-      "last_seen": "27-12-25 00:56:21.894",
-      "connections": 4
+      "last_seen": "27-12-25 01:27:51.496",
+      "connections": 5
     },
     "El_Moctezuma": {
       "username": "El_Moctezuma",
@@ -2806,5 +2811,5 @@
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T01:25:01.647339"
+  "timestamp": "2025-12-27T01:30:01.959463"
 }
