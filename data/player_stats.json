@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 415,
+      "total_hours": 428,
       "deaths": 3,
       "skills": {
         "Cooking": 0,
@@ -23,7 +23,7 @@
         "Trapping": 1,
         "PlantScavenging": 0,
         "Doctor": 1,
-        "Electricity": 1,
+        "Electricity": 2,
         "Blacksmith": 0,
         "MetalWelding": 0,
         "Mechanics": 0,
@@ -157,9 +157,14 @@
           "skill": "Axe",
           "level": "6",
           "timestamp": "27-12-25 09:07:57.004"
+        },
+        {
+          "skill": "Electricity",
+          "level": "2",
+          "timestamp": "27-12-25 19:36:14.987"
         }
       ],
-      "last_seen": "27-12-25 19:02:04.302",
+      "last_seen": "27-12-25 19:36:14.987",
       "connections": 7
     },
     "admin": {
@@ -3161,5 +3166,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-27T19:35:01.158333"
+  "timestamp": "2025-12-27T19:40:01.358551"
 }
