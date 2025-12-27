@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 03:09:39.857",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "27-12-25 03:09:49.421",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -377,6 +371,12 @@
       "steam_id": "76561198162940087",
       "username": "RinkRoller",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "27-12-25 10:44:37.408",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1138,5 +1138,5 @@
       "text": "psst"
     }
   ],
-  "timestamp": "2025-12-27T10:40:01.737238"
+  "timestamp": "2025-12-27T10:45:02.044787"
 }
