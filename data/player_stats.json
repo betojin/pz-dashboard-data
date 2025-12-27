@@ -203,7 +203,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 635,
+      "total_hours": 645,
       "deaths": 1,
       "skills": {
         "Cooking": 2,
@@ -226,7 +226,7 @@
         "Electricity": 1,
         "Blacksmith": 0,
         "MetalWelding": 0,
-        "Mechanics": 1,
+        "Mechanics": 2,
         "Spear": 0,
         "Maintenance": 2,
         "SmallBlade": 0,
@@ -392,9 +392,14 @@
           "skill": "Mechanics",
           "level": "1",
           "timestamp": "27-12-25 02:42:08.733"
+        },
+        {
+          "skill": "Mechanics",
+          "level": "2",
+          "timestamp": "27-12-25 03:05:06.129"
         }
       ],
-      "last_seen": "27-12-25 02:42:08.733",
+      "last_seen": "27-12-25 03:05:06.129",
       "connections": 3
     },
     "Firestorm3050": {
@@ -2282,7 +2287,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 190,
+      "total_hours": 195,
       "deaths": 0,
       "skills": {
         "Cooking": 1,
@@ -2413,8 +2418,8 @@
           "timestamp": "27-12-25 02:38:30.570"
         }
       ],
-      "last_seen": "27-12-25 02:57:42.140",
-      "connections": 8
+      "last_seen": "27-12-25 03:09:49.669",
+      "connections": 9
     },
     "El_Moctezuma": {
       "username": "El_Moctezuma",
@@ -2851,5 +2856,5 @@
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T03:05:01.424003"
+  "timestamp": "2025-12-27T03:10:01.774090"
 }

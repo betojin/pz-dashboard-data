@@ -1,42 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "26-12-25 23:31:27.827",
-      "steam_id": "76561198143098309",
-      "username": "Kirkinator",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "26-12-25 23:31:27.828",
-      "steam_id": "76561198143098309",
-      "username": "Kirkinator",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "26-12-25 23:40:16.495",
-      "steam_id": "76561198143098309",
-      "username": "Kirkinator",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "26-12-25 23:41:31.508",
-      "steam_id": "76561198143098309",
-      "username": "Kirkinator",
-      "action": "fully connected",
-      "x": "11792",
-      "y": "6786",
-      "z": "0"
-    },
-    {
-      "timestamp": "26-12-25 23:49:19.392",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "disconnected",
-      "x": "12227",
-      "y": "2133",
-      "z": "0"
-    },
-    {
       "timestamp": "26-12-25 23:49:21.745",
       "steam_id": "76561199317533255",
       "username": "Boba",
@@ -368,68 +332,45 @@
       "x": "8569",
       "y": "8808",
       "z": "0"
+    },
+    {
+      "timestamp": "27-12-25 03:09:00.685",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "disconnected",
+      "x": "8592",
+      "y": "8815",
+      "z": "0"
+    },
+    {
+      "timestamp": "27-12-25 03:09:29.026",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "27-12-25 03:09:29.026",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "27-12-25 03:09:39.857",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "27-12-25 03:09:49.421",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "fully connected",
+      "x": "8592",
+      "y": "8815",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "26-12-25 23:41:32.107",
-      "steam_id": "76561198143098309",
-      "username": "Kirkinator",
-      "x": "11792",
-      "y": "6786",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 2,
-        "Fitness": 7,
-        "Strength": 7,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 1,
-        "Nimble": 1,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "26-12-25 23:42:57.120",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8617",
-      "y": "8822",
-      "z": "0",
-      "hours_survived": 142,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "6"
-    },
     {
       "timestamp": "26-12-25 23:43:17.431",
       "steam_id": "76561198119296623",
@@ -1041,6 +982,65 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "27-12-25 03:05:06.129",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "11679",
+      "y": "8371",
+      "z": "0",
+      "hours_survived": 645,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "2"
+    },
+    {
+      "timestamp": "27-12-25 03:09:49.669",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8592",
+      "y": "8815",
+      "z": "0",
+      "hours_survived": 195,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 1,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 1,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 3,
+        "Doctor": 1,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 2,
+        "Tracking": 0,
+        "Husbandry": 1,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 6,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1345,5 +1345,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-27T03:05:01.454578"
+  "timestamp": "2025-12-27T03:10:01.801577"
 }
