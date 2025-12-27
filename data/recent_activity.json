@@ -378,16 +378,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 05:51:55.441",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "12447",
-      "y": "3053",
-      "z": "0",
-      "hours_survived": 22,
-      "event_type": "died"
-    },
-    {
       "timestamp": "27-12-25 06:03:41.912",
       "steam_id": "76561199317533255",
       "username": "Boba",
@@ -827,6 +817,18 @@
       "event_type": "level_up",
       "skill": "Aiming",
       "level": "1"
+    },
+    {
+      "timestamp": "27-12-25 08:43:36.343",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12451",
+      "y": "1719",
+      "z": "0",
+      "hours_survived": 10,
+      "event_type": "level_up",
+      "skill": "Axe",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1131,5 +1133,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-27T08:40:01.225032"
+  "timestamp": "2025-12-27T08:45:01.555230"
 }
