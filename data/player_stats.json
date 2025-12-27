@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 248,
+      "total_hours": 252,
       "deaths": 3,
       "skills": {
         "Cooking": 0,
@@ -149,8 +149,8 @@
           "timestamp": "26-12-25 23:46:14.093"
         }
       ],
-      "last_seen": "26-12-25 23:46:14.093",
-      "connections": 4
+      "last_seen": "26-12-25 23:59:10.770",
+      "connections": 5
     },
     "admin": {
       "username": "admin",
@@ -2678,7 +2678,7 @@
     "Kirkinator": {
       "username": "Kirkinator",
       "steam_id": "76561198143098309",
-      "total_hours": 0,
+      "total_hours": 6,
       "deaths": 0,
       "skills": {
         "Cooking": 2,
@@ -2703,7 +2703,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 1,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -2717,11 +2717,17 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "26-12-25 23:41:32.107",
+      "level_ups": [
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "26-12-25 23:59:07.359"
+        }
+      ],
+      "last_seen": "26-12-25 23:59:07.359",
       "connections": 1
     }
   },
   "total_players": 32,
-  "timestamp": "2025-12-26T23:55:01.453719"
+  "timestamp": "2025-12-27T00:00:01.811959"
 }
