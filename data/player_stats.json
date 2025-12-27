@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 366,
+      "total_hours": 415,
       "deaths": 3,
       "skills": {
         "Cooking": 0,
@@ -159,8 +159,8 @@
           "timestamp": "27-12-25 09:07:57.004"
         }
       ],
-      "last_seen": "27-12-25 09:07:57.004",
-      "connections": 6
+      "last_seen": "27-12-25 19:02:04.302",
+      "connections": 7
     },
     "admin": {
       "username": "admin",
@@ -465,7 +465,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 951,
+      "total_hours": 976,
       "deaths": 0,
       "skills": {
         "Cooking": 6,
@@ -494,7 +494,7 @@
         "SmallBlade": 0,
         "LongBlade": 1,
         "SmallBlunt": 3,
-        "Tailoring": 1,
+        "Tailoring": 2,
         "Tracking": 0,
         "Husbandry": 2,
         "FlintKnapping": 0,
@@ -759,9 +759,14 @@
           "skill": "PlantScavenging",
           "level": "5",
           "timestamp": "27-12-25 17:59:16.570"
+        },
+        {
+          "skill": "Tailoring",
+          "level": "2",
+          "timestamp": "27-12-25 19:02:08.752"
         }
       ],
-      "last_seen": "27-12-25 17:59:16.570",
+      "last_seen": "27-12-25 19:02:08.752",
       "connections": 3
     },
     "Molotov Kid": {
@@ -3144,5 +3149,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-27T19:00:01.484322"
+  "timestamp": "2025-12-27T19:05:01.991896"
 }
