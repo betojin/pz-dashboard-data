@@ -1570,7 +1570,7 @@
         "FlintKnapping": 0,
         "Masonry": 0,
         "Pottery": 0,
-        "Carving": 0,
+        "Carving": 1,
         "Butchering": 1,
         "Glassmaking": 0
       },
@@ -1624,9 +1624,14 @@
           "skill": "Aiming",
           "level": "1",
           "timestamp": "25-12-25 23:19:04.355"
+        },
+        {
+          "skill": "Carving",
+          "level": "1",
+          "timestamp": "27-12-25 18:53:16.665"
         }
       ],
-      "last_seen": "27-12-25 18:42:13.846",
+      "last_seen": "27-12-25 18:53:16.665",
       "connections": 1
     },
     "Pabstlite": {
@@ -2463,7 +2468,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 234,
+      "total_hours": 237,
       "deaths": 0,
       "skills": {
         "Cooking": 2,
@@ -2473,7 +2478,7 @@
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 0,
-        "Sprinting": 1,
+        "Sprinting": 2,
         "Sneak": 0,
         "Woodwork": 3,
         "Aiming": 0,
@@ -2481,7 +2486,7 @@
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
-        "PlantScavenging": 3,
+        "PlantScavenging": 4,
         "Doctor": 1,
         "Electricity": 0,
         "Blacksmith": 0,
@@ -2612,9 +2617,19 @@
           "skill": "Maintenance",
           "level": "3",
           "timestamp": "27-12-25 17:14:38.343"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "2",
+          "timestamp": "27-12-25 18:50:56.981"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "4",
+          "timestamp": "27-12-25 18:54:53.705"
         }
       ],
-      "last_seen": "27-12-25 18:45:56.205",
+      "last_seen": "27-12-25 18:54:53.705",
       "connections": 13
     },
     "El_Moctezuma": {
@@ -3124,5 +3139,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-27T18:50:01.775143"
+  "timestamp": "2025-12-27T18:55:01.139367"
 }

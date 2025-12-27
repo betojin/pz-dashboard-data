@@ -363,75 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 08:17:01.625",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12025",
-      "y": "2592",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 10,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 1,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "27-12-25 08:17:44.235",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "x": "12025",
-      "y": "2592",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
-    {
-      "timestamp": "27-12-25 08:30:36.001",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "x": "12428",
-      "y": "1666",
-      "z": "0",
-      "hours_survived": 5,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "1"
-    },
-    {
       "timestamp": "27-12-25 08:31:41.094",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -1104,6 +1035,42 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "27-12-25 18:50:56.981",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8474",
+      "y": "8733",
+      "z": "0",
+      "hours_survived": 236,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "2"
+    },
+    {
+      "timestamp": "27-12-25 18:53:16.665",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "2609",
+      "y": "10906",
+      "z": "0",
+      "hours_survived": 96,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "1"
+    },
+    {
+      "timestamp": "27-12-25 18:54:53.705",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8287",
+      "y": "8575",
+      "z": "0",
+      "hours_survived": 237,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1408,5 +1375,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-27T18:50:01.811552"
+  "timestamp": "2025-12-27T18:55:01.174147"
 }
