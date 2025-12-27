@@ -372,18 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "26-12-25 22:16:58.945",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12479",
-      "y": "1367",
-      "z": "0",
-      "hours_survived": 212,
-      "event_type": "level_up",
-      "skill": "Doctor",
-      "level": "1"
-    },
-    {
       "timestamp": "26-12-25 22:36:28.958",
       "steam_id": "76561199317533255",
       "username": "Boba",
@@ -1037,6 +1025,18 @@
       "event_type": "level_up",
       "skill": "Tailoring",
       "level": "1"
+    },
+    {
+      "timestamp": "27-12-25 00:56:21.894",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8611",
+      "y": "8824",
+      "z": "0",
+      "hours_survived": 165,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1341,5 +1341,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-27T00:55:01.691825"
+  "timestamp": "2025-12-27T01:00:02.042610"
 }

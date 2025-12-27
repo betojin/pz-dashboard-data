@@ -2247,7 +2247,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 159,
+      "total_hours": 165,
       "deaths": 0,
       "skills": {
         "Cooking": 1,
@@ -2276,7 +2276,7 @@
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 1,
-        "Tailoring": 1,
+        "Tailoring": 2,
         "Tracking": 0,
         "Husbandry": 0,
         "FlintKnapping": 0,
@@ -2356,9 +2356,14 @@
           "skill": "Tailoring",
           "level": "1",
           "timestamp": "27-12-25 00:42:33.648"
+        },
+        {
+          "skill": "Tailoring",
+          "level": "2",
+          "timestamp": "27-12-25 00:56:21.894"
         }
       ],
-      "last_seen": "27-12-25 00:42:33.648",
+      "last_seen": "27-12-25 00:56:21.894",
       "connections": 4
     },
     "El_Moctezuma": {
@@ -2796,5 +2801,5 @@
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T00:55:01.665466"
+  "timestamp": "2025-12-27T01:00:02.015725"
 }
