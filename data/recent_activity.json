@@ -1,27 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 16:12:11.390",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "disconnected",
-      "x": "8123",
-      "y": "11540",
-      "z": "0"
-    },
-    {
-      "timestamp": "27-12-25 16:19:31.205",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "27-12-25 16:19:31.205",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "27-12-25 16:19:42.671",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -350,56 +329,30 @@
       "x": "5717",
       "y": "5723",
       "z": "0"
+    },
+    {
+      "timestamp": "27-12-25 20:09:10.939",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "disconnected",
+      "x": "10721",
+      "y": "9561",
+      "z": "0"
+    },
+    {
+      "timestamp": "27-12-25 20:09:52.134",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "27-12-25 20:09:52.135",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 15:46:34.617",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8131",
-      "y": "11559",
-      "z": "0",
-      "hours_survived": 230,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 8,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "27-12-25 16:02:49.308",
       "steam_id": "76561198368197161",
@@ -1202,129 +1155,21 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "27-12-25 20:08:32.310",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12091",
+      "y": "2602",
+      "z": "0",
+      "hours_survived": 441,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "3"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "27-12-25 09:26:59.100",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 09:26:59.100",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 09:26:59.590",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 09:26:59.591",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 09:26:59.851",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 09:26:59.851",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 09:27:00.037",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "27-12-25 09:27:00.037",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "27-12-25 09:27:00.184",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 09:27:00.184",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 09:27:03.217",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 09:27:03.217",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 09:27:03.395",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 09:27:03.395",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 09:27:03.611",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 09:27:03.612",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 09:27:09.201",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 09:27:09.202",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 09:27:09.339",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 09:27:09.339",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "27-12-25 09:30:18.671",
       "chat_type": "Local",
@@ -1504,7 +1349,127 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "that counts"
+    },
+    {
+      "timestamp": "27-12-25 20:06:04.498",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "holy fuuuck"
+    },
+    {
+      "timestamp": "27-12-25 20:06:04.499",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "holy fuuuck"
+    },
+    {
+      "timestamp": "27-12-25 20:06:07.919",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "i need sinew thread"
+    },
+    {
+      "timestamp": "27-12-25 20:06:07.919",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "i need sinew thread"
+    },
+    {
+      "timestamp": "27-12-25 20:06:17.646",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "any idea how to hunt"
+    },
+    {
+      "timestamp": "27-12-25 20:06:17.646",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "any idea how to hunt"
+    },
+    {
+      "timestamp": "27-12-25 20:06:31.607",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "all higher end tailoring recipes require it"
+    },
+    {
+      "timestamp": "27-12-25 20:06:31.607",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "all higher end tailoring recipes require it"
+    },
+    {
+      "timestamp": "27-12-25 20:06:34.936",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "you get that from butchering, but picking thread from bullet proof vests also provides aramid thread, which does the same"
+    },
+    {
+      "timestamp": "27-12-25 20:06:34.936",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "you get that from butchering, but picking thread from bullet proof vests also provides aramid thread, which does the same"
+    },
+    {
+      "timestamp": "27-12-25 20:06:36.766",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "and u cant loot ts"
+    },
+    {
+      "timestamp": "27-12-25 20:06:36.766",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "and u cant loot ts"
+    },
+    {
+      "timestamp": "27-12-25 20:06:49.981",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "ive found one zombie with a bulletproof vest"
+    },
+    {
+      "timestamp": "27-12-25 20:06:49.981",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "ive found one zombie with a bulletproof vest"
+    },
+    {
+      "timestamp": "27-12-25 20:08:36.512",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "let me check when i get back to base"
+    },
+    {
+      "timestamp": "27-12-25 20:08:36.512",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "let me check when i get back to base"
+    },
+    {
+      "timestamp": "27-12-25 20:08:50.778",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "27-12-25 20:08:50.778",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "27-12-25 20:09:40.364",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "how do you find flint nodules???"
+    },
+    {
+      "timestamp": "27-12-25 20:09:40.365",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "how do you find flint nodules???"
     }
   ],
-  "timestamp": "2025-12-27T20:05:01.901999"
+  "timestamp": "2025-12-27T20:10:01.299842"
 }
