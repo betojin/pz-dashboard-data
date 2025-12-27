@@ -203,7 +203,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 606,
+      "total_hours": 611,
       "deaths": 1,
       "skills": {
         "Cooking": 2,
@@ -234,7 +234,7 @@
         "SmallBlunt": 0,
         "Tailoring": 0,
         "Tracking": 0,
-        "Husbandry": 0,
+        "Husbandry": 2,
         "FlintKnapping": 0,
         "Masonry": 0,
         "Pottery": 0,
@@ -367,9 +367,19 @@
           "skill": "Woodwork",
           "level": "8",
           "timestamp": "27-12-25 01:27:26.139"
+        },
+        {
+          "skill": "Husbandry",
+          "level": "1",
+          "timestamp": "27-12-25 01:39:37.639"
+        },
+        {
+          "skill": "Husbandry",
+          "level": "2",
+          "timestamp": "27-12-25 01:39:47.029"
         }
       ],
-      "last_seen": "27-12-25 01:27:26.139",
+      "last_seen": "27-12-25 01:39:47.029",
       "connections": 3
     },
     "Firestorm3050": {
@@ -2257,7 +2267,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 171,
+      "total_hours": 173,
       "deaths": 0,
       "skills": {
         "Cooking": 1,
@@ -2288,7 +2298,7 @@
         "SmallBlunt": 1,
         "Tailoring": 2,
         "Tracking": 0,
-        "Husbandry": 0,
+        "Husbandry": 1,
         "FlintKnapping": 0,
         "Masonry": 0,
         "Pottery": 0,
@@ -2371,9 +2381,14 @@
           "skill": "Tailoring",
           "level": "2",
           "timestamp": "27-12-25 00:56:21.894"
+        },
+        {
+          "skill": "Husbandry",
+          "level": "1",
+          "timestamp": "27-12-25 01:38:53.641"
         }
       ],
-      "last_seen": "27-12-25 01:32:58.412",
+      "last_seen": "27-12-25 01:38:53.641",
       "connections": 6
     },
     "El_Moctezuma": {
@@ -2811,5 +2826,5 @@
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T01:35:01.395545"
+  "timestamp": "2025-12-27T01:40:01.681502"
 }

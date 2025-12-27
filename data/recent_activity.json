@@ -372,42 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "26-12-25 22:53:47.257",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8611",
-      "y": "8824",
-      "z": "0",
-      "hours_survived": 122,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "3"
-    },
-    {
-      "timestamp": "26-12-25 22:55:41.876",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8611",
-      "y": "8824",
-      "z": "0",
-      "hours_survived": 123,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "4"
-    },
-    {
-      "timestamp": "26-12-25 22:55:54.034",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "x": "12395",
-      "y": "1482",
-      "z": "0",
-      "hours_survived": 100,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "1"
-    },
-    {
       "timestamp": "26-12-25 22:58:02.030",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -1041,6 +1005,42 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "27-12-25 01:38:53.641",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8577",
+      "y": "8793",
+      "z": "0",
+      "hours_survived": 173,
+      "event_type": "level_up",
+      "skill": "Husbandry",
+      "level": "1"
+    },
+    {
+      "timestamp": "27-12-25 01:39:37.639",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10054",
+      "y": "8256",
+      "z": "0",
+      "hours_survived": 610,
+      "event_type": "level_up",
+      "skill": "Husbandry",
+      "level": "1"
+    },
+    {
+      "timestamp": "27-12-25 01:39:47.029",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10054",
+      "y": "8256",
+      "z": "0",
+      "hours_survived": 611,
+      "event_type": "level_up",
+      "skill": "Husbandry",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1345,5 +1345,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-27T01:35:01.422062"
+  "timestamp": "2025-12-27T01:40:01.708197"
 }
