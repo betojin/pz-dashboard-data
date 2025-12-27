@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 01:32:58.412",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8616",
-      "y": "8822",
-      "z": "0",
-      "hours_survived": 171,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 1,
-        "Fitness": 7,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 3,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 6,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "27-12-25 01:38:53.641",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -1032,34 +985,20 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "27-12-25 05:51:55.441",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "12447",
+      "y": "3053",
+      "z": "0",
+      "hours_survived": 22,
+      "event_type": "died"
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "27-12-25 05:02:24.856",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "27-12-25 05:02:24.856",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "27-12-25 05:02:26.624",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "27-12-25 05:02:26.624",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
       "timestamp": "27-12-25 05:02:26.808",
       "chat_type": "Local",
       "author": "Sully",
@@ -1334,7 +1273,31 @@
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 05:50:28.437",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 05:50:28.437",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 05:52:43.279",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "27-12-25 05:52:43.279",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-27T05:50:01.292120"
+  "timestamp": "2025-12-27T05:55:01.715607"
 }
