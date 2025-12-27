@@ -372,18 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "26-12-25 22:58:02.030",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8626",
-      "y": "8806",
-      "z": "0",
-      "hours_survived": 124,
-      "event_type": "level_up",
-      "skill": "PlantScavenging",
-      "level": "2"
-    },
-    {
       "timestamp": "26-12-25 23:00:43.572",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -1041,6 +1029,18 @@
       "event_type": "level_up",
       "skill": "Husbandry",
       "level": "2"
+    },
+    {
+      "timestamp": "27-12-25 01:50:05.453",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10114",
+      "y": "8284",
+      "z": "0",
+      "hours_survived": 615,
+      "event_type": "level_up",
+      "skill": "Fishing",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1345,5 +1345,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-27T01:50:01.358556"
+  "timestamp": "2025-12-27T01:55:01.641912"
 }
