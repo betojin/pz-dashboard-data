@@ -223,7 +223,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 757,
+      "total_hours": 767,
       "deaths": 1,
       "skills": {
         "Cooking": 2,
@@ -254,7 +254,7 @@
         "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
-        "Husbandry": 3,
+        "Husbandry": 4,
         "FlintKnapping": 0,
         "Masonry": 0,
         "Pottery": 0,
@@ -467,15 +467,20 @@
           "skill": "Husbandry",
           "level": "3",
           "timestamp": "27-12-25 06:54:14.376"
+        },
+        {
+          "skill": "Husbandry",
+          "level": "4",
+          "timestamp": "27-12-25 20:20:19.387"
         }
       ],
-      "last_seen": "27-12-25 19:54:58.079",
+      "last_seen": "27-12-25 20:20:19.387",
       "connections": 4
     },
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 1006,
+      "total_hours": 1008,
       "deaths": 0,
       "skills": {
         "Cooking": 6,
@@ -507,7 +512,7 @@
         "Tailoring": 2,
         "Tracking": 0,
         "Husbandry": 2,
-        "FlintKnapping": 1,
+        "FlintKnapping": 2,
         "Masonry": 0,
         "Pottery": 0,
         "Carving": 6,
@@ -784,9 +789,14 @@
           "skill": "FlintKnapping",
           "level": "1",
           "timestamp": "27-12-25 20:19:50.150"
+        },
+        {
+          "skill": "FlintKnapping",
+          "level": "2",
+          "timestamp": "27-12-25 20:24:32.912"
         }
       ],
-      "last_seen": "27-12-25 20:19:50.150",
+      "last_seen": "27-12-25 20:24:32.912",
       "connections": 4
     },
     "Molotov Kid": {
@@ -3186,5 +3196,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-27T20:20:01.991306"
+  "timestamp": "2025-12-27T20:25:01.404714"
 }

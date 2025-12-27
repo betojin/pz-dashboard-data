@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 16:50:09.905",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "27-12-25 16:50:09.905",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "27-12-25 16:50:21.262",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -350,103 +338,27 @@
       "x": "10721",
       "y": "9561",
       "z": "0"
+    },
+    {
+      "timestamp": "27-12-25 20:21:28.134",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "disconnected",
+      "x": "12053",
+      "y": "2602",
+      "z": "0"
+    },
+    {
+      "timestamp": "27-12-25 20:23:16.938",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "disconnected",
+      "x": "851",
+      "y": "9859",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 16:20:40.451",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8612",
-      "y": "8822",
-      "z": "0",
-      "hours_survived": 209,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 2,
-        "Fitness": 7,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 3,
-        "Aiming": 0,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 3,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 1,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 6,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "27-12-25 16:54:14.309",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10658",
-      "y": "9566",
-      "z": "0",
-      "hours_survived": 925,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 4,
-        "Sneak": 0,
-        "Woodwork": 7,
-        "Aiming": 0,
-        "Reloading": 2,
-        "Farming": 2,
-        "Fishing": 2,
-        "Trapping": 1,
-        "PlantScavenging": 4,
-        "Doctor": 0,
-        "Electricity": 2,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 1,
-        "Maintenance": 3,
-        "SmallBlade": 0,
-        "LongBlade": 1,
-        "SmallBlunt": 3,
-        "Tailoring": 1,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 6,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "27-12-25 16:55:32.747",
       "steam_id": "76561198031138505",
@@ -1132,45 +1044,33 @@
       "event_type": "level_up",
       "skill": "FlintKnapping",
       "level": "1"
+    },
+    {
+      "timestamp": "27-12-25 20:20:19.387",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10052",
+      "y": "8251",
+      "z": "0",
+      "hours_survived": 767,
+      "event_type": "level_up",
+      "skill": "Husbandry",
+      "level": "4"
+    },
+    {
+      "timestamp": "27-12-25 20:24:32.912",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 1008,
+      "event_type": "level_up",
+      "skill": "FlintKnapping",
+      "level": "2"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "27-12-25 20:02:48.299",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "anyone have good mechanics?"
-    },
-    {
-      "timestamp": "27-12-25 20:02:48.299",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "anyone have good mechanics?"
-    },
-    {
-      "timestamp": "27-12-25 20:02:56.304",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "not the barrel, but i have with the burning pile"
-    },
-    {
-      "timestamp": "27-12-25 20:02:56.304",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "not the barrel, but i have with the burning pile"
-    },
-    {
-      "timestamp": "27-12-25 20:03:10.154",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "seems like the barrel method is bugged"
-    },
-    {
-      "timestamp": "27-12-25 20:03:10.154",
-      "chat_type": "General",
-      "author": "BetoJin",
-      "text": "seems like the barrel method is bugged"
-    },
     {
       "timestamp": "27-12-25 20:03:16.030",
       "chat_type": "General",
@@ -1434,7 +1334,43 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "ah has to be a container not a rain tank :o"
+    },
+    {
+      "timestamp": "27-12-25 20:20:22.832",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "oh hey a pipe bomb"
+    },
+    {
+      "timestamp": "27-12-25 20:20:22.832",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "oh hey a pipe bomb"
+    },
+    {
+      "timestamp": "27-12-25 20:23:00.859",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "bro"
+    },
+    {
+      "timestamp": "27-12-25 20:23:00.859",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "bro"
+    },
+    {
+      "timestamp": "27-12-25 20:23:05.719",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "why did i leave my truck"
+    },
+    {
+      "timestamp": "27-12-25 20:23:05.720",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "why did i leave my truck"
     }
   ],
-  "timestamp": "2025-12-27T20:20:02.028282"
+  "timestamp": "2025-12-27T20:25:01.441580"
 }
