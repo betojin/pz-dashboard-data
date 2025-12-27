@@ -530,7 +530,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 1065,
+      "total_hours": 1073,
       "deaths": 0,
       "skills": {
         "Cooking": 6,
@@ -562,7 +562,7 @@
         "Tailoring": 2,
         "Tracking": 0,
         "Husbandry": 2,
-        "FlintKnapping": 2,
+        "FlintKnapping": 3,
         "Masonry": 0,
         "Pottery": 0,
         "Carving": 7,
@@ -869,9 +869,14 @@
           "skill": "PlantScavenging",
           "level": "6",
           "timestamp": "27-12-25 22:57:55.219"
+        },
+        {
+          "skill": "FlintKnapping",
+          "level": "3",
+          "timestamp": "27-12-25 23:19:18.267"
         }
       ],
-      "last_seen": "27-12-25 22:57:55.219",
+      "last_seen": "27-12-25 23:19:18.267",
       "connections": 6
     },
     "Molotov Kid": {
@@ -2598,7 +2603,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 331,
+      "total_hours": 338,
       "deaths": 0,
       "skills": {
         "Cooking": 2,
@@ -2630,7 +2635,7 @@
         "Tailoring": 2,
         "Tracking": 0,
         "Husbandry": 1,
-        "FlintKnapping": 0,
+        "FlintKnapping": 1,
         "Masonry": 0,
         "Pottery": 0,
         "Carving": 6,
@@ -2767,9 +2772,14 @@
           "skill": "PlantScavenging",
           "level": "5",
           "timestamp": "27-12-25 22:47:22.870"
+        },
+        {
+          "skill": "FlintKnapping",
+          "level": "1",
+          "timestamp": "27-12-25 23:16:48.196"
         }
       ],
-      "last_seen": "27-12-25 22:59:20.359",
+      "last_seen": "27-12-25 23:16:48.196",
       "connections": 15
     },
     "El_Moctezuma": {
@@ -3286,5 +3296,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-27T23:15:01.155459"
+  "timestamp": "2025-12-27T23:20:01.506655"
 }

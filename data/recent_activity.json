@@ -366,65 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 20:08:32.310",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12091",
-      "y": "2602",
-      "z": "0",
-      "hours_survived": 441,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "3"
-    },
-    {
-      "timestamp": "27-12-25 20:11:32.779",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10721",
-      "y": "9561",
-      "z": "0",
-      "hours_survived": 1003,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 6,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 4,
-        "Sneak": 0,
-        "Woodwork": 7,
-        "Aiming": 0,
-        "Reloading": 2,
-        "Farming": 2,
-        "Fishing": 2,
-        "Trapping": 1,
-        "PlantScavenging": 5,
-        "Doctor": 0,
-        "Electricity": 2,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 1,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 1,
-        "SmallBlunt": 3,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 6,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "27-12-25 20:19:50.150",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -1004,6 +945,30 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "27-12-25 23:16:48.196",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8611",
+      "y": "8824",
+      "z": "0",
+      "hours_survived": 338,
+      "event_type": "level_up",
+      "skill": "FlintKnapping",
+      "level": "1"
+    },
+    {
+      "timestamp": "27-12-25 23:19:18.267",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 1073,
+      "event_type": "level_up",
+      "skill": "FlintKnapping",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1308,5 +1273,5 @@
       "text": "nicee"
     }
   ],
-  "timestamp": "2025-12-27T23:15:01.195169"
+  "timestamp": "2025-12-27T23:20:01.545822"
 }
