@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 11:08:38.121",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "27-12-25 11:08:43.470",
       "steam_id": "76561198065774641",
       "username": "admin",
@@ -353,21 +347,18 @@
       "x": "10662",
       "y": "10347",
       "z": "0"
+    },
+    {
+      "timestamp": "27-12-25 19:15:36.218",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "disconnected",
+      "x": "7409",
+      "y": "8380",
+      "z": "1"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 08:46:52.583",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12454",
-      "y": "1718",
-      "z": "0",
-      "hours_survived": 11,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "1"
-    },
     {
       "timestamp": "27-12-25 09:07:57.004",
       "steam_id": "76561198065774641",
@@ -1135,6 +1126,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "27-12-25 19:17:43.592",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "1429",
+      "y": "10849",
+      "z": "0",
+      "hours_survived": 106,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1439,5 +1442,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-27T19:15:01.787250"
+  "timestamp": "2025-12-27T19:20:01.129822"
 }

@@ -1540,7 +1540,7 @@
     "exoticbutter": {
       "username": "exoticbutter",
       "steam_id": "76561198417595781",
-      "total_hours": 102,
+      "total_hours": 106,
       "deaths": 2,
       "skills": {
         "Cooking": 0,
@@ -1575,7 +1575,7 @@
         "FlintKnapping": 0,
         "Masonry": 0,
         "Pottery": 0,
-        "Carving": 1,
+        "Carving": 2,
         "Butchering": 1,
         "Glassmaking": 0
       },
@@ -1639,9 +1639,14 @@
           "skill": "SmallBlunt",
           "level": "1",
           "timestamp": "27-12-25 18:59:04.816"
+        },
+        {
+          "skill": "Carving",
+          "level": "2",
+          "timestamp": "27-12-25 19:17:43.592"
         }
       ],
-      "last_seen": "27-12-25 18:59:04.816",
+      "last_seen": "27-12-25 19:17:43.592",
       "connections": 1
     },
     "Pabstlite": {
@@ -3150,5 +3155,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-27T19:15:01.748129"
+  "timestamp": "2025-12-27T19:20:01.091843"
 }
