@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 16:19:42.671",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "27-12-25 16:20:36.431",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "fully connected",
-      "x": "8612",
-      "y": "8822",
-      "z": "0"
-    },
-    {
       "timestamp": "27-12-25 16:50:09.905",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -350,56 +335,24 @@
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "27-12-25 20:10:03.200",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "27-12-25 20:11:32.347",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "fully connected",
+      "x": "10721",
+      "y": "9561",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 16:02:49.308",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8130",
-      "y": "11558",
-      "z": "0",
-      "hours_survived": 231,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 8,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "27-12-25 16:11:44.275",
       "steam_id": "76561198368197161",
@@ -1167,69 +1120,56 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "3"
+    },
+    {
+      "timestamp": "27-12-25 20:11:32.779",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10721",
+      "y": "9561",
+      "z": "0",
+      "hours_survived": 1003,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 6,
+        "Fitness": 10,
+        "Strength": 9,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 4,
+        "Sneak": 0,
+        "Woodwork": 7,
+        "Aiming": 0,
+        "Reloading": 2,
+        "Farming": 2,
+        "Fishing": 2,
+        "Trapping": 1,
+        "PlantScavenging": 5,
+        "Doctor": 0,
+        "Electricity": 2,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 2,
+        "Spear": 1,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 1,
+        "SmallBlunt": 3,
+        "Tailoring": 2,
+        "Tracking": 0,
+        "Husbandry": 2,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 6,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "27-12-25 09:30:18.671",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "psst"
-    },
-    {
-      "timestamp": "27-12-25 09:30:18.672",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "psst"
-    },
-    {
-      "timestamp": "27-12-25 11:12:01.517",
-      "chat_type": "Local",
-      "author": "RinkRoller",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 11:12:01.517",
-      "chat_type": "Local",
-      "author": "RinkRoller",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 19:26:53.454",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "you monster"
-    },
-    {
-      "timestamp": "27-12-25 19:26:53.454",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "you monster"
-    },
-    {
-      "timestamp": "27-12-25 19:34:11.576",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "srry"
-    },
-    {
-      "timestamp": "27-12-25 19:34:11.576",
-      "chat_type": "General",
-      "author": "exoticbutter",
-      "text": "srry"
-    },
-    {
-      "timestamp": "27-12-25 20:02:15.316",
-      "chat_type": "Local",
-      "author": "exoticbutter",
-      "text": "wtf"
-    },
-    {
-      "timestamp": "27-12-25 20:02:15.316",
-      "chat_type": "Local",
-      "author": "exoticbutter",
-      "text": "wtf"
-    },
     {
       "timestamp": "27-12-25 20:02:21.287",
       "chat_type": "General",
@@ -1469,7 +1409,67 @@
       "chat_type": "General",
       "author": "BetoJin",
       "text": "how do you find flint nodules???"
+    },
+    {
+      "timestamp": "27-12-25 20:10:52.126",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "foraging or mining stone for a chance of flint nodules"
+    },
+    {
+      "timestamp": "27-12-25 20:10:52.128",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "foraging or mining stone for a chance of flint nodules"
+    },
+    {
+      "timestamp": "27-12-25 20:12:56.427",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "dang I must be unlucky then"
+    },
+    {
+      "timestamp": "27-12-25 20:12:56.427",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "dang I must be unlucky then"
+    },
+    {
+      "timestamp": "27-12-25 20:13:17.283",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "srry i had to relog, ran into a bug that made all my WASD keys walk only left"
+    },
+    {
+      "timestamp": "27-12-25 20:13:17.283",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "srry i had to relog, ran into a bug that made all my WASD keys walk only left"
+    },
+    {
+      "timestamp": "27-12-25 20:14:29.114",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "chevalier cerise wagon?"
+    },
+    {
+      "timestamp": "27-12-25 20:14:29.114",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "chevalier cerise wagon?"
+    },
+    {
+      "timestamp": "27-12-25 20:14:33.777",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "what is dis?"
+    },
+    {
+      "timestamp": "27-12-25 20:14:33.777",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "what is dis?"
     }
   ],
-  "timestamp": "2025-12-27T20:10:01.299842"
+  "timestamp": "2025-12-27T20:15:01.671413"
 }
