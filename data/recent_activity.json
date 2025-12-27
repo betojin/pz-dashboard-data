@@ -1,45 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 05:10:58.303",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "27-12-25 05:10:58.304",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "27-12-25 05:11:05.269",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "27-12-25 05:12:26.269",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "fully connected",
-      "x": "12024",
-      "y": "2589",
-      "z": "0"
-    },
-    {
-      "timestamp": "27-12-25 05:23:55.535",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "27-12-25 05:23:55.536",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "27-12-25 05:24:09.314",
       "steam_id": "76561199317533255",
       "username": "Boba",
@@ -377,21 +338,54 @@
       "x": "8130",
       "y": "11558",
       "z": "0"
+    },
+    {
+      "timestamp": "27-12-25 16:11:06.641",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "disconnected",
+      "x": "8123",
+      "y": "11540",
+      "z": "0"
+    },
+    {
+      "timestamp": "27-12-25 16:11:28.573",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "27-12-25 16:11:28.573",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "27-12-25 16:11:33.402",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "27-12-25 16:11:43.722",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "fully connected",
+      "x": "8123",
+      "y": "11540",
+      "z": "0"
+    },
+    {
+      "timestamp": "27-12-25 16:12:11.390",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "disconnected",
+      "x": "8123",
+      "y": "11540",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 07:45:50.421",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12019",
-      "y": "2598",
-      "z": "0",
-      "hours_survived": 66,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "1"
-    },
     {
       "timestamp": "27-12-25 07:45:55.524",
       "steam_id": "76561199511597958",
@@ -939,6 +933,53 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "27-12-25 16:11:44.275",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8123",
+      "y": "11540",
+      "z": "0",
+      "hours_survived": 235,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 9,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 2,
+        "Sneak": 0,
+        "Woodwork": 8,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1243,5 +1284,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-27T16:10:01.341269"
+  "timestamp": "2025-12-27T16:15:01.686291"
 }
