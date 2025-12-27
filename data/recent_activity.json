@@ -1,30 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "26-12-25 20:43:04.125",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "fully connected",
-      "x": "5717",
-      "y": "5729",
-      "z": "0"
-    },
-    {
-      "timestamp": "26-12-25 20:54:51.821",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "disconnected",
-      "x": "5717",
-      "y": "5729",
-      "z": "0"
-    },
-    {
-      "timestamp": "26-12-25 20:55:13.822",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "26-12-25 20:55:13.822",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -368,6 +344,27 @@
       "x": "12197",
       "y": "2156",
       "z": "0"
+    },
+    {
+      "timestamp": "27-12-25 00:02:30.995",
+      "steam_id": "76561198143098309",
+      "username": "Kirkinator",
+      "action": "disconnected",
+      "x": "11678",
+      "y": "6820",
+      "z": "0"
+    },
+    {
+      "timestamp": "27-12-25 00:03:59.159",
+      "steam_id": "76561198143098309",
+      "username": "Lourex",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "27-12-25 00:03:59.160",
+      "steam_id": "76561198143098309",
+      "username": "Lourex",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -1306,5 +1303,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-27T00:00:01.839232"
+  "timestamp": "2025-12-27T00:05:01.154232"
 }
