@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 252,
+      "total_hours": 273,
       "deaths": 3,
       "skills": {
         "Cooking": 0,
@@ -149,8 +149,8 @@
           "timestamp": "26-12-25 23:46:14.093"
         }
       ],
-      "last_seen": "26-12-25 23:59:10.770",
-      "connections": 5
+      "last_seen": "27-12-25 05:12:27.016",
+      "connections": 6
     },
     "admin": {
       "username": "admin",
@@ -203,7 +203,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 664,
+      "total_hours": 695,
       "deaths": 1,
       "skills": {
         "Cooking": 2,
@@ -228,7 +228,7 @@
         "MetalWelding": 2,
         "Mechanics": 2,
         "Spear": 0,
-        "Maintenance": 2,
+        "Maintenance": 3,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -417,9 +417,14 @@
           "skill": "Electricity",
           "level": "2",
           "timestamp": "27-12-25 03:53:56.459"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "3",
+          "timestamp": "27-12-25 05:11:40.989"
         }
       ],
-      "last_seen": "27-12-25 03:53:56.459",
+      "last_seen": "27-12-25 05:11:40.989",
       "connections": 3
     },
     "Firestorm3050": {
@@ -2896,5 +2901,5 @@
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T05:10:01.279432"
+  "timestamp": "2025-12-27T05:15:01.621125"
 }

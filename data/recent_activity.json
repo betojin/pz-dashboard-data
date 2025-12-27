@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 00:25:06.644",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "27-12-25 00:25:17.584",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "27-12-25 00:28:28.629",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "fully connected",
-      "x": "8614",
-      "y": "8822",
-      "z": "0"
-    },
-    {
-      "timestamp": "27-12-25 00:36:03.652",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "27-12-25 00:36:03.653",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -362,33 +335,36 @@
       "x": "12025",
       "y": "2592",
       "z": "0"
+    },
+    {
+      "timestamp": "27-12-25 05:10:58.303",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "27-12-25 05:10:58.304",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "27-12-25 05:11:05.269",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "27-12-25 05:12:26.269",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "fully connected",
+      "x": "12024",
+      "y": "2589",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 00:56:21.894",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8611",
-      "y": "8824",
-      "z": "0",
-      "hours_survived": 165,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "2"
-    },
-    {
-      "timestamp": "27-12-25 01:02:51.509",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10066",
-      "y": "8207",
-      "z": "0",
-      "hours_survived": 596,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "7"
-    },
     {
       "timestamp": "27-12-25 01:27:26.139",
       "steam_id": "76561198119296623",
@@ -1000,6 +976,65 @@
       "z": "0",
       "hours_survived": 0,
       "event_type": "created"
+    },
+    {
+      "timestamp": "27-12-25 05:11:40.989",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "13948",
+      "y": "5917",
+      "z": "0",
+      "hours_survived": 695,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "3"
+    },
+    {
+      "timestamp": "27-12-25 05:12:27.016",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12024",
+      "y": "2589",
+      "z": "0",
+      "hours_survived": 273,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 10,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 5,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 2,
+        "Sneak": 0,
+        "Woodwork": 7,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 3,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1304,5 +1339,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-27T05:10:01.308697"
+  "timestamp": "2025-12-27T05:15:01.650498"
 }
