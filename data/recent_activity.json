@@ -1,39 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 19:00:54.858",
-      "steam_id": "76561199249031770",
-      "username": "squibby",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "27-12-25 19:02:03.689",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "fully connected",
-      "x": "12023",
-      "y": "2596",
-      "z": "0"
-    },
-    {
-      "timestamp": "27-12-25 19:05:25.654",
-      "steam_id": "76561199249031770",
-      "username": "squibby",
-      "action": "fully connected",
-      "x": "10662",
-      "y": "10347",
-      "z": "0"
-    },
-    {
-      "timestamp": "27-12-25 19:15:36.218",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "disconnected",
-      "x": "7409",
-      "y": "8380",
-      "z": "1"
-    },
-    {
       "timestamp": "27-12-25 19:21:12.587",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -365,21 +332,36 @@
       "x": "1829",
       "y": "15063",
       "z": "0"
+    },
+    {
+      "timestamp": "27-12-25 22:25:28.521",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "27-12-25 22:25:28.522",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "27-12-25 22:25:36.868",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "27-12-25 22:26:06.375",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "fully connected",
+      "x": "8125",
+      "y": "11558",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 19:34:36.049",
-      "steam_id": "76561199249031770",
-      "username": "squibby",
-      "x": "10623",
-      "y": "9913",
-      "z": "0",
-      "hours_survived": 27,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "1"
-    },
     {
       "timestamp": "27-12-25 19:36:14.987",
       "steam_id": "76561198065774641",
@@ -1007,6 +989,53 @@
       "event_type": "level_up",
       "skill": "Carving",
       "level": "7"
+    },
+    {
+      "timestamp": "27-12-25 22:26:06.989",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "x": "8125",
+      "y": "11558",
+      "z": "0",
+      "hours_survived": 235,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 9,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 2,
+        "Sneak": 0,
+        "Woodwork": 8,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1311,5 +1340,5 @@
       "text": "not me"
     }
   ],
-  "timestamp": "2025-12-27T22:25:01.312175"
+  "timestamp": "2025-12-27T22:30:01.637485"
 }
