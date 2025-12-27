@@ -2075,7 +2075,7 @@
         "Nimble": 0,
         "Sprinting": 2,
         "Sneak": 0,
-        "Woodwork": 0,
+        "Woodwork": 3,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -2142,15 +2142,30 @@
           "skill": "Axe",
           "level": "2",
           "timestamp": "27-12-25 06:08:43.487"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "1",
+          "timestamp": "27-12-25 07:45:50.421"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "2",
+          "timestamp": "27-12-25 07:45:55.524"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "3",
+          "timestamp": "27-12-25 07:46:18.233"
         }
       ],
-      "last_seen": "27-12-25 06:08:43.487",
+      "last_seen": "27-12-25 07:46:18.233",
       "connections": 3
     },
     "ExpiredMayo": {
       "username": "ExpiredMayo",
       "steam_id": "76561199510927772",
-      "total_hours": 195,
+      "total_hours": 218,
       "deaths": 2,
       "skills": {
         "Cooking": 0,
@@ -2162,7 +2177,7 @@
         "Nimble": 2,
         "Sprinting": 1,
         "Sneak": 2,
-        "Woodwork": 0,
+        "Woodwork": 3,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -2224,9 +2239,24 @@
           "skill": "Sprinting",
           "level": "1",
           "timestamp": "27-12-25 06:50:31.725"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "1",
+          "timestamp": "27-12-25 07:48:24.278"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "2",
+          "timestamp": "27-12-25 07:48:29.403"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "3",
+          "timestamp": "27-12-25 07:48:52.100"
         }
       ],
-      "last_seen": "27-12-25 06:50:31.725",
+      "last_seen": "27-12-25 07:48:52.100",
       "connections": 5
     },
     "Danford": {
@@ -2951,5 +2981,5 @@
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T07:45:01.364294"
+  "timestamp": "2025-12-27T07:50:01.708319"
 }
