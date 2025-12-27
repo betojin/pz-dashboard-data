@@ -4,12 +4,6 @@
       "timestamp": "27-12-25 11:08:38.121",
       "steam_id": "76561198065774641",
       "username": "admin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "27-12-25 11:08:38.121",
-      "steam_id": "76561198065774641",
-      "username": "admin",
       "action": "allowed to join"
     },
     {
@@ -350,21 +344,18 @@
       "x": "12023",
       "y": "2596",
       "z": "0"
+    },
+    {
+      "timestamp": "27-12-25 19:05:25.654",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "action": "fully connected",
+      "x": "10662",
+      "y": "10347",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 08:43:36.343",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12451",
-      "y": "1719",
-      "z": "0",
-      "hours_survived": 10,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "2"
-    },
     {
       "timestamp": "27-12-25 08:46:52.583",
       "steam_id": "76561199511597958",
@@ -1097,6 +1088,53 @@
       "event_type": "level_up",
       "skill": "Tailoring",
       "level": "2"
+    },
+    {
+      "timestamp": "27-12-25 19:05:26.898",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "x": "10662",
+      "y": "10347",
+      "z": "0",
+      "hours_survived": 15,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 4,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1401,5 +1439,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-27T19:05:02.028615"
+  "timestamp": "2025-12-27T19:10:01.349543"
 }
