@@ -2299,7 +2299,7 @@
         "Nimble": 0,
         "Sprinting": 1,
         "Sneak": 0,
-        "Woodwork": 1,
+        "Woodwork": 2,
         "Aiming": 0,
         "Reloading": 1,
         "Farming": 0,
@@ -2416,9 +2416,14 @@
           "skill": "Maintenance",
           "level": "2",
           "timestamp": "27-12-25 02:38:30.570"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "2",
+          "timestamp": "27-12-25 03:11:53.606"
         }
       ],
-      "last_seen": "27-12-25 03:09:49.669",
+      "last_seen": "27-12-25 03:11:53.606",
       "connections": 9
     },
     "El_Moctezuma": {
@@ -2856,5 +2861,5 @@
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T03:10:01.774090"
+  "timestamp": "2025-12-27T03:15:01.106623"
 }
