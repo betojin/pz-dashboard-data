@@ -381,53 +381,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 06:36:56.129",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "x": "12811",
-      "y": "2190",
-      "z": "0",
-      "hours_survived": 190,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 1,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "27-12-25 06:50:31.725",
       "steam_id": "76561199510927772",
       "username": "ExpiredMayo",
@@ -904,6 +857,18 @@
       "event_type": "level_up",
       "skill": "SmallBlunt",
       "level": "2"
+    },
+    {
+      "timestamp": "27-12-25 12:23:48.170",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "x": "11912",
+      "y": "6951",
+      "z": "0",
+      "hours_survived": 39,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1208,5 +1173,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-27T12:20:01.564117"
+  "timestamp": "2025-12-27T12:25:01.850707"
 }
