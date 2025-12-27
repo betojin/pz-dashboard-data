@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 00:41:13.054",
-      "steam_id": "76561198143098309",
-      "username": "Lourex",
-      "action": "disconnected",
-      "x": "11742",
-      "y": "6746",
-      "z": "1"
-    },
-    {
       "timestamp": "27-12-25 00:51:16.817",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -359,56 +350,18 @@
       "steam_id": "76561199317533255",
       "username": "Boba",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "27-12-25 05:26:18.624",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "action": "fully connected",
+      "x": "12022",
+      "y": "2600",
+      "z": "1"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 01:27:51.496",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8613",
-      "y": "8829",
-      "z": "0",
-      "hours_survived": 169,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 1,
-        "Fitness": 7,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 3,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 6,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "27-12-25 01:32:58.412",
       "steam_id": "76561198060886931",
@@ -1032,21 +985,56 @@
       "event_type": "level_up",
       "skill": "SmallBlunt",
       "level": "1"
+    },
+    {
+      "timestamp": "27-12-25 05:26:19.852",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "12022",
+      "y": "2600",
+      "z": "1",
+      "hours_survived": 12,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "27-12-25 04:27:35.907",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 04:27:35.907",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "27-12-25 04:27:36.152",
       "chat_type": "Local",
@@ -1334,7 +1322,19 @@
       "chat_type": "Local",
       "author": "RottenPotato",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 05:29:13.099",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 05:29:13.099",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-27T05:25:01.319765"
+  "timestamp": "2025-12-27T05:30:01.756444"
 }
