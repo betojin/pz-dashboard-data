@@ -381,18 +381,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 06:50:31.725",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "x": "12051",
-      "y": "2581",
-      "z": "0",
-      "hours_survived": 195,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "1"
-    },
-    {
       "timestamp": "27-12-25 06:54:14.376",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -869,6 +857,18 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "4"
+    },
+    {
+      "timestamp": "27-12-25 12:31:56.765",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "x": "11880",
+      "y": "6943",
+      "z": "0",
+      "hours_survived": 42,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1173,5 +1173,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-27T12:30:01.188765"
+  "timestamp": "2025-12-27T12:35:01.730852"
 }
