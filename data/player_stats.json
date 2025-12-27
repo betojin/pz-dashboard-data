@@ -3,14 +3,14 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 323,
+      "total_hours": 366,
       "deaths": 3,
       "skills": {
         "Cooking": 0,
         "Fitness": 10,
         "Strength": 10,
         "Blunt": 1,
-        "Axe": 5,
+        "Axe": 6,
         "Lightfoot": 0,
         "Nimble": 0,
         "Sprinting": 2,
@@ -152,9 +152,14 @@
           "skill": "Electricity",
           "level": "1",
           "timestamp": "27-12-25 07:17:59.375"
+        },
+        {
+          "skill": "Axe",
+          "level": "6",
+          "timestamp": "27-12-25 09:07:57.004"
         }
       ],
-      "last_seen": "27-12-25 07:17:59.375",
+      "last_seen": "27-12-25 09:07:57.004",
       "connections": 6
     },
     "admin": {
@@ -3016,5 +3021,5 @@
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T09:05:01.287436"
+  "timestamp": "2025-12-27T09:10:01.649051"
 }

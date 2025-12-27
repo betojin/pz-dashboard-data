@@ -378,18 +378,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 06:08:43.487",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12327",
-      "y": "2391",
-      "z": "0",
-      "hours_survived": 28,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "2"
-    },
-    {
       "timestamp": "27-12-25 06:18:39.452",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -831,153 +819,21 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "1"
+    },
+    {
+      "timestamp": "27-12-25 09:07:57.004",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12485",
+      "y": "1658",
+      "z": "0",
+      "hours_survived": 366,
+      "event_type": "level_up",
+      "skill": "Axe",
+      "level": "6"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "27-12-25 08:28:40.903",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:40.903",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:41.110",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:41.110",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:41.313",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:41.313",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:44.187",
-      "chat_type": "Local",
-      "author": "Boba",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:44.187",
-      "chat_type": "Local",
-      "author": "Boba",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:45.531",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:45.531",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:45.588",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:45.588",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:45.765",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:45.765",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:48.443",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:48.443",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:48.623",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:48.623",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:48.787",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:48.787",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:48.954",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:48.954",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:49.050",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 08:28:49.050",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "27-12-25 08:29:03.210",
       "chat_type": "Local",
@@ -1133,7 +989,151 @@
       "chat_type": "Local",
       "author": "ExpiredMayo",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:41.152",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:41.152",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:41.350",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:41.350",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:41.655",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:41.655",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:49.176",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:49.176",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:49.299",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:49.299",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:49.505",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:49.505",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:49.839",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:49.839",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:49.981",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:49.981",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:54.340",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:54.340",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:54.486",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:54.487",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:54.642",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:54.642",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:54.822",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 09:09:54.822",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-27T09:05:01.319188"
+  "timestamp": "2025-12-27T09:10:01.685126"
 }
