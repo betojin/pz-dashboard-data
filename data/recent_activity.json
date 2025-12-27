@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 07:57:26.370",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "27-12-25 07:57:37.500",
       "steam_id": "76561199317533255",
       "username": "Boba",
@@ -371,29 +365,18 @@
       "steam_id": "76561198060886931",
       "username": "Zero",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "27-12-25 17:56:04.554",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "fully connected",
+      "x": "8597",
+      "y": "8816",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 08:13:57.766",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12473",
-      "y": "1642",
-      "z": "0",
-      "hours_survived": 78,
-      "event_type": "died"
-    },
-    {
-      "timestamp": "27-12-25 08:14:06.985",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "12470",
-      "y": "1642",
-      "z": "0",
-      "hours_survived": 51,
-      "event_type": "died"
-    },
     {
       "timestamp": "27-12-25 08:14:40.540",
       "steam_id": "76561199510927772",
@@ -1003,6 +986,65 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "3"
+    },
+    {
+      "timestamp": "27-12-25 17:56:04.973",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8597",
+      "y": "8816",
+      "z": "0",
+      "hours_survived": 231,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 2,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 3,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 3,
+        "Doctor": 1,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 3,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 2,
+        "Tracking": 0,
+        "Husbandry": 1,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 6,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "27-12-25 17:59:16.570",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10668",
+      "y": "9553",
+      "z": "0",
+      "hours_survived": 951,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "5"
     }
   ],
   "chat_messages": [
@@ -1307,5 +1349,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-27T17:55:01.391795"
+  "timestamp": "2025-12-27T18:00:01.400722"
 }

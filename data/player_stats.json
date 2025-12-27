@@ -465,7 +465,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 928,
+      "total_hours": 951,
       "deaths": 0,
       "skills": {
         "Cooking": 6,
@@ -483,7 +483,7 @@
         "Farming": 2,
         "Fishing": 2,
         "Trapping": 1,
-        "PlantScavenging": 4,
+        "PlantScavenging": 5,
         "Doctor": 0,
         "Electricity": 2,
         "Blacksmith": 0,
@@ -754,9 +754,14 @@
           "skill": "Cooking",
           "level": "6",
           "timestamp": "27-12-25 17:00:47.692"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "5",
+          "timestamp": "27-12-25 17:59:16.570"
         }
       ],
-      "last_seen": "27-12-25 17:00:47.692",
+      "last_seen": "27-12-25 17:59:16.570",
       "connections": 3
     },
     "Molotov Kid": {
@@ -2608,8 +2613,8 @@
           "timestamp": "27-12-25 17:14:38.343"
         }
       ],
-      "last_seen": "27-12-25 17:14:38.343",
-      "connections": 11
+      "last_seen": "27-12-25 17:56:04.973",
+      "connections": 12
     },
     "El_Moctezuma": {
       "username": "El_Moctezuma",
@@ -3118,5 +3123,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-27T17:55:01.357595"
+  "timestamp": "2025-12-27T18:00:01.366257"
 }
