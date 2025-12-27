@@ -223,7 +223,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 786,
+      "total_hours": 799,
       "deaths": 1,
       "skills": {
         "Cooking": 2,
@@ -258,7 +258,7 @@
         "FlintKnapping": 0,
         "Masonry": 2,
         "Pottery": 0,
-        "Carving": 0,
+        "Carving": 1,
         "Butchering": 0,
         "Glassmaking": 0
       },
@@ -502,9 +502,14 @@
           "skill": "Sprinting",
           "level": "4",
           "timestamp": "27-12-25 21:07:19.223"
+        },
+        {
+          "skill": "Carving",
+          "level": "1",
+          "timestamp": "27-12-25 21:40:21.670"
         }
       ],
-      "last_seen": "27-12-25 21:07:19.223",
+      "last_seen": "27-12-25 21:40:21.670",
       "connections": 4
     },
     "Firestorm3050": {
@@ -3246,5 +3251,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-27T21:40:01.905372"
+  "timestamp": "2025-12-27T21:45:01.257620"
 }
