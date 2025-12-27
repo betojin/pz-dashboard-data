@@ -366,18 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 19:17:43.592",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "x": "1429",
-      "y": "10849",
-      "z": "0",
-      "hours_survived": 106,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "2"
-    },
-    {
       "timestamp": "27-12-25 19:21:53.202",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -1039,6 +1027,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "27-12-25 22:04:20.096",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10104",
+      "y": "8284",
+      "z": "0",
+      "hours_survived": 809,
+      "event_type": "level_up",
+      "skill": "Fishing",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1343,5 +1343,5 @@
       "text": "not me"
     }
   ],
-  "timestamp": "2025-12-27T22:00:01.367342"
+  "timestamp": "2025-12-27T22:05:01.753273"
 }
