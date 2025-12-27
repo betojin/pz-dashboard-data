@@ -1366,7 +1366,7 @@
     "half": {
       "username": "half",
       "steam_id": "76561198368197161",
-      "total_hours": 235,
+      "total_hours": 240,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1384,7 +1384,7 @@
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 1,
-        "PlantScavenging": 0,
+        "PlantScavenging": 1,
         "Doctor": 0,
         "Electricity": 1,
         "Blacksmith": 0,
@@ -1497,8 +1497,8 @@
           "timestamp": "25-12-25 19:46:06.369"
         }
       ],
-      "last_seen": "27-12-25 22:26:06.989",
-      "connections": 6
+      "last_seen": "27-12-25 22:51:52.970",
+      "connections": 7
     },
     "Kessel": {
       "username": "Kessel",
@@ -3281,5 +3281,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-27T22:50:01.146319"
+  "timestamp": "2025-12-27T22:55:01.520038"
 }
