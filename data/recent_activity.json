@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 18:21:35.804",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "27-12-25 18:40:32.668",
       "steam_id": "76561198417595781",
       "username": "exoticbutter",
@@ -355,6 +349,15 @@
       "action": "fully connected",
       "x": "2305",
       "y": "14472",
+      "z": "0"
+    },
+    {
+      "timestamp": "27-12-25 21:46:39.270",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "disconnected",
+      "x": "10659",
+      "y": "9571",
       "z": "0"
     }
   ],
@@ -1337,5 +1340,5 @@
       "text": "not me"
     }
   ],
-  "timestamp": "2025-12-27T21:45:01.297288"
+  "timestamp": "2025-12-27T21:50:01.630560"
 }
