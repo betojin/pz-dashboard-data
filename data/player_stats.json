@@ -2791,7 +2791,7 @@
     "squibby": {
       "username": "squibby",
       "steam_id": "76561199249031770",
-      "total_hours": 15,
+      "total_hours": 27,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -2816,7 +2816,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 0,
+        "Maintenance": 1,
         "SmallBlade": 1,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -2830,8 +2830,14 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "27-12-25 19:05:26.898",
+      "level_ups": [
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "27-12-25 19:34:36.049"
+        }
+      ],
+      "last_seen": "27-12-25 19:34:36.049",
       "connections": 1
     },
     "RottenTomato": {
@@ -3155,5 +3161,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-27T19:30:01.824464"
+  "timestamp": "2025-12-27T19:35:01.158333"
 }

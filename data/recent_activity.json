@@ -354,53 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 10:45:10.575",
-      "steam_id": "76561198162940087",
-      "username": "RinkRoller",
-      "x": "11537",
-      "y": "6986",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 4,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 1,
-        "Trapping": 0,
-        "PlantScavenging": 1,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 2,
-        "Pottery": 0,
-        "Carving": 2,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "27-12-25 11:08:57.008",
       "steam_id": "76561198065774641",
       "username": "admin",
@@ -1167,21 +1120,21 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "27-12-25 19:34:36.049",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "x": "10623",
+      "y": "9913",
+      "z": "0",
+      "hours_survived": 27,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "27-12-25 09:19:02.026",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 09:19:02.026",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "27-12-25 09:19:02.151",
       "chat_type": "Local",
@@ -1469,7 +1422,19 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "you monster"
+    },
+    {
+      "timestamp": "27-12-25 19:34:11.576",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "srry"
+    },
+    {
+      "timestamp": "27-12-25 19:34:11.576",
+      "chat_type": "General",
+      "author": "exoticbutter",
+      "text": "srry"
     }
   ],
-  "timestamp": "2025-12-27T19:30:01.860788"
+  "timestamp": "2025-12-27T19:35:01.194581"
 }
