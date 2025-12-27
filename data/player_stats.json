@@ -3022,7 +3022,7 @@
     "RinkRoller": {
       "username": "RinkRoller",
       "steam_id": "76561198162940087",
-      "total_hours": 11,
+      "total_hours": 23,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -3041,7 +3041,7 @@
         "Fishing": 1,
         "Trapping": 0,
         "PlantScavenging": 1,
-        "Doctor": 1,
+        "Doctor": 2,
         "Electricity": 0,
         "Blacksmith": 0,
         "MetalWelding": 0,
@@ -3050,7 +3050,7 @@
         "Maintenance": 3,
         "SmallBlade": 0,
         "LongBlade": 0,
-        "SmallBlunt": 1,
+        "SmallBlunt": 2,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
@@ -3066,12 +3066,22 @@
           "skill": "Maintenance",
           "level": "3",
           "timestamp": "27-12-25 11:13:17.180"
+        },
+        {
+          "skill": "Doctor",
+          "level": "2",
+          "timestamp": "27-12-25 11:41:09.538"
+        },
+        {
+          "skill": "SmallBlunt",
+          "level": "2",
+          "timestamp": "27-12-25 11:44:56.658"
         }
       ],
-      "last_seen": "27-12-25 11:13:17.180",
+      "last_seen": "27-12-25 11:44:56.658",
       "connections": 1
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-27T11:40:01.702510"
+  "timestamp": "2025-12-27T11:45:01.966040"
 }
