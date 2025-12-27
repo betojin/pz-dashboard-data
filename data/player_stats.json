@@ -2603,10 +2603,10 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 338,
+      "total_hours": 343,
       "deaths": 0,
       "skills": {
-        "Cooking": 2,
+        "Cooking": 3,
         "Fitness": 7,
         "Strength": 5,
         "Blunt": 0,
@@ -2777,9 +2777,14 @@
           "skill": "FlintKnapping",
           "level": "1",
           "timestamp": "27-12-25 23:16:48.196"
+        },
+        {
+          "skill": "Cooking",
+          "level": "3",
+          "timestamp": "27-12-25 23:28:15.335"
         }
       ],
-      "last_seen": "27-12-25 23:16:48.196",
+      "last_seen": "27-12-25 23:28:15.335",
       "connections": 15
     },
     "El_Moctezuma": {
@@ -3296,5 +3301,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-27T23:25:01.856095"
+  "timestamp": "2025-12-27T23:30:01.220238"
 }

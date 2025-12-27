@@ -366,18 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 20:19:50.150",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 1006,
-      "event_type": "level_up",
-      "skill": "FlintKnapping",
-      "level": "1"
-    },
-    {
       "timestamp": "27-12-25 20:20:19.387",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -969,6 +957,18 @@
       "event_type": "level_up",
       "skill": "FlintKnapping",
       "level": "3"
+    },
+    {
+      "timestamp": "27-12-25 23:28:15.335",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8606",
+      "y": "8818",
+      "z": "0",
+      "hours_survived": 343,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1273,5 +1273,5 @@
       "text": "nicee"
     }
   ],
-  "timestamp": "2025-12-27T23:25:01.895737"
+  "timestamp": "2025-12-27T23:30:01.258821"
 }
