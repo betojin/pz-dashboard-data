@@ -203,13 +203,13 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 660,
+      "total_hours": 664,
       "deaths": 1,
       "skills": {
         "Cooking": 2,
         "Fitness": 5,
         "Strength": 9,
-        "Blunt": 2,
+        "Blunt": 3,
         "Axe": 2,
         "Lightfoot": 2,
         "Nimble": 3,
@@ -223,7 +223,7 @@
         "Trapping": 0,
         "PlantScavenging": 0,
         "Doctor": 0,
-        "Electricity": 1,
+        "Electricity": 2,
         "Blacksmith": 0,
         "MetalWelding": 2,
         "Mechanics": 2,
@@ -407,9 +407,19 @@
           "skill": "MetalWelding",
           "level": "2",
           "timestamp": "27-12-25 03:42:25.947"
+        },
+        {
+          "skill": "Blunt",
+          "level": "3",
+          "timestamp": "27-12-25 03:50:20.041"
+        },
+        {
+          "skill": "Electricity",
+          "level": "2",
+          "timestamp": "27-12-25 03:53:56.459"
         }
       ],
-      "last_seen": "27-12-25 03:42:25.947",
+      "last_seen": "27-12-25 03:53:56.459",
       "connections": 3
     },
     "Firestorm3050": {
@@ -2881,5 +2891,5 @@
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T03:50:01.589646"
+  "timestamp": "2025-12-27T03:55:01.957257"
 }
