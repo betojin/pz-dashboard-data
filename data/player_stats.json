@@ -2125,14 +2125,14 @@
     "ExpiredMayo": {
       "username": "ExpiredMayo",
       "steam_id": "76561199510927772",
-      "total_hours": 161,
+      "total_hours": 184,
       "deaths": 2,
       "skills": {
         "Cooking": 0,
         "Fitness": 4,
         "Strength": 5,
         "Blunt": 0,
-        "Axe": 0,
+        "Axe": 1,
         "Lightfoot": 2,
         "Nimble": 2,
         "Sprinting": 1,
@@ -2189,9 +2189,14 @@
           "skill": "Maintenance",
           "level": "1",
           "timestamp": "26-12-25 22:55:54.034"
+        },
+        {
+          "skill": "Axe",
+          "level": "1",
+          "timestamp": "27-12-25 06:21:52.000"
         }
       ],
-      "last_seen": "27-12-25 04:18:13.125",
+      "last_seen": "27-12-25 06:21:52.000",
       "connections": 4
     },
     "Danford": {
@@ -2916,5 +2921,5 @@
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T06:20:01.512868"
+  "timestamp": "2025-12-27T06:25:01.877309"
 }
