@@ -381,18 +381,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 06:26:05.162",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "12517",
-      "y": "4337",
-      "z": "0",
-      "hours_survived": 725,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "3"
-    },
-    {
       "timestamp": "27-12-25 06:27:28.291",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -904,21 +892,21 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "27-12-25 11:13:17.180",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "x": "11642",
+      "y": "6895",
+      "z": "0",
+      "hours_survived": 11,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "3"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "27-12-25 09:17:27.181",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 09:17:27.182",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "27-12-25 09:19:01.914",
       "chat_type": "Local",
@@ -1206,7 +1194,19 @@
       "chat_type": "Local",
       "author": "ExpiredMayo",
       "text": "psst"
+    },
+    {
+      "timestamp": "27-12-25 11:12:01.517",
+      "chat_type": "Local",
+      "author": "RinkRoller",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "27-12-25 11:12:01.517",
+      "chat_type": "Local",
+      "author": "RinkRoller",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-27T11:10:01.353801"
+  "timestamp": "2025-12-27T11:15:01.673332"
 }

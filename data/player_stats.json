@@ -3022,7 +3022,7 @@
     "RinkRoller": {
       "username": "RinkRoller",
       "steam_id": "76561198162940087",
-      "total_hours": 0,
+      "total_hours": 11,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -3047,7 +3047,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 2,
+        "Maintenance": 3,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 1,
@@ -3061,11 +3061,17 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "27-12-25 10:45:10.575",
+      "level_ups": [
+        {
+          "skill": "Maintenance",
+          "level": "3",
+          "timestamp": "27-12-25 11:13:17.180"
+        }
+      ],
+      "last_seen": "27-12-25 11:13:17.180",
       "connections": 1
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-27T11:10:01.320895"
+  "timestamp": "2025-12-27T11:15:01.639743"
 }
