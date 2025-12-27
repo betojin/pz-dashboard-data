@@ -378,124 +378,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 05:11:40.989",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "13948",
-      "y": "5917",
-      "z": "0",
-      "hours_survived": 695,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "3"
-    },
-    {
-      "timestamp": "27-12-25 05:12:27.016",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12024",
-      "y": "2589",
-      "z": "0",
-      "hours_survived": 273,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 10,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 5,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 7,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 3,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "27-12-25 05:18:53.381",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "13949",
-      "y": "5922",
-      "z": "0",
-      "hours_survived": 698,
-      "event_type": "level_up",
-      "skill": "SmallBlunt",
-      "level": "1"
-    },
-    {
-      "timestamp": "27-12-25 05:26:19.852",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "12022",
-      "y": "2600",
-      "z": "1",
-      "hours_survived": 12,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "27-12-25 05:51:55.441",
       "steam_id": "76561199317533255",
       "username": "Boba",
@@ -897,33 +779,57 @@
       "z": "0",
       "hours_survived": 0,
       "event_type": "created"
+    },
+    {
+      "timestamp": "27-12-25 08:30:36.001",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "x": "12428",
+      "y": "1666",
+      "z": "0",
+      "hours_survived": 5,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "1"
+    },
+    {
+      "timestamp": "27-12-25 08:31:41.094",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12419",
+      "y": "1670",
+      "z": "0",
+      "hours_survived": 5,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "1"
+    },
+    {
+      "timestamp": "27-12-25 08:31:45.417",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "12420",
+      "y": "1670",
+      "z": "0",
+      "hours_survived": 5,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "1"
+    },
+    {
+      "timestamp": "27-12-25 08:32:16.288",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "x": "12419",
+      "y": "1676",
+      "z": "0",
+      "hours_survived": 5,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "27-12-25 08:22:42.601",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 08:22:42.601",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "27-12-25 08:22:42.720",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "27-12-25 08:22:42.720",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "27-12-25 08:22:43.045",
       "chat_type": "Local",
@@ -1199,7 +1105,31 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "27-12-25 08:31:30.291",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "27-12-25 08:31:30.291",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "27-12-25 08:31:40.221",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "27-12-25 08:31:40.221",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-27T08:30:01.517083"
+  "timestamp": "2025-12-27T08:35:01.854280"
 }

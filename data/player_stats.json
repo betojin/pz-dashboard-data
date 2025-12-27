@@ -1980,7 +1980,7 @@
         "Sneak": 0,
         "Woodwork": 1,
         "Aiming": 0,
-        "Reloading": 0,
+        "Reloading": 1,
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
@@ -2055,9 +2055,14 @@
           "skill": "Maintenance",
           "level": "2",
           "timestamp": "27-12-25 06:35:53.564"
+        },
+        {
+          "skill": "Reloading",
+          "level": "1",
+          "timestamp": "27-12-25 08:31:45.417"
         }
       ],
-      "last_seen": "27-12-25 08:16:53.919",
+      "last_seen": "27-12-25 08:31:45.417",
       "connections": 11
     },
     "RottenPotato": {
@@ -2077,7 +2082,7 @@
         "Sneak": 0,
         "Woodwork": 3,
         "Aiming": 0,
-        "Reloading": 0,
+        "Reloading": 1,
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
@@ -2162,9 +2167,14 @@
           "skill": "Axe",
           "level": "3",
           "timestamp": "27-12-25 08:07:03.475"
+        },
+        {
+          "skill": "Reloading",
+          "level": "1",
+          "timestamp": "27-12-25 08:31:41.094"
         }
       ],
-      "last_seen": "27-12-25 08:17:01.625",
+      "last_seen": "27-12-25 08:31:41.094",
       "connections": 4
     },
     "ExpiredMayo": {
@@ -2183,8 +2193,8 @@
         "Sprinting": 1,
         "Sneak": 2,
         "Woodwork": 3,
-        "Aiming": 0,
-        "Reloading": 0,
+        "Aiming": 1,
+        "Reloading": 1,
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
@@ -2259,9 +2269,19 @@
           "skill": "Woodwork",
           "level": "3",
           "timestamp": "27-12-25 07:48:52.100"
+        },
+        {
+          "skill": "Reloading",
+          "level": "1",
+          "timestamp": "27-12-25 08:30:36.001"
+        },
+        {
+          "skill": "Aiming",
+          "level": "1",
+          "timestamp": "27-12-25 08:32:16.288"
         }
       ],
-      "last_seen": "27-12-25 08:17:44.235",
+      "last_seen": "27-12-25 08:32:16.288",
       "connections": 6
     },
     "Danford": {
@@ -2986,5 +3006,5 @@
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T08:30:01.481915"
+  "timestamp": "2025-12-27T08:35:01.821611"
 }
