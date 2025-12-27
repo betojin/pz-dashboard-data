@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "27-12-25 08:31:41.094",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12419",
-      "y": "1670",
-      "z": "0",
-      "hours_survived": 5,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "1"
-    },
-    {
       "timestamp": "27-12-25 08:31:45.417",
       "steam_id": "76561199317533255",
       "username": "Boba",
@@ -1071,6 +1059,18 @@
       "event_type": "level_up",
       "skill": "PlantScavenging",
       "level": "4"
+    },
+    {
+      "timestamp": "27-12-25 18:59:04.816",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "x": "2303",
+      "y": "10749",
+      "z": "0",
+      "hours_survived": 99,
+      "event_type": "level_up",
+      "skill": "SmallBlunt",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1375,5 +1375,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-27T18:55:01.174147"
+  "timestamp": "2025-12-27T19:00:01.520682"
 }
