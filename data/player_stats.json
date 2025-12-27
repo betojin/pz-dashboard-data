@@ -2247,10 +2247,10 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 154,
+      "total_hours": 156,
       "deaths": 0,
       "skills": {
-        "Cooking": 0,
+        "Cooking": 1,
         "Fitness": 7,
         "Strength": 5,
         "Blunt": 0,
@@ -2346,9 +2346,14 @@
           "skill": "Maintenance",
           "level": "1",
           "timestamp": "27-12-25 00:09:45.640"
+        },
+        {
+          "skill": "Cooking",
+          "level": "1",
+          "timestamp": "27-12-25 00:34:22.543"
         }
       ],
-      "last_seen": "27-12-25 00:28:29.182",
+      "last_seen": "27-12-25 00:34:22.543",
       "connections": 4
     },
     "El_Moctezuma": {
@@ -2735,7 +2740,7 @@
     "Lourex": {
       "username": "Lourex",
       "steam_id": "76561198143098309",
-      "total_hours": 0,
+      "total_hours": 6,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -2760,7 +2765,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 0,
+        "Maintenance": 1,
         "SmallBlade": 1,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -2774,11 +2779,17 @@
         "Butchering": 1,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "27-12-25 00:16:32.550",
+      "level_ups": [
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "27-12-25 00:33:22.753"
+        }
+      ],
+      "last_seen": "27-12-25 00:33:22.753",
       "connections": 1
     }
   },
   "total_players": 33,
-  "timestamp": "2025-12-27T00:30:01.757982"
+  "timestamp": "2025-12-27T00:35:01.220503"
 }
