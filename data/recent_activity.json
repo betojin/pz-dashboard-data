@@ -1,39 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 22:59:19.831",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "fully connected",
-      "x": "8660",
-      "y": "8787",
-      "z": "0"
-    },
-    {
-      "timestamp": "27-12-25 23:52:36.134",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "disconnected",
-      "x": "3056",
-      "y": "14470",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 00:08:28.380",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "disconnected",
-      "x": "10658",
-      "y": "9566",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 00:08:36.193",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "28-12-25 00:08:36.194",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -353,127 +320,42 @@
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 04:10:10.151",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 04:10:47.511",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "fully connected",
+      "x": "12048",
+      "y": "2581",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 04:11:08.723",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "fully connected",
+      "x": "8611",
+      "y": "8823",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 04:15:01.325",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "disconnected",
+      "x": "12026",
+      "y": "2590",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 21:58:13.087",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8123",
-      "y": "11540",
-      "z": "0",
-      "hours_survived": 235,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 8,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "27-12-25 22:04:20.096",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10104",
-      "y": "8284",
-      "z": "0",
-      "hours_survived": 809,
-      "event_type": "level_up",
-      "skill": "Fishing",
-      "level": "2"
-    },
-    {
-      "timestamp": "27-12-25 22:13:08.674",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 1047,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "7"
-    },
-    {
-      "timestamp": "27-12-25 22:26:06.989",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "x": "8125",
-      "y": "11558",
-      "z": "0",
-      "hours_survived": 235,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 8,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "27-12-25 22:31:17.318",
       "steam_id": "76561198119296623",
@@ -1170,93 +1052,127 @@
       "event_type": "level_up",
       "skill": "Masonry",
       "level": "2"
+    },
+    {
+      "timestamp": "28-12-25 04:10:49.405",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 1185,
+      "event_type": "level_up",
+      "skill": "Masonry",
+      "level": "3"
+    },
+    {
+      "timestamp": "28-12-25 04:10:49.904",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "12048",
+      "y": "2581",
+      "z": "0",
+      "hours_survived": 7,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "28-12-25 04:11:09.652",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8611",
+      "y": "8823",
+      "z": "0",
+      "hours_survived": 386,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 3,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 2,
+        "Sneak": 0,
+        "Woodwork": 4,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 5,
+        "Doctor": 1,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 2,
+        "Tracking": 0,
+        "Husbandry": 1,
+        "FlintKnapping": 2,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 7,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "28-12-25 04:11:44.011",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 1186,
+      "event_type": "level_up",
+      "skill": "Masonry",
+      "level": "4"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 03:36:45.970",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "oh okay"
-    },
-    {
-      "timestamp": "28-12-25 03:36:45.970",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "oh okay"
-    },
-    {
-      "timestamp": "28-12-25 03:39:45.649",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "too long enough, leave me alone lol"
-    },
-    {
-      "timestamp": "28-12-25 03:39:45.649",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "too long enough, leave me alone lol"
-    },
-    {
-      "timestamp": "28-12-25 03:40:31.840",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "whats that message means"
-    },
-    {
-      "timestamp": "28-12-25 03:40:31.841",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "whats that message means"
-    },
-    {
-      "timestamp": "28-12-25 03:40:51.273",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i killed bob"
-    },
-    {
-      "timestamp": "28-12-25 03:40:51.273",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i killed bob"
-    },
-    {
-      "timestamp": "28-12-25 03:41:04.178",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "is that like your animal"
-    },
-    {
-      "timestamp": "28-12-25 03:41:04.178",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "is that like your animal"
-    },
-    {
-      "timestamp": "28-12-25 03:41:44.258",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yeah, its a placeholder for the wildlife"
-    },
-    {
-      "timestamp": "28-12-25 03:41:44.258",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "yeah, its a placeholder for the wildlife"
-    },
-    {
-      "timestamp": "28-12-25 03:42:22.472",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "bobs are the animals"
-    },
-    {
-      "timestamp": "28-12-25 03:42:22.472",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "bobs are the animals"
-    },
     {
       "timestamp": "28-12-25 03:42:28.484",
       "chat_type": "General",
@@ -1472,7 +1388,91 @@
       "chat_type": "General",
       "author": "Sully",
       "text": "nice im gonna try to make a pizza but i need tomato paste"
+    },
+    {
+      "timestamp": "28-12-25 04:10:15.049",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i have only 1 tomato paste"
+    },
+    {
+      "timestamp": "28-12-25 04:10:15.049",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i have only 1 tomato paste"
+    },
+    {
+      "timestamp": "28-12-25 04:11:17.006",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "yooo"
+    },
+    {
+      "timestamp": "28-12-25 04:11:17.006",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "yooo"
+    },
+    {
+      "timestamp": "28-12-25 04:11:23.686",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "yooo"
+    },
+    {
+      "timestamp": "28-12-25 04:11:23.686",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "yooo"
+    },
+    {
+      "timestamp": "28-12-25 04:11:31.855",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "can u add me to safehouse"
+    },
+    {
+      "timestamp": "28-12-25 04:11:31.855",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "can u add me to safehouse"
+    },
+    {
+      "timestamp": "28-12-25 04:12:11.308",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "discord comms?"
+    },
+    {
+      "timestamp": "28-12-25 04:12:11.308",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "discord comms?"
+    },
+    {
+      "timestamp": "28-12-25 04:13:01.685",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "yess"
+    },
+    {
+      "timestamp": "28-12-25 04:13:01.685",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "yess"
+    },
+    {
+      "timestamp": "28-12-25 04:13:57.910",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i know its just a game, but she loved it"
+    },
+    {
+      "timestamp": "28-12-25 04:13:57.910",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i know its just a game, but she loved it"
     }
   ],
-  "timestamp": "2025-12-28T04:10:01.923289"
+  "timestamp": "2025-12-28T04:15:01.335665"
 }
