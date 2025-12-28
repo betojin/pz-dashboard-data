@@ -201,18 +201,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 05:10:12.137",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "15299",
-      "y": "3059",
-      "z": "0",
-      "hours_survived": 66,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "3"
-    },
-    {
       "timestamp": "28-12-25 05:11:24.400",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -874,8 +862,20 @@
       "event_type": "level_up",
       "skill": "Blunt",
       "level": "3"
+    },
+    {
+      "timestamp": "28-12-25 16:57:49.958",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 1243,
+      "event_type": "level_up",
+      "skill": "Masonry",
+      "level": "8"
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-28T16:55:01.405778"
+  "timestamp": "2025-12-28T17:00:01.777016"
 }
