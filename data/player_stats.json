@@ -223,7 +223,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 867,
+      "total_hours": 885,
       "deaths": 1,
       "skills": {
         "Cooking": 3,
@@ -524,8 +524,8 @@
           "timestamp": "27-12-25 22:31:17.318"
         }
       ],
-      "last_seen": "28-12-25 01:27:11.288",
-      "connections": 6
+      "last_seen": "28-12-25 03:10:11.734",
+      "connections": 7
     },
     "Firestorm3050": {
       "username": "Firestorm3050",
@@ -3255,7 +3255,7 @@
     "RinkRoller": {
       "username": "RinkRoller",
       "steam_id": "76561198162940087",
-      "total_hours": 43,
+      "total_hours": 51,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -3274,7 +3274,7 @@
         "Fishing": 1,
         "Trapping": 0,
         "PlantScavenging": 1,
-        "Doctor": 2,
+        "Doctor": 3,
         "Electricity": 0,
         "Blacksmith": 0,
         "MetalWelding": 0,
@@ -3319,12 +3319,17 @@
           "skill": "Mechanics",
           "level": "1",
           "timestamp": "27-12-25 12:31:56.765"
+        },
+        {
+          "skill": "Doctor",
+          "level": "3",
+          "timestamp": "28-12-25 03:14:51.248"
         }
       ],
-      "last_seen": "28-12-25 02:56:53.832",
+      "last_seen": "28-12-25 03:14:51.248",
       "connections": 2
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-28T03:10:01.222189"
+  "timestamp": "2025-12-28T03:15:01.532579"
 }
