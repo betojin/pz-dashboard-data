@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 02:56:53.832",
-      "steam_id": "76561198162940087",
-      "username": "RinkRoller",
-      "x": "11886",
-      "y": "6923",
-      "z": "0",
-      "hours_survived": 43,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 4,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 1,
-        "Trapping": 0,
-        "PlantScavenging": 1,
-        "Doctor": 2,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 2,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 2,
-        "Pottery": 0,
-        "Carving": 2,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "28-12-25 03:10:11.734",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1001,6 +954,18 @@
       "event_type": "level_up",
       "skill": "Tailoring",
       "level": "2"
+    },
+    {
+      "timestamp": "28-12-25 05:15:37.334",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10089",
+      "y": "8255",
+      "z": "1",
+      "hours_survived": 935,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1305,5 +1270,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-28T05:15:01.695799"
+  "timestamp": "2025-12-28T05:20:02.068154"
 }
