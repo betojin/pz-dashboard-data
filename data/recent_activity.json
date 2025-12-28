@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 15:35:26.452",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "28-12-25 15:35:33.725",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -362,56 +356,18 @@
       "x": "1858",
       "y": "14178",
       "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 20:02:34.555",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "action": "disconnected",
+      "x": "8273",
+      "y": "11979",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "28-12-25 15:35:05.456",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "11020",
-      "y": "10258",
-      "z": "0",
-      "hours_survived": 1211,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 6,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 4,
-        "Sneak": 0,
-        "Woodwork": 7,
-        "Aiming": 0,
-        "Reloading": 2,
-        "Farming": 2,
-        "Fishing": 4,
-        "Trapping": 1,
-        "PlantScavenging": 6,
-        "Doctor": 0,
-        "Electricity": 3,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 1,
-        "Maintenance": 5,
-        "SmallBlade": 0,
-        "LongBlade": 1,
-        "SmallBlunt": 3,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 3,
-        "Masonry": 7,
-        "Pottery": 0,
-        "Carving": 7,
-        "Butchering": 2,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "28-12-25 15:36:04.004",
       "steam_id": "76561198368197161",
@@ -1138,57 +1094,21 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "4"
+    },
+    {
+      "timestamp": "28-12-25 20:00:17.048",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "x": "12688",
+      "y": "4003",
+      "z": "0",
+      "hours_survived": 24,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "2"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 19:11:30.649",
-      "chat_type": "General",
-      "author": "lefons",
-      "text": "get you some pum pum"
-    },
-    {
-      "timestamp": "28-12-25 19:11:30.650",
-      "chat_type": "General",
-      "author": "lefons",
-      "text": "get you some pum pum"
-    },
-    {
-      "timestamp": "28-12-25 19:13:49.303",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "Gun club is being looted now fyi"
-    },
-    {
-      "timestamp": "28-12-25 19:13:49.303",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "Gun club is being looted now fyi"
-    },
-    {
-      "timestamp": "28-12-25 19:14:21.608",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i had to look up how many hours in a year after your comment"
-    },
-    {
-      "timestamp": "28-12-25 19:14:21.608",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i had to look up how many hours in a year after your comment"
-    },
-    {
-      "timestamp": "28-12-25 19:15:32.921",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "25% of my time in 2025 really was spent in zomboid"
-    },
-    {
-      "timestamp": "28-12-25 19:15:32.921",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "25% of my time in 2025 really was spent in zomboid"
-    },
     {
       "timestamp": "28-12-25 19:19:31.978",
       "chat_type": "General",
@@ -1440,7 +1360,55 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "he deserved it"
+    },
+    {
+      "timestamp": "28-12-25 20:00:43.888",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "see"
+    },
+    {
+      "timestamp": "28-12-25 20:00:43.889",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "see"
+    },
+    {
+      "timestamp": "28-12-25 20:02:12.230",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "somebody just ran over an entire family of bunnies"
+    },
+    {
+      "timestamp": "28-12-25 20:02:12.230",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "somebody just ran over an entire family of bunnies"
+    },
+    {
+      "timestamp": "28-12-25 20:02:27.354",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "lmao"
+    },
+    {
+      "timestamp": "28-12-25 20:02:27.354",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "lmao"
+    },
+    {
+      "timestamp": "28-12-25 20:04:06.092",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "loot respawn being bugged makes me want to not be a loot goblin"
+    },
+    {
+      "timestamp": "28-12-25 20:04:06.092",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "loot respawn being bugged makes me want to not be a loot goblin"
     }
   ],
-  "timestamp": "2025-12-28T20:00:01.412500"
+  "timestamp": "2025-12-28T20:05:01.744434"
 }
