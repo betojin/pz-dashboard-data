@@ -1080,7 +1080,7 @@
     "CaptainLobo": {
       "username": "CaptainLobo",
       "steam_id": "76561198044597580",
-      "total_hours": 570,
+      "total_hours": 588,
       "deaths": 5,
       "skills": {
         "Cooking": 3,
@@ -1316,8 +1316,8 @@
           "timestamp": "28-12-25 19:29:03.392"
         }
       ],
-      "last_seen": "28-12-25 19:29:03.392",
-      "connections": 2
+      "last_seen": "28-12-25 20:15:13.637",
+      "connections": 3
     },
     "Woofie": {
       "username": "Woofie",
@@ -3123,8 +3123,8 @@
           "timestamp": "28-12-25 20:09:39.432"
         }
       ],
-      "last_seen": "28-12-25 20:09:39.432",
-      "connections": 2
+      "last_seen": "28-12-25 20:19:52.892",
+      "connections": 3
     },
     "Omar": {
       "username": "Omar",
@@ -3571,7 +3571,7 @@
     "lefons": {
       "username": "lefons",
       "steam_id": "76561199121326240",
-      "total_hours": 36,
+      "total_hours": 44,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -3584,7 +3584,7 @@
         "Sprinting": 0,
         "Sneak": 0,
         "Woodwork": 0,
-        "Aiming": 3,
+        "Aiming": 4,
         "Reloading": 4,
         "Farming": 0,
         "Fishing": 0,
@@ -3630,12 +3630,17 @@
           "skill": "Reloading",
           "level": "4",
           "timestamp": "28-12-25 19:59:55.991"
+        },
+        {
+          "skill": "Aiming",
+          "level": "4",
+          "timestamp": "28-12-25 20:17:56.723"
         }
       ],
-      "last_seen": "28-12-25 19:59:55.991",
+      "last_seen": "28-12-25 20:17:56.723",
       "connections": 2
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-28T20:15:01.412718"
+  "timestamp": "2025-12-28T20:20:01.762329"
 }

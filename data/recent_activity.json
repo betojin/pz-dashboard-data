@@ -1,39 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 17:05:44.209",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "28-12-25 17:05:44.209",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "28-12-25 17:05:58.478",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "28-12-25 17:33:23.752",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "disconnected",
-      "x": "8608",
-      "y": "8820",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 17:33:53.829",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "28-12-25 17:33:53.830",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -359,80 +326,45 @@
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 20:15:13.383",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "3851",
+      "y": "14458",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 20:19:20.872",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 20:19:20.872",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 20:19:31.525",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 20:19:52.408",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "action": "fully connected",
+      "x": "12656",
+      "y": "4358",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "28-12-25 16:09:54.321",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10658",
-      "y": "9566",
-      "z": "0",
-      "hours_survived": 1223,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 6,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 4,
-        "Sneak": 0,
-        "Woodwork": 7,
-        "Aiming": 0,
-        "Reloading": 2,
-        "Farming": 2,
-        "Fishing": 4,
-        "Trapping": 2,
-        "PlantScavenging": 6,
-        "Doctor": 0,
-        "Electricity": 3,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 1,
-        "Maintenance": 5,
-        "SmallBlade": 0,
-        "LongBlade": 1,
-        "SmallBlunt": 3,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 3,
-        "Masonry": 7,
-        "Pottery": 0,
-        "Carving": 7,
-        "Butchering": 2,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "28-12-25 16:15:55.523",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "6525",
-      "y": "5342",
-      "z": "0",
-      "hours_survived": 417,
-      "event_type": "level_up",
-      "skill": "Husbandry",
-      "level": "2"
-    },
-    {
-      "timestamp": "28-12-25 16:22:25.232",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10934",
-      "y": "9526",
-      "z": "0",
-      "hours_survived": 1228,
-      "event_type": "level_up",
-      "skill": "Blunt",
-      "level": "3"
-    },
     {
       "timestamp": "28-12-25 16:57:49.958",
       "steam_id": "76561198031138505",
@@ -1100,45 +1032,115 @@
         "Butchering": 1,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "28-12-25 20:15:13.637",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "3851",
+      "y": "14458",
+      "z": "0",
+      "hours_survived": 588,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 3,
+        "Fitness": 7,
+        "Strength": 7,
+        "Blunt": 2,
+        "Axe": 3,
+        "Lightfoot": 2,
+        "Nimble": 3,
+        "Sprinting": 3,
+        "Sneak": 2,
+        "Woodwork": 4,
+        "Aiming": 4,
+        "Reloading": 4,
+        "Farming": 0,
+        "Fishing": 3,
+        "Trapping": 3,
+        "PlantScavenging": 2,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 3,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 2,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "28-12-25 20:17:56.723",
+      "steam_id": "76561199121326240",
+      "username": "lefons",
+      "x": "12477",
+      "y": "2454",
+      "z": "0",
+      "hours_survived": 44,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "4"
+    },
+    {
+      "timestamp": "28-12-25 20:19:52.892",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "x": "12656",
+      "y": "4358",
+      "z": "0",
+      "hours_survived": 28,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 2,
+        "Reloading": 2,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 4,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 19:20:24.081",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i listen to podcasts when i play as my justification. that and audiobooks"
-    },
-    {
-      "timestamp": "28-12-25 19:20:24.082",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i listen to podcasts when i play as my justification. that and audiobooks"
-    },
-    {
-      "timestamp": "28-12-25 19:22:44.885",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "makes me feel better that its not 100% entertainment time"
-    },
-    {
-      "timestamp": "28-12-25 19:22:44.886",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "makes me feel better that its not 100% entertainment time"
-    },
-    {
-      "timestamp": "28-12-25 19:23:47.358",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "a fully unlooted supermarket!"
-    },
-    {
-      "timestamp": "28-12-25 19:23:47.358",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "a fully unlooted supermarket!"
-    },
     {
       "timestamp": "28-12-25 19:24:53.647",
       "chat_type": "General",
@@ -1402,7 +1404,43 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "maybe its 140?"
+    },
+    {
+      "timestamp": "28-12-25 20:17:38.563",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "i am getting issues getting in my car lol"
+    },
+    {
+      "timestamp": "28-12-25 20:17:38.563",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "i am getting issues getting in my car lol"
+    },
+    {
+      "timestamp": "28-12-25 20:17:48.171",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "must build a bob memorial"
+    },
+    {
+      "timestamp": "28-12-25 20:17:48.171",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "must build a bob memorial"
+    },
+    {
+      "timestamp": "28-12-25 20:18:32.749",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ill make it next to molotov kids grave"
+    },
+    {
+      "timestamp": "28-12-25 20:18:32.749",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "ill make it next to molotov kids grave"
     }
   ],
-  "timestamp": "2025-12-28T20:15:01.442727"
+  "timestamp": "2025-12-28T20:20:01.792958"
 }
