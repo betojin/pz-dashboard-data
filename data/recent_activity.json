@@ -1,42 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 16:07:17.795",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "28-12-25 16:07:17.795",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "28-12-25 16:07:35.979",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "28-12-25 16:09:54.053",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "fully connected",
-      "x": "10658",
-      "y": "9566",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 17:05:07.521",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "disconnected",
-      "x": "10659",
-      "y": "9571",
-      "z": "0"
-    },
-    {
       "timestamp": "28-12-25 17:05:44.209",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -359,6 +323,42 @@
       "x": "11742",
       "y": "6746",
       "z": "1"
+    },
+    {
+      "timestamp": "28-12-25 20:11:14.105",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "action": "disconnected",
+      "x": "12656",
+      "y": "4358",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 20:14:21.552",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "3851",
+      "y": "14458",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 20:14:42.643",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 20:14:42.643",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 20:14:50.957",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1104,30 +1104,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "28-12-25 19:19:58.152",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "either this or tv"
-    },
-    {
-      "timestamp": "28-12-25 19:19:58.152",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "either this or tv"
-    },
-    {
-      "timestamp": "28-12-25 19:20:07.327",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "i do both at once lol"
-    },
-    {
-      "timestamp": "28-12-25 19:20:07.328",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "i do both at once lol"
-    },
-    {
       "timestamp": "28-12-25 19:20:24.081",
       "chat_type": "General",
       "author": "Firestorm3050",
@@ -1402,7 +1378,31 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "how is it bugged?"
+    },
+    {
+      "timestamp": "28-12-25 20:10:11.603",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i could be wrong and maybe its not bugged"
+    },
+    {
+      "timestamp": "28-12-25 20:10:11.603",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i could be wrong and maybe its not bugged"
+    },
+    {
+      "timestamp": "28-12-25 20:10:45.002",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "maybe its 140?"
+    },
+    {
+      "timestamp": "28-12-25 20:10:45.002",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "maybe its 140?"
     }
   ],
-  "timestamp": "2025-12-28T20:10:01.113913"
+  "timestamp": "2025-12-28T20:15:01.442727"
 }
