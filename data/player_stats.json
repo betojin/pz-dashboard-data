@@ -530,7 +530,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 1187,
+      "total_hours": 1190,
       "deaths": 0,
       "skills": {
         "Cooking": 6,
@@ -563,7 +563,7 @@
         "Tracking": 0,
         "Husbandry": 2,
         "FlintKnapping": 3,
-        "Masonry": 5,
+        "Masonry": 6,
         "Pottery": 0,
         "Carving": 7,
         "Butchering": 2,
@@ -909,9 +909,14 @@
           "skill": "Masonry",
           "level": "5",
           "timestamp": "28-12-25 04:15:52.747"
+        },
+        {
+          "skill": "Masonry",
+          "level": "6",
+          "timestamp": "28-12-25 04:21:27.859"
         }
       ],
-      "last_seen": "28-12-25 04:15:52.747",
+      "last_seen": "28-12-25 04:21:27.859",
       "connections": 7
     },
     "Molotov Kid": {
@@ -2393,9 +2398,24 @@
           "skill": "Maintenance",
           "level": "1",
           "timestamp": "27-12-25 08:46:52.583"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "1",
+          "timestamp": "28-12-25 04:22:11.204"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "2",
+          "timestamp": "28-12-25 04:22:16.308"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "3",
+          "timestamp": "28-12-25 04:22:39.033"
         }
       ],
-      "last_seen": "28-12-25 04:15:54.250",
+      "last_seen": "28-12-25 04:22:39.033",
       "connections": 5
     },
     "ExpiredMayo": {
@@ -3362,5 +3382,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-28T04:20:01.675456"
+  "timestamp": "2025-12-28T04:25:01.101223"
 }
