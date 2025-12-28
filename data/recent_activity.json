@@ -363,65 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 00:57:27.560",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10128",
-      "y": "14114",
-      "z": "0",
-      "hours_survived": 1108,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "5"
-    },
-    {
-      "timestamp": "28-12-25 01:27:11.288",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "4106",
-      "y": "12280",
-      "z": "0",
-      "hours_survived": 867,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 3,
-        "Fitness": 5,
-        "Strength": 9,
-        "Blunt": 3,
-        "Axe": 2,
-        "Lightfoot": 2,
-        "Nimble": 3,
-        "Sprinting": 4,
-        "Sneak": 2,
-        "Woodwork": 9,
-        "Aiming": 2,
-        "Reloading": 3,
-        "Farming": 0,
-        "Fishing": 2,
-        "Trapping": 0,
-        "PlantScavenging": 3,
-        "Doctor": 0,
-        "Electricity": 2,
-        "Blacksmith": 0,
-        "MetalWelding": 2,
-        "Mechanics": 2,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 4,
-        "FlintKnapping": 0,
-        "Masonry": 2,
-        "Pottery": 0,
-        "Carving": 2,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "28-12-25 02:56:53.832",
       "steam_id": "76561198162940087",
       "username": "RinkRoller",
@@ -1036,21 +977,33 @@
       "event_type": "level_up",
       "skill": "Tailoring",
       "level": "1"
+    },
+    {
+      "timestamp": "28-12-25 05:10:12.137",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "15299",
+      "y": "3059",
+      "z": "0",
+      "hours_survived": 66,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "3"
+    },
+    {
+      "timestamp": "28-12-25 05:11:24.400",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10082",
+      "y": "8259",
+      "z": "1",
+      "hours_survived": 933,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "2"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 05:07:07.274",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 05:07:07.274",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY!"
-    },
     {
       "timestamp": "28-12-25 05:07:10.823",
       "chat_type": "Local",
@@ -1338,7 +1291,19 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:11:46.443",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 05:11:46.443",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-28T05:10:01.335599"
+  "timestamp": "2025-12-28T05:15:01.695799"
 }

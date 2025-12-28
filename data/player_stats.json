@@ -228,7 +228,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 932,
+      "total_hours": 933,
       "deaths": 1,
       "skills": {
         "Cooking": 3,
@@ -257,7 +257,7 @@
         "SmallBlade": 1,
         "LongBlade": 0,
         "SmallBlunt": 1,
-        "Tailoring": 1,
+        "Tailoring": 2,
         "Tracking": 0,
         "Husbandry": 4,
         "FlintKnapping": 0,
@@ -532,9 +532,14 @@
           "skill": "Tailoring",
           "level": "1",
           "timestamp": "28-12-25 05:09:01.926"
+        },
+        {
+          "skill": "Tailoring",
+          "level": "2",
+          "timestamp": "28-12-25 05:11:24.400"
         }
       ],
-      "last_seen": "28-12-25 05:09:01.926",
+      "last_seen": "28-12-25 05:11:24.400",
       "connections": 7
     },
     "Firestorm3050": {
@@ -2222,7 +2227,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 2,
+        "Maintenance": 3,
         "SmallBlade": 0,
         "LongBlade": 1,
         "SmallBlunt": 4,
@@ -2311,9 +2316,14 @@
           "skill": "SmallBlunt",
           "level": "4",
           "timestamp": "28-12-25 05:03:14.247"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "3",
+          "timestamp": "28-12-25 05:10:12.137"
         }
       ],
-      "last_seen": "28-12-25 05:03:14.247",
+      "last_seen": "28-12-25 05:10:12.137",
       "connections": 12
     },
     "RottenPotato": {
@@ -3427,5 +3437,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-28T05:10:01.291498"
+  "timestamp": "2025-12-28T05:15:01.652913"
 }
