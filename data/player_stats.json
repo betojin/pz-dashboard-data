@@ -3428,7 +3428,7 @@
     "Lourex": {
       "username": "Lourex",
       "steam_id": "76561198143098309",
-      "total_hours": 22,
+      "total_hours": 26,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -3438,7 +3438,7 @@
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 0,
-        "Sprinting": 0,
+        "Sprinting": 1,
         "Sneak": 1,
         "Woodwork": 0,
         "Aiming": 1,
@@ -3454,7 +3454,7 @@
         "Mechanics": 0,
         "Spear": 0,
         "Maintenance": 2,
-        "SmallBlade": 1,
+        "SmallBlade": 2,
         "LongBlade": 0,
         "SmallBlunt": 0,
         "Tailoring": 0,
@@ -3477,9 +3477,19 @@
           "skill": "Maintenance",
           "level": "2",
           "timestamp": "28-12-25 20:45:43.209"
+        },
+        {
+          "skill": "SmallBlade",
+          "level": "2",
+          "timestamp": "28-12-25 20:50:49.263"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "28-12-25 20:54:45.542"
         }
       ],
-      "last_seen": "28-12-25 20:45:43.209",
+      "last_seen": "28-12-25 20:54:45.542",
       "connections": 2
     },
     "RinkRoller": {
@@ -3581,7 +3591,7 @@
     "lefons": {
       "username": "lefons",
       "steam_id": "76561199121326240",
-      "total_hours": 53,
+      "total_hours": 56,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -3662,10 +3672,10 @@
           "timestamp": "28-12-25 20:44:00.232"
         }
       ],
-      "last_seen": "28-12-25 20:44:00.232",
-      "connections": 3
+      "last_seen": "28-12-25 20:51:51.896",
+      "connections": 4
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-28T20:50:02.041911"
+  "timestamp": "2025-12-28T20:55:01.390776"
 }
