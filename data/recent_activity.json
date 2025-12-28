@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 15:00:32.404",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "28-12-25 15:00:32.404",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "28-12-25 15:00:50.361",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "28-12-25 15:03:17.585",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "fully connected",
-      "x": "8613",
-      "y": "8822",
-      "z": "0"
-    },
-    {
       "timestamp": "28-12-25 15:26:25.482",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -359,56 +332,36 @@
       "x": "6519",
       "y": "5479",
       "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 18:37:02.789",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 18:37:02.790",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 18:37:33.979",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 18:39:15.286",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "action": "fully connected",
+      "x": "10626",
+      "y": "10483",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "28-12-25 07:41:56.542",
-      "steam_id": "76561198162940087",
-      "username": "RinkRoller",
-      "x": "11610",
-      "y": "8264",
-      "z": "0",
-      "hours_survived": 59,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 4,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 1,
-        "Trapping": 0,
-        "PlantScavenging": 1,
-        "Doctor": 3,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 2,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 2,
-        "Pottery": 0,
-        "Carving": 2,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "28-12-25 07:45:26.195",
       "steam_id": "76561199511597958",
@@ -1172,8 +1125,55 @@
       "z": "0",
       "hours_survived": 0,
       "event_type": "created"
+    },
+    {
+      "timestamp": "28-12-25 18:39:16.195",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "x": "10626",
+      "y": "10483",
+      "z": "0",
+      "hours_survived": 32,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 4,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-28T18:35:01.677661"
+  "timestamp": "2025-12-28T18:40:02.018096"
 }
