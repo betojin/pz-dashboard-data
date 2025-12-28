@@ -2608,7 +2608,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 344,
+      "total_hours": 360,
       "deaths": 0,
       "skills": {
         "Cooking": 3,
@@ -2640,7 +2640,7 @@
         "Tailoring": 2,
         "Tracking": 0,
         "Husbandry": 1,
-        "FlintKnapping": 1,
+        "FlintKnapping": 2,
         "Masonry": 0,
         "Pottery": 0,
         "Carving": 6,
@@ -2792,9 +2792,14 @@
           "skill": "Maintenance",
           "level": "4",
           "timestamp": "27-12-25 23:31:27.810"
+        },
+        {
+          "skill": "FlintKnapping",
+          "level": "2",
+          "timestamp": "28-12-25 00:12:16.488"
         }
       ],
-      "last_seen": "27-12-25 23:31:27.810",
+      "last_seen": "28-12-25 00:12:16.488",
       "connections": 15
     },
     "El_Moctezuma": {
@@ -3311,5 +3316,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-28T00:10:01.376841"
+  "timestamp": "2025-12-28T00:15:01.715924"
 }

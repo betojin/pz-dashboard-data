@@ -1,30 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 20:00:34.058",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "fully connected",
-      "x": "5717",
-      "y": "5723",
-      "z": "0"
-    },
-    {
-      "timestamp": "27-12-25 20:09:10.939",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "disconnected",
-      "x": "10721",
-      "y": "9561",
-      "z": "0"
-    },
-    {
-      "timestamp": "27-12-25 20:09:52.134",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "27-12-25 20:09:52.135",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -368,21 +344,27 @@
       "x": "3056",
       "y": "14470",
       "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 00:13:20.781",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 00:13:20.782",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 00:13:33.131",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 20:39:30.522",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10092",
-      "y": "8245",
-      "z": "0",
-      "hours_survived": 775,
-      "event_type": "level_up",
-      "skill": "PlantScavenging",
-      "level": "2"
-    },
     {
       "timestamp": "27-12-25 20:51:54.870",
       "steam_id": "76561198119296623",
@@ -1010,6 +992,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "28-12-25 00:12:16.488",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8606",
+      "y": "8817",
+      "z": "0",
+      "hours_survived": 360,
+      "event_type": "level_up",
+      "skill": "FlintKnapping",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1314,5 +1308,5 @@
       "text": "relogging again"
     }
   ],
-  "timestamp": "2025-12-28T00:10:01.416859"
+  "timestamp": "2025-12-28T00:15:01.755736"
 }
