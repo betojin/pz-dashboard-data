@@ -165,18 +165,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 04:56:37.761",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "15334",
-      "y": "3052",
-      "z": "0",
-      "hours_survived": 55,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "2"
-    },
-    {
       "timestamp": "28-12-25 04:59:21.760",
       "steam_id": "76561199317533255",
       "username": "Boba",
@@ -803,8 +791,20 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "28-12-25 15:49:21.103",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10667",
+      "y": "9573",
+      "z": "0",
+      "hours_survived": 1217,
+      "event_type": "level_up",
+      "skill": "Trapping",
+      "level": "2"
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-28T15:45:01.776024"
+  "timestamp": "2025-12-28T15:50:02.075874"
 }
