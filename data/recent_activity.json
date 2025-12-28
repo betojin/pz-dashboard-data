@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 20:17:56.723",
-      "steam_id": "76561199121326240",
-      "username": "lefons",
-      "x": "12477",
-      "y": "2454",
-      "z": "0",
-      "hours_survived": 44,
-      "event_type": "level_up",
-      "skill": "Aiming",
-      "level": "4"
-    },
-    {
       "timestamp": "28-12-25 20:19:52.892",
       "steam_id": "76561199122629737",
       "username": "KeenIslander",
@@ -1036,6 +1024,18 @@
       "event_type": "level_up",
       "skill": "PlantScavenging",
       "level": "4"
+    },
+    {
+      "timestamp": "28-12-25 23:51:22.919",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8602",
+      "y": "8778",
+      "z": "0",
+      "hours_survived": 509,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "6"
     }
   ],
   "chat_messages": [
@@ -1340,5 +1340,5 @@
       "text": "so was mine this morning xD"
     }
   ],
-  "timestamp": "2025-12-28T23:50:01.449664"
+  "timestamp": "2025-12-28T23:55:01.747562"
 }
