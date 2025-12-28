@@ -197,21 +197,36 @@
       "x": "10658",
       "y": "9566",
       "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 17:05:07.521",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "disconnected",
+      "x": "10659",
+      "y": "9571",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 17:05:44.209",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 17:05:44.209",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 17:05:58.478",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "28-12-25 05:11:24.400",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10082",
-      "y": "8259",
-      "z": "1",
-      "hours_survived": 933,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "2"
-    },
     {
       "timestamp": "28-12-25 05:15:37.334",
       "steam_id": "76561198119296623",
@@ -874,8 +889,20 @@
       "event_type": "level_up",
       "skill": "Masonry",
       "level": "8"
+    },
+    {
+      "timestamp": "28-12-25 17:09:42.004",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "9255",
+      "y": "7437",
+      "z": "0",
+      "hours_survived": 438,
+      "event_type": "level_up",
+      "skill": "Blunt",
+      "level": "1"
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-28T17:05:01.229589"
+  "timestamp": "2025-12-28T17:10:01.585928"
 }

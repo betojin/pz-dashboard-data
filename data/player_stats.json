@@ -2784,13 +2784,13 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 417,
+      "total_hours": 438,
       "deaths": 0,
       "skills": {
         "Cooking": 3,
         "Fitness": 7,
         "Strength": 5,
-        "Blunt": 0,
+        "Blunt": 1,
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 0,
@@ -2983,9 +2983,14 @@
           "skill": "Husbandry",
           "level": "2",
           "timestamp": "28-12-25 16:15:55.523"
+        },
+        {
+          "skill": "Blunt",
+          "level": "1",
+          "timestamp": "28-12-25 17:09:42.004"
         }
       ],
-      "last_seen": "28-12-25 16:15:55.523",
+      "last_seen": "28-12-25 17:09:42.004",
       "connections": 2
     },
     "El_Moctezuma": {
@@ -3521,5 +3526,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-28T17:05:01.203091"
+  "timestamp": "2025-12-28T17:10:01.558930"
 }
