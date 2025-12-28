@@ -1,39 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 15:33:25.000",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "28-12-25 15:33:25.000",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "28-12-25 15:33:36.469",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "28-12-25 15:35:05.176",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "fully connected",
-      "x": "11020",
-      "y": "10258",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 15:35:26.452",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "28-12-25 15:35:26.452",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -359,21 +326,45 @@
       "x": "12543",
       "y": "4263",
       "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 19:11:31.322",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "1858",
+      "y": "14178",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 19:12:06.652",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 19:12:06.652",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 19:12:15.337",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 19:12:36.653",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "1858",
+      "y": "14178",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "28-12-25 08:48:54.774",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "13683",
-      "y": "3218",
-      "z": "0",
-      "hours_survived": 148,
-      "event_type": "level_up",
-      "skill": "Electricity",
-      "level": "2"
-    },
     {
       "timestamp": "28-12-25 09:19:23.227",
       "steam_id": "76561198065774641",
@@ -1240,69 +1231,56 @@
       "event_type": "level_up",
       "skill": "SmallBlunt",
       "level": "4"
+    },
+    {
+      "timestamp": "28-12-25 19:12:36.903",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "1858",
+      "y": "14178",
+      "z": "0",
+      "hours_survived": 563,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 3,
+        "Fitness": 7,
+        "Strength": 7,
+        "Blunt": 2,
+        "Axe": 2,
+        "Lightfoot": 2,
+        "Nimble": 3,
+        "Sprinting": 3,
+        "Sneak": 2,
+        "Woodwork": 4,
+        "Aiming": 4,
+        "Reloading": 4,
+        "Farming": 0,
+        "Fishing": 3,
+        "Trapping": 3,
+        "PlantScavenging": 2,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 3,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 2,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 18:58:26.730",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "mine keep disapearing after use"
-    },
-    {
-      "timestamp": "28-12-25 18:58:26.730",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "mine keep disapearing after use"
-    },
-    {
-      "timestamp": "28-12-25 18:58:27.314",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "they can be re-read a few months later to renew their value"
-    },
-    {
-      "timestamp": "28-12-25 18:58:27.314",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "they can be re-read a few months later to renew their value"
-    },
-    {
-      "timestamp": "28-12-25 18:58:43.617",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "no sorry, like ammo magz"
-    },
-    {
-      "timestamp": "28-12-25 18:58:43.618",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "no sorry, like ammo magz"
-    },
-    {
-      "timestamp": "28-12-25 18:59:06.681",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im not a gunfighter"
-    },
-    {
-      "timestamp": "28-12-25 18:59:06.682",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im not a gunfighter"
-    },
-    {
-      "timestamp": "28-12-25 19:00:14.824",
-      "chat_type": "General",
-      "author": "KeenIslander",
-      "text": "fire how many hours do ytou have"
-    },
-    {
-      "timestamp": "28-12-25 19:00:14.825",
-      "chat_type": "General",
-      "author": "KeenIslander",
-      "text": "fire how many hours do ytou have"
-    },
     {
       "timestamp": "28-12-25 19:00:33.261",
       "chat_type": "General",
@@ -1542,7 +1520,67 @@
       "chat_type": "General",
       "author": "lefons",
       "text": "jesus bro good stuff my man thats like quater of the year props bro"
+    },
+    {
+      "timestamp": "28-12-25 19:10:13.787",
+      "chat_type": "Local",
+      "author": "lefons",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 19:10:13.787",
+      "chat_type": "Local",
+      "author": "lefons",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 19:10:47.077",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "remind me again i need a gf lol"
+    },
+    {
+      "timestamp": "28-12-25 19:10:47.077",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "remind me again i need a gf lol"
+    },
+    {
+      "timestamp": "28-12-25 19:11:30.649",
+      "chat_type": "General",
+      "author": "lefons",
+      "text": "get you some pum pum"
+    },
+    {
+      "timestamp": "28-12-25 19:11:30.650",
+      "chat_type": "General",
+      "author": "lefons",
+      "text": "get you some pum pum"
+    },
+    {
+      "timestamp": "28-12-25 19:13:49.303",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "Gun club is being looted now fyi"
+    },
+    {
+      "timestamp": "28-12-25 19:13:49.303",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "Gun club is being looted now fyi"
+    },
+    {
+      "timestamp": "28-12-25 19:14:21.608",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i had to look up how many hours in a year after your comment"
+    },
+    {
+      "timestamp": "28-12-25 19:14:21.608",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i had to look up how many hours in a year after your comment"
     }
   ],
-  "timestamp": "2025-12-28T19:10:02.032702"
+  "timestamp": "2025-12-28T19:15:01.519238"
 }
