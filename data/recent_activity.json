@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 18:39:15.286",
-      "steam_id": "76561199249031770",
-      "username": "squibby",
-      "action": "fully connected",
-      "x": "10626",
-      "y": "10483",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 18:49:22.357",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "28-12-25 18:49:22.357",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -359,56 +344,27 @@
       "steam_id": "76561198060886931",
       "username": "Zero",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 21:25:37.395",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "fully connected",
+      "x": "8612",
+      "y": "8822",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 21:28:07.784",
+      "steam_id": "76561199121326240",
+      "username": "lefons",
+      "action": "disconnected",
+      "x": "12480",
+      "y": "1402",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "28-12-25 18:50:15.460",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "1829",
-      "y": "15063",
-      "z": "0",
-      "hours_survived": 555,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 3,
-        "Fitness": 7,
-        "Strength": 7,
-        "Blunt": 2,
-        "Axe": 2,
-        "Lightfoot": 2,
-        "Nimble": 3,
-        "Sprinting": 3,
-        "Sneak": 2,
-        "Woodwork": 4,
-        "Aiming": 4,
-        "Reloading": 4,
-        "Farming": 0,
-        "Fishing": 3,
-        "Trapping": 3,
-        "PlantScavenging": 2,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "28-12-25 18:55:45.705",
       "steam_id": "76561199122629737",
@@ -1069,177 +1025,56 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "1"
+    },
+    {
+      "timestamp": "28-12-25 21:25:39.842",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8612",
+      "y": "8822",
+      "z": "0",
+      "hours_survived": 451,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 3,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 2,
+        "Sneak": 0,
+        "Woodwork": 4,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 5,
+        "Doctor": 1,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 2,
+        "Tracking": 0,
+        "Husbandry": 2,
+        "FlintKnapping": 2,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 7,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 21:11:29.547",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "28-12-25 21:11:29.547",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "28-12-25 21:11:29.903",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "28-12-25 21:11:29.903",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "28-12-25 21:11:30.213",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 21:11:30.213",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 21:11:30.574",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "28-12-25 21:11:30.574",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "28-12-25 21:11:32.893",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 21:11:32.893",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 21:11:33.221",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 21:11:33.221",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 21:11:33.475",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 21:11:33.475",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 21:11:33.810",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "28-12-25 21:11:33.810",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "28-12-25 21:13:27.081",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "are you driving or walking ?"
-    },
-    {
-      "timestamp": "28-12-25 21:13:27.081",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "are you driving or walking ?"
-    },
-    {
-      "timestamp": "28-12-25 21:13:32.184",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "running"
-    },
-    {
-      "timestamp": "28-12-25 21:13:32.184",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "running"
-    },
-    {
-      "timestamp": "28-12-25 21:14:00.351",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i get interrupted for combat"
-    },
-    {
-      "timestamp": "28-12-25 21:14:00.351",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i get interrupted for combat"
-    },
-    {
-      "timestamp": "28-12-25 21:21:38.303",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "hey! nice hat"
-    },
-    {
-      "timestamp": "28-12-25 21:21:38.304",
-      "chat_type": "Local",
-      "author": "Firestorm3050",
-      "text": "hey! nice hat"
-    },
-    {
-      "timestamp": "28-12-25 21:21:45.707",
-      "chat_type": "Local",
-      "author": "CaptainLobo",
-      "text": "ty!"
-    },
-    {
-      "timestamp": "28-12-25 21:21:45.707",
-      "chat_type": "Local",
-      "author": "CaptainLobo",
-      "text": "ty!"
-    },
-    {
-      "timestamp": "28-12-25 21:22:03.206",
-      "chat_type": "Local",
-      "author": "CaptainLobo",
-      "text": "i still need to get my pirate hats back lol"
-    },
-    {
-      "timestamp": "28-12-25 21:22:03.206",
-      "chat_type": "Local",
-      "author": "CaptainLobo",
-      "text": "i still need to get my pirate hats back lol"
-    },
     {
       "timestamp": "28-12-25 21:22:09.140",
       "chat_type": "Local",
@@ -1371,7 +1206,175 @@
       "chat_type": "Local",
       "author": "Firestorm3050",
       "text": "im in"
+    },
+    {
+      "timestamp": "28-12-25 21:26:20.372",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "can you drive if i hot wire?"
+    },
+    {
+      "timestamp": "28-12-25 21:26:20.372",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "can you drive if i hot wire?"
+    },
+    {
+      "timestamp": "28-12-25 21:26:37.103",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "you mean one of these cars? i can hotwire too"
+    },
+    {
+      "timestamp": "28-12-25 21:26:37.103",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "you mean one of these cars? i can hotwire too"
+    },
+    {
+      "timestamp": "28-12-25 21:27:26.346",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "gotta eat irl lol"
+    },
+    {
+      "timestamp": "28-12-25 21:27:26.347",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "gotta eat irl lol"
+    },
+    {
+      "timestamp": "28-12-25 21:27:26.940",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "i am a fitness instructor. i have lv 10 fitness and a goot amount of sprinting levels"
+    },
+    {
+      "timestamp": "28-12-25 21:27:26.940",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "i am a fitness instructor. i have lv 10 fitness and a goot amount of sprinting levels"
+    },
+    {
+      "timestamp": "28-12-25 21:27:41.312",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "oh shit"
+    },
+    {
+      "timestamp": "28-12-25 21:27:41.312",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "oh shit"
+    },
+    {
+      "timestamp": "28-12-25 21:28:05.310",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "its my preferred build"
+    },
+    {
+      "timestamp": "28-12-25 21:28:05.311",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "its my preferred build"
+    },
+    {
+      "timestamp": "28-12-25 21:28:08.584",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "ty for axes though"
+    },
+    {
+      "timestamp": "28-12-25 21:28:08.584",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "ty for axes though"
+    },
+    {
+      "timestamp": "28-12-25 21:28:11.968",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "np"
+    },
+    {
+      "timestamp": "28-12-25 21:28:11.969",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "np"
+    },
+    {
+      "timestamp": "28-12-25 21:28:20.117",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "ty for the book and half the ride back"
+    },
+    {
+      "timestamp": "28-12-25 21:28:20.117",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "ty for the book and half the ride back"
+    },
+    {
+      "timestamp": "28-12-25 21:28:28.177",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "what traits do you pick?"
+    },
+    {
+      "timestamp": "28-12-25 21:28:28.177",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "what traits do you pick?"
+    },
+    {
+      "timestamp": "28-12-25 21:28:43.814",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "i lean heavily on nutritionist to control my weight"
+    },
+    {
+      "timestamp": "28-12-25 21:28:43.814",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "i lean heavily on nutritionist to control my weight"
+    },
+    {
+      "timestamp": "28-12-25 21:29:23.540",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "that lets me play all around the year and day/night cycle"
+    },
+    {
+      "timestamp": "28-12-25 21:29:23.540",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "that lets me play all around the year and day/night cycle"
+    },
+    {
+      "timestamp": "28-12-25 21:29:40.274",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "what about negatives?"
+    },
+    {
+      "timestamp": "28-12-25 21:29:40.275",
+      "chat_type": "Local",
+      "author": "CaptainLobo",
+      "text": "what about negatives?"
+    },
+    {
+      "timestamp": "28-12-25 21:29:53.749",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "whateverr i feel least bothered by"
+    },
+    {
+      "timestamp": "28-12-25 21:29:53.749",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "whateverr i feel least bothered by"
     }
   ],
-  "timestamp": "2025-12-28T21:25:01.698518"
+  "timestamp": "2025-12-28T21:30:02.050726"
 }
