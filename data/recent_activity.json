@@ -1,39 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 00:08:36.194",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "28-12-25 00:08:51.195",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "28-12-25 00:09:14.646",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "fully connected",
-      "x": "3056",
-      "y": "14470",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 00:13:20.781",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "28-12-25 00:13:20.782",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "28-12-25 00:13:33.131",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -353,45 +320,45 @@
       "x": "12026",
       "y": "2590",
       "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 04:15:29.746",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 04:15:29.746",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 04:15:39.248",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 04:15:53.386",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "fully connected",
+      "x": "12019",
+      "y": "2596",
+      "z": "1"
+    },
+    {
+      "timestamp": "28-12-25 04:15:55.864",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "disconnected",
+      "x": "8613",
+      "y": "8822",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 22:31:17.318",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10116",
-      "y": "8255",
-      "z": "0",
-      "hours_survived": 819,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "3"
-    },
-    {
-      "timestamp": "27-12-25 22:47:22.870",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8501",
-      "y": "8872",
-      "z": "0",
-      "hours_survived": 328,
-      "event_type": "level_up",
-      "skill": "PlantScavenging",
-      "level": "5"
-    },
-    {
-      "timestamp": "27-12-25 22:48:59.919",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "11017",
-      "y": "10255",
-      "z": "0",
-      "hours_survived": 1061,
-      "event_type": "level_up",
-      "skill": "Fishing",
-      "level": "4"
-    },
     {
       "timestamp": "27-12-25 22:51:52.970",
       "steam_id": "76561198368197161",
@@ -1170,33 +1137,80 @@
       "event_type": "level_up",
       "skill": "Masonry",
       "level": "4"
+    },
+    {
+      "timestamp": "28-12-25 04:15:52.747",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 1187,
+      "event_type": "level_up",
+      "skill": "Masonry",
+      "level": "5"
+    },
+    {
+      "timestamp": "28-12-25 04:15:54.250",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12019",
+      "y": "2596",
+      "z": "1",
+      "hours_survived": 39,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 10,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 2,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "28-12-25 04:19:22.795",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "12054",
+      "y": "2591",
+      "z": "0",
+      "hours_survived": 46,
+      "event_type": "level_up",
+      "skill": "Doctor",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 03:42:28.484",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "i see"
-    },
-    {
-      "timestamp": "28-12-25 03:42:28.484",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "i see"
-    },
-    {
-      "timestamp": "28-12-25 03:44:37.541",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "im gonna go watch a movie, when i get back ill start heading over to muldraugh"
-    },
-    {
-      "timestamp": "28-12-25 03:44:37.541",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "im gonna go watch a movie, when i get back ill start heading over to muldraugh"
-    },
     {
       "timestamp": "28-12-25 03:45:01.951",
       "chat_type": "General",
@@ -1472,7 +1486,31 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "i know its just a game, but she loved it"
+    },
+    {
+      "timestamp": "28-12-25 04:18:14.569",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "@beto, true music is the party mod that makes us all join up for our fun times"
+    },
+    {
+      "timestamp": "28-12-25 04:18:14.569",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "@beto, true music is the party mod that makes us all join up for our fun times"
+    },
+    {
+      "timestamp": "28-12-25 04:19:04.115",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "also, i vote my base to be a spot for wipe day"
+    },
+    {
+      "timestamp": "28-12-25 04:19:04.115",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "also, i vote my base to be a spot for wipe day"
     }
   ],
-  "timestamp": "2025-12-28T04:15:01.335665"
+  "timestamp": "2025-12-28T04:20:01.718223"
 }
