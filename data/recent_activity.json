@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 00:13:33.131",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "28-12-25 00:18:52.437",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -356,21 +350,18 @@
       "x": "8613",
       "y": "8822",
       "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 04:37:28.011",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "disconnected",
+      "x": "10659",
+      "y": "9567",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 23:31:27.810",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8668",
-      "y": "8773",
-      "z": "0",
-      "hours_survived": 344,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "4"
-    },
     {
       "timestamp": "28-12-25 00:07:46.996",
       "steam_id": "76561198031138505",
@@ -1138,69 +1129,21 @@
       "event_type": "level_up",
       "skill": "Electricity",
       "level": "3"
+    },
+    {
+      "timestamp": "28-12-25 04:39:43.983",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "14745",
+      "y": "3449",
+      "z": "0",
+      "hours_survived": 54,
+      "event_type": "level_up",
+      "skill": "Butchering",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 03:49:54.584",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "beto just messaged in disscord. no transmission, not even from bites. too many bugs on the test launch"
-    },
-    {
-      "timestamp": "28-12-25 03:49:54.584",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "beto just messaged in disscord. no transmission, not even from bites. too many bugs on the test launch"
-    },
-    {
-      "timestamp": "28-12-25 03:50:08.705",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "he intends for this to be learning the new crafting mechanics"
-    },
-    {
-      "timestamp": "28-12-25 03:50:08.705",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "he intends for this to be learning the new crafting mechanics"
-    },
-    {
-      "timestamp": "28-12-25 03:50:18.869",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "ahhh nice"
-    },
-    {
-      "timestamp": "28-12-25 03:50:18.869",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "ahhh nice"
-    },
-    {
-      "timestamp": "28-12-25 03:50:19.963",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "so more forgiving onf survival"
-    },
-    {
-      "timestamp": "28-12-25 03:50:19.963",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "so more forgiving onf survival"
-    },
-    {
-      "timestamp": "28-12-25 03:50:58.144",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "also why the 6x multiplier on the xp for b42 crafting skills"
-    },
-    {
-      "timestamp": "28-12-25 03:50:58.144",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "also why the 6x multiplier on the xp for b42 crafting skills"
-    },
     {
       "timestamp": "28-12-25 03:51:19.670",
       "chat_type": "General",
@@ -1440,7 +1383,67 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "i need to log off for the night, but ill be back tomorrow. its still the weekend"
+    },
+    {
+      "timestamp": "28-12-25 04:35:26.487",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "its the walled area in north muld"
+    },
+    {
+      "timestamp": "28-12-25 04:35:26.488",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "its the walled area in north muld"
+    },
+    {
+      "timestamp": "28-12-25 04:35:32.691",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "the mansions with the attached garrages"
+    },
+    {
+      "timestamp": "28-12-25 04:35:32.691",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "the mansions with the attached garrages"
+    },
+    {
+      "timestamp": "28-12-25 04:36:06.957",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "beto will recognize my decor style, i like the the grunge style for the base surroundings"
+    },
+    {
+      "timestamp": "28-12-25 04:36:06.957",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "beto will recognize my decor style, i like the the grunge style for the base surroundings"
+    },
+    {
+      "timestamp": "28-12-25 04:36:42.742",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "RIP x3"
+    },
+    {
+      "timestamp": "28-12-25 04:36:42.742",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "RIP x3"
+    },
+    {
+      "timestamp": "28-12-25 04:36:45.971",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "roadkill"
+    },
+    {
+      "timestamp": "28-12-25 04:36:45.971",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "roadkill"
     }
   ],
-  "timestamp": "2025-12-28T04:35:01.974666"
+  "timestamp": "2025-12-28T04:40:01.328207"
 }
