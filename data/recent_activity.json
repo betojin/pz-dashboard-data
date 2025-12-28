@@ -369,30 +369,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 19:59:55.991",
-      "steam_id": "76561199121326240",
-      "username": "lefons",
-      "x": "12731",
-      "y": "3961",
-      "z": "0",
-      "hours_survived": 36,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "4"
-    },
-    {
-      "timestamp": "28-12-25 20:00:17.048",
-      "steam_id": "76561199122629737",
-      "username": "KeenIslander",
-      "x": "12688",
-      "y": "4003",
-      "z": "0",
-      "hours_survived": 24,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "2"
-    },
-    {
       "timestamp": "28-12-25 20:09:39.432",
       "steam_id": "76561199122629737",
       "username": "KeenIslander",
@@ -1077,6 +1053,30 @@
       "event_type": "level_up",
       "skill": "Masonry",
       "level": "3"
+    },
+    {
+      "timestamp": "28-12-25 23:06:42.861",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10732",
+      "y": "9538",
+      "z": "0",
+      "hours_survived": 1361,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "5"
+    },
+    {
+      "timestamp": "28-12-25 23:06:59.361",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8610",
+      "y": "8815",
+      "z": "0",
+      "hours_survived": 491,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1381,5 +1381,5 @@
       "text": "so was mine this morning xD"
     }
   ],
-  "timestamp": "2025-12-28T23:05:01.992568"
+  "timestamp": "2025-12-28T23:10:01.474864"
 }

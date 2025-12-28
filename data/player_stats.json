@@ -567,7 +567,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 1348,
+      "total_hours": 1361,
       "deaths": 0,
       "skills": {
         "Cooking": 6,
@@ -577,7 +577,7 @@
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 1,
-        "Sprinting": 4,
+        "Sprinting": 5,
         "Sneak": 0,
         "Woodwork": 7,
         "Aiming": 0,
@@ -996,9 +996,14 @@
           "skill": "Farming",
           "level": "4",
           "timestamp": "28-12-25 22:35:13.651"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "5",
+          "timestamp": "28-12-25 23:06:42.861"
         }
       ],
-      "last_seen": "28-12-25 22:35:13.651",
+      "last_seen": "28-12-25 23:06:42.861",
       "connections": 4
     },
     "Molotov Kid": {
@@ -2810,7 +2815,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 485,
+      "total_hours": 491,
       "deaths": 0,
       "skills": {
         "Cooking": 3,
@@ -2820,7 +2825,7 @@
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 0,
-        "Sprinting": 2,
+        "Sprinting": 3,
         "Sneak": 0,
         "Woodwork": 4,
         "Aiming": 0,
@@ -3044,9 +3049,14 @@
           "skill": "Masonry",
           "level": "3",
           "timestamp": "28-12-25 22:53:07.376"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "3",
+          "timestamp": "28-12-25 23:06:59.361"
         }
       ],
-      "last_seen": "28-12-25 22:53:07.376",
+      "last_seen": "28-12-25 23:06:59.361",
       "connections": 6
     },
     "El_Moctezuma": {
@@ -3722,5 +3732,5 @@
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-28T23:05:01.960264"
+  "timestamp": "2025-12-28T23:10:01.442622"
 }
