@@ -3071,7 +3071,7 @@
         "Sneak": 0,
         "Woodwork": 0,
         "Aiming": 2,
-        "Reloading": 2,
+        "Reloading": 3,
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
@@ -3121,9 +3121,14 @@
           "skill": "Aiming",
           "level": "2",
           "timestamp": "28-12-25 20:09:39.432"
+        },
+        {
+          "skill": "Reloading",
+          "level": "3",
+          "timestamp": "28-12-25 20:44:18.495"
         }
       ],
-      "last_seen": "28-12-25 20:19:52.892",
+      "last_seen": "28-12-25 20:44:18.495",
       "connections": 3
     },
     "Omar": {
@@ -3571,7 +3576,7 @@
     "lefons": {
       "username": "lefons",
       "steam_id": "76561199121326240",
-      "total_hours": 51,
+      "total_hours": 53,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -3581,7 +3586,7 @@
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 1,
-        "Sprinting": 0,
+        "Sprinting": 1,
         "Sneak": 0,
         "Woodwork": 0,
         "Aiming": 5,
@@ -3645,12 +3650,17 @@
           "skill": "Aiming",
           "level": "5",
           "timestamp": "28-12-25 20:37:44.864"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "28-12-25 20:44:00.232"
         }
       ],
-      "last_seen": "28-12-25 20:37:44.864",
+      "last_seen": "28-12-25 20:44:00.232",
       "connections": 3
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-28T20:40:01.386095"
+  "timestamp": "2025-12-28T20:45:01.709852"
 }
