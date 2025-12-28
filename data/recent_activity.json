@@ -1,51 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 18:20:47.282",
-      "steam_id": "76561199121326240",
-      "username": "lefons",
-      "action": "fully connected",
-      "x": "11772",
-      "y": "6752",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 18:20:51.532",
-      "steam_id": "76561199122629737",
-      "username": "KeenIslander",
-      "action": "fully connected",
-      "x": "12733",
-      "y": "4377",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 18:21:14.500",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "disconnected",
-      "x": "8612",
-      "y": "8822",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 18:27:20.879",
-      "steam_id": "76561199121326240",
-      "username": "lefons",
-      "action": "disconnected",
-      "x": "11754",
-      "y": "6748",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 18:27:25.676",
-      "steam_id": "76561199121326240",
-      "username": "lefons",
-      "action": "fully connected",
-      "x": "6519",
-      "y": "5479",
-      "z": "0"
-    },
-    {
       "timestamp": "28-12-25 18:37:02.789",
       "steam_id": "76561199249031770",
       "username": "squibby",
@@ -367,6 +322,42 @@
       "action": "fully connected",
       "x": "12780",
       "y": "1503",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 21:00:34.406",
+      "steam_id": "76561199121326240",
+      "username": "lefons",
+      "action": "disconnected",
+      "x": "12762",
+      "y": "1504",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 21:04:19.234",
+      "steam_id": "76561199121326240",
+      "username": "lefons",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 21:04:19.234",
+      "steam_id": "76561199121326240",
+      "username": "lefons",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 21:04:30.148",
+      "steam_id": "76561199121326240",
+      "username": "lefons",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 21:05:01.059",
+      "steam_id": "76561199121326240",
+      "username": "lefons",
+      "action": "fully connected",
+      "x": "12762",
+      "y": "1504",
       "z": "0"
     }
   ],
@@ -1382,5 +1373,5 @@
       "text": "it will take me a hot minute to get there"
     }
   ],
-  "timestamp": "2025-12-28T21:00:01.801830"
+  "timestamp": "2025-12-28T21:05:01.123245"
 }
