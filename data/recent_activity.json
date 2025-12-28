@@ -369,53 +369,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 18:17:59.917",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 1245,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 6,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 3,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 4,
-        "Sneak": 0,
-        "Woodwork": 7,
-        "Aiming": 0,
-        "Reloading": 2,
-        "Farming": 2,
-        "Fishing": 4,
-        "Trapping": 2,
-        "PlantScavenging": 6,
-        "Doctor": 0,
-        "Electricity": 3,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 1,
-        "Maintenance": 5,
-        "SmallBlade": 0,
-        "LongBlade": 1,
-        "SmallBlunt": 3,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 3,
-        "Masonry": 8,
-        "Pottery": 0,
-        "Carving": 7,
-        "Butchering": 2,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "28-12-25 18:20:47.739",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -1176,6 +1129,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "28-12-25 20:37:44.864",
+      "steam_id": "76561199121326240",
+      "username": "lefons",
+      "x": "12777",
+      "y": "1492",
+      "z": "0",
+      "hours_survived": 51,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "5"
     }
   ],
   "chat_messages": [
@@ -1480,5 +1445,5 @@
       "text": "ill make it next to molotov kids grave"
     }
   ],
-  "timestamp": "2025-12-28T20:35:02.050208"
+  "timestamp": "2025-12-28T20:40:01.417021"
 }
