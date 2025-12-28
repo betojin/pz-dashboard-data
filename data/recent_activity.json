@@ -269,21 +269,60 @@
       "x": "8610",
       "y": "8823",
       "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 18:17:59.587",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "fully connected",
+      "x": "10659",
+      "y": "9571",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 18:19:33.886",
+      "steam_id": "76561199121326240",
+      "username": "lefons",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 18:19:33.886",
+      "steam_id": "76561199121326240",
+      "username": "lefons",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 18:19:49.754",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 18:19:49.754",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 18:19:56.675",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 18:19:56.676",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 18:19:59.860",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "28-12-25 05:27:31.814",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10082",
-      "y": "8259",
-      "z": "1",
-      "hours_survived": 940,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "4"
-    },
     {
       "timestamp": "28-12-25 05:48:58.744",
       "steam_id": "76561199511597958",
@@ -981,8 +1020,55 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "28-12-25 18:17:59.917",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9571",
+      "z": "0",
+      "hours_survived": 1245,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 6,
+        "Fitness": 10,
+        "Strength": 9,
+        "Blunt": 3,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 4,
+        "Sneak": 0,
+        "Woodwork": 7,
+        "Aiming": 0,
+        "Reloading": 2,
+        "Farming": 2,
+        "Fishing": 4,
+        "Trapping": 2,
+        "PlantScavenging": 6,
+        "Doctor": 0,
+        "Electricity": 3,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 2,
+        "Spear": 1,
+        "Maintenance": 5,
+        "SmallBlade": 0,
+        "LongBlade": 1,
+        "SmallBlunt": 3,
+        "Tailoring": 2,
+        "Tracking": 0,
+        "Husbandry": 2,
+        "FlintKnapping": 3,
+        "Masonry": 8,
+        "Pottery": 0,
+        "Carving": 7,
+        "Butchering": 2,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-28T18:15:01.220177"
+  "timestamp": "2025-12-28T18:20:01.513277"
 }
