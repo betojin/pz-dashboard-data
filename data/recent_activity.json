@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 00:19:26.185",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8611",
-      "y": "8824",
-      "z": "0",
-      "hours_survived": 363,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "7"
-    },
-    {
       "timestamp": "28-12-25 00:39:31.409",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -1071,21 +1059,21 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "2"
+    },
+    {
+      "timestamp": "28-12-25 05:03:14.247",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "15294",
+      "y": "3068",
+      "z": "0",
+      "hours_survived": 63,
+      "event_type": "level_up",
+      "skill": "SmallBlunt",
+      "level": "4"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 04:09:31.264",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "basically fettucini, and i have chickens... so luxury is still not all lost yet"
-    },
-    {
-      "timestamp": "28-12-25 04:09:31.265",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "basically fettucini, and i have chickens... so luxury is still not all lost yet"
-    },
     {
       "timestamp": "28-12-25 04:09:52.514",
       "chat_type": "General",
@@ -1373,7 +1361,19 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 05:04:52.893",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:04:52.893",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-28T05:00:01.674960"
+  "timestamp": "2025-12-28T05:05:02.009699"
 }
