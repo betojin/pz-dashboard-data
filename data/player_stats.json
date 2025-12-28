@@ -241,7 +241,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 940,
+      "total_hours": 943,
       "deaths": 1,
       "skills": {
         "Cooking": 3,
@@ -562,7 +562,8 @@
           "timestamp": "28-12-25 05:27:31.814"
         }
       ],
-      "last_seen": "28-12-25 05:27:31.814"
+      "last_seen": "28-12-25 23:13:30.453",
+      "connections": 1
     },
     "Firestorm3050": {
       "username": "Firestorm3050",
@@ -2815,7 +2816,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 491,
+      "total_hours": 492,
       "deaths": 0,
       "skills": {
         "Cooking": 3,
@@ -2848,7 +2849,7 @@
         "Tracking": 0,
         "Husbandry": 2,
         "FlintKnapping": 2,
-        "Masonry": 3,
+        "Masonry": 4,
         "Pottery": 0,
         "Carving": 7,
         "Butchering": 3,
@@ -3054,9 +3055,14 @@
           "skill": "Sprinting",
           "level": "3",
           "timestamp": "28-12-25 23:06:59.361"
+        },
+        {
+          "skill": "Masonry",
+          "level": "4",
+          "timestamp": "28-12-25 23:10:43.378"
         }
       ],
-      "last_seen": "28-12-25 23:06:59.361",
+      "last_seen": "28-12-25 23:10:43.378",
       "connections": 6
     },
     "El_Moctezuma": {
@@ -3732,5 +3738,5 @@
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-28T23:10:01.442622"
+  "timestamp": "2025-12-28T23:15:01.875426"
 }
