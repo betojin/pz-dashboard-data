@@ -366,53 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 14:54:35.082",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9567",
-      "z": "0",
-      "hours_survived": 1196,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 6,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 4,
-        "Sneak": 0,
-        "Woodwork": 7,
-        "Aiming": 0,
-        "Reloading": 2,
-        "Farming": 2,
-        "Fishing": 4,
-        "Trapping": 1,
-        "PlantScavenging": 6,
-        "Doctor": 0,
-        "Electricity": 3,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 1,
-        "Maintenance": 5,
-        "SmallBlade": 0,
-        "LongBlade": 1,
-        "SmallBlunt": 3,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 3,
-        "Masonry": 7,
-        "Pottery": 0,
-        "Carving": 7,
-        "Butchering": 2,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "28-12-25 15:03:18.229",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -1243,69 +1196,21 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "3"
+    },
+    {
+      "timestamp": "28-12-25 19:41:23.870",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "x": "12665",
+      "y": "4095",
+      "z": "0",
+      "hours_survived": 17,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 19:03:27.100",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "IT, work from home"
-    },
-    {
-      "timestamp": "28-12-25 19:03:27.101",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "IT, work from home"
-    },
-    {
-      "timestamp": "28-12-25 19:03:35.647",
-      "chat_type": "General",
-      "author": "lefons",
-      "text": "thats mental good stuff bro"
-    },
-    {
-      "timestamp": "28-12-25 19:03:35.647",
-      "chat_type": "General",
-      "author": "lefons",
-      "text": "thats mental good stuff bro"
-    },
-    {
-      "timestamp": "28-12-25 19:04:46.239",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "ahh hell yeah man"
-    },
-    {
-      "timestamp": "28-12-25 19:04:46.239",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "ahh hell yeah man"
-    },
-    {
-      "timestamp": "28-12-25 19:05:12.732",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "b42 has been out for 12 months"
-    },
-    {
-      "timestamp": "28-12-25 19:05:12.732",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "b42 has been out for 12 months"
-    },
-    {
-      "timestamp": "28-12-25 19:06:20.344",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "thats how i noticed that some of the bugs we have in mp are the old bugs from b42 solo that were already fixed"
-    },
-    {
-      "timestamp": "28-12-25 19:06:20.344",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "thats how i noticed that some of the bugs we have in mp are the old bugs from b42 solo that were already fixed"
-    },
     {
       "timestamp": "28-12-25 19:07:56.628",
       "chat_type": "General",
@@ -1545,7 +1450,67 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "south muld does too"
+    },
+    {
+      "timestamp": "28-12-25 19:40:30.733",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "the gun club was already looted or its naturally empty, but lots of survivor zomboids"
+    },
+    {
+      "timestamp": "28-12-25 19:40:30.733",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "the gun club was already looted or its naturally empty, but lots of survivor zomboids"
+    },
+    {
+      "timestamp": "28-12-25 19:40:48.954",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i think guns unlimited was looted on launch day"
+    },
+    {
+      "timestamp": "28-12-25 19:40:48.954",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i think guns unlimited was looted on launch day"
+    },
+    {
+      "timestamp": "28-12-25 19:41:02.068",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "oh 100%"
+    },
+    {
+      "timestamp": "28-12-25 19:41:02.068",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "oh 100%"
+    },
+    {
+      "timestamp": "28-12-25 19:43:44.873",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "i did get to some of the gun store through out the west side"
+    },
+    {
+      "timestamp": "28-12-25 19:43:44.873",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "i did get to some of the gun store through out the west side"
+    },
+    {
+      "timestamp": "28-12-25 19:44:17.008",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "and i think only beto has been in LV"
+    },
+    {
+      "timestamp": "28-12-25 19:44:17.008",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "and i think only beto has been in LV"
     }
   ],
-  "timestamp": "2025-12-28T19:40:02.032912"
+  "timestamp": "2025-12-28T19:45:01.365754"
 }
