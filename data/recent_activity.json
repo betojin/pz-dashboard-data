@@ -1,39 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 21:57:26.118",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "27-12-25 21:58:12.371",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "fully connected",
-      "x": "8123",
-      "y": "11540",
-      "z": "0"
-    },
-    {
-      "timestamp": "27-12-25 21:59:35.405",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "disconnected",
-      "x": "8125",
-      "y": "11558",
-      "z": "0"
-    },
-    {
-      "timestamp": "27-12-25 22:08:52.274",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "disconnected",
-      "x": "1829",
-      "y": "15063",
-      "z": "0"
-    },
-    {
       "timestamp": "27-12-25 22:25:28.521",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -365,56 +332,36 @@
       "x": "11594",
       "y": "8296",
       "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 03:33:14.949",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 03:33:14.949",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 03:33:22.548",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 03:33:35.183",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "action": "fully connected",
+      "x": "11594",
+      "y": "8296",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 21:15:40.498",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9566",
-      "z": "0",
-      "hours_survived": 1027,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 6,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 4,
-        "Sneak": 0,
-        "Woodwork": 7,
-        "Aiming": 0,
-        "Reloading": 2,
-        "Farming": 2,
-        "Fishing": 3,
-        "Trapping": 1,
-        "PlantScavenging": 5,
-        "Doctor": 0,
-        "Electricity": 2,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 1,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 1,
-        "SmallBlunt": 3,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 2,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 6,
-        "Butchering": 1,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "27-12-25 21:38:54.327",
       "steam_id": "76561198044597580",
@@ -1182,69 +1129,56 @@
       "event_type": "level_up",
       "skill": "Doctor",
       "level": "3"
+    },
+    {
+      "timestamp": "28-12-25 03:33:35.636",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "x": "11594",
+      "y": "8296",
+      "z": "0",
+      "hours_survived": 55,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 4,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 1,
+        "Trapping": 0,
+        "PlantScavenging": 1,
+        "Doctor": 3,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 2,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 2,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 03:10:32.835",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "back. Are you still alive?"
-    },
-    {
-      "timestamp": "28-12-25 03:10:32.835",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "back. Are you still alive?"
-    },
-    {
-      "timestamp": "28-12-25 03:11:45.136",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "so far, also, rinkroller has joined"
-    },
-    {
-      "timestamp": "28-12-25 03:11:45.136",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "so far, also, rinkroller has joined"
-    },
-    {
-      "timestamp": "28-12-25 03:12:25.003",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "oh nice, ello."
-    },
-    {
-      "timestamp": "28-12-25 03:12:25.004",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "oh nice, ello."
-    },
-    {
-      "timestamp": "28-12-25 03:12:42.491",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i wonder if thats a bug too"
-    },
-    {
-      "timestamp": "28-12-25 03:12:42.491",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i wonder if thats a bug too"
-    },
-    {
-      "timestamp": "28-12-25 03:16:28.632",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "wheres the best place to find gas"
-    },
-    {
-      "timestamp": "28-12-25 03:16:28.632",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "wheres the best place to find gas"
-    },
     {
       "timestamp": "28-12-25 03:16:31.834",
       "chat_type": "General",
@@ -1484,7 +1418,67 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "btw, you can wear a backpack and a satchel at the same time now, so double up on bags"
+    },
+    {
+      "timestamp": "28-12-25 03:32:02.474",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "the map is mentioning fort knox. so now i know for sure the devs intend for it to be added"
+    },
+    {
+      "timestamp": "28-12-25 03:32:02.474",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "the map is mentioning fort knox. so now i know for sure the devs intend for it to be added"
+    },
+    {
+      "timestamp": "28-12-25 03:34:11.575",
+      "chat_type": "General",
+      "author": "RinkRoller",
+      "text": "is there a way to claim cars?"
+    },
+    {
+      "timestamp": "28-12-25 03:34:11.575",
+      "chat_type": "General",
+      "author": "RinkRoller",
+      "text": "is there a way to claim cars?"
+    },
+    {
+      "timestamp": "28-12-25 03:34:15.864",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "not yet"
+    },
+    {
+      "timestamp": "28-12-25 03:34:15.864",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "not yet"
+    },
+    {
+      "timestamp": "28-12-25 03:34:33.913",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i chose my base by the fact they all have attached garages to keep a car inside of"
+    },
+    {
+      "timestamp": "28-12-25 03:34:33.913",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i chose my base by the fact they all have attached garages to keep a car inside of"
+    },
+    {
+      "timestamp": "28-12-25 03:34:55.201",
+      "chat_type": "General",
+      "author": "RinkRoller",
+      "text": "smart"
+    },
+    {
+      "timestamp": "28-12-25 03:34:55.201",
+      "chat_type": "General",
+      "author": "RinkRoller",
+      "text": "smart"
     }
   ],
-  "timestamp": "2025-12-28T03:30:01.689027"
+  "timestamp": "2025-12-28T03:35:02.082655"
 }
