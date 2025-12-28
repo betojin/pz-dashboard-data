@@ -3070,7 +3070,7 @@
         "Sprinting": 0,
         "Sneak": 0,
         "Woodwork": 0,
-        "Aiming": 1,
+        "Aiming": 2,
         "Reloading": 2,
         "Farming": 0,
         "Fishing": 0,
@@ -3116,9 +3116,14 @@
           "skill": "Reloading",
           "level": "2",
           "timestamp": "28-12-25 20:00:17.048"
+        },
+        {
+          "skill": "Aiming",
+          "level": "2",
+          "timestamp": "28-12-25 20:09:39.432"
         }
       ],
-      "last_seen": "28-12-25 20:00:17.048",
+      "last_seen": "28-12-25 20:09:39.432",
       "connections": 2
     },
     "Omar": {
@@ -3418,7 +3423,7 @@
     "Lourex": {
       "username": "Lourex",
       "steam_id": "76561198143098309",
-      "total_hours": 6,
+      "total_hours": 9,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -3464,7 +3469,8 @@
           "timestamp": "27-12-25 00:33:22.753"
         }
       ],
-      "last_seen": "27-12-25 00:33:22.753"
+      "last_seen": "28-12-25 20:09:47.711",
+      "connections": 1
     },
     "RinkRoller": {
       "username": "RinkRoller",
@@ -3631,5 +3637,5 @@
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-28T20:05:01.714489"
+  "timestamp": "2025-12-28T20:10:01.084088"
 }
