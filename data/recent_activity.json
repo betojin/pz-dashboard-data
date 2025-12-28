@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 21:57:20.622",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "27-12-25 21:57:26.118",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -361,6 +355,15 @@
       "action": "fully connected",
       "x": "10098",
       "y": "8262",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 03:25:10.719",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "action": "disconnected",
+      "x": "11594",
+      "y": "8296",
       "z": "0"
     }
   ],
@@ -1183,30 +1186,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "28-12-25 03:02:50.211",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "i just got bit like a minute ago"
-    },
-    {
-      "timestamp": "28-12-25 03:02:50.211",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "i just got bit like a minute ago"
-    },
-    {
-      "timestamp": "28-12-25 03:02:55.788",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "i wasnt paying attention"
-    },
-    {
-      "timestamp": "28-12-25 03:02:55.788",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "i wasnt paying attention"
-    },
-    {
       "timestamp": "28-12-25 03:10:32.835",
       "chat_type": "General",
       "author": "Sully",
@@ -1481,7 +1460,31 @@
       "chat_type": "General",
       "author": "RinkRoller",
       "text": "yeah my temp is pretty normal"
+    },
+    {
+      "timestamp": "28-12-25 03:25:06.965",
+      "chat_type": "General",
+      "author": "RinkRoller",
+      "text": "brb"
+    },
+    {
+      "timestamp": "28-12-25 03:25:06.965",
+      "chat_type": "General",
+      "author": "RinkRoller",
+      "text": "brb"
+    },
+    {
+      "timestamp": "28-12-25 03:28:50.904",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "btw, you can wear a backpack and a satchel at the same time now, so double up on bags"
+    },
+    {
+      "timestamp": "28-12-25 03:28:50.904",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "btw, you can wear a backpack and a satchel at the same time now, so double up on bags"
     }
   ],
-  "timestamp": "2025-12-28T03:25:01.325039"
+  "timestamp": "2025-12-28T03:30:01.689027"
 }
