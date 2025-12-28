@@ -1,36 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 21:38:35.526",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "27-12-25 21:38:54.102",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "fully connected",
-      "x": "2305",
-      "y": "14472",
-      "z": "0"
-    },
-    {
-      "timestamp": "27-12-25 21:46:39.270",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "disconnected",
-      "x": "10659",
-      "y": "9571",
-      "z": "0"
-    },
-    {
-      "timestamp": "27-12-25 21:50:06.314",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "27-12-25 21:50:06.314",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -365,21 +335,36 @@
       "x": "10098",
       "y": "8262",
       "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 02:56:04.740",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 02:56:04.740",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 02:56:15.398",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 02:56:53.183",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "action": "fully connected",
+      "x": "11886",
+      "y": "6923",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 21:05:04.140",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "3756",
-      "y": "8383",
-      "z": "0",
-      "hours_survived": 531,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "3"
-    },
     {
       "timestamp": "27-12-25 21:07:19.223",
       "steam_id": "76561198119296623",
@@ -1112,45 +1097,56 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "28-12-25 02:56:53.832",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "x": "11886",
+      "y": "6923",
+      "z": "0",
+      "hours_survived": 43,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 4,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 1,
+        "Trapping": 0,
+        "PlantScavenging": 1,
+        "Doctor": 2,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 2,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 2,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "27-12-25 20:58:16.778",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "lol. just in time to not need it xD"
-    },
-    {
-      "timestamp": "27-12-25 20:58:16.779",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "lol. just in time to not need it xD"
-    },
-    {
-      "timestamp": "27-12-25 20:59:12.895",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "found a really good survivor zomboid"
-    },
-    {
-      "timestamp": "27-12-25 20:59:12.895",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "found a really good survivor zomboid"
-    },
-    {
-      "timestamp": "27-12-25 20:59:32.482",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "finally getting my first bath since the water shut off"
-    },
-    {
-      "timestamp": "27-12-25 20:59:32.482",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "finally getting my first bath since the water shut off"
-    },
     {
       "timestamp": "27-12-25 21:18:59.880",
       "chat_type": "General",
@@ -1414,7 +1410,43 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "*knocking on wood*"
+    },
+    {
+      "timestamp": "28-12-25 02:57:47.233",
+      "chat_type": "General",
+      "author": "RinkRoller",
+      "text": "hello"
+    },
+    {
+      "timestamp": "28-12-25 02:57:47.233",
+      "chat_type": "General",
+      "author": "RinkRoller",
+      "text": "hello"
+    },
+    {
+      "timestamp": "28-12-25 02:57:51.881",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "hiya"
+    },
+    {
+      "timestamp": "28-12-25 02:57:51.881",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "hiya"
+    },
+    {
+      "timestamp": "28-12-25 02:58:19.380",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "thunderstorm soon"
+    },
+    {
+      "timestamp": "28-12-25 02:58:19.380",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "thunderstorm soon"
     }
   ],
-  "timestamp": "2025-12-28T02:55:01.278308"
+  "timestamp": "2025-12-28T03:00:01.593090"
 }
