@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 22:25:28.521",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "27-12-25 22:25:28.522",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "27-12-25 22:25:36.868",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "27-12-25 22:26:06.375",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "fully connected",
-      "x": "8125",
-      "y": "11558",
-      "z": "0"
-    },
-    {
       "timestamp": "27-12-25 22:37:10.784",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -359,6 +332,33 @@
       "x": "11594",
       "y": "8296",
       "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 03:45:12.558",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "action": "disconnected",
+      "x": "11610",
+      "y": "8264",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 03:49:20.975",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 03:49:20.975",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 03:49:27.466",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1180,30 +1180,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "28-12-25 03:23:04.360",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "and the town has been mostly cleared, pop is culled"
-    },
-    {
-      "timestamp": "28-12-25 03:23:04.360",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "and the town has been mostly cleared, pop is culled"
-    },
-    {
-      "timestamp": "28-12-25 03:23:19.544",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "how long does it normally take for bite symptoms to show"
-    },
-    {
-      "timestamp": "28-12-25 03:23:19.544",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "how long does it normally take for bite symptoms to show"
-    },
-    {
       "timestamp": "28-12-25 03:23:39.537",
       "chat_type": "General",
       "author": "Firestorm3050",
@@ -1478,7 +1454,31 @@
       "chat_type": "General",
       "author": "RinkRoller",
       "text": "im gonna go watch a movie, when i get back ill start heading over to muldraugh"
+    },
+    {
+      "timestamp": "28-12-25 03:45:01.951",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "alr"
+    },
+    {
+      "timestamp": "28-12-25 03:45:01.951",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "alr"
+    },
+    {
+      "timestamp": "28-12-25 03:49:54.584",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "beto just messaged in disscord. no transmission, not even from bites. too many bugs on the test launch"
+    },
+    {
+      "timestamp": "28-12-25 03:49:54.584",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "beto just messaged in disscord. no transmission, not even from bites. too many bugs on the test launch"
     }
   ],
-  "timestamp": "2025-12-28T03:45:01.772329"
+  "timestamp": "2025-12-28T03:50:01.189748"
 }
