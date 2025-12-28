@@ -567,7 +567,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 1245,
+      "total_hours": 1263,
       "deaths": 0,
       "skills": {
         "Cooking": 6,
@@ -592,7 +592,7 @@
         "MetalWelding": 0,
         "Mechanics": 2,
         "Spear": 1,
-        "Maintenance": 5,
+        "Maintenance": 6,
         "SmallBlade": 0,
         "LongBlade": 1,
         "SmallBlunt": 3,
@@ -976,9 +976,14 @@
           "skill": "Masonry",
           "level": "8",
           "timestamp": "28-12-25 16:57:49.958"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "6",
+          "timestamp": "28-12-25 19:01:32.874"
         }
       ],
-      "last_seen": "28-12-25 18:17:59.917",
+      "last_seen": "28-12-25 19:01:32.874",
       "connections": 4
     },
     "Molotov Kid": {
@@ -3535,13 +3540,13 @@
     "lefons": {
       "username": "lefons",
       "steam_id": "76561199121326240",
-      "total_hours": 0,
+      "total_hours": 13,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
         "Fitness": 7,
         "Strength": 9,
-        "Blunt": 0,
+        "Blunt": 1,
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 1,
@@ -3579,12 +3584,17 @@
           "skill": "Doctor",
           "level": "1",
           "timestamp": "28-12-25 18:22:43.684"
+        },
+        {
+          "skill": "Blunt",
+          "level": "1",
+          "timestamp": "28-12-25 19:01:26.353"
         }
       ],
-      "last_seen": "28-12-25 18:27:26.291",
+      "last_seen": "28-12-25 19:01:26.353",
       "connections": 2
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-28T19:00:01.311019"
+  "timestamp": "2025-12-28T19:05:01.630117"
 }
