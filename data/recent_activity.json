@@ -369,53 +369,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 18:20:52.049",
-      "steam_id": "76561199122629737",
-      "username": "KeenIslander",
-      "x": "12733",
-      "y": "4377",
-      "z": "0",
-      "hours_survived": 49,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 5,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 4,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "28-12-25 18:22:43.684",
       "steam_id": "76561199121326240",
       "username": "lefons",
@@ -1071,21 +1024,21 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "3"
+    },
+    {
+      "timestamp": "28-12-25 20:45:43.209",
+      "steam_id": "76561198143098309",
+      "username": "Lourex",
+      "x": "12100",
+      "y": "7137",
+      "z": "0",
+      "hours_survived": 22,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "2"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 19:24:53.647",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "its dark out he came out of nowhere"
-    },
-    {
-      "timestamp": "28-12-25 19:24:53.647",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "its dark out he came out of nowhere"
-    },
     {
       "timestamp": "28-12-25 19:33:53.386",
       "chat_type": "General",
@@ -1373,7 +1326,19 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "ill make it next to molotov kids grave"
+    },
+    {
+      "timestamp": "28-12-25 20:49:41.949",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "i did drive thrpugh a chicken farm"
+    },
+    {
+      "timestamp": "28-12-25 20:49:41.949",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "i did drive thrpugh a chicken farm"
     }
   ],
-  "timestamp": "2025-12-28T20:45:01.742233"
+  "timestamp": "2025-12-28T20:50:02.073996"
 }
