@@ -530,7 +530,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 1093,
+      "total_hours": 1108,
       "deaths": 0,
       "skills": {
         "Cooking": 6,
@@ -555,7 +555,7 @@
         "MetalWelding": 0,
         "Mechanics": 2,
         "Spear": 1,
-        "Maintenance": 4,
+        "Maintenance": 5,
         "SmallBlade": 0,
         "LongBlade": 1,
         "SmallBlunt": 3,
@@ -879,9 +879,14 @@
           "skill": "Butchering",
           "level": "2",
           "timestamp": "28-12-25 00:07:46.996"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "5",
+          "timestamp": "28-12-25 00:57:27.560"
         }
       ],
-      "last_seen": "28-12-25 00:18:53.224",
+      "last_seen": "28-12-25 00:57:27.560",
       "connections": 7
     },
     "Molotov Kid": {
@@ -3321,5 +3326,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-28T00:55:01.557309"
+  "timestamp": "2025-12-28T01:00:01.972150"
 }
