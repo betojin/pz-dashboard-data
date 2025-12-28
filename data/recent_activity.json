@@ -53,21 +53,45 @@
       "x": "8613",
       "y": "8822",
       "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 15:26:25.482",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "disconnected",
+      "x": "7505",
+      "y": "6059",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 15:26:47.770",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 15:26:47.770",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 15:26:59.003",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 15:27:13.290",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "fully connected",
+      "x": "7505",
+      "y": "6059",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "28-12-25 04:39:43.983",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "14745",
-      "y": "3449",
-      "z": "0",
-      "hours_survived": 54,
-      "event_type": "level_up",
-      "skill": "Butchering",
-      "level": "1"
-    },
     {
       "timestamp": "28-12-25 04:49:09.535",
       "steam_id": "76561198065774641",
@@ -590,8 +614,55 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "28-12-25 15:27:13.477",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "7505",
+      "y": "6059",
+      "z": "0",
+      "hours_survived": 397,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 3,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 2,
+        "Sneak": 0,
+        "Woodwork": 4,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 5,
+        "Doctor": 1,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 2,
+        "Tracking": 0,
+        "Husbandry": 1,
+        "FlintKnapping": 2,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 7,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-28T15:25:01.354617"
+  "timestamp": "2025-12-28T15:30:01.849982"
 }
