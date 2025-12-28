@@ -363,65 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 00:12:16.488",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8606",
-      "y": "8817",
-      "z": "0",
-      "hours_survived": 360,
-      "event_type": "level_up",
-      "skill": "FlintKnapping",
-      "level": "2"
-    },
-    {
-      "timestamp": "28-12-25 00:18:53.224",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10658",
-      "y": "9566",
-      "z": "0",
-      "hours_survived": 1093,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 6,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 2,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 4,
-        "Sneak": 0,
-        "Woodwork": 7,
-        "Aiming": 0,
-        "Reloading": 2,
-        "Farming": 2,
-        "Fishing": 4,
-        "Trapping": 1,
-        "PlantScavenging": 6,
-        "Doctor": 0,
-        "Electricity": 2,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 1,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 1,
-        "SmallBlunt": 3,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 3,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 7,
-        "Butchering": 2,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "28-12-25 00:19:26.185",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -1106,6 +1047,30 @@
       "event_type": "level_up",
       "skill": "Axe",
       "level": "3"
+    },
+    {
+      "timestamp": "28-12-25 04:56:37.761",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "15334",
+      "y": "3052",
+      "z": "0",
+      "hours_survived": 55,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "2"
+    },
+    {
+      "timestamp": "28-12-25 04:59:21.760",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "15342",
+      "y": "3043",
+      "z": "0",
+      "hours_survived": 61,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1410,5 +1375,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-28T04:55:01.322820"
+  "timestamp": "2025-12-28T05:00:01.674960"
 }
