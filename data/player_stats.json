@@ -228,7 +228,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 885,
+      "total_hours": 932,
       "deaths": 1,
       "skills": {
         "Cooking": 3,
@@ -257,7 +257,7 @@
         "SmallBlade": 1,
         "LongBlade": 0,
         "SmallBlunt": 1,
-        "Tailoring": 0,
+        "Tailoring": 1,
         "Tracking": 0,
         "Husbandry": 4,
         "FlintKnapping": 0,
@@ -527,9 +527,14 @@
           "skill": "Cooking",
           "level": "3",
           "timestamp": "27-12-25 22:31:17.318"
+        },
+        {
+          "skill": "Tailoring",
+          "level": "1",
+          "timestamp": "28-12-25 05:09:01.926"
         }
       ],
-      "last_seen": "28-12-25 03:10:11.734",
+      "last_seen": "28-12-25 05:09:01.926",
       "connections": 7
     },
     "Firestorm3050": {
@@ -3422,5 +3427,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-28T05:05:01.965496"
+  "timestamp": "2025-12-28T05:10:01.291498"
 }

@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 00:39:31.409",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8616",
-      "y": "8823",
-      "z": "0",
-      "hours_survived": 364,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 3,
-        "Fitness": 7,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 4,
-        "Aiming": 0,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 5,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 1,
-        "FlintKnapping": 2,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 7,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "28-12-25 00:57:27.560",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -1071,309 +1024,321 @@
       "event_type": "level_up",
       "skill": "SmallBlunt",
       "level": "4"
+    },
+    {
+      "timestamp": "28-12-25 05:09:01.926",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10085",
+      "y": "8258",
+      "z": "1",
+      "hours_survived": 932,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "1"
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "28-12-25 04:09:52.514",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "nice im gonna try to make a pizza but i need tomato paste"
-    },
-    {
-      "timestamp": "28-12-25 04:09:52.514",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "nice im gonna try to make a pizza but i need tomato paste"
-    },
-    {
-      "timestamp": "28-12-25 04:10:15.049",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i have only 1 tomato paste"
-    },
-    {
-      "timestamp": "28-12-25 04:10:15.049",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i have only 1 tomato paste"
-    },
-    {
-      "timestamp": "28-12-25 04:11:17.006",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "yooo"
-    },
-    {
-      "timestamp": "28-12-25 04:11:17.006",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "yooo"
-    },
-    {
-      "timestamp": "28-12-25 04:11:23.686",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "yooo"
-    },
-    {
-      "timestamp": "28-12-25 04:11:23.686",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "yooo"
-    },
-    {
-      "timestamp": "28-12-25 04:11:31.855",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "can u add me to safehouse"
-    },
-    {
-      "timestamp": "28-12-25 04:11:31.855",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "can u add me to safehouse"
-    },
-    {
-      "timestamp": "28-12-25 04:12:11.308",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "discord comms?"
-    },
-    {
-      "timestamp": "28-12-25 04:12:11.308",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "discord comms?"
-    },
-    {
-      "timestamp": "28-12-25 04:13:01.685",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "yess"
-    },
-    {
-      "timestamp": "28-12-25 04:13:01.685",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "yess"
-    },
-    {
-      "timestamp": "28-12-25 04:13:57.910",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i know its just a game, but she loved it"
-    },
-    {
-      "timestamp": "28-12-25 04:13:57.910",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i know its just a game, but she loved it"
-    },
-    {
-      "timestamp": "28-12-25 04:18:14.569",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "@beto, true music is the party mod that makes us all join up for our fun times"
-    },
-    {
-      "timestamp": "28-12-25 04:18:14.569",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "@beto, true music is the party mod that makes us all join up for our fun times"
-    },
-    {
-      "timestamp": "28-12-25 04:19:04.115",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "also, i vote my base to be a spot for wipe day"
-    },
-    {
-      "timestamp": "28-12-25 04:19:04.115",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "also, i vote my base to be a spot for wipe day"
-    },
-    {
-      "timestamp": "28-12-25 04:34:37.436",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i need to log off for the night, but ill be back tomorrow. its still the weekend"
-    },
-    {
-      "timestamp": "28-12-25 04:34:37.437",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i need to log off for the night, but ill be back tomorrow. its still the weekend"
-    },
-    {
-      "timestamp": "28-12-25 04:35:26.487",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "its the walled area in north muld"
-    },
-    {
-      "timestamp": "28-12-25 04:35:26.488",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "its the walled area in north muld"
-    },
-    {
-      "timestamp": "28-12-25 04:35:32.691",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "the mansions with the attached garrages"
-    },
-    {
-      "timestamp": "28-12-25 04:35:32.691",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "the mansions with the attached garrages"
-    },
-    {
-      "timestamp": "28-12-25 04:36:06.957",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "beto will recognize my decor style, i like the the grunge style for the base surroundings"
-    },
-    {
-      "timestamp": "28-12-25 04:36:06.957",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "beto will recognize my decor style, i like the the grunge style for the base surroundings"
-    },
-    {
-      "timestamp": "28-12-25 04:36:42.742",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "RIP x3"
-    },
-    {
-      "timestamp": "28-12-25 04:36:42.742",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "RIP x3"
-    },
-    {
-      "timestamp": "28-12-25 04:36:45.971",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "roadkill"
-    },
-    {
-      "timestamp": "28-12-25 04:36:45.971",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "roadkill"
-    },
-    {
-      "timestamp": "28-12-25 04:40:30.429",
+      "timestamp": "28-12-25 05:07:07.274",
       "chat_type": "Local",
       "author": "RottenPotato",
-      "text": "on the floor"
+      "text": "HEY!"
     },
     {
-      "timestamp": "28-12-25 04:40:30.429",
+      "timestamp": "28-12-25 05:07:07.274",
       "chat_type": "Local",
       "author": "RottenPotato",
-      "text": "on the floor"
-    },
-    {
-      "timestamp": "28-12-25 04:44:33.940",
-      "chat_type": "Local",
-      "author": "BetoJin",
       "text": "HEY!"
     },
     {
-      "timestamp": "28-12-25 04:44:33.940",
+      "timestamp": "28-12-25 05:07:10.823",
       "chat_type": "Local",
-      "author": "BetoJin",
+      "author": "RottenPotato",
       "text": "HEY!"
     },
     {
-      "timestamp": "28-12-25 04:44:39.727",
+      "timestamp": "28-12-25 05:07:10.824",
       "chat_type": "Local",
-      "author": "BetoJin",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:10.997",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:10.997",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:11.164",
+      "chat_type": "Local",
+      "author": "RottenPotato",
       "text": "OVER HERE!"
     },
     {
-      "timestamp": "28-12-25 04:44:39.727",
+      "timestamp": "28-12-25 05:07:11.164",
       "chat_type": "Local",
-      "author": "BetoJin",
+      "author": "RottenPotato",
       "text": "OVER HERE!"
     },
     {
-      "timestamp": "28-12-25 04:45:35.614",
+      "timestamp": "28-12-25 05:07:11.363",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:11.363",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:11.480",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:11.480",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:11.638",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:11.638",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:23.049",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:23.049",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:23.191",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:23.191",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:36.350",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:36.350",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:36.528",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:36.528",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:36.886",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:36.886",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:44.526",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:44.527",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:44.668",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:44.668",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:44.833",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:44.833",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:44.988",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:44.989",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:46.635",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:46.635",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:46.829",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:46.829",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:46.942",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:46.942",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:51.956",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:51.956",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:52.132",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 05:07:52.133",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 05:09:18.953",
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "HEY YOU!"
     },
     {
-      "timestamp": "28-12-25 04:45:35.614",
+      "timestamp": "28-12-25 05:09:18.953",
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "HEY YOU!"
     },
     {
-      "timestamp": "28-12-25 04:46:36.465",
+      "timestamp": "28-12-25 05:09:20.930",
       "chat_type": "Local",
       "author": "BetoJin",
-      "text": "HEY YOU!"
+      "text": "OVER HERE!"
     },
     {
-      "timestamp": "28-12-25 04:46:36.465",
+      "timestamp": "28-12-25 05:09:20.930",
       "chat_type": "Local",
       "author": "BetoJin",
-      "text": "HEY YOU!"
+      "text": "OVER HERE!"
     },
     {
-      "timestamp": "28-12-25 04:46:36.719",
+      "timestamp": "28-12-25 05:09:22.273",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 05:09:22.274",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 05:09:36.228",
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "HEY!"
     },
     {
-      "timestamp": "28-12-25 04:46:36.719",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 04:46:36.834",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "28-12-25 04:46:36.835",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "28-12-25 04:47:29.407",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "28-12-25 04:47:29.407",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "28-12-25 05:04:52.893",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 05:04:52.893",
+      "timestamp": "28-12-25 05:09:36.229",
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-28T05:05:02.009699"
+  "timestamp": "2025-12-28T05:10:01.335599"
 }
