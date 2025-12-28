@@ -2374,7 +2374,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 2,
+        "Maintenance": 3,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -2493,9 +2493,14 @@
           "skill": "Axe",
           "level": "4",
           "timestamp": "28-12-25 05:48:58.744"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "3",
+          "timestamp": "28-12-25 07:33:42.047"
         }
       ],
-      "last_seen": "28-12-25 05:48:58.744",
+      "last_seen": "28-12-25 07:33:42.047",
       "connections": 5
     },
     "ExpiredMayo": {
@@ -3462,5 +3467,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-28T07:30:01.786789"
+  "timestamp": "2025-12-28T07:35:01.146755"
 }
