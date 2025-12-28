@@ -3401,7 +3401,7 @@
     "RinkRoller": {
       "username": "RinkRoller",
       "steam_id": "76561198162940087",
-      "total_hours": 59,
+      "total_hours": 67,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -3411,7 +3411,7 @@
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 0,
-        "Sprinting": 0,
+        "Sprinting": 1,
         "Sneak": 0,
         "Woodwork": 4,
         "Aiming": 0,
@@ -3470,12 +3470,17 @@
           "skill": "Doctor",
           "level": "3",
           "timestamp": "28-12-25 03:14:51.248"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "28-12-25 07:59:50.230"
         }
       ],
-      "last_seen": "28-12-25 07:41:56.542",
+      "last_seen": "28-12-25 07:59:50.230",
       "connections": 4
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-28T07:55:01.684356"
+  "timestamp": "2025-12-28T08:00:01.089099"
 }
