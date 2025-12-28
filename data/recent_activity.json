@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 04:22:16.308",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12020",
-      "y": "2596",
-      "z": "0",
-      "hours_survived": 41,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "2"
-    },
-    {
       "timestamp": "28-12-25 04:22:39.033",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -791,57 +779,21 @@
       "event_type": "level_up",
       "skill": "Electricity",
       "level": "2"
+    },
+    {
+      "timestamp": "28-12-25 09:19:23.227",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12045",
+      "y": "2608",
+      "z": "0",
+      "hours_survived": 577,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 08:13:43.314",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "28-12-25 08:13:43.314",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "28-12-25 08:13:43.534",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 08:13:43.534",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 08:14:29.617",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "28-12-25 08:14:29.617",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "28-12-25 08:14:29.766",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "28-12-25 08:14:29.766",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "28-12-25 08:14:29.920",
       "chat_type": "Local",
@@ -1093,7 +1045,55 @@
       "chat_type": "Local",
       "author": "Boba",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 09:19:41.243",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "see ya brotha"
+    },
+    {
+      "timestamp": "28-12-25 09:19:41.243",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "see ya brotha"
+    },
+    {
+      "timestamp": "28-12-25 09:19:45.493",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "seeee yaa"
+    },
+    {
+      "timestamp": "28-12-25 09:19:45.493",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "seeee yaa"
+    },
+    {
+      "timestamp": "28-12-25 09:19:47.057",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "gn"
+    },
+    {
+      "timestamp": "28-12-25 09:19:47.057",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "gn"
+    },
+    {
+      "timestamp": "28-12-25 09:19:57.691",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "ty for the help"
+    },
+    {
+      "timestamp": "28-12-25 09:19:57.691",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "ty for the help"
     }
   ],
-  "timestamp": "2025-12-28T09:15:01.868929"
+  "timestamp": "2025-12-28T09:20:01.245490"
 }
