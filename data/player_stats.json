@@ -3591,7 +3591,7 @@
     "lefons": {
       "username": "lefons",
       "steam_id": "76561199121326240",
-      "total_hours": 60,
+      "total_hours": 64,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -3616,7 +3616,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 0,
+        "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -3670,12 +3670,17 @@
           "skill": "Sprinting",
           "level": "1",
           "timestamp": "28-12-25 20:44:00.232"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "28-12-25 21:16:58.518"
         }
       ],
-      "last_seen": "28-12-25 21:05:02.174",
+      "last_seen": "28-12-25 21:16:58.518",
       "connections": 5
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-28T21:15:01.895337"
+  "timestamp": "2025-12-28T21:20:01.311676"
 }

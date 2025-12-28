@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 18:49:03.440",
-      "steam_id": "76561199249031770",
-      "username": "squibby",
-      "x": "10639",
-      "y": "10612",
-      "z": "0",
-      "hours_survived": 36,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "1"
-    },
-    {
       "timestamp": "28-12-25 18:50:15.460",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1069,6 +1057,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "28-12-25 21:16:58.518",
+      "steam_id": "76561199121326240",
+      "username": "lefons",
+      "x": "12831",
+      "y": "1224",
+      "z": "0",
+      "hours_survived": 64,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1373,5 +1373,5 @@
       "text": "i get interrupted for combat"
     }
   ],
-  "timestamp": "2025-12-28T21:15:01.926418"
+  "timestamp": "2025-12-28T21:20:01.343057"
 }
