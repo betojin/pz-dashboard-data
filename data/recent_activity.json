@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 18:37:02.789",
-      "steam_id": "76561199249031770",
-      "username": "squibby",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "28-12-25 18:37:02.790",
-      "steam_id": "76561199249031770",
-      "username": "squibby",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "28-12-25 18:37:33.979",
-      "steam_id": "76561199249031770",
-      "username": "squibby",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "28-12-25 18:39:15.286",
       "steam_id": "76561199249031770",
       "username": "squibby",
@@ -359,56 +341,27 @@
       "x": "12762",
       "y": "1504",
       "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 21:08:58.078",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 21:08:58.080",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 21:09:11.695",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "28-12-25 18:39:16.195",
-      "steam_id": "76561199249031770",
-      "username": "squibby",
-      "x": "10626",
-      "y": "10483",
-      "z": "0",
-      "hours_survived": 32,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 4,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "28-12-25 18:49:03.440",
       "steam_id": "76561199249031770",
@@ -1069,21 +1022,56 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "1"
+    },
+    {
+      "timestamp": "28-12-25 21:05:02.174",
+      "steam_id": "76561199121326240",
+      "username": "lefons",
+      "x": "12762",
+      "y": "1504",
+      "z": "0",
+      "hours_survived": 60,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 7,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 5,
+        "Reloading": 5,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 19:46:16.475",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "lots of loot there"
-    },
-    {
-      "timestamp": "28-12-25 19:46:16.475",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "lots of loot there"
-    },
     {
       "timestamp": "28-12-25 19:47:58.832",
       "chat_type": "General",
@@ -1371,7 +1359,19 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "it will take me a hot minute to get there"
+    },
+    {
+      "timestamp": "28-12-25 21:09:49.923",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "meet me in falllakes"
+    },
+    {
+      "timestamp": "28-12-25 21:09:49.924",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "meet me in falllakes"
     }
   ],
-  "timestamp": "2025-12-28T21:05:01.123245"
+  "timestamp": "2025-12-28T21:10:01.545614"
 }
