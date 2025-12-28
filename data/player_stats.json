@@ -2250,7 +2250,7 @@
         "Maintenance": 3,
         "SmallBlade": 0,
         "LongBlade": 1,
-        "SmallBlunt": 4,
+        "SmallBlunt": 5,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
@@ -2346,9 +2346,14 @@
           "skill": "Sprinting",
           "level": "1",
           "timestamp": "28-12-25 07:38:12.556"
+        },
+        {
+          "skill": "SmallBlunt",
+          "level": "5",
+          "timestamp": "28-12-25 08:33:21.028"
         }
       ],
-      "last_seen": "28-12-25 07:38:12.556",
+      "last_seen": "28-12-25 08:33:21.028",
       "connections": 13
     },
     "RottenPotato": {
@@ -3502,5 +3507,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-28T08:30:01.433441"
+  "timestamp": "2025-12-28T08:35:01.746526"
 }
