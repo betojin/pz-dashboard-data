@@ -1,27 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 15:26:25.482",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "disconnected",
-      "x": "7505",
-      "y": "6059",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 15:26:47.770",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "28-12-25 15:26:47.770",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "28-12-25 15:26:59.003",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -359,21 +338,27 @@
       "x": "10626",
       "y": "10483",
       "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 18:49:22.357",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 18:49:22.357",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 18:49:30.382",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "28-12-25 07:45:26.195",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "15520",
-      "y": "2495",
-      "z": "0",
-      "hours_survived": 123,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "2"
-    },
     {
       "timestamp": "28-12-25 07:59:50.230",
       "steam_id": "76561198162940087",
@@ -1172,6 +1157,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "28-12-25 18:49:03.440",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "x": "10639",
+      "y": "10612",
+      "z": "0",
+      "hours_survived": 36,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1222,7 +1219,127 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "honestly, only a few, mostly i want fishing 3"
+    },
+    {
+      "timestamp": "28-12-25 18:45:14.147",
+      "chat_type": "General",
+      "author": "lefons",
+      "text": "oh good shit i heard they changed the fishing alot"
+    },
+    {
+      "timestamp": "28-12-25 18:45:14.148",
+      "chat_type": "General",
+      "author": "lefons",
+      "text": "oh good shit i heard they changed the fishing alot"
+    },
+    {
+      "timestamp": "28-12-25 18:45:19.773",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "very much"
+    },
+    {
+      "timestamp": "28-12-25 18:45:19.773",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "very much"
+    },
+    {
+      "timestamp": "28-12-25 18:45:32.462",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "no more spear fishing, now its an active minigame"
+    },
+    {
+      "timestamp": "28-12-25 18:45:32.462",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "no more spear fishing, now its an active minigame"
+    },
+    {
+      "timestamp": "28-12-25 18:46:23.458",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "but at fishing level 4, and 6 are breakpoints that make it possible to sustain yourself reliably and your weight"
+    },
+    {
+      "timestamp": "28-12-25 18:46:23.458",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "but at fishing level 4, and 6 are breakpoints that make it possible to sustain yourself reliably and your weight"
+    },
+    {
+      "timestamp": "28-12-25 18:46:35.454",
+      "chat_type": "Local",
+      "author": "lefons",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 18:46:35.454",
+      "chat_type": "Local",
+      "author": "lefons",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 18:47:04.828",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "its how i survive my cdda runs"
+    },
+    {
+      "timestamp": "28-12-25 18:47:04.829",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "its how i survive my cdda runs"
+    },
+    {
+      "timestamp": "28-12-25 18:47:18.669",
+      "chat_type": "General",
+      "author": "lefons",
+      "text": "fair enough man that shit is fun"
+    },
+    {
+      "timestamp": "28-12-25 18:47:18.669",
+      "chat_type": "General",
+      "author": "lefons",
+      "text": "fair enough man that shit is fun"
+    },
+    {
+      "timestamp": "28-12-25 18:49:18.001",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "are you on our discord?"
+    },
+    {
+      "timestamp": "28-12-25 18:49:18.001",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "are you on our discord?"
+    },
+    {
+      "timestamp": "28-12-25 18:49:44.740",
+      "chat_type": "General",
+      "author": "lefons",
+      "text": "yea im on camp crew"
+    },
+    {
+      "timestamp": "28-12-25 18:49:44.740",
+      "chat_type": "General",
+      "author": "lefons",
+      "text": "yea im on camp crew"
+    },
+    {
+      "timestamp": "28-12-25 18:50:00.493",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "so you saw the xp boosts to crafting?"
+    },
+    {
+      "timestamp": "28-12-25 18:50:00.493",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "so you saw the xp boosts to crafting?"
     }
   ],
-  "timestamp": "2025-12-28T18:45:01.376932"
+  "timestamp": "2025-12-28T18:50:01.685937"
 }
