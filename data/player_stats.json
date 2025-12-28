@@ -2810,7 +2810,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 464,
+      "total_hours": 485,
       "deaths": 0,
       "skills": {
         "Cooking": 3,
@@ -2843,7 +2843,7 @@
         "Tracking": 0,
         "Husbandry": 2,
         "FlintKnapping": 2,
-        "Masonry": 0,
+        "Masonry": 3,
         "Pottery": 0,
         "Carving": 7,
         "Butchering": 3,
@@ -3029,9 +3029,24 @@
           "skill": "Butchering",
           "level": "3",
           "timestamp": "28-12-25 22:00:19.238"
+        },
+        {
+          "skill": "Masonry",
+          "level": "1",
+          "timestamp": "28-12-25 22:50:45.180"
+        },
+        {
+          "skill": "Masonry",
+          "level": "2",
+          "timestamp": "28-12-25 22:52:09.779"
+        },
+        {
+          "skill": "Masonry",
+          "level": "3",
+          "timestamp": "28-12-25 22:53:07.376"
         }
       ],
-      "last_seen": "28-12-25 22:00:19.238",
+      "last_seen": "28-12-25 22:53:07.376",
       "connections": 6
     },
     "El_Moctezuma": {
@@ -3707,5 +3722,5 @@
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-28T22:50:01.848410"
+  "timestamp": "2025-12-28T22:55:01.197487"
 }
