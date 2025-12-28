@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 17:33:53.830",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "28-12-25 17:34:06.771",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -361,6 +355,15 @@
       "action": "fully connected",
       "x": "12656",
       "y": "4358",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 20:29:33.422",
+      "steam_id": "76561198143098309",
+      "username": "Lourex",
+      "action": "disconnected",
+      "x": "12118",
+      "y": "7007",
       "z": "0"
     }
   ],
@@ -1442,5 +1445,5 @@
       "text": "ill make it next to molotov kids grave"
     }
   ],
-  "timestamp": "2025-12-28T20:25:01.283486"
+  "timestamp": "2025-12-28T20:30:01.639682"
 }
