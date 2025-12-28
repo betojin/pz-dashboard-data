@@ -369,18 +369,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 19:01:32.874",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10364",
-      "y": "12673",
-      "z": "0",
-      "hours_survived": 1263,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "6"
-    },
-    {
       "timestamp": "28-12-25 19:08:46.072",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -1077,6 +1065,18 @@
         "Butchering": 2,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "28-12-25 22:00:19.238",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8607",
+      "y": "8814",
+      "z": "0",
+      "hours_survived": 464,
+      "event_type": "level_up",
+      "skill": "Butchering",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1381,5 +1381,5 @@
       "text": "so was mine this morning xD"
     }
   ],
-  "timestamp": "2025-12-28T22:00:01.217121"
+  "timestamp": "2025-12-28T22:05:01.727015"
 }

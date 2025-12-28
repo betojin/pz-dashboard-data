@@ -2836,7 +2836,7 @@
         "Masonry": 0,
         "Pottery": 0,
         "Carving": 7,
-        "Butchering": 2,
+        "Butchering": 3,
         "Glassmaking": 0
       },
       "level_ups": [
@@ -3014,9 +3014,14 @@
           "skill": "Butchering",
           "level": "2",
           "timestamp": "28-12-25 21:52:57.441"
+        },
+        {
+          "skill": "Butchering",
+          "level": "3",
+          "timestamp": "28-12-25 22:00:19.238"
         }
       ],
-      "last_seen": "28-12-25 21:59:02.545",
+      "last_seen": "28-12-25 22:00:19.238",
       "connections": 6
     },
     "El_Moctezuma": {
@@ -3692,5 +3697,5 @@
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-28T22:00:01.185650"
+  "timestamp": "2025-12-28T22:05:01.695073"
 }
