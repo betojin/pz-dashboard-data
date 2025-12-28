@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 02:11:41.862",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "disconnected",
-      "x": "10098",
-      "y": "8262",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 02:56:04.740",
-      "steam_id": "76561198162940087",
-      "username": "RinkRoller",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "28-12-25 02:56:04.740",
       "steam_id": "76561198162940087",
       "username": "RinkRoller",
@@ -358,6 +343,24 @@
       "action": "disconnected",
       "x": "12025",
       "y": "2591",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 09:20:20.267",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "disconnected",
+      "x": "12045",
+      "y": "2601",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 09:24:18.630",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "disconnected",
+      "x": "12435",
+      "y": "2816",
       "z": "0"
     }
   ],
@@ -795,18 +798,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "28-12-25 08:14:29.920",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 08:14:29.920",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
       "timestamp": "28-12-25 08:14:30.444",
       "chat_type": "Local",
       "author": "BetoJin",
@@ -1093,7 +1084,19 @@
       "chat_type": "Local",
       "author": "RottenPotato",
       "text": "ty for the help"
+    },
+    {
+      "timestamp": "28-12-25 09:20:03.113",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "no problemm"
+    },
+    {
+      "timestamp": "28-12-25 09:20:03.113",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "no problemm"
     }
   ],
-  "timestamp": "2025-12-28T09:20:01.245490"
+  "timestamp": "2025-12-28T09:25:01.623046"
 }
