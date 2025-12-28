@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 04:11:44.011",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 1186,
-      "event_type": "level_up",
-      "skill": "Masonry",
-      "level": "4"
-    },
-    {
       "timestamp": "28-12-25 04:15:52.747",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -826,6 +814,18 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "1"
+    },
+    {
+      "timestamp": "28-12-25 08:00:29.725",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "15402",
+      "y": "3170",
+      "z": "0",
+      "hours_survived": 129,
+      "event_type": "level_up",
+      "skill": "Electricity",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1130,5 +1130,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-28T08:00:01.136044"
+  "timestamp": "2025-12-28T08:05:01.623876"
 }

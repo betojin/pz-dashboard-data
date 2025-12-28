@@ -2374,7 +2374,7 @@
         "Trapping": 0,
         "PlantScavenging": 0,
         "Doctor": 0,
-        "Electricity": 0,
+        "Electricity": 1,
         "Blacksmith": 0,
         "MetalWelding": 0,
         "Mechanics": 0,
@@ -2508,9 +2508,14 @@
           "skill": "Sprinting",
           "level": "2",
           "timestamp": "28-12-25 07:45:26.195"
+        },
+        {
+          "skill": "Electricity",
+          "level": "1",
+          "timestamp": "28-12-25 08:00:29.725"
         }
       ],
-      "last_seen": "28-12-25 07:45:26.195",
+      "last_seen": "28-12-25 08:00:29.725",
       "connections": 5
     },
     "ExpiredMayo": {
@@ -3482,5 +3487,5 @@
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-28T08:00:01.089099"
+  "timestamp": "2025-12-28T08:05:01.580053"
 }
