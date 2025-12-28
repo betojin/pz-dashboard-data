@@ -1,15 +1,24 @@
 {
-  "count": 1,
+  "count": 2,
   "players": [
+    {
+      "username": "Firestorm3050",
+      "steam_id": "76561198031138505",
+      "connected_at": "28-12-25 15:35:05.176",
+      "x": 11020,
+      "y": 10258,
+      "z": 0,
+      "online": true
+    },
     {
       "username": "Zero",
       "steam_id": "76561198060886931",
       "connected_at": "28-12-25 15:27:13.290",
-      "x": 7048,
-      "y": 5472,
+      "x": 7043,
+      "y": 5469,
       "z": 0,
       "online": true
     }
   ],
-  "timestamp": "2025-12-28T15:35:01.149907"
+  "timestamp": "2025-12-28T15:40:01.445187"
 }
