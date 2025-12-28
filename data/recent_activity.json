@@ -366,18 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 09:19:23.227",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12045",
-      "y": "2608",
-      "z": "0",
-      "hours_survived": 577,
-      "event_type": "level_up",
-      "skill": "Mechanics",
-      "level": "1"
-    },
-    {
       "timestamp": "28-12-25 09:25:43.394",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -1278,6 +1266,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "28-12-25 19:29:03.392",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "2403",
+      "y": "13863",
+      "z": "0",
+      "hours_survived": 570,
+      "event_type": "level_up",
+      "skill": "Axe",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1582,5 +1582,5 @@
       "text": "its dark out he came out of nowhere"
     }
   ],
-  "timestamp": "2025-12-28T19:25:01.388771"
+  "timestamp": "2025-12-28T19:30:01.285254"
 }
