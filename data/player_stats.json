@@ -2800,7 +2800,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 451,
+      "total_hours": 462,
       "deaths": 0,
       "skills": {
         "Cooking": 3,
@@ -2836,7 +2836,7 @@
         "Masonry": 0,
         "Pottery": 0,
         "Carving": 7,
-        "Butchering": 0,
+        "Butchering": 2,
         "Glassmaking": 0
       },
       "level_ups": [
@@ -3004,9 +3004,19 @@
           "skill": "Blunt",
           "level": "1",
           "timestamp": "28-12-25 17:09:42.004"
+        },
+        {
+          "skill": "Butchering",
+          "level": "1",
+          "timestamp": "28-12-25 21:51:12.547"
+        },
+        {
+          "skill": "Butchering",
+          "level": "2",
+          "timestamp": "28-12-25 21:52:57.441"
         }
       ],
-      "last_seen": "28-12-25 21:25:39.842",
+      "last_seen": "28-12-25 21:52:57.441",
       "connections": 5
     },
     "El_Moctezuma": {
@@ -3682,5 +3692,5 @@
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-28T21:50:01.491736"
+  "timestamp": "2025-12-28T21:55:01.845437"
 }
