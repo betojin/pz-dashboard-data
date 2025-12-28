@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 15:27:13.290",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "fully connected",
-      "x": "7505",
-      "y": "6059",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 15:32:45.467",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "disconnected",
-      "x": "11020",
-      "y": "10258",
-      "z": "0"
-    },
-    {
       "timestamp": "28-12-25 15:33:25.000",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -359,33 +341,27 @@
       "x": "1829",
       "y": "15063",
       "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 18:58:25.079",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "action": "disconnected",
+      "x": "12497",
+      "y": "4227",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 18:58:27.655",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "action": "fully connected",
+      "x": "12543",
+      "y": "4263",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "28-12-25 08:00:29.725",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "15402",
-      "y": "3170",
-      "z": "0",
-      "hours_survived": 129,
-      "event_type": "level_up",
-      "skill": "Electricity",
-      "level": "1"
-    },
-    {
-      "timestamp": "28-12-25 08:06:59.225",
-      "steam_id": "76561198162940087",
-      "username": "RinkRoller",
-      "x": "10840",
-      "y": "9064",
-      "z": "0",
-      "hours_survived": 69,
-      "event_type": "level_up",
-      "skill": "Farming",
-      "level": "1"
-    },
     {
       "timestamp": "28-12-25 08:07:38.213",
       "steam_id": "76561198162940087",
@@ -1207,178 +1183,67 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "28-12-25 18:55:45.705",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "x": "12497",
+      "y": "4227",
+      "z": "0",
+      "hours_survived": 63,
+      "event_type": "died"
+    },
+    {
+      "timestamp": "28-12-25 18:58:27.830",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "x": "12543",
+      "y": "4263",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 4,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "28-12-25 18:42:01.998",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "how are things going?"
-    },
-    {
-      "timestamp": "28-12-25 18:42:01.999",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "how are things going?"
-    },
-    {
-      "timestamp": "28-12-25 18:42:17.733",
-      "chat_type": "General",
-      "author": "lefons",
-      "text": "amazing you mate?"
-    },
-    {
-      "timestamp": "28-12-25 18:42:17.734",
-      "chat_type": "General",
-      "author": "lefons",
-      "text": "amazing you mate?"
-    },
-    {
-      "timestamp": "28-12-25 18:43:38.400",
-      "chat_type": "General",
-      "author": "lefons",
-      "text": "good stuff what you missin"
-    },
-    {
-      "timestamp": "28-12-25 18:43:38.400",
-      "chat_type": "General",
-      "author": "lefons",
-      "text": "good stuff what you missin"
-    },
-    {
-      "timestamp": "28-12-25 18:44:07.776",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "honestly, only a few, mostly i want fishing 3"
-    },
-    {
-      "timestamp": "28-12-25 18:44:07.776",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "honestly, only a few, mostly i want fishing 3"
-    },
-    {
-      "timestamp": "28-12-25 18:45:14.147",
-      "chat_type": "General",
-      "author": "lefons",
-      "text": "oh good shit i heard they changed the fishing alot"
-    },
-    {
-      "timestamp": "28-12-25 18:45:14.148",
-      "chat_type": "General",
-      "author": "lefons",
-      "text": "oh good shit i heard they changed the fishing alot"
-    },
-    {
-      "timestamp": "28-12-25 18:45:19.773",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "very much"
-    },
-    {
-      "timestamp": "28-12-25 18:45:19.773",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "very much"
-    },
-    {
-      "timestamp": "28-12-25 18:45:32.462",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "no more spear fishing, now its an active minigame"
-    },
-    {
-      "timestamp": "28-12-25 18:45:32.462",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "no more spear fishing, now its an active minigame"
-    },
-    {
-      "timestamp": "28-12-25 18:46:23.458",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "but at fishing level 4, and 6 are breakpoints that make it possible to sustain yourself reliably and your weight"
-    },
-    {
-      "timestamp": "28-12-25 18:46:23.458",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "but at fishing level 4, and 6 are breakpoints that make it possible to sustain yourself reliably and your weight"
-    },
-    {
-      "timestamp": "28-12-25 18:46:35.454",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "28-12-25 18:46:35.454",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "28-12-25 18:47:04.828",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "its how i survive my cdda runs"
-    },
-    {
-      "timestamp": "28-12-25 18:47:04.829",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "its how i survive my cdda runs"
-    },
-    {
-      "timestamp": "28-12-25 18:47:18.669",
-      "chat_type": "General",
-      "author": "lefons",
-      "text": "fair enough man that shit is fun"
-    },
-    {
-      "timestamp": "28-12-25 18:47:18.669",
-      "chat_type": "General",
-      "author": "lefons",
-      "text": "fair enough man that shit is fun"
-    },
-    {
-      "timestamp": "28-12-25 18:49:18.001",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "are you on our discord?"
-    },
-    {
-      "timestamp": "28-12-25 18:49:18.001",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "are you on our discord?"
-    },
-    {
-      "timestamp": "28-12-25 18:49:44.740",
-      "chat_type": "General",
-      "author": "lefons",
-      "text": "yea im on camp crew"
-    },
-    {
-      "timestamp": "28-12-25 18:49:44.740",
-      "chat_type": "General",
-      "author": "lefons",
-      "text": "yea im on camp crew"
-    },
-    {
-      "timestamp": "28-12-25 18:50:00.493",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "so you saw the xp boosts to crafting?"
-    },
-    {
-      "timestamp": "28-12-25 18:50:00.493",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "so you saw the xp boosts to crafting?"
-    },
-    {
       "timestamp": "28-12-25 18:50:33.344",
       "chat_type": "General",
       "author": "lefons",
@@ -1485,7 +1350,199 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "take keen eyes"
+    },
+    {
+      "timestamp": "28-12-25 18:55:05.263",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "cats eyes*"
+    },
+    {
+      "timestamp": "28-12-25 18:55:05.264",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "cats eyes*"
+    },
+    {
+      "timestamp": "28-12-25 18:55:29.650",
+      "chat_type": "General",
+      "author": "KeenIslander",
+      "text": "lefons just called you my boyfriend"
+    },
+    {
+      "timestamp": "28-12-25 18:55:29.650",
+      "chat_type": "General",
+      "author": "KeenIslander",
+      "text": "lefons just called you my boyfriend"
+    },
+    {
+      "timestamp": "28-12-25 18:55:35.645",
+      "chat_type": "General",
+      "author": "KeenIslander",
+      "text": "how do we feel about this"
+    },
+    {
+      "timestamp": "28-12-25 18:55:35.645",
+      "chat_type": "General",
+      "author": "KeenIslander",
+      "text": "how do we feel about this"
+    },
+    {
+      "timestamp": "28-12-25 18:55:56.402",
+      "chat_type": "General",
+      "author": "lefons",
+      "text": "keen lies"
+    },
+    {
+      "timestamp": "28-12-25 18:55:56.402",
+      "chat_type": "General",
+      "author": "lefons",
+      "text": "keen lies"
+    },
+    {
+      "timestamp": "28-12-25 18:56:22.327",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "what is happening?"
+    },
+    {
+      "timestamp": "28-12-25 18:56:22.327",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "what is happening?"
+    },
+    {
+      "timestamp": "28-12-25 18:56:28.990",
+      "chat_type": "General",
+      "author": "lefons",
+      "text": "keen died"
+    },
+    {
+      "timestamp": "28-12-25 18:56:28.990",
+      "chat_type": "General",
+      "author": "lefons",
+      "text": "keen died"
+    },
+    {
+      "timestamp": "28-12-25 18:57:14.423",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "he unalived himself"
+    },
+    {
+      "timestamp": "28-12-25 18:57:14.424",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "he unalived himself"
+    },
+    {
+      "timestamp": "28-12-25 18:57:16.473",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "how can i be a bf when my character is an asian teenager running"
+    },
+    {
+      "timestamp": "28-12-25 18:57:16.473",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "how can i be a bf when my character is an asian teenager running"
+    },
+    {
+      "timestamp": "28-12-25 18:57:24.463",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "around in a bunny costume"
+    },
+    {
+      "timestamp": "28-12-25 18:57:24.463",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "around in a bunny costume"
+    },
+    {
+      "timestamp": "28-12-25 18:57:40.605",
+      "chat_type": "General",
+      "author": "lefons",
+      "text": "keen said even better"
+    },
+    {
+      "timestamp": "28-12-25 18:57:40.606",
+      "chat_type": "General",
+      "author": "lefons",
+      "text": "keen said even better"
+    },
+    {
+      "timestamp": "28-12-25 18:58:07.659",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "do magazines break now?"
+    },
+    {
+      "timestamp": "28-12-25 18:58:07.659",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "do magazines break now?"
+    },
+    {
+      "timestamp": "28-12-25 18:58:11.579",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "no"
+    },
+    {
+      "timestamp": "28-12-25 18:58:11.579",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "no"
+    },
+    {
+      "timestamp": "28-12-25 18:58:26.730",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "mine keep disapearing after use"
+    },
+    {
+      "timestamp": "28-12-25 18:58:26.730",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "mine keep disapearing after use"
+    },
+    {
+      "timestamp": "28-12-25 18:58:27.314",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "they can be re-read a few months later to renew their value"
+    },
+    {
+      "timestamp": "28-12-25 18:58:27.314",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "they can be re-read a few months later to renew their value"
+    },
+    {
+      "timestamp": "28-12-25 18:58:43.617",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "no sorry, like ammo magz"
+    },
+    {
+      "timestamp": "28-12-25 18:58:43.618",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "no sorry, like ammo magz"
+    },
+    {
+      "timestamp": "28-12-25 18:59:06.681",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "im not a gunfighter"
+    },
+    {
+      "timestamp": "28-12-25 18:59:06.682",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "im not a gunfighter"
     }
   ],
-  "timestamp": "2025-12-28T18:55:02.048759"
+  "timestamp": "2025-12-28T19:00:01.339690"
 }
