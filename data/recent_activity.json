@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 21:38:28.566",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "27-12-25 21:38:35.526",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -361,6 +355,15 @@
       "action": "disconnected",
       "x": "8611",
       "y": "8823",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 02:11:41.862",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "disconnected",
+      "x": "10098",
+      "y": "8262",
       "z": "0"
     }
   ],
@@ -1113,42 +1116,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "27-12-25 20:55:00.637",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "it looks like for the b42 crafting skills, b41 crafting skills are x3? i think"
-    },
-    {
-      "timestamp": "27-12-25 20:55:00.638",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "it looks like for the b42 crafting skills, b41 crafting skills are x3? i think"
-    },
-    {
-      "timestamp": "27-12-25 20:55:18.104",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "but i need to double check"
-    },
-    {
-      "timestamp": "27-12-25 20:55:18.104",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "but i need to double check"
-    },
-    {
-      "timestamp": "27-12-25 20:58:02.713",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "not kidding, just found knapping 1"
-    },
-    {
-      "timestamp": "27-12-25 20:58:02.714",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "not kidding, just found knapping 1"
-    },
-    {
       "timestamp": "27-12-25 20:58:16.778",
       "chat_type": "General",
       "author": "Firestorm3050",
@@ -1411,7 +1378,43 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "i was definitely bitten, i should be dead"
+    },
+    {
+      "timestamp": "28-12-25 02:10:38.981",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "just incase ask beto to check on the settings"
+    },
+    {
+      "timestamp": "28-12-25 02:10:38.981",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "just incase ask beto to check on the settings"
+    },
+    {
+      "timestamp": "28-12-25 02:11:26.852",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "brb"
+    },
+    {
+      "timestamp": "28-12-25 02:11:26.852",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "brb"
+    },
+    {
+      "timestamp": "28-12-25 02:11:37.641",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "*knocking on wood*"
+    },
+    {
+      "timestamp": "28-12-25 02:11:37.642",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "*knocking on wood*"
     }
   ],
-  "timestamp": "2025-12-28T02:10:01.186316"
+  "timestamp": "2025-12-28T02:15:01.605341"
 }
