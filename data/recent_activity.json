@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 00:49:21.396",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "disconnected",
-      "x": "4106",
-      "y": "12280",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 01:26:33.136",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "28-12-25 01:26:33.136",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "28-12-25 01:26:53.207",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "28-12-25 01:27:10.892",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -359,21 +332,36 @@
       "x": "12046",
       "y": "2582",
       "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 07:41:02.747",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 07:41:02.748",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "28-12-25 07:41:11.919",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 07:41:53.903",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "action": "fully connected",
+      "x": "11610",
+      "y": "8264",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "28-12-25 04:10:49.405",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 1185,
-      "event_type": "level_up",
-      "skill": "Masonry",
-      "level": "3"
-    },
     {
       "timestamp": "28-12-25 04:10:49.904",
       "steam_id": "76561199511597958",
@@ -861,21 +849,56 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "1"
+    },
+    {
+      "timestamp": "28-12-25 07:41:56.542",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "x": "11610",
+      "y": "8264",
+      "z": "0",
+      "hours_survived": 59,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 4,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 1,
+        "Trapping": 0,
+        "PlantScavenging": 1,
+        "Doctor": 3,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 2,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 2,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 06:01:06.764",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "28-12-25 06:01:06.764",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "28-12-25 06:01:06.978",
       "chat_type": "Local",
@@ -1163,7 +1186,19 @@
       "chat_type": "Local",
       "author": "RottenPotato",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "28-12-25 07:42:17.868",
+      "chat_type": "General",
+      "author": "RinkRoller",
+      "text": "what up"
+    },
+    {
+      "timestamp": "28-12-25 07:42:17.868",
+      "chat_type": "General",
+      "author": "RinkRoller",
+      "text": "what up"
     }
   ],
-  "timestamp": "2025-12-28T07:40:01.561624"
+  "timestamp": "2025-12-28T07:45:01.931706"
 }
