@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 04:19:22.795",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "12054",
-      "y": "2591",
-      "z": "0",
-      "hours_survived": 46,
-      "event_type": "level_up",
-      "skill": "Doctor",
-      "level": "1"
-    },
-    {
       "timestamp": "28-12-25 04:21:27.859",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -791,21 +779,21 @@
       "event_type": "level_up",
       "skill": "Farming",
       "level": "2"
+    },
+    {
+      "timestamp": "28-12-25 08:16:51.751",
+      "steam_id": "76561198162940087",
+      "username": "RinkRoller",
+      "x": "10631",
+      "y": "10510",
+      "z": "0",
+      "hours_survived": 73,
+      "event_type": "level_up",
+      "skill": "Blunt",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 08:13:42.916",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "28-12-25 08:13:42.916",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "28-12-25 08:13:43.119",
       "chat_type": "Local",
@@ -1093,7 +1081,19 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "28-12-25 08:16:53.824",
+      "chat_type": "Local",
+      "author": "Boba",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "28-12-25 08:16:53.824",
+      "chat_type": "Local",
+      "author": "Boba",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-28T08:15:01.325385"
+  "timestamp": "2025-12-28T08:20:01.683808"
 }
