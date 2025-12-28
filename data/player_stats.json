@@ -3423,7 +3423,7 @@
     "Lourex": {
       "username": "Lourex",
       "steam_id": "76561198143098309",
-      "total_hours": 9,
+      "total_hours": 17,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -3469,8 +3469,8 @@
           "timestamp": "27-12-25 00:33:22.753"
         }
       ],
-      "last_seen": "28-12-25 20:09:47.711",
-      "connections": 1
+      "last_seen": "28-12-25 20:32:53.688",
+      "connections": 2
     },
     "RinkRoller": {
       "username": "RinkRoller",
@@ -3571,12 +3571,12 @@
     "lefons": {
       "username": "lefons",
       "steam_id": "76561199121326240",
-      "total_hours": 44,
+      "total_hours": 49,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
         "Fitness": 7,
-        "Strength": 9,
+        "Strength": 7,
         "Blunt": 1,
         "Axe": 0,
         "Lightfoot": 0,
@@ -3585,7 +3585,7 @@
         "Sneak": 0,
         "Woodwork": 0,
         "Aiming": 4,
-        "Reloading": 4,
+        "Reloading": 5,
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
@@ -3635,12 +3635,17 @@
           "skill": "Aiming",
           "level": "4",
           "timestamp": "28-12-25 20:17:56.723"
+        },
+        {
+          "skill": "Reloading",
+          "level": "5",
+          "timestamp": "28-12-25 20:31:28.760"
         }
       ],
-      "last_seen": "28-12-25 20:17:56.723",
-      "connections": 2
+      "last_seen": "28-12-25 20:33:57.899",
+      "connections": 3
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-28T20:30:01.607818"
+  "timestamp": "2025-12-28T20:35:02.017461"
 }
