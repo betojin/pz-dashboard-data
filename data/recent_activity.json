@@ -366,53 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 09:25:43.394",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12435",
-      "y": "2816",
-      "z": "0",
-      "hours_survived": 579,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 1,
-        "Fitness": 10,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 6,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 7,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 2,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "28-12-25 14:54:35.082",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -1278,6 +1231,18 @@
       "event_type": "level_up",
       "skill": "Axe",
       "level": "3"
+    },
+    {
+      "timestamp": "28-12-25 19:36:28.810",
+      "steam_id": "76561199121326240",
+      "username": "lefons",
+      "x": "12094",
+      "y": "6787",
+      "z": "0",
+      "hours_survived": 27,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1582,5 +1547,5 @@
       "text": "south muld does too"
     }
   ],
-  "timestamp": "2025-12-28T19:35:01.646005"
+  "timestamp": "2025-12-28T19:40:02.032912"
 }

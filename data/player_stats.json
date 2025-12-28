@@ -3550,7 +3550,7 @@
     "lefons": {
       "username": "lefons",
       "steam_id": "76561199121326240",
-      "total_hours": 13,
+      "total_hours": 27,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -3564,7 +3564,7 @@
         "Sneak": 0,
         "Woodwork": 0,
         "Aiming": 3,
-        "Reloading": 2,
+        "Reloading": 3,
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
@@ -3599,12 +3599,17 @@
           "skill": "Blunt",
           "level": "1",
           "timestamp": "28-12-25 19:01:26.353"
+        },
+        {
+          "skill": "Reloading",
+          "level": "3",
+          "timestamp": "28-12-25 19:36:28.810"
         }
       ],
-      "last_seen": "28-12-25 19:01:26.353",
+      "last_seen": "28-12-25 19:36:28.810",
       "connections": 2
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-28T19:35:01.617090"
+  "timestamp": "2025-12-28T19:40:02.002432"
 }
