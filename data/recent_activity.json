@@ -366,53 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 15:27:13.477",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "7505",
-      "y": "6059",
-      "z": "0",
-      "hours_survived": 397,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 3,
-        "Fitness": 7,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 4,
-        "Aiming": 0,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 5,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 1,
-        "FlintKnapping": 2,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 7,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "28-12-25 15:35:05.456",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -1173,33 +1126,21 @@
       "event_type": "level_up",
       "skill": "Aiming",
       "level": "1"
+    },
+    {
+      "timestamp": "28-12-25 19:59:55.991",
+      "steam_id": "76561199121326240",
+      "username": "lefons",
+      "x": "12731",
+      "y": "3961",
+      "z": "0",
+      "hours_survived": 36,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "4"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 19:10:13.787",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 19:10:13.787",
-      "chat_type": "Local",
-      "author": "lefons",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 19:10:47.077",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "remind me again i need a gf lol"
-    },
-    {
-      "timestamp": "28-12-25 19:10:47.077",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "remind me again i need a gf lol"
-    },
     {
       "timestamp": "28-12-25 19:11:30.649",
       "chat_type": "General",
@@ -1475,7 +1416,31 @@
       "chat_type": "General",
       "author": "KeenIslander",
       "text": "DEATH FOR YOU!!"
+    },
+    {
+      "timestamp": "28-12-25 19:57:40.112",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "well well well"
+    },
+    {
+      "timestamp": "28-12-25 19:57:40.112",
+      "chat_type": "General",
+      "author": "CaptainLobo",
+      "text": "well well well"
+    },
+    {
+      "timestamp": "28-12-25 19:57:55.130",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "he deserved it"
+    },
+    {
+      "timestamp": "28-12-25 19:57:55.130",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "he deserved it"
     }
   ],
-  "timestamp": "2025-12-28T19:55:02.049316"
+  "timestamp": "2025-12-28T20:00:01.412500"
 }
