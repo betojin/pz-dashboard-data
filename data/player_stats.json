@@ -3406,7 +3406,7 @@
     "RinkRoller": {
       "username": "RinkRoller",
       "steam_id": "76561198162940087",
-      "total_hours": 67,
+      "total_hours": 70,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -3421,7 +3421,7 @@
         "Woodwork": 4,
         "Aiming": 0,
         "Reloading": 0,
-        "Farming": 0,
+        "Farming": 2,
         "Fishing": 1,
         "Trapping": 0,
         "PlantScavenging": 1,
@@ -3480,12 +3480,22 @@
           "skill": "Sprinting",
           "level": "1",
           "timestamp": "28-12-25 07:59:50.230"
+        },
+        {
+          "skill": "Farming",
+          "level": "1",
+          "timestamp": "28-12-25 08:06:59.225"
+        },
+        {
+          "skill": "Farming",
+          "level": "2",
+          "timestamp": "28-12-25 08:07:38.213"
         }
       ],
-      "last_seen": "28-12-25 07:59:50.230",
+      "last_seen": "28-12-25 08:07:38.213",
       "connections": 4
     }
   },
   "total_players": 34,
-  "timestamp": "2025-12-28T08:05:01.580053"
+  "timestamp": "2025-12-28T08:10:01.962161"
 }
