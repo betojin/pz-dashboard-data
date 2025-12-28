@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 03:50:49.461",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12053",
-      "y": "2602",
-      "z": "0",
-      "hours_survived": 446,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 10,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 6,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 7,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 2,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 3,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "28-12-25 04:06:08.146",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -896,6 +849,18 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "4"
+    },
+    {
+      "timestamp": "28-12-25 06:50:09.837",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12028",
+      "y": "2588",
+      "z": "0",
+      "hours_survived": 518,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1200,5 +1165,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-28T06:50:01.789048"
+  "timestamp": "2025-12-28T06:55:02.103582"
 }
