@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 22:37:10.784",
-      "steam_id": "76561198368197161",
-      "username": "half",
-      "action": "disconnected",
-      "x": "8126",
-      "y": "11542",
-      "z": "0"
-    },
-    {
       "timestamp": "27-12-25 22:50:16.845",
       "steam_id": "76561198368197161",
       "username": "half",
@@ -359,56 +350,18 @@
       "steam_id": "76561198065774641",
       "username": "BetoJin",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "28-12-25 03:50:48.616",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "fully connected",
+      "x": "12053",
+      "y": "2602",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "27-12-25 21:38:54.327",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "2305",
-      "y": "14472",
-      "z": "0",
-      "hours_survived": 543,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 3,
-        "Fitness": 7,
-        "Strength": 7,
-        "Blunt": 2,
-        "Axe": 2,
-        "Lightfoot": 2,
-        "Nimble": 3,
-        "Sprinting": 3,
-        "Sneak": 2,
-        "Woodwork": 4,
-        "Aiming": 4,
-        "Reloading": 4,
-        "Farming": 0,
-        "Fishing": 3,
-        "Trapping": 3,
-        "PlantScavenging": 2,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "27-12-25 21:40:21.670",
       "steam_id": "76561198119296623",
@@ -1176,93 +1129,56 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "28-12-25 03:50:49.461",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12053",
+      "y": "2602",
+      "z": "0",
+      "hours_survived": 446,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 10,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 6,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 7,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 2,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 3,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 03:23:39.537",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "a few hours. temperature shows immediately"
-    },
-    {
-      "timestamp": "28-12-25 03:23:39.537",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "a few hours. temperature shows immediately"
-    },
-    {
-      "timestamp": "28-12-25 03:23:59.739",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "does it get colder or hotter"
-    },
-    {
-      "timestamp": "28-12-25 03:23:59.739",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "does it get colder or hotter"
-    },
-    {
-      "timestamp": "28-12-25 03:24:03.371",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "hotter"
-    },
-    {
-      "timestamp": "28-12-25 03:24:03.371",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "hotter"
-    },
-    {
-      "timestamp": "28-12-25 03:24:23.481",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im honestly thinking that its either bugged or turned off"
-    },
-    {
-      "timestamp": "28-12-25 03:24:23.481",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "im honestly thinking that its either bugged or turned off"
-    },
-    {
-      "timestamp": "28-12-25 03:24:35.337",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "yeah my temp is pretty normal"
-    },
-    {
-      "timestamp": "28-12-25 03:24:35.337",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "yeah my temp is pretty normal"
-    },
-    {
-      "timestamp": "28-12-25 03:25:06.965",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "brb"
-    },
-    {
-      "timestamp": "28-12-25 03:25:06.965",
-      "chat_type": "General",
-      "author": "RinkRoller",
-      "text": "brb"
-    },
-    {
-      "timestamp": "28-12-25 03:28:50.904",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "btw, you can wear a backpack and a satchel at the same time now, so double up on bags"
-    },
-    {
-      "timestamp": "28-12-25 03:28:50.904",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "btw, you can wear a backpack and a satchel at the same time now, so double up on bags"
-    },
     {
       "timestamp": "28-12-25 03:32:02.474",
       "chat_type": "General",
@@ -1478,7 +1394,91 @@
       "chat_type": "General",
       "author": "Firestorm3050",
       "text": "beto just messaged in disscord. no transmission, not even from bites. too many bugs on the test launch"
+    },
+    {
+      "timestamp": "28-12-25 03:50:08.705",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "he intends for this to be learning the new crafting mechanics"
+    },
+    {
+      "timestamp": "28-12-25 03:50:08.705",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "he intends for this to be learning the new crafting mechanics"
+    },
+    {
+      "timestamp": "28-12-25 03:50:18.869",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "ahhh nice"
+    },
+    {
+      "timestamp": "28-12-25 03:50:18.869",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "ahhh nice"
+    },
+    {
+      "timestamp": "28-12-25 03:50:19.963",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "so more forgiving onf survival"
+    },
+    {
+      "timestamp": "28-12-25 03:50:19.963",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "so more forgiving onf survival"
+    },
+    {
+      "timestamp": "28-12-25 03:50:58.144",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "also why the 6x multiplier on the xp for b42 crafting skills"
+    },
+    {
+      "timestamp": "28-12-25 03:50:58.144",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "also why the 6x multiplier on the xp for b42 crafting skills"
+    },
+    {
+      "timestamp": "28-12-25 03:51:19.670",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "to learn them"
+    },
+    {
+      "timestamp": "28-12-25 03:51:19.670",
+      "chat_type": "General",
+      "author": "BetoJin",
+      "text": "to learn them"
+    },
+    {
+      "timestamp": "28-12-25 03:53:10.247",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "works for me, too bad rinkroller logged off just at the wrong time to see this chat"
+    },
+    {
+      "timestamp": "28-12-25 03:53:10.247",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "works for me, too bad rinkroller logged off just at the wrong time to see this chat"
+    },
+    {
+      "timestamp": "28-12-25 03:53:18.447",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "last i heard he was inbound to my base"
+    },
+    {
+      "timestamp": "28-12-25 03:53:18.447",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "last i heard he was inbound to my base"
     }
   ],
-  "timestamp": "2025-12-28T03:50:01.189748"
+  "timestamp": "2025-12-28T03:55:01.791857"
 }
