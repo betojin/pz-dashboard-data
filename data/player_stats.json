@@ -2784,7 +2784,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 448,
+      "total_hours": 451,
       "deaths": 0,
       "skills": {
         "Cooking": 3,
@@ -2990,8 +2990,8 @@
           "timestamp": "28-12-25 17:09:42.004"
         }
       ],
-      "last_seen": "28-12-25 17:38:10.719",
-      "connections": 3
+      "last_seen": "28-12-25 18:20:47.739",
+      "connections": 4
     },
     "El_Moctezuma": {
       "username": "El_Moctezuma",
@@ -3041,7 +3041,7 @@
     "KeenIslander": {
       "username": "KeenIslander",
       "steam_id": "76561199122629737",
-      "total_hours": 29,
+      "total_hours": 49,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -3087,7 +3087,8 @@
           "timestamp": "24-12-25 23:21:25.756"
         }
       ],
-      "last_seen": "24-12-25 23:21:25.756"
+      "last_seen": "28-12-25 18:20:52.049",
+      "connections": 1
     },
     "Omar": {
       "username": "Omar",
@@ -3523,8 +3524,60 @@
         }
       ],
       "last_seen": "28-12-25 08:16:51.751"
+    },
+    "lefons": {
+      "username": "lefons",
+      "steam_id": "76561199121326240",
+      "total_hours": 0,
+      "deaths": 1,
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 9,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 3,
+        "Reloading": 2,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      },
+      "level_ups": [
+        {
+          "skill": "Doctor",
+          "level": "1",
+          "timestamp": "28-12-25 18:22:43.684"
+        }
+      ],
+      "last_seen": "28-12-25 18:23:08.309",
+      "connections": 1
     }
   },
-  "total_players": 34,
-  "timestamp": "2025-12-28T18:20:01.486299"
+  "total_players": 35,
+  "timestamp": "2025-12-28T18:25:01.900105"
 }
