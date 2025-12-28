@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 04:10:49.904",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12048",
-      "y": "2581",
-      "z": "0",
-      "hours_survived": 7,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "28-12-25 04:11:09.652",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -896,21 +849,21 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "28-12-25 07:45:26.195",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "15520",
+      "y": "2495",
+      "z": "0",
+      "hours_survived": 123,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "2"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 06:01:06.978",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 06:01:06.978",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY!"
-    },
     {
       "timestamp": "28-12-25 06:01:07.145",
       "chat_type": "Local",
@@ -1198,7 +1151,19 @@
       "chat_type": "General",
       "author": "RinkRoller",
       "text": "what up"
+    },
+    {
+      "timestamp": "28-12-25 07:47:56.375",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 07:47:56.376",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-28T07:45:01.931706"
+  "timestamp": "2025-12-28T07:50:01.323688"
 }
