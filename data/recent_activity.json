@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 08:33:21.028",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "13675",
-      "y": "3191",
-      "z": "0",
-      "hours_survived": 146,
-      "event_type": "level_up",
-      "skill": "SmallBlunt",
-      "level": "5"
-    },
-    {
       "timestamp": "28-12-25 08:48:54.774",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -1240,81 +1228,21 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "6"
+    },
+    {
+      "timestamp": "28-12-25 19:08:46.072",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10363",
+      "y": "12772",
+      "z": "0",
+      "hours_survived": 1266,
+      "event_type": "level_up",
+      "skill": "SmallBlunt",
+      "level": "4"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 18:57:14.423",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "he unalived himself"
-    },
-    {
-      "timestamp": "28-12-25 18:57:14.424",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "he unalived himself"
-    },
-    {
-      "timestamp": "28-12-25 18:57:16.473",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "how can i be a bf when my character is an asian teenager running"
-    },
-    {
-      "timestamp": "28-12-25 18:57:16.473",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "how can i be a bf when my character is an asian teenager running"
-    },
-    {
-      "timestamp": "28-12-25 18:57:24.463",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "around in a bunny costume"
-    },
-    {
-      "timestamp": "28-12-25 18:57:24.463",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "around in a bunny costume"
-    },
-    {
-      "timestamp": "28-12-25 18:57:40.605",
-      "chat_type": "General",
-      "author": "lefons",
-      "text": "keen said even better"
-    },
-    {
-      "timestamp": "28-12-25 18:57:40.606",
-      "chat_type": "General",
-      "author": "lefons",
-      "text": "keen said even better"
-    },
-    {
-      "timestamp": "28-12-25 18:58:07.659",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "do magazines break now?"
-    },
-    {
-      "timestamp": "28-12-25 18:58:07.659",
-      "chat_type": "General",
-      "author": "CaptainLobo",
-      "text": "do magazines break now?"
-    },
-    {
-      "timestamp": "28-12-25 18:58:11.579",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "no"
-    },
-    {
-      "timestamp": "28-12-25 18:58:11.579",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "no"
-    },
     {
       "timestamp": "28-12-25 18:58:26.730",
       "chat_type": "General",
@@ -1542,7 +1470,79 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "ahh hell yeah man"
+    },
+    {
+      "timestamp": "28-12-25 19:05:12.732",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "b42 has been out for 12 months"
+    },
+    {
+      "timestamp": "28-12-25 19:05:12.732",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "b42 has been out for 12 months"
+    },
+    {
+      "timestamp": "28-12-25 19:06:20.344",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "thats how i noticed that some of the bugs we have in mp are the old bugs from b42 solo that were already fixed"
+    },
+    {
+      "timestamp": "28-12-25 19:06:20.344",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "thats how i noticed that some of the bugs we have in mp are the old bugs from b42 solo that were already fixed"
+    },
+    {
+      "timestamp": "28-12-25 19:07:56.628",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i think they may have forked their development and gave us b42 multi early as a christmas present"
+    },
+    {
+      "timestamp": "28-12-25 19:07:56.629",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "i think they may have forked their development and gave us b42 multi early as a christmas present"
+    },
+    {
+      "timestamp": "28-12-25 19:09:13.827",
+      "chat_type": "Local",
+      "author": "KeenIslander",
+      "text": "pssst!"
+    },
+    {
+      "timestamp": "28-12-25 19:09:13.828",
+      "chat_type": "Local",
+      "author": "KeenIslander",
+      "text": "pssst!"
+    },
+    {
+      "timestamp": "28-12-25 19:09:28.656",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "which is why we had to opt in to the new beta all over again"
+    },
+    {
+      "timestamp": "28-12-25 19:09:28.656",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "which is why we had to opt in to the new beta all over again"
+    },
+    {
+      "timestamp": "28-12-25 19:09:45.200",
+      "chat_type": "General",
+      "author": "lefons",
+      "text": "jesus bro good stuff my man thats like quater of the year props bro"
+    },
+    {
+      "timestamp": "28-12-25 19:09:45.200",
+      "chat_type": "General",
+      "author": "lefons",
+      "text": "jesus bro good stuff my man thats like quater of the year props bro"
     }
   ],
-  "timestamp": "2025-12-28T19:05:01.659409"
+  "timestamp": "2025-12-28T19:10:02.032702"
 }
