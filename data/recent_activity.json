@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 00:18:52.437",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "fully connected",
-      "x": "10658",
-      "y": "9566",
-      "z": "0"
-    },
-    {
       "timestamp": "28-12-25 00:22:48.386",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -358,6 +349,15 @@
       "action": "disconnected",
       "x": "10659",
       "y": "9567",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 05:37:13.885",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "disconnected",
+      "x": "10098",
+      "y": "8258",
       "z": "0"
     }
   ],
@@ -935,18 +935,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "28-12-25 05:07:11.638",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "28-12-25 05:07:11.638",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "HEY!"
-    },
-    {
       "timestamp": "28-12-25 05:07:23.049",
       "chat_type": "Local",
       "author": "RottenPotato",
@@ -1233,7 +1221,19 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:36:54.838",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "28-12-25 05:36:54.839",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-28T05:35:01.187109"
+  "timestamp": "2025-12-28T05:40:01.554571"
 }
