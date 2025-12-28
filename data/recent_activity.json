@@ -366,53 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 15:03:18.229",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8613",
-      "y": "8822",
-      "z": "0",
-      "hours_survived": 388,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 3,
-        "Fitness": 7,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 4,
-        "Aiming": 0,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 5,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 1,
-        "FlintKnapping": 2,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 7,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "28-12-25 15:27:13.477",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -1208,33 +1161,21 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "1"
+    },
+    {
+      "timestamp": "28-12-25 19:47:33.883",
+      "steam_id": "76561199122629737",
+      "username": "KeenIslander",
+      "x": "12689",
+      "y": "4007",
+      "z": "0",
+      "hours_survived": 19,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "28-12-25 19:07:56.628",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i think they may have forked their development and gave us b42 multi early as a christmas present"
-    },
-    {
-      "timestamp": "28-12-25 19:07:56.629",
-      "chat_type": "General",
-      "author": "Firestorm3050",
-      "text": "i think they may have forked their development and gave us b42 multi early as a christmas present"
-    },
-    {
-      "timestamp": "28-12-25 19:09:13.827",
-      "chat_type": "Local",
-      "author": "KeenIslander",
-      "text": "pssst!"
-    },
-    {
-      "timestamp": "28-12-25 19:09:13.828",
-      "chat_type": "Local",
-      "author": "KeenIslander",
-      "text": "pssst!"
-    },
     {
       "timestamp": "28-12-25 19:09:28.656",
       "chat_type": "General",
@@ -1510,7 +1451,31 @@
       "chat_type": "General",
       "author": "CaptainLobo",
       "text": "and i think only beto has been in LV"
+    },
+    {
+      "timestamp": "28-12-25 19:46:16.475",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "lots of loot there"
+    },
+    {
+      "timestamp": "28-12-25 19:46:16.475",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "lots of loot there"
+    },
+    {
+      "timestamp": "28-12-25 19:47:58.832",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "well, still no fishing 3"
+    },
+    {
+      "timestamp": "28-12-25 19:47:58.832",
+      "chat_type": "General",
+      "author": "Firestorm3050",
+      "text": "well, still no fishing 3"
     }
   ],
-  "timestamp": "2025-12-28T19:45:01.365754"
+  "timestamp": "2025-12-28T19:50:01.718573"
 }
