@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "27-12-25 20:10:03.200",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "27-12-25 20:11:32.347",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -364,6 +358,15 @@
       "action": "fully connected",
       "x": "10658",
       "y": "9566",
+      "z": "0"
+    },
+    {
+      "timestamp": "28-12-25 00:22:48.386",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "disconnected",
+      "x": "8616",
+      "y": "8823",
       "z": "0"
     }
   ],
@@ -1346,5 +1349,5 @@
       "text": "relogging again"
     }
   ],
-  "timestamp": "2025-12-28T00:20:01.163818"
+  "timestamp": "2025-12-28T00:25:01.483725"
 }
