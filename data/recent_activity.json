@@ -1,30 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 20:51:51.019",
-      "steam_id": "76561199121326240",
-      "username": "lefons",
-      "action": "fully connected",
-      "x": "12780",
-      "y": "1503",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 21:00:34.406",
-      "steam_id": "76561199121326240",
-      "username": "lefons",
-      "action": "disconnected",
-      "x": "12762",
-      "y": "1504",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 21:04:19.234",
-      "steam_id": "76561199121326240",
-      "username": "lefons",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "28-12-25 21:04:19.234",
       "steam_id": "76561199121326240",
       "username": "lefons",
@@ -356,6 +332,24 @@
     },
     {
       "timestamp": "29-12-25 01:44:30.396",
+      "steam_id": "76561199116672989",
+      "username": "MorsDeus",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "29-12-25 01:45:44.689",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "29-12-25 01:46:34.754",
+      "steam_id": "76561199116672989",
+      "username": "MorsDeus",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "29-12-25 01:46:34.754",
       "steam_id": "76561199116672989",
       "username": "MorsDeus",
       "action": "allowed to join"
@@ -1340,5 +1334,5 @@
       "text": "so was mine this morning xD"
     }
   ],
-  "timestamp": "2025-12-29T01:45:01.350467"
+  "timestamp": "2025-12-29T01:50:01.757824"
 }
