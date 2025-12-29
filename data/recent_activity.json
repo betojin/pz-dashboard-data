@@ -354,18 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 23:10:43.378",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8605",
-      "y": "8815",
-      "z": "0",
-      "hours_survived": 492,
-      "event_type": "level_up",
-      "skill": "Masonry",
-      "level": "4"
-    },
-    {
       "timestamp": "28-12-25 23:13:30.453",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1062,6 +1050,18 @@
         "Butchering": 2,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "29-12-25 16:16:55.381",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10662",
+      "y": "9565",
+      "z": "1",
+      "hours_survived": 1403,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1366,5 +1366,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-29T16:15:01.312708"
+  "timestamp": "2025-12-29T16:20:01.684299"
 }
