@@ -354,18 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 22:35:13.651",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10840",
-      "y": "9064",
-      "z": "0",
-      "hours_survived": 1348,
-      "event_type": "level_up",
-      "skill": "Farming",
-      "level": "4"
-    },
-    {
       "timestamp": "28-12-25 22:50:45.180",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -992,6 +980,18 @@
       "event_type": "level_up",
       "skill": "Masonry",
       "level": "1"
+    },
+    {
+      "timestamp": "29-12-25 07:45:47.600",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12012",
+      "y": "2588",
+      "z": "0",
+      "hours_survived": 216,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1296,5 +1296,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-29T07:45:01.699771"
+  "timestamp": "2025-12-29T07:50:02.068296"
 }
