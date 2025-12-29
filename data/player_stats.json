@@ -613,7 +613,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 1403,
+      "total_hours": 1409,
       "deaths": 0,
       "skills": {
         "Cooking": 6,
@@ -644,7 +644,7 @@
         "SmallBlunt": 4,
         "Tailoring": 3,
         "Tracking": 0,
-        "Husbandry": 2,
+        "Husbandry": 3,
         "FlintKnapping": 3,
         "Masonry": 8,
         "Pottery": 0,
@@ -1052,9 +1052,14 @@
           "skill": "Tailoring",
           "level": "3",
           "timestamp": "29-12-25 16:16:55.381"
+        },
+        {
+          "skill": "Husbandry",
+          "level": "3",
+          "timestamp": "29-12-25 16:33:31.678"
         }
       ],
-      "last_seen": "29-12-25 16:16:55.381",
+      "last_seen": "29-12-25 16:33:31.678",
       "connections": 6
     },
     "Molotov Kid": {
@@ -3839,5 +3844,5 @@
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-29T16:30:01.375539"
+  "timestamp": "2025-12-29T16:35:01.791661"
 }
