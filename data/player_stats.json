@@ -2836,7 +2836,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 526,
+      "total_hours": 531,
       "deaths": 0,
       "skills": {
         "Cooking": 3,
@@ -2848,7 +2848,7 @@
         "Nimble": 0,
         "Sprinting": 3,
         "Sneak": 0,
-        "Woodwork": 4,
+        "Woodwork": 5,
         "Aiming": 0,
         "Reloading": 1,
         "Farming": 0,
@@ -3090,9 +3090,14 @@
           "skill": "Maintenance",
           "level": "5",
           "timestamp": "29-12-25 00:43:56.386"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "5",
+          "timestamp": "29-12-25 01:00:33.474"
         }
       ],
-      "last_seen": "29-12-25 00:46:07.770",
+      "last_seen": "29-12-25 01:00:33.474",
       "connections": 8
     },
     "El_Moctezuma": {
@@ -3768,5 +3773,5 @@
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-29T01:00:01.294208"
+  "timestamp": "2025-12-29T01:05:01.689236"
 }

@@ -369,18 +369,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 20:44:18.495",
-      "steam_id": "76561199122629737",
-      "username": "KeenIslander",
-      "x": "12348",
-      "y": "2187",
-      "z": "0",
-      "hours_survived": 38,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "3"
-    },
-    {
       "timestamp": "28-12-25 20:45:43.209",
       "steam_id": "76561198143098309",
       "username": "Lourex",
@@ -1007,6 +995,18 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "29-12-25 01:00:33.474",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8569",
+      "y": "8794",
+      "z": "0",
+      "hours_survived": 531,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "5"
     }
   ],
   "chat_messages": [
@@ -1311,5 +1311,5 @@
       "text": "so was mine this morning xD"
     }
   ],
-  "timestamp": "2025-12-29T01:00:01.327426"
+  "timestamp": "2025-12-29T01:05:01.723305"
 }
