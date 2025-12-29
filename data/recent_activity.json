@@ -354,18 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "29-12-25 00:33:16.735",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10092",
-      "y": "8253",
-      "z": "0",
-      "hours_survived": 975,
-      "event_type": "level_up",
-      "skill": "Butchering",
-      "level": "1"
-    },
-    {
       "timestamp": "29-12-25 00:33:45.510",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -992,6 +980,18 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "3"
+    },
+    {
+      "timestamp": "29-12-25 18:30:24.058",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10660",
+      "y": "9566",
+      "z": "0",
+      "hours_survived": 1456,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1296,5 +1296,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-29T18:30:01.373157"
+  "timestamp": "2025-12-29T18:35:01.806393"
 }
