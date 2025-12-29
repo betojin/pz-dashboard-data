@@ -2836,7 +2836,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 519,
+      "total_hours": 525,
       "deaths": 0,
       "skills": {
         "Cooking": 3,
@@ -2861,7 +2861,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 4,
+        "Maintenance": 5,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 1,
@@ -3085,9 +3085,14 @@
           "skill": "PlantScavenging",
           "level": "6",
           "timestamp": "28-12-25 23:51:22.919"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "5",
+          "timestamp": "29-12-25 00:43:56.386"
         }
       ],
-      "last_seen": "29-12-25 00:27:26.061",
+      "last_seen": "29-12-25 00:43:56.386",
       "connections": 7
     },
     "El_Moctezuma": {
@@ -3763,5 +3768,5 @@
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-29T00:40:01.980439"
+  "timestamp": "2025-12-29T00:45:01.311713"
 }
