@@ -354,53 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 21:25:39.842",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8612",
-      "y": "8822",
-      "z": "0",
-      "hours_survived": 451,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 3,
-        "Fitness": 7,
-        "Strength": 5,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 4,
-        "Aiming": 0,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 5,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 2,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 7,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "28-12-25 21:51:12.547",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -1027,6 +980,18 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "29-12-25 03:45:20.670",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8621",
+      "y": "8828",
+      "z": "0",
+      "hours_survived": 566,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1331,5 +1296,5 @@
       "text": "so was mine this morning xD"
     }
   ],
-  "timestamp": "2025-12-29T03:45:01.516628"
+  "timestamp": "2025-12-29T03:50:01.889821"
 }
