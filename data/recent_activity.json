@@ -354,18 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 22:53:07.376",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8606",
-      "y": "8817",
-      "z": "0",
-      "hours_survived": 485,
-      "event_type": "level_up",
-      "skill": "Masonry",
-      "level": "3"
-    },
-    {
       "timestamp": "28-12-25 23:06:42.861",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -992,6 +980,18 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "4"
+    },
+    {
+      "timestamp": "29-12-25 10:57:57.554",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12012",
+      "y": "2589",
+      "z": "0",
+      "hours_survived": 292,
+      "event_type": "level_up",
+      "skill": "Masonry",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1296,5 +1296,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-29T10:55:01.818563"
+  "timestamp": "2025-12-29T11:00:01.168535"
 }
