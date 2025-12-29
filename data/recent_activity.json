@@ -354,18 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 22:00:19.238",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8607",
-      "y": "8814",
-      "z": "0",
-      "hours_survived": 464,
-      "event_type": "level_up",
-      "skill": "Butchering",
-      "level": "3"
-    },
-    {
       "timestamp": "28-12-25 22:18:46.954",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -992,6 +980,18 @@
       "event_type": "level_up",
       "skill": "Nimble",
       "level": "4"
+    },
+    {
+      "timestamp": "29-12-25 05:10:04.707",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "13863",
+      "y": "5841",
+      "z": "0",
+      "hours_survived": 1086,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "5"
     }
   ],
   "chat_messages": [
@@ -1296,5 +1296,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-29T05:10:01.992731"
+  "timestamp": "2025-12-29T05:15:01.400210"
 }
