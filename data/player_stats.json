@@ -210,7 +210,7 @@
     "admin": {
       "username": "admin",
       "steam_id": "76561198065774641",
-      "total_hours": 39,
+      "total_hours": 47,
       "deaths": 0,
       "skills": {
         "Cooking": 2,
@@ -250,9 +250,10 @@
         "Glassmaking": 0
       },
       "level_ups": [],
-      "last_seen": "27-12-25 11:08:57.008",
+      "last_seen": "29-12-25 22:29:32.150",
+      "connections": 1,
       "role_id": 7,
-      "last_connection_db": "2025-12-27 11:08:38"
+      "last_connection_db": "2025-12-29 22:28:55"
     },
     "Sully": {
       "username": "Sully",
@@ -3871,5 +3872,5 @@
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-29T22:25:01.850801"
+  "timestamp": "2025-12-29T22:30:01.226905"
 }
