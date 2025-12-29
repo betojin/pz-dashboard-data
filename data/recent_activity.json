@@ -354,53 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "29-12-25 00:27:26.061",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8609",
-      "y": "8824",
-      "z": "0",
-      "hours_survived": 519,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 3,
-        "Fitness": 7,
-        "Strength": 5,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 4,
-        "Aiming": 0,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 6,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 2,
-        "Masonry": 4,
-        "Pottery": 0,
-        "Carving": 7,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "29-12-25 00:33:16.735",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1027,6 +980,18 @@
       "event_type": "level_up",
       "skill": "Butchering",
       "level": "3"
+    },
+    {
+      "timestamp": "29-12-25 18:20:27.654",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10659",
+      "y": "9566",
+      "z": "0",
+      "hours_survived": 1452,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1331,5 +1296,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-29T18:20:01.607466"
+  "timestamp": "2025-12-29T18:25:01.951352"
 }
