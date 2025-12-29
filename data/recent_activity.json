@@ -354,18 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 22:35:07.350",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10840",
-      "y": "9064",
-      "z": "0",
-      "hours_survived": 1348,
-      "event_type": "level_up",
-      "skill": "Farming",
-      "level": "3"
-    },
-    {
       "timestamp": "28-12-25 22:35:13.651",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -992,6 +980,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "29-12-25 05:49:46.537",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12098",
+      "y": "2605",
+      "z": "0",
+      "hours_survived": 169,
+      "event_type": "level_up",
+      "skill": "Masonry",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1296,5 +1296,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-29T05:45:02.005475"
+  "timestamp": "2025-12-29T05:50:01.339017"
 }
