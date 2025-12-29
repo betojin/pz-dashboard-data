@@ -241,7 +241,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 1022,
+      "total_hours": 1040,
       "deaths": 1,
       "skills": {
         "Cooking": 3,
@@ -255,7 +255,7 @@
         "Sneak": 2,
         "Woodwork": 9,
         "Aiming": 3,
-        "Reloading": 3,
+        "Reloading": 4,
         "Farming": 0,
         "Fishing": 2,
         "Trapping": 0,
@@ -585,9 +585,14 @@
           "skill": "Aiming",
           "level": "3",
           "timestamp": "29-12-25 02:31:17.922"
+        },
+        {
+          "skill": "Reloading",
+          "level": "4",
+          "timestamp": "29-12-25 03:14:59.945"
         }
       ],
-      "last_seen": "29-12-25 02:31:17.922",
+      "last_seen": "29-12-25 03:14:59.945",
       "connections": 1
     },
     "Firestorm3050": {
@@ -3783,5 +3788,5 @@
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-29T03:10:01.107365"
+  "timestamp": "2025-12-29T03:15:01.439928"
 }

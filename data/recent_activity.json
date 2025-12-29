@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 21:05:02.174",
-      "steam_id": "76561199121326240",
-      "username": "lefons",
-      "x": "12762",
-      "y": "1504",
-      "z": "0",
-      "hours_survived": 60,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 7,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 5,
-        "Reloading": 5,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "28-12-25 21:16:58.518",
       "steam_id": "76561199121326240",
       "username": "lefons",
@@ -1036,6 +989,18 @@
       "event_type": "level_up",
       "skill": "Aiming",
       "level": "3"
+    },
+    {
+      "timestamp": "29-12-25 03:14:59.945",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "13958",
+      "y": "5924",
+      "z": "0",
+      "hours_survived": 1040,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1340,5 +1305,5 @@
       "text": "so was mine this morning xD"
     }
   ],
-  "timestamp": "2025-12-29T03:10:01.140845"
+  "timestamp": "2025-12-29T03:15:01.474297"
 }
