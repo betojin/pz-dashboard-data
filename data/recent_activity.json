@@ -1,105 +1,5 @@
 {
-  "user_events": [
-    {
-      "timestamp": "29-12-25 21:55:37.785",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "29-12-25 21:55:37.786",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "29-12-25 21:56:43.703",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "29-12-25 21:57:41.055",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "29-12-25 21:57:41.055",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "29-12-25 21:58:49.050",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "29-12-25 21:58:53.480",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "fully connected",
-      "x": "12513",
-      "y": "3447",
-      "z": "0"
-    },
-    {
-      "timestamp": "29-12-25 22:02:34.613",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "fully connected",
-      "x": "12023",
-      "y": "2594",
-      "z": "0"
-    },
-    {
-      "timestamp": "29-12-25 22:23:09.978",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "disconnected",
-      "x": "12023",
-      "y": "2593",
-      "z": "0"
-    },
-    {
-      "timestamp": "29-12-25 22:28:36.902",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "disconnected",
-      "x": "12010",
-      "y": "2595",
-      "z": "0"
-    },
-    {
-      "timestamp": "29-12-25 22:28:55.203",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "29-12-25 22:28:55.203",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "29-12-25 22:29:01.057",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "29-12-25 22:29:31.108",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "fully connected",
-      "x": "12030",
-      "y": "2587",
-      "z": "0"
-    }
-  ],
+  "user_events": [],
   "perk_events": [
     {
       "timestamp": "29-12-25 02:31:17.922",
@@ -813,5 +713,5 @@
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-29T22:35:01.676980"
+  "timestamp": "2025-12-29T22:40:02.056084"
 }
