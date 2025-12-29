@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 21:04:19.234",
-      "steam_id": "76561199121326240",
-      "username": "lefons",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "28-12-25 21:04:30.148",
       "steam_id": "76561199121326240",
       "username": "lefons",
@@ -353,6 +347,15 @@
       "steam_id": "76561199116672989",
       "username": "MorsDeus",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "29-12-25 02:06:08.497",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "disconnected",
+      "x": "8620",
+      "y": "8825",
+      "z": "0"
     }
   ],
   "perk_events": [
@@ -1334,5 +1337,5 @@
       "text": "so was mine this morning xD"
     }
   ],
-  "timestamp": "2025-12-29T02:05:01.262517"
+  "timestamp": "2025-12-29T02:10:01.601159"
 }
