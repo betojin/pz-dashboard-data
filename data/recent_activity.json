@@ -44,21 +44,18 @@
       "x": "12513",
       "y": "3447",
       "z": "0"
+    },
+    {
+      "timestamp": "29-12-25 22:02:34.613",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "fully connected",
+      "x": "12023",
+      "y": "2594",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "29-12-25 01:41:20.609",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8626",
-      "y": "8830",
-      "z": "0",
-      "hours_survived": 547,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "6"
-    },
     {
       "timestamp": "29-12-25 02:17:01.358",
       "steam_id": "76561198060886931",
@@ -721,8 +718,55 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "29-12-25 22:02:35.768",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12023",
+      "y": "2594",
+      "z": "0",
+      "hours_survived": 307,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 10,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 4,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 2,
+        "Sneak": 0,
+        "Woodwork": 4,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 2,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 3,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [],
-  "timestamp": "2025-12-29T22:00:02.075162"
+  "timestamp": "2025-12-29T22:05:01.427659"
 }
