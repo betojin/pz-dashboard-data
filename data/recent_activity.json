@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "28-12-25 20:54:45.542",
-      "steam_id": "76561198143098309",
-      "username": "Lourex",
-      "x": "11882",
-      "y": "6928",
-      "z": "0",
-      "hours_survived": 26,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "1"
-    },
-    {
       "timestamp": "28-12-25 21:05:02.174",
       "steam_id": "76561199121326240",
       "username": "lefons",
@@ -1036,6 +1024,18 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "29-12-25 02:31:17.922",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "13924",
+      "y": "5931",
+      "z": "0",
+      "hours_survived": 1022,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1340,5 +1340,5 @@
       "text": "so was mine this morning xD"
     }
   ],
-  "timestamp": "2025-12-29T02:30:02.072812"
+  "timestamp": "2025-12-29T02:35:01.481526"
 }
