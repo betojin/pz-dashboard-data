@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "29-12-25 00:19:04.399",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "29-12-25 00:19:04.399",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "29-12-25 00:19:15.354",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "29-12-25 00:27:25.638",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -350,6 +332,24 @@
       "x": "10659",
       "y": "9571",
       "z": "0"
+    },
+    {
+      "timestamp": "29-12-25 15:43:55.183",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "29-12-25 15:43:55.184",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "29-12-25 15:44:07.103",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1331,5 +1331,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-29T15:40:01.622896"
+  "timestamp": "2025-12-29T15:45:01.979785"
 }
