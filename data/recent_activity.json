@@ -1,51 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "28-12-25 21:35:06.530",
-      "steam_id": "76561198143098309",
-      "username": "Lourex",
-      "action": "disconnected",
-      "x": "12438",
-      "y": "3771",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 21:58:09.643",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "disconnected",
-      "x": "8610",
-      "y": "8816",
-      "z": "0"
-    },
-    {
-      "timestamp": "28-12-25 21:58:38.127",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "28-12-25 21:58:38.128",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "28-12-25 21:58:51.525",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "28-12-25 21:59:02.226",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "fully connected",
-      "x": "8610",
-      "y": "8816",
-      "z": "0"
-    },
-    {
       "timestamp": "28-12-25 22:18:05.765",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -350,21 +305,54 @@
       "x": "8615",
       "y": "8823",
       "z": "0"
+    },
+    {
+      "timestamp": "29-12-25 04:17:03.442",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "disconnected",
+      "x": "8616",
+      "y": "8823",
+      "z": "0"
+    },
+    {
+      "timestamp": "29-12-25 04:18:26.448",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "29-12-25 04:18:26.448",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "29-12-25 04:18:37.786",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "29-12-25 04:19:08.556",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "fully connected",
+      "x": "8616",
+      "y": "8823",
+      "z": "0"
+    },
+    {
+      "timestamp": "29-12-25 04:19:37.042",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "disconnected",
+      "x": "8615",
+      "y": "8823",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "28-12-25 21:51:12.547",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8607",
-      "y": "8814",
-      "z": "0",
-      "hours_survived": 461,
-      "event_type": "level_up",
-      "skill": "Butchering",
-      "level": "1"
-    },
     {
       "timestamp": "28-12-25 21:52:57.441",
       "steam_id": "76561198060886931",
@@ -992,309 +980,356 @@
       "event_type": "level_up",
       "skill": "Mechanics",
       "level": "1"
+    },
+    {
+      "timestamp": "29-12-25 04:19:09.224",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8616",
+      "y": "8823",
+      "z": "0",
+      "hours_survived": 579,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 3,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 6,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 6,
+        "Doctor": 1,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 5,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 2,
+        "Tracking": 0,
+        "Husbandry": 2,
+        "FlintKnapping": 2,
+        "Masonry": 4,
+        "Pottery": 0,
+        "Carving": 7,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "29-12-25 04:09:33.219",
+      "timestamp": "29-12-25 04:17:36.440",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:36.440",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:39.449",
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY!"
     },
     {
-      "timestamp": "29-12-25 04:09:33.219",
+      "timestamp": "29-12-25 04:17:39.449",
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY!"
     },
     {
-      "timestamp": "29-12-25 04:09:33.701",
+      "timestamp": "29-12-25 04:17:41.269",
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY YOU!"
     },
     {
-      "timestamp": "29-12-25 04:09:33.702",
+      "timestamp": "29-12-25 04:17:41.269",
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY YOU!"
     },
     {
-      "timestamp": "29-12-25 04:09:33.925",
+      "timestamp": "29-12-25 04:17:41.477",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:41.477",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:44.241",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:44.242",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:44.551",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:44.551",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:47.207",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:47.207",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:47.541",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:47.541",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:51.287",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:51.288",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:51.491",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:51.491",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:58.056",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "29-12-25 04:17:58.056",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "29-12-25 04:18:08.192",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "29-12-25 04:18:08.192",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "29-12-25 04:18:08.427",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "29-12-25 04:18:08.428",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "29-12-25 04:18:12.879",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "29-12-25 04:18:12.879",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "29-12-25 04:18:18.742",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "29-12-25 04:18:18.742",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "29-12-25 04:18:26.418",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "29-12-25 04:18:26.418",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "29-12-25 04:18:26.697",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "29-12-25 04:18:26.698",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "29-12-25 04:18:27.247",
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY YOU!"
     },
     {
-      "timestamp": "29-12-25 04:09:33.925",
+      "timestamp": "29-12-25 04:18:27.248",
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY YOU!"
     },
     {
-      "timestamp": "29-12-25 04:09:34.182",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:09:34.182",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:09:34.906",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "29-12-25 04:09:34.906",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "29-12-25 04:09:38.219",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:09:38.219",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:09:45.191",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:09:45.191",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:09:51.577",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "29-12-25 04:09:51.577",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "29-12-25 04:09:55.640",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:09:55.640",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:09:55.886",
+      "timestamp": "29-12-25 04:18:27.542",
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY YOU!"
     },
     {
-      "timestamp": "29-12-25 04:09:55.886",
+      "timestamp": "29-12-25 04:18:27.542",
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY YOU!"
     },
     {
-      "timestamp": "29-12-25 04:09:56.121",
+      "timestamp": "29-12-25 04:18:27.775",
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY!"
     },
     {
-      "timestamp": "29-12-25 04:09:56.121",
+      "timestamp": "29-12-25 04:18:27.775",
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY!"
     },
     {
-      "timestamp": "29-12-25 04:10:03.611",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:10:03.611",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:10:04.849",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:10:04.849",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:10:09.705",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "29-12-25 04:10:09.705",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "29-12-25 04:10:09.976",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:10:09.976",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:10:10.186",
+      "timestamp": "29-12-25 04:18:27.976",
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY YOU!"
     },
     {
-      "timestamp": "29-12-25 04:10:10.186",
+      "timestamp": "29-12-25 04:18:27.976",
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY YOU!"
     },
     {
-      "timestamp": "29-12-25 04:10:23.010",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:10:23.010",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:10:23.279",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:10:23.279",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:10:23.486",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:10:23.486",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "29-12-25 04:10:23.714",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "29-12-25 04:10:23.714",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "29-12-25 04:14:16.901",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "29-12-25 04:14:16.901",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "29-12-25 04:14:17.343",
+      "timestamp": "29-12-25 04:18:28.145",
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY YOU!"
     },
     {
-      "timestamp": "29-12-25 04:14:17.343",
+      "timestamp": "29-12-25 04:18:28.145",
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY YOU!"
     },
     {
-      "timestamp": "29-12-25 04:14:18.024",
+      "timestamp": "29-12-25 04:18:28.313",
       "chat_type": "Local",
       "author": "Sully",
       "text": "OVER HERE!"
     },
     {
-      "timestamp": "29-12-25 04:14:18.024",
+      "timestamp": "29-12-25 04:18:28.313",
       "chat_type": "Local",
       "author": "Sully",
       "text": "OVER HERE!"
     },
     {
-      "timestamp": "29-12-25 04:14:18.412",
+      "timestamp": "29-12-25 04:18:28.978",
       "chat_type": "Local",
       "author": "Sully",
-      "text": "OVER HERE!"
+      "text": "HEY!"
     },
     {
-      "timestamp": "29-12-25 04:14:18.412",
+      "timestamp": "29-12-25 04:18:28.979",
       "chat_type": "Local",
       "author": "Sully",
-      "text": "OVER HERE!"
+      "text": "HEY!"
     },
     {
-      "timestamp": "29-12-25 04:14:18.687",
+      "timestamp": "29-12-25 04:18:29.497",
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY YOU!"
     },
     {
-      "timestamp": "29-12-25 04:14:18.687",
+      "timestamp": "29-12-25 04:18:29.497",
       "chat_type": "Local",
       "author": "Sully",
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-29T04:15:01.743888"
+  "timestamp": "2025-12-29T04:20:01.126218"
 }
