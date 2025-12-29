@@ -209,7 +209,7 @@
     "admin": {
       "username": "admin",
       "steam_id": "76561198065774641",
-      "total_hours": 47,
+      "total_hours": 51,
       "deaths": 0,
       "skills": {
         "Cooking": 2,
@@ -249,9 +249,10 @@
         "Glassmaking": 0
       },
       "level_ups": [],
-      "last_seen": "29-12-25 22:29:32.150",
+      "last_seen": "29-12-25 22:41:38.537",
+      "connections": 1,
       "role_id": 7,
-      "last_connection_db": "2025-12-29 22:28:55"
+      "last_connection_db": "2025-12-29 22:41:08"
     },
     "Sully": {
       "username": "Sully",
@@ -2490,7 +2491,7 @@
     "RottenPotato": {
       "username": "RottenPotato",
       "steam_id": "76561199511597958",
-      "total_hours": 307,
+      "total_hours": 316,
       "deaths": 4,
       "skills": {
         "Cooking": 0,
@@ -2681,7 +2682,8 @@
           "timestamp": "29-12-25 10:57:57.554"
         }
       ],
-      "last_seen": "29-12-25 22:02:35.768"
+      "last_seen": "29-12-25 22:43:46.492",
+      "connections": 1
     },
     "ExpiredMayo": {
       "username": "ExpiredMayo",
@@ -3869,5 +3871,5 @@
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-29T22:40:02.015880"
+  "timestamp": "2025-12-29T22:45:01.355560"
 }
