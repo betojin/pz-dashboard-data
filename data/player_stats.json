@@ -2508,7 +2508,7 @@
     "RottenPotato": {
       "username": "RottenPotato",
       "steam_id": "76561199511597958",
-      "total_hours": 390,
+      "total_hours": 405,
       "deaths": 4,
       "skills": {
         "Cooking": 0,
@@ -2529,7 +2529,7 @@
         "PlantScavenging": 0,
         "Doctor": 0,
         "Electricity": 2,
-        "Blacksmith": 4,
+        "Blacksmith": 5,
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
@@ -2737,9 +2737,14 @@
           "skill": "Blacksmith",
           "level": "4",
           "timestamp": "30-12-25 01:45:40.673"
+        },
+        {
+          "skill": "Blacksmith",
+          "level": "5",
+          "timestamp": "30-12-25 03:12:19.410"
         }
       ],
-      "last_seen": "30-12-25 02:34:49.489",
+      "last_seen": "30-12-25 03:12:19.410",
       "connections": 2
     },
     "ExpiredMayo": {
@@ -3929,5 +3934,5 @@
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-30T03:10:01.540517"
+  "timestamp": "2025-12-30T03:15:01.884371"
 }
