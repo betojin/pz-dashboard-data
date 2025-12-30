@@ -296,21 +296,36 @@
       "x": "8608",
       "y": "8818",
       "z": "0"
+    },
+    {
+      "timestamp": "30-12-25 03:26:18.648",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "30-12-25 03:26:18.648",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "30-12-25 03:26:26.471",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "30-12-25 03:26:41.823",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "fully connected",
+      "x": "12021",
+      "y": "2596",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "29-12-25 21:22:04.326",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12501",
-      "y": "3457",
-      "z": "0",
-      "hours_survived": 585,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "2"
-    },
     {
       "timestamp": "29-12-25 21:28:52.524",
       "steam_id": "76561198065774641",
@@ -1148,6 +1163,53 @@
       "event_type": "level_up",
       "skill": "Doctor",
       "level": "1"
+    },
+    {
+      "timestamp": "30-12-25 03:26:42.775",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12021",
+      "y": "2596",
+      "z": "0",
+      "hours_survived": 667,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 1,
+        "Fitness": 10,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 6,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 8,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 2,
+        "Blacksmith": 0,
+        "MetalWelding": 4,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1212,5 +1274,5 @@
       "text": "psst"
     }
   ],
-  "timestamp": "2025-12-30T03:25:01.252565"
+  "timestamp": "2025-12-30T03:30:01.565936"
 }
