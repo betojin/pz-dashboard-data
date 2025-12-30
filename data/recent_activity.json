@@ -197,33 +197,45 @@
       "steam_id": "76561198060886931",
       "username": "Zero",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "30-12-25 02:33:33.806",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "fully connected",
+      "x": "8616",
+      "y": "8822",
+      "z": "0"
+    },
+    {
+      "timestamp": "30-12-25 02:34:02.784",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "30-12-25 02:34:02.785",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "30-12-25 02:34:14.094",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "30-12-25 02:34:48.391",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "fully connected",
+      "x": "12010",
+      "y": "2590",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "29-12-25 16:33:31.678",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10665",
-      "y": "9560",
-      "z": "0",
-      "hours_survived": 1409,
-      "event_type": "level_up",
-      "skill": "Husbandry",
-      "level": "3"
-    },
-    {
-      "timestamp": "29-12-25 17:37:47.641",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "11018",
-      "y": "10263",
-      "z": "0",
-      "hours_survived": 1435,
-      "event_type": "level_up",
-      "skill": "Fishing",
-      "level": "5"
-    },
     {
       "timestamp": "29-12-25 18:06:57.858",
       "steam_id": "76561198031138505",
@@ -979,6 +991,100 @@
       "event_type": "level_up",
       "skill": "Blacksmith",
       "level": "4"
+    },
+    {
+      "timestamp": "30-12-25 02:33:34.348",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8616",
+      "y": "8822",
+      "z": "0",
+      "hours_survived": 589,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 3,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 6,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 6,
+        "Doctor": 1,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 5,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 2,
+        "Tracking": 0,
+        "Husbandry": 2,
+        "FlintKnapping": 2,
+        "Masonry": 4,
+        "Pottery": 0,
+        "Carving": 7,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "30-12-25 02:34:49.489",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12010",
+      "y": "2590",
+      "z": "0",
+      "hours_survived": 390,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 10,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 4,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 4,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 2,
+        "Blacksmith": 4,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 6,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1019,5 +1125,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-30T02:30:01.638881"
+  "timestamp": "2025-12-30T02:35:02.004149"
 }
