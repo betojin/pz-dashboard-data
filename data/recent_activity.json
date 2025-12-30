@@ -366,18 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "30-12-25 04:31:10.390",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10113",
-      "y": "8256",
-      "z": "0",
-      "hours_survived": 1125,
-      "event_type": "level_up",
-      "skill": "Masonry",
-      "level": "3"
-    },
-    {
       "timestamp": "30-12-25 04:43:22.996",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -864,6 +852,18 @@
       "event_type": "level_up",
       "skill": "Pottery",
       "level": "2"
+    },
+    {
+      "timestamp": "30-12-25 08:51:41.181",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12010",
+      "y": "2588",
+      "z": "0",
+      "hours_survived": 525,
+      "event_type": "level_up",
+      "skill": "Pottery",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1036,5 +1036,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-30T08:50:01.417332"
+  "timestamp": "2025-12-30T08:55:01.795849"
 }
