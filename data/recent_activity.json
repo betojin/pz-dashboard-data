@@ -369,18 +369,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "30-12-25 07:18:39.973",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12009",
-      "y": "2588",
-      "z": "0",
-      "hours_survived": 488,
-      "event_type": "level_up",
-      "skill": "Pottery",
-      "level": "1"
-    },
-    {
       "timestamp": "30-12-25 07:37:23.431",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -828,6 +816,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "30-12-25 20:08:45.408",
+      "steam_id": "76561198061278854",
+      "username": "Tooth",
+      "x": "10671",
+      "y": "9774",
+      "z": "0",
+      "hours_survived": 16,
+      "event_type": "level_up",
+      "skill": "Doctor",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1012,5 +1012,5 @@
       "text": "the worst time for joining the server for the first time"
     }
   ],
-  "timestamp": "2025-12-30T20:05:01.258507"
+  "timestamp": "2025-12-30T20:10:01.682870"
 }

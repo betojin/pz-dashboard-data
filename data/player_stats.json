@@ -4185,7 +4185,7 @@
     "Tooth": {
       "username": "Tooth",
       "steam_id": "76561198061278854",
-      "total_hours": 0,
+      "total_hours": 16,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -4204,7 +4204,7 @@
         "Fishing": 0,
         "Trapping": 0,
         "PlantScavenging": 0,
-        "Doctor": 0,
+        "Doctor": 1,
         "Electricity": 0,
         "Blacksmith": 0,
         "MetalWelding": 0,
@@ -4224,11 +4224,17 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "30-12-25 19:27:29.389",
+      "level_ups": [
+        {
+          "skill": "Doctor",
+          "level": "1",
+          "timestamp": "30-12-25 20:08:45.408"
+        }
+      ],
+      "last_seen": "30-12-25 20:08:45.408",
       "connections": 1
     }
   },
   "total_players": 37,
-  "timestamp": "2025-12-30T20:05:01.223580"
+  "timestamp": "2025-12-30T20:10:01.648876"
 }
