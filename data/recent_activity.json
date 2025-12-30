@@ -4,12 +4,6 @@
       "timestamp": "29-12-25 23:06:37.904",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "29-12-25 23:06:37.904",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
       "action": "allowed to join"
     },
     {
@@ -355,6 +349,15 @@
       "action": "fully connected",
       "x": "12026",
       "y": "2590",
+      "z": "0"
+    },
+    {
+      "timestamp": "30-12-25 04:58:10.498",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "disconnected",
+      "x": "10099",
+      "y": "8261",
       "z": "0"
     }
   ],
@@ -1262,5 +1265,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2025-12-30T04:55:01.757793"
+  "timestamp": "2025-12-30T05:00:01.204361"
 }
