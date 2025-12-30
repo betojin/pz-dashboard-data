@@ -143,21 +143,18 @@
       "steam_id": "76561198060886931",
       "username": "Zero",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "30-12-25 01:25:04.346",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "fully connected",
+      "x": "8615",
+      "y": "8823",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "29-12-25 10:57:57.554",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12012",
-      "y": "2589",
-      "z": "0",
-      "hours_survived": 292,
-      "event_type": "level_up",
-      "skill": "Masonry",
-      "level": "3"
-    },
     {
       "timestamp": "29-12-25 14:52:02.961",
       "steam_id": "76561198031138505",
@@ -960,6 +957,53 @@
       "event_type": "level_up",
       "skill": "Masonry",
       "level": "6"
+    },
+    {
+      "timestamp": "30-12-25 01:25:05.063",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8615",
+      "y": "8823",
+      "z": "0",
+      "hours_survived": 579,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 3,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 6,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 6,
+        "Doctor": 1,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 5,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 2,
+        "Tracking": 0,
+        "Husbandry": 2,
+        "FlintKnapping": 2,
+        "Masonry": 4,
+        "Pottery": 0,
+        "Carving": 7,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -988,5 +1032,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-30T01:25:01.562149"
+  "timestamp": "2025-12-30T01:30:01.957040"
 }
