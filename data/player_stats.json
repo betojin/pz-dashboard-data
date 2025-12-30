@@ -250,7 +250,7 @@
     "admin": {
       "username": "admin",
       "steam_id": "76561198065774641",
-      "total_hours": 60,
+      "total_hours": 63,
       "deaths": 0,
       "skills": {
         "Cooking": 2,
@@ -262,7 +262,7 @@
         "Nimble": 0,
         "Sprinting": 0,
         "Sneak": 0,
-        "Woodwork": 0,
+        "Woodwork": 10,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -289,8 +289,59 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "30-12-25 07:56:06.738",
+      "level_ups": [
+        {
+          "skill": "Woodwork",
+          "level": "1",
+          "timestamp": "30-12-25 08:03:19.159"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "2",
+          "timestamp": "30-12-25 08:03:19.300"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "3",
+          "timestamp": "30-12-25 08:03:19.484"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "4",
+          "timestamp": "30-12-25 08:03:19.587"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "5",
+          "timestamp": "30-12-25 08:03:19.744"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "6",
+          "timestamp": "30-12-25 08:03:19.872"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "7",
+          "timestamp": "30-12-25 08:03:20.055"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "8",
+          "timestamp": "30-12-25 08:03:20.233"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "9",
+          "timestamp": "30-12-25 08:03:20.336"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "10",
+          "timestamp": "30-12-25 08:03:20.509"
+        }
+      ],
+      "last_seen": "30-12-25 08:03:20.509",
       "connections": 1,
       "role_id": 7,
       "last_connection_db": "2025-12-30 07:55:20"
@@ -2554,7 +2605,7 @@
     "RottenPotato": {
       "username": "RottenPotato",
       "steam_id": "76561199511597958",
-      "total_hours": 488,
+      "total_hours": 506,
       "deaths": 4,
       "skills": {
         "Cooking": 0,
@@ -2566,7 +2617,7 @@
         "Nimble": 0,
         "Sprinting": 3,
         "Sneak": 0,
-        "Woodwork": 4,
+        "Woodwork": 5,
         "Aiming": 0,
         "Reloading": 1,
         "Farming": 0,
@@ -2833,9 +2884,14 @@
           "skill": "Pottery",
           "level": "1",
           "timestamp": "30-12-25 07:18:39.973"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "5",
+          "timestamp": "30-12-25 08:04:04.965"
         }
       ],
-      "last_seen": "30-12-25 07:18:39.973",
+      "last_seen": "30-12-25 08:04:04.965",
       "connections": 3
     },
     "ExpiredMayo": {
@@ -4026,5 +4082,5 @@
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-30T08:00:01.703155"
+  "timestamp": "2025-12-30T08:05:01.057500"
 }
