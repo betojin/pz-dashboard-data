@@ -369,18 +369,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "30-12-25 07:37:23.431",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12027",
-      "y": "2606",
-      "z": "0",
-      "hours_survived": 767,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "9"
-    },
-    {
       "timestamp": "30-12-25 07:40:44.938",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -828,6 +816,18 @@
       "event_type": "level_up",
       "skill": "Doctor",
       "level": "1"
+    },
+    {
+      "timestamp": "30-12-25 20:20:18.617",
+      "steam_id": "76561198061278854",
+      "username": "Tooth",
+      "x": "10624",
+      "y": "9624",
+      "z": "0",
+      "hours_survived": 21,
+      "event_type": "level_up",
+      "skill": "Blunt",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1024,5 +1024,5 @@
       "text": "hey"
     }
   ],
-  "timestamp": "2025-12-30T20:20:01.381839"
+  "timestamp": "2025-12-30T20:25:01.772585"
 }
