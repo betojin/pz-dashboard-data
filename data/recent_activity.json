@@ -300,65 +300,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "29-12-25 21:13:40.732",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12021",
-      "y": "2596",
-      "z": "0",
-      "hours_survived": 582,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 1,
-        "Fitness": 10,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 6,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 7,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 2,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "29-12-25 21:19:03.124",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12495",
-      "y": "3455",
-      "z": "0",
-      "hours_survived": 584,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "1"
-    },
-    {
       "timestamp": "29-12-25 21:22:04.326",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -1183,6 +1124,30 @@
       "event_type": "level_up",
       "skill": "Blacksmith",
       "level": "5"
+    },
+    {
+      "timestamp": "30-12-25 03:23:52.312",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12010",
+      "y": "2592",
+      "z": "0",
+      "hours_survived": 410,
+      "event_type": "level_up",
+      "skill": "Blacksmith",
+      "level": "6"
+    },
+    {
+      "timestamp": "30-12-25 03:24:01.687",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10082",
+      "y": "8257",
+      "z": "2",
+      "hours_survived": 1099,
+      "event_type": "level_up",
+      "skill": "Doctor",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1247,5 +1212,5 @@
       "text": "psst"
     }
   ],
-  "timestamp": "2025-12-30T03:20:01.379300"
+  "timestamp": "2025-12-30T03:25:01.252565"
 }
