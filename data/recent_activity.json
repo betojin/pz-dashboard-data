@@ -336,53 +336,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "29-12-25 22:29:32.150",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "x": "12030",
-      "y": "2587",
-      "z": "0",
-      "hours_survived": 47,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 2,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "29-12-25 22:41:38.537",
       "steam_id": "76561198065774641",
       "username": "admin",
@@ -1149,6 +1102,18 @@
       "event_type": "level_up",
       "skill": "Blacksmith",
       "level": "7"
+    },
+    {
+      "timestamp": "30-12-25 04:31:10.390",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10113",
+      "y": "8256",
+      "z": "0",
+      "hours_survived": 1125,
+      "event_type": "level_up",
+      "skill": "Masonry",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1237,5 +1202,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-30T04:30:02.043344"
+  "timestamp": "2025-12-30T04:35:01.366337"
 }
