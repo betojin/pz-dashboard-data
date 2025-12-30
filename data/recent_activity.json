@@ -369,53 +369,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "30-12-25 07:56:06.738",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "x": "12027",
-      "y": "2585",
-      "z": "0",
-      "hours_survived": 60,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 2,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "30-12-25 08:03:19.159",
       "steam_id": "76561198065774641",
       "username": "admin",
@@ -828,6 +781,18 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "1"
+    },
+    {
+      "timestamp": "30-12-25 21:47:57.147",
+      "steam_id": "76561198061278854",
+      "username": "Tooth",
+      "x": "12021",
+      "y": "6849",
+      "z": "0",
+      "hours_survived": 56,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1024,5 +989,5 @@
       "text": "hey"
     }
   ],
-  "timestamp": "2025-12-30T21:45:01.761767"
+  "timestamp": "2025-12-30T21:50:01.262004"
 }

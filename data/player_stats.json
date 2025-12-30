@@ -4185,7 +4185,7 @@
     "Tooth": {
       "username": "Tooth",
       "steam_id": "76561198061278854",
-      "total_hours": 34,
+      "total_hours": 56,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -4210,7 +4210,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 0,
+        "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -4239,12 +4239,17 @@
           "skill": "Sprinting",
           "level": "1",
           "timestamp": "30-12-25 20:55:00.574"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "30-12-25 21:47:57.147"
         }
       ],
-      "last_seen": "30-12-25 20:55:00.574",
+      "last_seen": "30-12-25 21:47:57.147",
       "connections": 1
     }
   },
   "total_players": 37,
-  "timestamp": "2025-12-30T21:45:01.727378"
+  "timestamp": "2025-12-30T21:50:01.225023"
 }
