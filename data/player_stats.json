@@ -4185,7 +4185,7 @@
     "Tooth": {
       "username": "Tooth",
       "steam_id": "76561198061278854",
-      "total_hours": 21,
+      "total_hours": 34,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -4195,7 +4195,7 @@
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 0,
-        "Sprinting": 0,
+        "Sprinting": 1,
         "Sneak": 0,
         "Woodwork": 0,
         "Aiming": 0,
@@ -4234,12 +4234,17 @@
           "skill": "Blunt",
           "level": "1",
           "timestamp": "30-12-25 20:20:18.617"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "30-12-25 20:55:00.574"
         }
       ],
-      "last_seen": "30-12-25 20:20:18.617",
+      "last_seen": "30-12-25 20:55:00.574",
       "connections": 1
     }
   },
   "total_players": 37,
-  "timestamp": "2025-12-30T20:50:01.813793"
+  "timestamp": "2025-12-30T20:55:01.149448"
 }
