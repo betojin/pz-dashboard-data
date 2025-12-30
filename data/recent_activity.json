@@ -366,18 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "30-12-25 06:03:20.193",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12011",
-      "y": "2591",
-      "z": "0",
-      "hours_survived": 458,
-      "event_type": "level_up",
-      "skill": "Masonry",
-      "level": "7"
-    },
-    {
       "timestamp": "30-12-25 06:48:42.494",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -759,6 +747,18 @@
       "event_type": "level_up",
       "skill": "Carving",
       "level": "1"
+    },
+    {
+      "timestamp": "30-12-25 12:26:12.634",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12054",
+      "y": "2599",
+      "z": "0",
+      "hours_survived": 611,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -931,5 +931,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-30T12:25:01.119198"
+  "timestamp": "2025-12-30T12:30:01.467174"
 }
