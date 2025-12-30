@@ -336,18 +336,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "29-12-25 21:28:52.524",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12509",
-      "y": "3444",
-      "z": "0",
-      "hours_survived": 588,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "3"
-    },
-    {
       "timestamp": "29-12-25 21:58:54.063",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -1219,6 +1207,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "30-12-25 03:45:17.622",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12184",
+      "y": "2294",
+      "z": "0",
+      "hours_survived": 419,
+      "event_type": "level_up",
+      "skill": "Axe",
+      "level": "5"
     }
   ],
   "chat_messages": [
@@ -1283,5 +1283,5 @@
       "text": "psst"
     }
   ],
-  "timestamp": "2025-12-30T03:45:01.680475"
+  "timestamp": "2025-12-30T03:50:02.083687"
 }
