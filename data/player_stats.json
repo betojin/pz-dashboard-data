@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 618,
+      "total_hours": 658,
       "deaths": 3,
       "skills": {
         "Cooking": 1,
@@ -15,7 +15,7 @@
         "Nimble": 1,
         "Sprinting": 3,
         "Sneak": 0,
-        "Woodwork": 7,
+        "Woodwork": 8,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -207,9 +207,14 @@
           "skill": "MetalWelding",
           "level": "4",
           "timestamp": "30-12-25 00:00:52.617"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "8",
+          "timestamp": "30-12-25 01:42:00.446"
         }
       ],
-      "last_seen": "30-12-25 00:00:52.617",
+      "last_seen": "30-12-25 01:42:00.446",
       "connections": 2
     },
     "admin": {
@@ -2497,7 +2502,7 @@
     "RottenPotato": {
       "username": "RottenPotato",
       "steam_id": "76561199511597958",
-      "total_hours": 361,
+      "total_hours": 383,
       "deaths": 4,
       "skills": {
         "Cooking": 0,
@@ -2518,7 +2523,7 @@
         "PlantScavenging": 0,
         "Doctor": 0,
         "Electricity": 2,
-        "Blacksmith": 2,
+        "Blacksmith": 3,
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
@@ -2716,9 +2721,14 @@
           "skill": "Masonry",
           "level": "6",
           "timestamp": "30-12-25 00:47:50.577"
+        },
+        {
+          "skill": "Blacksmith",
+          "level": "3",
+          "timestamp": "30-12-25 01:44:46.338"
         }
       ],
-      "last_seen": "30-12-25 00:47:50.577",
+      "last_seen": "30-12-25 01:44:46.338",
       "connections": 1
     },
     "ExpiredMayo": {
@@ -3908,5 +3918,5 @@
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-30T01:40:01.610964"
+  "timestamp": "2025-12-30T01:45:01.893471"
 }

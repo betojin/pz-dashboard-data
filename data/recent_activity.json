@@ -156,100 +156,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "29-12-25 14:52:02.961",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9567",
-      "z": "0",
-      "hours_survived": 1381,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 6,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 3,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 5,
-        "Sneak": 0,
-        "Woodwork": 7,
-        "Aiming": 0,
-        "Reloading": 2,
-        "Farming": 4,
-        "Fishing": 4,
-        "Trapping": 2,
-        "PlantScavenging": 6,
-        "Doctor": 0,
-        "Electricity": 3,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 1,
-        "Maintenance": 6,
-        "SmallBlade": 0,
-        "LongBlade": 1,
-        "SmallBlunt": 4,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 3,
-        "Masonry": 8,
-        "Pottery": 0,
-        "Carving": 7,
-        "Butchering": 2,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "29-12-25 15:45:38.359",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9571",
-      "z": "0",
-      "hours_survived": 1390,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 6,
-        "Fitness": 10,
-        "Strength": 9,
-        "Blunt": 3,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 5,
-        "Sneak": 0,
-        "Woodwork": 7,
-        "Aiming": 0,
-        "Reloading": 2,
-        "Farming": 4,
-        "Fishing": 4,
-        "Trapping": 2,
-        "PlantScavenging": 6,
-        "Doctor": 0,
-        "Electricity": 3,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 1,
-        "Maintenance": 6,
-        "SmallBlade": 0,
-        "LongBlade": 1,
-        "SmallBlunt": 4,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 3,
-        "Masonry": 8,
-        "Pottery": 0,
-        "Carving": 7,
-        "Butchering": 2,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "29-12-25 16:16:55.381",
       "steam_id": "76561198031138505",
       "username": "Firestorm3050",
@@ -1004,6 +910,30 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "30-12-25 01:42:00.446",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12020",
+      "y": "2596",
+      "z": "0",
+      "hours_survived": 658,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "8"
+    },
+    {
+      "timestamp": "30-12-25 01:44:46.338",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12010",
+      "y": "2592",
+      "z": "0",
+      "hours_survived": 383,
+      "event_type": "level_up",
+      "skill": "Blacksmith",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1030,7 +960,19 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "30-12-25 01:42:12.419",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "30-12-25 01:42:12.419",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2025-12-30T01:40:01.640960"
+  "timestamp": "2025-12-30T01:45:01.923658"
 }
