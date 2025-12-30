@@ -4133,7 +4133,7 @@
     "Carl": {
       "username": "Carl",
       "steam_id": "76561198805250083",
-      "total_hours": 0,
+      "total_hours": 7,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -4158,7 +4158,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -4172,11 +4172,17 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "30-12-25 17:25:52.855",
+      "level_ups": [
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "30-12-25 17:43:44.508"
+        }
+      ],
+      "last_seen": "30-12-25 17:43:44.508",
       "connections": 1
     }
   },
   "total_players": 36,
-  "timestamp": "2025-12-30T17:40:01.384105"
+  "timestamp": "2025-12-30T17:45:01.743050"
 }
