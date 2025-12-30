@@ -251,45 +251,54 @@
       "steam_id": "76561198119296623",
       "username": "Sully",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "30-12-25 03:05:03.322",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "fully connected",
+      "x": "10098",
+      "y": "8259",
+      "z": "0"
+    },
+    {
+      "timestamp": "30-12-25 03:07:55.203",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "disconnected",
+      "x": "8608",
+      "y": "8818",
+      "z": "0"
+    },
+    {
+      "timestamp": "30-12-25 03:08:21.278",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "30-12-25 03:08:21.279",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "30-12-25 03:08:33.097",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "30-12-25 03:09:48.587",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "fully connected",
+      "x": "8608",
+      "y": "8818",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "29-12-25 18:06:57.858",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9566",
-      "z": "0",
-      "hours_survived": 1447,
-      "event_type": "level_up",
-      "skill": "Butchering",
-      "level": "3"
-    },
-    {
-      "timestamp": "29-12-25 18:20:27.654",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10659",
-      "y": "9566",
-      "z": "0",
-      "hours_survived": 1452,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "3"
-    },
-    {
-      "timestamp": "29-12-25 18:30:24.058",
-      "steam_id": "76561198031138505",
-      "username": "Firestorm3050",
-      "x": "10660",
-      "y": "9566",
-      "z": "0",
-      "hours_survived": 1456,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "4"
-    },
     {
       "timestamp": "29-12-25 18:54:21.447",
       "steam_id": "76561198044597580",
@@ -1103,6 +1112,112 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "30-12-25 03:05:04.026",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10098",
+      "y": "8259",
+      "z": "0",
+      "hours_survived": 1091,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 3,
+        "Fitness": 5,
+        "Strength": 9,
+        "Blunt": 3,
+        "Axe": 2,
+        "Lightfoot": 2,
+        "Nimble": 4,
+        "Sprinting": 4,
+        "Sneak": 2,
+        "Woodwork": 9,
+        "Aiming": 4,
+        "Reloading": 5,
+        "Farming": 0,
+        "Fishing": 2,
+        "Trapping": 0,
+        "PlantScavenging": 4,
+        "Doctor": 0,
+        "Electricity": 2,
+        "Blacksmith": 0,
+        "MetalWelding": 2,
+        "Mechanics": 2,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 4,
+        "Tracking": 0,
+        "Husbandry": 4,
+        "FlintKnapping": 0,
+        "Masonry": 2,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "30-12-25 03:09:02.394",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10102",
+      "y": "8261",
+      "z": "0",
+      "hours_survived": 1093,
+      "event_type": "level_up",
+      "skill": "Electricity",
+      "level": "3"
+    },
+    {
+      "timestamp": "30-12-25 03:09:48.860",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8608",
+      "y": "8818",
+      "z": "0",
+      "hours_survived": 602,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 3,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 6,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 6,
+        "Doctor": 1,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 5,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 2,
+        "Tracking": 0,
+        "Husbandry": 2,
+        "FlintKnapping": 2,
+        "Masonry": 4,
+        "Pottery": 0,
+        "Carving": 7,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1141,7 +1256,19 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "30-12-25 03:08:20.217",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "has anything respawned yet?"
+    },
+    {
+      "timestamp": "30-12-25 03:08:20.217",
+      "chat_type": "General",
+      "author": "Sully",
+      "text": "has anything respawned yet?"
     }
   ],
-  "timestamp": "2025-12-30T03:05:01.215069"
+  "timestamp": "2025-12-30T03:10:01.571597"
 }
