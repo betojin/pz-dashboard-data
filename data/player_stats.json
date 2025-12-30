@@ -2605,10 +2605,10 @@
     "RottenPotato": {
       "username": "RottenPotato",
       "steam_id": "76561199511597958",
-      "total_hours": 525,
+      "total_hours": 530,
       "deaths": 4,
       "skills": {
-        "Cooking": 0,
+        "Cooking": 1,
         "Fitness": 10,
         "Strength": 10,
         "Blunt": 0,
@@ -2641,7 +2641,7 @@
         "Masonry": 7,
         "Pottery": 3,
         "Carving": 0,
-        "Butchering": 4,
+        "Butchering": 5,
         "Glassmaking": 0
       },
       "level_ups": [
@@ -2904,9 +2904,19 @@
           "skill": "Pottery",
           "level": "3",
           "timestamp": "30-12-25 08:51:41.181"
+        },
+        {
+          "skill": "Butchering",
+          "level": "5",
+          "timestamp": "30-12-25 09:03:15.985"
+        },
+        {
+          "skill": "Cooking",
+          "level": "1",
+          "timestamp": "30-12-25 09:04:19.388"
         }
       ],
-      "last_seen": "30-12-25 08:51:41.181",
+      "last_seen": "30-12-25 09:04:19.388",
       "connections": 3
     },
     "ExpiredMayo": {
@@ -4097,5 +4107,5 @@
     }
   },
   "total_players": 35,
-  "timestamp": "2025-12-30T09:00:01.125347"
+  "timestamp": "2025-12-30T09:05:01.487894"
 }
