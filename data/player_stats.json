@@ -3050,9 +3050,24 @@
           "skill": "Woodwork",
           "level": "3",
           "timestamp": "31-12-25 08:49:19.621"
+        },
+        {
+          "skill": "Carving",
+          "level": "2",
+          "timestamp": "31-12-25 09:00:21.785"
+        },
+        {
+          "skill": "Carving",
+          "level": "3",
+          "timestamp": "31-12-25 09:02:27.910"
+        },
+        {
+          "skill": "Carving",
+          "level": "4",
+          "timestamp": "31-12-25 09:03:49.409"
         }
       ],
-      "last_seen": "31-12-25 08:57:45.501",
+      "last_seen": "31-12-25 09:03:49.409",
       "connections": 10
     },
     "ExpiredMayo": {
@@ -4378,5 +4393,5 @@
     }
   },
   "total_players": 37,
-  "timestamp": "2025-12-31T09:00:01.911820"
+  "timestamp": "2025-12-31T09:05:01.329090"
 }
