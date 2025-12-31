@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "31-12-25 06:00:14.384",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "disconnected",
-      "x": "12025",
-      "y": "2592",
-      "z": "0"
-    },
-    {
-      "timestamp": "31-12-25 06:02:44.098",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "31-12-25 06:02:44.098",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -368,56 +353,27 @@
       "x": "12021",
       "y": "6914",
       "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 23:22:56.296",
+      "steam_id": "76561198766616478",
+      "username": "Sock_Monkey27",
+      "action": "disconnected",
+      "x": "12035",
+      "y": "6947",
+      "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 23:22:58.863",
+      "steam_id": "76561198766616478",
+      "username": "Sock_Monkey27",
+      "action": "fully connected",
+      "x": "12027",
+      "y": "2715",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "31-12-25 08:08:40.733",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12022",
-      "y": "2595",
-      "z": "0",
-      "hours_survived": 752,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 1,
-        "Fitness": 10,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 5,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 5,
-        "Aiming": 0,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 2,
-        "Blacksmith": 10,
-        "MetalWelding": 7,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 5,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 8,
-        "Pottery": 4,
-        "Carving": 5,
-        "Butchering": 5,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "31-12-25 08:31:34.211",
       "steam_id": "76561199511597958",
@@ -961,6 +917,16 @@
       "z": "0",
       "hours_survived": 1,
       "event_type": "died"
+    },
+    {
+      "timestamp": "31-12-25 23:22:58.994",
+      "steam_id": "76561198766616478",
+      "username": "Sock_Monkey27",
+      "x": "12027",
+      "y": "2715",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
@@ -1265,5 +1231,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-31T23:20:01.413732"
+  "timestamp": "2025-12-31T23:25:01.822356"
 }
