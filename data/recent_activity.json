@@ -4,12 +4,6 @@
       "timestamp": "30-12-25 07:55:20.138",
       "steam_id": "76561198065774641",
       "username": "admin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "30-12-25 07:55:20.138",
-      "steam_id": "76561198065774641",
-      "username": "admin",
       "action": "allowed to join"
     },
     {
@@ -367,6 +361,15 @@
       "action": "fully connected",
       "x": "5779",
       "y": "5358",
+      "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 02:32:12.151",
+      "steam_id": "76561198805250083",
+      "username": "Carl",
+      "action": "disconnected",
+      "x": "6292",
+      "y": "5238",
       "z": "0"
     }
   ],
@@ -1218,5 +1221,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-31T02:30:01.465146"
+  "timestamp": "2025-12-31T02:35:01.810564"
 }
