@@ -372,18 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "30-12-25 12:15:29.824",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12003",
-      "y": "2585",
-      "z": "0",
-      "hours_survived": 607,
-      "event_type": "level_up",
-      "skill": "Blacksmith",
-      "level": "10"
-    },
-    {
       "timestamp": "30-12-25 12:22:59.612",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -1002,6 +990,18 @@
       "z": "0",
       "hours_survived": 0,
       "event_type": "created"
+    },
+    {
+      "timestamp": "31-12-25 02:08:20.912",
+      "steam_id": "76561198805250083",
+      "username": "Carl",
+      "x": "8097",
+      "y": "11504",
+      "z": "0",
+      "hours_survived": 4,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1222,5 +1222,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-31T02:05:01.788623"
+  "timestamp": "2025-12-31T02:10:01.139175"
 }

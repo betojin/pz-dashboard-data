@@ -4209,7 +4209,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 2,
+        "Maintenance": 3,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -4228,9 +4228,14 @@
           "skill": "Maintenance",
           "level": "2",
           "timestamp": "30-12-25 17:43:44.508"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "3",
+          "timestamp": "31-12-25 02:08:20.912"
         }
       ],
-      "last_seen": "31-12-25 01:57:01.518",
+      "last_seen": "31-12-25 02:08:20.912",
       "connections": 5
     },
     "Tooth": {
@@ -4302,5 +4307,5 @@
     }
   },
   "total_players": 37,
-  "timestamp": "2025-12-31T02:05:01.752710"
+  "timestamp": "2025-12-31T02:10:01.103003"
 }
