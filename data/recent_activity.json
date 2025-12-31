@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "31-12-25 04:40:03.168",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "disconnected",
-      "x": "12785",
-      "y": "1558",
-      "z": "0"
-    },
-    {
-      "timestamp": "31-12-25 04:50:07.697",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "disconnected",
-      "x": "12754",
-      "y": "1568",
-      "z": "0"
-    },
-    {
       "timestamp": "31-12-25 05:21:38.168",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -368,68 +350,27 @@
       "x": "12027",
       "y": "2715",
       "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 21:59:28.111",
+      "steam_id": "76561198721055189",
+      "username": "fishbait",
+      "action": "disconnected",
+      "x": "12001",
+      "y": "2645",
+      "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 21:59:31.606",
+      "steam_id": "76561198721055189",
+      "username": "fishbait",
+      "action": "fully connected",
+      "x": "12027",
+      "y": "2715",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "31-12-25 04:42:21.316",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12789",
-      "y": "1537",
-      "z": "1",
-      "hours_survived": 809,
-      "event_type": "level_up",
-      "skill": "Electricity",
-      "level": "3"
-    },
-    {
-      "timestamp": "31-12-25 05:22:21.865",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12785",
-      "y": "1558",
-      "z": "0",
-      "hours_survived": 41,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "31-12-25 05:56:21.290",
       "steam_id": "76561199511597958",
@@ -1037,6 +978,26 @@
       "z": "0",
       "hours_survived": 0,
       "event_type": "created"
+    },
+    {
+      "timestamp": "31-12-25 21:55:49.626",
+      "steam_id": "76561198721055189",
+      "username": "fishbait",
+      "x": "12001",
+      "y": "2645",
+      "z": "0",
+      "hours_survived": 1,
+      "event_type": "died"
+    },
+    {
+      "timestamp": "31-12-25 21:59:32.073",
+      "steam_id": "76561198721055189",
+      "username": "fishbait",
+      "x": "12027",
+      "y": "2715",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
@@ -1293,5 +1254,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-31T21:55:01.770025"
+  "timestamp": "2025-12-31T22:00:01.158435"
 }
