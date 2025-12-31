@@ -378,30 +378,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "31-12-25 03:01:53.605",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12011",
-      "y": "2590",
-      "z": "0",
-      "hours_survived": 703,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "4"
-    },
-    {
-      "timestamp": "31-12-25 03:09:52.057",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12011",
-      "y": "2590",
-      "z": "0",
-      "hours_survived": 706,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "5"
-    },
-    {
       "timestamp": "31-12-25 03:12:02.822",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -1012,6 +988,30 @@
       "event_type": "level_up",
       "skill": "Blacksmith",
       "level": "7"
+    },
+    {
+      "timestamp": "31-12-25 09:21:08.516",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12003",
+      "y": "2585",
+      "z": "0",
+      "hours_survived": 16,
+      "event_type": "level_up",
+      "skill": "Blacksmith",
+      "level": "8"
+    },
+    {
+      "timestamp": "31-12-25 09:23:05.504",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12003",
+      "y": "2585",
+      "z": "0",
+      "hours_survived": 17,
+      "event_type": "level_up",
+      "skill": "Blacksmith",
+      "level": "9"
     }
   ],
   "chat_messages": [
@@ -1268,5 +1268,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-31T09:20:01.460106"
+  "timestamp": "2025-12-31T09:25:01.248312"
 }
