@@ -1,60 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "30-12-25 17:17:16.419",
-      "steam_id": "76561198805250083",
-      "username": "Carl",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "30-12-25 17:24:30.303",
-      "steam_id": "76561198805250083",
-      "username": "Carl",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "30-12-25 17:25:52.453",
-      "steam_id": "76561198805250083",
-      "username": "Carl",
-      "action": "fully connected",
-      "x": "8215",
-      "y": "11677",
-      "z": "0"
-    },
-    {
-      "timestamp": "30-12-25 17:58:12.233",
-      "steam_id": "76561198805250083",
-      "username": "Carl",
-      "action": "disconnected",
-      "x": "8237",
-      "y": "11549",
-      "z": "0"
-    },
-    {
-      "timestamp": "30-12-25 17:58:14.730",
-      "steam_id": "76561198805250083",
-      "username": "Carl",
-      "action": "fully connected",
-      "x": "5333",
-      "y": "6063",
-      "z": "0"
-    },
-    {
-      "timestamp": "30-12-25 18:09:05.747",
-      "steam_id": "76561198805250083",
-      "username": "Carl",
-      "action": "disconnected",
-      "x": "6303",
-      "y": "5282",
-      "z": "0"
-    },
-    {
-      "timestamp": "30-12-25 19:24:37.906",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "30-12-25 19:24:37.906",
       "steam_id": "76561198061278854",
       "username": "Tooth",
@@ -365,33 +311,60 @@
       "steam_id": "76561198119296623",
       "username": "Sully",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "31-12-25 03:55:06.955",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "31-12-25 03:57:00.182",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "fully connected",
+      "x": "10099",
+      "y": "8261",
+      "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 03:57:02.445",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "disconnected",
+      "x": "12042",
+      "y": "2594",
+      "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 03:57:28.925",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "31-12-25 03:57:28.925",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "31-12-25 03:57:39.296",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "31-12-25 03:57:54.234",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "fully connected",
+      "x": "12007",
+      "y": "2585",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "30-12-25 20:55:00.574",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "x": "10084",
-      "y": "8175",
-      "z": "0",
-      "hours_survived": 34,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "1"
-    },
-    {
-      "timestamp": "30-12-25 21:47:57.147",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "x": "12021",
-      "y": "6849",
-      "z": "0",
-      "hours_survived": 56,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "1"
-    },
     {
       "timestamp": "30-12-25 23:22:19.738",
       "steam_id": "76561199511597958",
@@ -964,6 +937,100 @@
       "event_type": "level_up",
       "skill": "MetalWelding",
       "level": "7"
+    },
+    {
+      "timestamp": "31-12-25 03:57:01.023",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10099",
+      "y": "8261",
+      "z": "0",
+      "hours_survived": 1136,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 3,
+        "Fitness": 5,
+        "Strength": 9,
+        "Blunt": 3,
+        "Axe": 2,
+        "Lightfoot": 2,
+        "Nimble": 4,
+        "Sprinting": 4,
+        "Sneak": 2,
+        "Woodwork": 10,
+        "Aiming": 4,
+        "Reloading": 5,
+        "Farming": 0,
+        "Fishing": 2,
+        "Trapping": 0,
+        "PlantScavenging": 4,
+        "Doctor": 1,
+        "Electricity": 3,
+        "Blacksmith": 0,
+        "MetalWelding": 2,
+        "Mechanics": 2,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 4,
+        "Tracking": 0,
+        "Husbandry": 4,
+        "FlintKnapping": 0,
+        "Masonry": 3,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "31-12-25 03:57:55.348",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "12007",
+      "y": "2585",
+      "z": "0",
+      "hours_survived": 24,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1208,5 +1275,5 @@
       "text": "yooooo"
     }
   ],
-  "timestamp": "2025-12-31T03:55:01.900578"
+  "timestamp": "2025-12-31T04:00:01.293867"
 }
