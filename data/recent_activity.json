@@ -372,18 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "30-12-25 08:03:19.484",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "x": "12031",
-      "y": "2606",
-      "z": "0",
-      "hours_survived": 63,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "3"
-    },
-    {
       "timestamp": "30-12-25 08:03:19.587",
       "steam_id": "76561198065774641",
       "username": "admin",
@@ -831,6 +819,18 @@
       "event_type": "level_up",
       "skill": "MetalWelding",
       "level": "1"
+    },
+    {
+      "timestamp": "31-12-25 00:09:21.793",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12011",
+      "y": "2591",
+      "z": "0",
+      "hours_survived": 636,
+      "event_type": "level_up",
+      "skill": "MetalWelding",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1051,5 +1051,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-31T00:05:01.974471"
+  "timestamp": "2025-12-31T00:10:01.341883"
 }
