@@ -1,36 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "31-12-25 06:02:44.098",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "31-12-25 06:02:55.183",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "31-12-25 06:03:12.966",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "fully connected",
-      "x": "12042",
-      "y": "2594",
-      "z": "0"
-    },
-    {
-      "timestamp": "31-12-25 06:36:19.652",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "disconnected",
-      "x": "10086",
-      "y": "8262",
-      "z": "1"
-    },
-    {
       "timestamp": "31-12-25 06:52:46.581",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -371,29 +341,36 @@
       "x": "12027",
       "y": "2715",
       "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 23:27:43.710",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "31-12-25 23:27:43.711",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "31-12-25 23:28:05.192",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "31-12-25 23:29:08.303",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "action": "fully connected",
+      "x": "8273",
+      "y": "11979",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "31-12-25 08:31:34.211",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12005",
-      "y": "2582",
-      "z": "0",
-      "hours_survived": 761,
-      "event_type": "died"
-    },
-    {
-      "timestamp": "31-12-25 08:38:38.142",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12025",
-      "y": "2592",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
     {
       "timestamp": "31-12-25 08:46:09.497",
       "steam_id": "76561199511597958",
@@ -927,6 +904,65 @@
       "z": "0",
       "hours_survived": 0,
       "event_type": "created"
+    },
+    {
+      "timestamp": "31-12-25 23:28:57.230",
+      "steam_id": "76561198061278854",
+      "username": "Tooth",
+      "x": "12495",
+      "y": "2455",
+      "z": "0",
+      "hours_survived": 165,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "1"
+    },
+    {
+      "timestamp": "31-12-25 23:29:09.185",
+      "steam_id": "76561199249031770",
+      "username": "squibby",
+      "x": "8273",
+      "y": "11979",
+      "z": "0",
+      "hours_survived": 65,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 4,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1231,5 +1267,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-31T23:25:01.822356"
+  "timestamp": "2025-12-31T23:30:01.210568"
 }

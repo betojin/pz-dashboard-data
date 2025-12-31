@@ -3797,7 +3797,7 @@
     "squibby": {
       "username": "squibby",
       "steam_id": "76561199249031770",
-      "total_hours": 36,
+      "total_hours": 65,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -3848,7 +3848,8 @@
           "timestamp": "28-12-25 18:49:03.440"
         }
       ],
-      "last_seen": "28-12-25 18:49:03.440"
+      "last_seen": "31-12-25 23:29:09.185",
+      "connections": 1
     },
     "RottenTomato": {
       "username": "RottenTomato",
@@ -4362,7 +4363,7 @@
     "Tooth": {
       "username": "Tooth",
       "steam_id": "76561198061278854",
-      "total_hours": 159,
+      "total_hours": 165,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -4380,7 +4381,7 @@
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
-        "PlantScavenging": 0,
+        "PlantScavenging": 1,
         "Doctor": 1,
         "Electricity": 0,
         "Blacksmith": 0,
@@ -4431,9 +4432,14 @@
           "skill": "Blunt",
           "level": "2",
           "timestamp": "31-12-25 23:14:49.948"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "1",
+          "timestamp": "31-12-25 23:28:57.230"
         }
       ],
-      "last_seen": "31-12-25 23:14:49.948",
+      "last_seen": "31-12-25 23:28:57.230",
       "connections": 4
     },
     "fishbait": {
@@ -4530,5 +4536,5 @@
     }
   },
   "total_players": 39,
-  "timestamp": "2025-12-31T23:25:01.781521"
+  "timestamp": "2025-12-31T23:30:01.170006"
 }
