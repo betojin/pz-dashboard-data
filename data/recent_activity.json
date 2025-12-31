@@ -369,30 +369,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "30-12-25 08:48:34.687",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12010",
-      "y": "2588",
-      "z": "0",
-      "hours_survived": 524,
-      "event_type": "level_up",
-      "skill": "Pottery",
-      "level": "2"
-    },
-    {
-      "timestamp": "30-12-25 08:51:41.181",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12010",
-      "y": "2588",
-      "z": "0",
-      "hours_survived": 525,
-      "event_type": "level_up",
-      "skill": "Pottery",
-      "level": "3"
-    },
-    {
       "timestamp": "30-12-25 09:03:15.985",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -933,6 +909,30 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "31-12-25 01:43:14.387",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10656",
+      "y": "9582",
+      "z": "0",
+      "hours_survived": 1460,
+      "event_type": "level_up",
+      "skill": "Farming",
+      "level": "5"
+    },
+    {
+      "timestamp": "31-12-25 01:43:29.977",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "x": "10658",
+      "y": "9587",
+      "z": "0",
+      "hours_survived": 1460,
+      "event_type": "level_up",
+      "skill": "Farming",
+      "level": "6"
     }
   ],
   "chat_messages": [
@@ -1153,5 +1153,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-31T01:40:01.489588"
+  "timestamp": "2025-12-31T01:45:01.278532"
 }
