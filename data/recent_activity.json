@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "30-12-25 19:24:37.906",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "30-12-25 19:25:59.337",
       "steam_id": "76561198061278854",
       "username": "Tooth",
@@ -362,21 +356,18 @@
       "x": "12007",
       "y": "2585",
       "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 04:40:03.168",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "disconnected",
+      "x": "12785",
+      "y": "1558",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "30-12-25 23:55:07.250",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12206",
-      "y": "1715",
-      "z": "0",
-      "hours_survived": 630,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "1"
-    },
     {
       "timestamp": "31-12-25 00:09:21.793",
       "steam_id": "76561199511597958",
@@ -996,6 +987,18 @@
       "event_type": "level_up",
       "skill": "Axe",
       "level": "7"
+    },
+    {
+      "timestamp": "31-12-25 04:42:21.316",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12789",
+      "y": "1537",
+      "z": "1",
+      "hours_survived": 809,
+      "event_type": "level_up",
+      "skill": "Electricity",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1240,5 +1243,5 @@
       "text": "yooooo"
     }
   ],
-  "timestamp": "2025-12-31T04:40:01.372249"
+  "timestamp": "2025-12-31T04:45:01.716008"
 }
