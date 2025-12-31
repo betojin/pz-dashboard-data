@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "30-12-25 05:48:47.907",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "30-12-25 05:49:01.943",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -362,21 +356,18 @@
       "x": "6303",
       "y": "5282",
       "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 01:50:39.866",
+      "steam_id": "76561198031138505",
+      "username": "Firestorm3050",
+      "action": "disconnected",
+      "x": "10658",
+      "y": "9566",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "30-12-25 09:38:08.394",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12011",
-      "y": "2590",
-      "z": "0",
-      "hours_survived": 544,
-      "event_type": "level_up",
-      "skill": "Masonry",
-      "level": "8"
-    },
     {
       "timestamp": "30-12-25 11:38:04.760",
       "steam_id": "76561199511597958",
@@ -1000,6 +991,16 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "31-12-25 01:54:05.554",
+      "steam_id": "76561198805250083",
+      "username": "Carl",
+      "x": "6410",
+      "y": "5330",
+      "z": "0",
+      "hours_survived": 6,
+      "event_type": "died"
     }
   ],
   "chat_messages": [
@@ -1220,5 +1221,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-31T01:50:01.664600"
+  "timestamp": "2025-12-31T01:55:02.009748"
 }
