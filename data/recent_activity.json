@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "31-12-25 01:45:56.074",
-      "steam_id": "76561198805250083",
-      "username": "Carl",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "31-12-25 01:45:56.075",
-      "steam_id": "76561198805250083",
-      "username": "Carl",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "31-12-25 01:46:08.900",
       "steam_id": "76561198805250083",
       "username": "Carl",
@@ -368,21 +356,27 @@
       "x": "12022",
       "y": "2595",
       "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 08:38:35.312",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "disconnected",
+      "x": "12005",
+      "y": "2582",
+      "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 08:38:37.921",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "fully connected",
+      "x": "12025",
+      "y": "2592",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "31-12-25 01:02:56.873",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12007",
-      "y": "2589",
-      "z": "0",
-      "hours_survived": 658,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "5"
-    },
     {
       "timestamp": "31-12-25 01:16:30.809",
       "steam_id": "76561199511597958",
@@ -1105,6 +1099,16 @@
       "z": "0",
       "hours_survived": 761,
       "event_type": "died"
+    },
+    {
+      "timestamp": "31-12-25 08:38:38.142",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12025",
+      "y": "2592",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
@@ -1361,5 +1365,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-31T08:35:02.041085"
+  "timestamp": "2025-12-31T08:40:01.399843"
 }
