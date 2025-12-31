@@ -1,27 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "30-12-25 07:55:20.138",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "30-12-25 07:55:27.114",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "30-12-25 07:56:05.485",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "fully connected",
-      "x": "12027",
-      "y": "2585",
-      "z": "0"
-    },
-    {
       "timestamp": "30-12-25 08:08:30.986",
       "steam_id": "76561198065774641",
       "username": "admin",
@@ -371,19 +350,27 @@
       "x": "6292",
       "y": "5238",
       "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 03:08:59.178",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "31-12-25 03:08:59.179",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "31-12-25 03:09:05.266",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "30-12-25 17:55:38.757",
-      "steam_id": "76561198805250083",
-      "username": "Carl",
-      "x": "8237",
-      "y": "11549",
-      "z": "0",
-      "hours_survived": 11,
-      "event_type": "died"
-    },
     {
       "timestamp": "30-12-25 17:58:14.885",
       "steam_id": "76561198805250083",
@@ -966,6 +953,18 @@
       "event_type": "level_up",
       "skill": "MetalWelding",
       "level": "4"
+    },
+    {
+      "timestamp": "31-12-25 03:09:52.057",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12011",
+      "y": "2590",
+      "z": "0",
+      "hours_survived": 706,
+      "event_type": "level_up",
+      "skill": "MetalWelding",
+      "level": "5"
     }
   ],
   "chat_messages": [
@@ -1186,5 +1185,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-31T03:05:01.876964"
+  "timestamp": "2025-12-31T03:10:01.406800"
 }
