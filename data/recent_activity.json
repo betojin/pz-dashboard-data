@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "30-12-25 08:08:30.986",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "disconnected",
-      "x": "12016",
-      "y": "2596",
-      "z": "0"
-    },
-    {
       "timestamp": "30-12-25 12:42:14.862",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -368,19 +359,18 @@
       "steam_id": "76561198065774641",
       "username": "BetoJin",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "31-12-25 03:12:02.129",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "fully connected",
+      "x": "12020",
+      "y": "2604",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "30-12-25 17:58:14.885",
-      "steam_id": "76561198805250083",
-      "username": "Carl",
-      "x": "5333",
-      "y": "6063",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
     {
       "timestamp": "30-12-25 19:27:29.389",
       "steam_id": "76561198061278854",
@@ -965,6 +955,53 @@
       "event_type": "level_up",
       "skill": "MetalWelding",
       "level": "5"
+    },
+    {
+      "timestamp": "31-12-25 03:12:02.822",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12020",
+      "y": "2604",
+      "z": "0",
+      "hours_survived": 774,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 1,
+        "Fitness": 10,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 6,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 10,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 2,
+        "Blacksmith": 0,
+        "MetalWelding": 4,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 5,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1183,7 +1220,19 @@
       "chat_type": "Local",
       "author": "Tooth",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "31-12-25 03:12:21.180",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "omg"
+    },
+    {
+      "timestamp": "31-12-25 03:12:21.181",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "omg"
     }
   ],
-  "timestamp": "2025-12-31T03:10:01.406800"
+  "timestamp": "2025-12-31T03:15:01.841335"
 }
