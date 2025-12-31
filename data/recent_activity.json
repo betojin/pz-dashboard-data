@@ -378,28 +378,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "31-12-25 02:08:20.912",
-      "steam_id": "76561198805250083",
-      "username": "Carl",
-      "x": "8097",
-      "y": "11504",
-      "z": "0",
-      "hours_survived": 4,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "3"
-    },
-    {
-      "timestamp": "31-12-25 02:10:42.343",
-      "steam_id": "76561198805250083",
-      "username": "Carl",
-      "x": "8065",
-      "y": "11565",
-      "z": "0",
-      "hours_survived": 5,
-      "event_type": "died"
-    },
-    {
       "timestamp": "31-12-25 02:14:10.811",
       "steam_id": "76561198805250083",
       "username": "Carl",
@@ -1008,6 +986,30 @@
       "event_type": "level_up",
       "skill": "Carving",
       "level": "4"
+    },
+    {
+      "timestamp": "31-12-25 09:06:54.493",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12053",
+      "y": "2599",
+      "z": "0",
+      "hours_survived": 10,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "5"
+    },
+    {
+      "timestamp": "31-12-25 09:08:17.193",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12003",
+      "y": "2585",
+      "z": "0",
+      "hours_survived": 11,
+      "event_type": "level_up",
+      "skill": "Blacksmith",
+      "level": "5"
     }
   ],
   "chat_messages": [
@@ -1264,5 +1266,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-31T09:05:01.366401"
+  "timestamp": "2025-12-31T09:10:01.737813"
 }
