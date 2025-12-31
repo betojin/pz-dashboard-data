@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "30-12-25 05:53:05.086",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "disconnected",
-      "x": "8614",
-      "y": "8821",
-      "z": "0"
-    },
-    {
-      "timestamp": "30-12-25 07:54:13.724",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "disconnected",
-      "x": "12020",
-      "y": "2604",
-      "z": "0"
-    },
-    {
       "timestamp": "30-12-25 07:55:20.138",
       "steam_id": "76561198065774641",
       "username": "admin",
@@ -368,33 +350,27 @@
       "x": "8215",
       "y": "11677",
       "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 02:14:08.337",
+      "steam_id": "76561198805250083",
+      "username": "Carl",
+      "action": "disconnected",
+      "x": "8065",
+      "y": "11565",
+      "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 02:14:10.663",
+      "steam_id": "76561198805250083",
+      "username": "Carl",
+      "action": "fully connected",
+      "x": "5779",
+      "y": "5358",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "30-12-25 12:22:59.612",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12054",
-      "y": "2599",
-      "z": "0",
-      "hours_survived": 610,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "1"
-    },
-    {
-      "timestamp": "30-12-25 12:26:12.634",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12054",
-      "y": "2599",
-      "z": "0",
-      "hours_survived": 611,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "2"
-    },
     {
       "timestamp": "30-12-25 17:25:52.855",
       "steam_id": "76561198805250083",
@@ -1002,6 +978,26 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "3"
+    },
+    {
+      "timestamp": "31-12-25 02:10:42.343",
+      "steam_id": "76561198805250083",
+      "username": "Carl",
+      "x": "8065",
+      "y": "11565",
+      "z": "0",
+      "hours_survived": 5,
+      "event_type": "died"
+    },
+    {
+      "timestamp": "31-12-25 02:14:10.811",
+      "steam_id": "76561198805250083",
+      "username": "Carl",
+      "x": "5779",
+      "y": "5358",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
@@ -1222,5 +1218,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-31T02:10:01.139175"
+  "timestamp": "2025-12-31T02:15:01.551216"
 }
