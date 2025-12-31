@@ -2605,7 +2605,7 @@
     "RottenPotato": {
       "username": "RottenPotato",
       "steam_id": "76561199511597958",
-      "total_hours": 652,
+      "total_hours": 656,
       "deaths": 4,
       "skills": {
         "Cooking": 1,
@@ -2630,7 +2630,7 @@
         "MetalWelding": 3,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 4,
+        "Maintenance": 5,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -2640,7 +2640,7 @@
         "FlintKnapping": 0,
         "Masonry": 8,
         "Pottery": 3,
-        "Carving": 3,
+        "Carving": 4,
         "Butchering": 5,
         "Glassmaking": 0
       },
@@ -2959,9 +2959,19 @@
           "skill": "Carving",
           "level": "3",
           "timestamp": "31-12-25 00:48:56.462"
+        },
+        {
+          "skill": "Carving",
+          "level": "4",
+          "timestamp": "31-12-25 00:55:13.690"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "5",
+          "timestamp": "31-12-25 00:57:52.667"
         }
       ],
-      "last_seen": "31-12-25 00:48:56.462",
+      "last_seen": "31-12-25 00:57:52.667",
       "connections": 4
     },
     "ExpiredMayo": {
@@ -4276,5 +4286,5 @@
     }
   },
   "total_players": 37,
-  "timestamp": "2025-12-31T00:55:01.572584"
+  "timestamp": "2025-12-31T01:00:02.028754"
 }
