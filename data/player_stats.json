@@ -2652,7 +2652,7 @@
         "Aiming": 0,
         "Reloading": 1,
         "Farming": 0,
-        "Fishing": 0,
+        "Fishing": 2,
         "Trapping": 0,
         "PlantScavenging": 0,
         "Doctor": 0,
@@ -3030,9 +3030,29 @@
           "skill": "MetalWelding",
           "level": "7",
           "timestamp": "31-12-25 03:52:32.423"
+        },
+        {
+          "skill": "Fishing",
+          "level": "1",
+          "timestamp": "31-12-25 08:46:09.497"
+        },
+        {
+          "skill": "Fishing",
+          "level": "2",
+          "timestamp": "31-12-25 08:46:15.987"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "2",
+          "timestamp": "31-12-25 08:49:19.613"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "3",
+          "timestamp": "31-12-25 08:49:19.621"
         }
       ],
-      "last_seen": "31-12-25 08:38:38.142",
+      "last_seen": "31-12-25 08:49:19.621",
       "connections": 9
     },
     "ExpiredMayo": {
@@ -4358,5 +4378,5 @@
     }
   },
   "total_players": 37,
-  "timestamp": "2025-12-31T08:45:01.777814"
+  "timestamp": "2025-12-31T08:50:01.188432"
 }
