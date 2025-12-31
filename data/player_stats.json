@@ -3778,7 +3778,7 @@
     "RottenTomato": {
       "username": "RottenTomato",
       "steam_id": "76561199511597958",
-      "total_hours": 51,
+      "total_hours": 54,
       "deaths": 7,
       "skills": {
         "Cooking": 0,
@@ -3788,7 +3788,7 @@
         "Axe": 0,
         "Lightfoot": 2,
         "Nimble": 2,
-        "Sprinting": 0,
+        "Sprinting": 1,
         "Sneak": 2,
         "Woodwork": 0,
         "Aiming": 0,
@@ -3817,8 +3817,14 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "31-12-25 05:22:21.865",
+      "level_ups": [
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "31-12-25 05:56:21.290"
+        }
+      ],
+      "last_seen": "31-12-25 05:56:21.290",
       "connections": 3
     },
     "Sharkey": {
@@ -4347,5 +4353,5 @@
     }
   },
   "total_players": 37,
-  "timestamp": "2025-12-31T05:55:01.211368"
+  "timestamp": "2025-12-31T06:00:01.576981"
 }
