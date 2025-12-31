@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "30-12-25 12:42:14.862",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "disconnected",
-      "x": "12022",
-      "y": "2595",
-      "z": "0"
-    },
-    {
-      "timestamp": "30-12-25 17:17:16.419",
-      "steam_id": "76561198805250083",
-      "username": "Carl",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "30-12-25 17:17:16.419",
       "steam_id": "76561198805250083",
       "username": "Carl",
@@ -368,21 +353,21 @@
       "x": "12020",
       "y": "2604",
       "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 03:54:51.514",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "31-12-25 03:54:51.515",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "30-12-25 20:20:18.617",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "x": "10624",
-      "y": "9624",
-      "z": "0",
-      "hours_survived": 21,
-      "event_type": "level_up",
-      "skill": "Blunt",
-      "level": "1"
-    },
     {
       "timestamp": "30-12-25 20:55:00.574",
       "steam_id": "76561198061278854",
@@ -967,6 +952,18 @@
       "event_type": "level_up",
       "skill": "MetalWelding",
       "level": "6"
+    },
+    {
+      "timestamp": "31-12-25 03:52:32.423",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12003",
+      "y": "2585",
+      "z": "0",
+      "hours_survived": 723,
+      "event_type": "level_up",
+      "skill": "MetalWelding",
+      "level": "7"
     }
   ],
   "chat_messages": [
@@ -1211,5 +1208,5 @@
       "text": "yooooo"
     }
   ],
-  "timestamp": "2025-12-31T03:50:01.499742"
+  "timestamp": "2025-12-31T03:55:01.900578"
 }

@@ -2621,7 +2621,7 @@
     "RottenPotato": {
       "username": "RottenPotato",
       "steam_id": "76561199511597958",
-      "total_hours": 713,
+      "total_hours": 723,
       "deaths": 4,
       "skills": {
         "Cooking": 1,
@@ -2643,7 +2643,7 @@
         "Doctor": 0,
         "Electricity": 2,
         "Blacksmith": 10,
-        "MetalWelding": 6,
+        "MetalWelding": 7,
         "Mechanics": 0,
         "Spear": 0,
         "Maintenance": 5,
@@ -3010,9 +3010,14 @@
           "skill": "MetalWelding",
           "level": "6",
           "timestamp": "31-12-25 03:26:58.573"
+        },
+        {
+          "skill": "MetalWelding",
+          "level": "7",
+          "timestamp": "31-12-25 03:52:32.423"
         }
       ],
-      "last_seen": "31-12-25 03:26:58.573",
+      "last_seen": "31-12-25 03:52:32.423",
       "connections": 5
     },
     "ExpiredMayo": {
@@ -4332,5 +4337,5 @@
     }
   },
   "total_players": 37,
-  "timestamp": "2025-12-31T03:50:01.463837"
+  "timestamp": "2025-12-31T03:55:01.864341"
 }
