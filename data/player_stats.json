@@ -3203,10 +3203,10 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 617,
+      "total_hours": 625,
       "deaths": 0,
       "skills": {
-        "Cooking": 3,
+        "Cooking": 4,
         "Fitness": 7,
         "Strength": 5,
         "Blunt": 1,
@@ -3472,9 +3472,14 @@
           "skill": "Mechanics",
           "level": "1",
           "timestamp": "29-12-25 03:45:20.670"
+        },
+        {
+          "skill": "Cooking",
+          "level": "4",
+          "timestamp": "31-12-25 00:32:59.977"
         }
       ],
-      "last_seen": "31-12-25 00:11:24.162",
+      "last_seen": "31-12-25 00:32:59.977",
       "connections": 5
     },
     "El_Moctezuma": {
@@ -4266,5 +4271,5 @@
     }
   },
   "total_players": 37,
-  "timestamp": "2025-12-31T00:30:01.117877"
+  "timestamp": "2025-12-31T00:35:01.546653"
 }
