@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "30-12-25 05:49:01.943",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "30-12-25 05:49:45.454",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "fully connected",
-      "x": "8617",
-      "y": "8824",
-      "z": "0"
-    },
-    {
       "timestamp": "30-12-25 05:53:05.086",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -365,21 +350,27 @@
       "x": "10658",
       "y": "9566",
       "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 01:56:59.236",
+      "steam_id": "76561198805250083",
+      "username": "Carl",
+      "action": "disconnected",
+      "x": "6410",
+      "y": "5330",
+      "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 01:57:01.401",
+      "steam_id": "76561198805250083",
+      "username": "Carl",
+      "action": "fully connected",
+      "x": "8215",
+      "y": "11677",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "30-12-25 11:38:04.760",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12003",
-      "y": "2585",
-      "z": "0",
-      "hours_survived": 592,
-      "event_type": "level_up",
-      "skill": "Blacksmith",
-      "level": "9"
-    },
     {
       "timestamp": "30-12-25 12:15:29.824",
       "steam_id": "76561199511597958",
@@ -1001,6 +992,16 @@
       "z": "0",
       "hours_survived": 6,
       "event_type": "died"
+    },
+    {
+      "timestamp": "31-12-25 01:57:01.518",
+      "steam_id": "76561198805250083",
+      "username": "Carl",
+      "x": "8215",
+      "y": "11677",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
@@ -1221,5 +1222,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-31T01:55:02.009748"
+  "timestamp": "2025-12-31T02:00:01.378048"
 }
