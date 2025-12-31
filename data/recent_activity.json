@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "31-12-25 00:11:23.565",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "fully connected",
-      "x": "8614",
-      "y": "8821",
-      "z": "0"
-    },
-    {
       "timestamp": "31-12-25 00:41:56.672",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -368,6 +359,15 @@
       "x": "12042",
       "y": "2594",
       "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 06:36:19.652",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "disconnected",
+      "x": "10086",
+      "y": "8262",
+      "z": "1"
     }
   ],
   "perk_events": [
@@ -1293,5 +1293,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-31T06:35:01.312646"
+  "timestamp": "2025-12-31T06:40:01.694866"
 }
