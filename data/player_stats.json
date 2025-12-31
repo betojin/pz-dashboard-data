@@ -4189,14 +4189,14 @@
       "skills": {
         "Cooking": 0,
         "Fitness": 6,
-        "Strength": 9,
+        "Strength": 3,
         "Blunt": 0,
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 0,
         "Sprinting": 0,
         "Sneak": 0,
-        "Woodwork": 0,
+        "Woodwork": 1,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -4204,8 +4204,8 @@
         "Trapping": 0,
         "PlantScavenging": 0,
         "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 4,
+        "Electricity": 3,
+        "Blacksmith": 2,
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
@@ -4217,9 +4217,9 @@
         "Tracking": 0,
         "Husbandry": 0,
         "FlintKnapping": 0,
-        "Masonry": 0,
+        "Masonry": 1,
         "Pottery": 0,
-        "Carving": 0,
+        "Carving": 1,
         "Butchering": 0,
         "Glassmaking": 0
       },
@@ -4230,8 +4230,8 @@
           "timestamp": "30-12-25 17:43:44.508"
         }
       ],
-      "last_seen": "30-12-25 17:58:14.885",
-      "connections": 2
+      "last_seen": "31-12-25 01:49:53.310",
+      "connections": 4
     },
     "Tooth": {
       "username": "Tooth",
@@ -4302,5 +4302,5 @@
     }
   },
   "total_players": 37,
-  "timestamp": "2025-12-31T01:45:01.226593"
+  "timestamp": "2025-12-31T01:50:01.629084"
 }
