@@ -1,36 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "30-12-25 03:05:03.322",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "fully connected",
-      "x": "10098",
-      "y": "8259",
-      "z": "0"
-    },
-    {
-      "timestamp": "30-12-25 03:07:55.203",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "disconnected",
-      "x": "8608",
-      "y": "8818",
-      "z": "0"
-    },
-    {
-      "timestamp": "30-12-25 03:08:21.278",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "30-12-25 03:08:21.279",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "30-12-25 03:08:33.097",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -368,33 +338,36 @@
       "x": "12022",
       "y": "2595",
       "z": "0"
+    },
+    {
+      "timestamp": "31-12-25 00:10:44.720",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "31-12-25 00:10:44.720",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "31-12-25 00:10:55.877",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "31-12-25 00:11:23.565",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "fully connected",
+      "x": "8614",
+      "y": "8821",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "30-12-25 08:03:19.587",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "x": "12031",
-      "y": "2606",
-      "z": "0",
-      "hours_survived": 63,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "4"
-    },
-    {
-      "timestamp": "30-12-25 08:03:19.744",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "x": "12031",
-      "y": "2606",
-      "z": "0",
-      "hours_survived": 63,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "5"
-    },
     {
       "timestamp": "30-12-25 08:03:19.872",
       "steam_id": "76561198065774641",
@@ -831,6 +804,65 @@
       "event_type": "level_up",
       "skill": "MetalWelding",
       "level": "2"
+    },
+    {
+      "timestamp": "31-12-25 00:11:24.162",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8614",
+      "y": "8821",
+      "z": "0",
+      "hours_survived": 617,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 3,
+        "Fitness": 7,
+        "Strength": 5,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 6,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 6,
+        "Doctor": 1,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 5,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 2,
+        "Tracking": 0,
+        "Husbandry": 2,
+        "FlintKnapping": 2,
+        "Masonry": 4,
+        "Pottery": 0,
+        "Carving": 7,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "31-12-25 00:11:41.217",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12011",
+      "y": "2591",
+      "z": "0",
+      "hours_survived": 637,
+      "event_type": "level_up",
+      "skill": "MetalWelding",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1051,5 +1083,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2025-12-31T00:10:01.341883"
+  "timestamp": "2025-12-31T00:15:01.269259"
 }
