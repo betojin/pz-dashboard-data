@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "31-12-25 18:17:00.963",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "31-12-25 18:17:00.963",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "31-12-25 18:17:14.777",
       "steam_id": "76561198061278854",
       "username": "Tooth",
@@ -377,6 +365,18 @@
       "x": "8617",
       "y": "8825",
       "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 05:07:53.782",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 05:07:53.783",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -1268,5 +1268,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-01T05:05:01.223688"
+  "timestamp": "2026-01-01T05:10:01.620286"
 }
