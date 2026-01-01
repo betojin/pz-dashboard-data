@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "31-12-25 10:30:48.103",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "disconnected",
-      "x": "12023",
-      "y": "2589",
-      "z": "1"
-    },
-    {
       "timestamp": "31-12-25 18:17:00.963",
       "steam_id": "76561198061278854",
       "username": "Tooth",
@@ -377,56 +368,18 @@
       "x": "8616",
       "y": "8822",
       "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 02:37:12.091",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "disconnected",
+      "x": "8617",
+      "y": "8825",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "31-12-25 18:17:57.964",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "x": "12027",
-      "y": "2717",
-      "z": "0",
-      "hours_survived": 86,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 9,
-        "Strength": 9,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "31-12-25 19:04:09.375",
       "steam_id": "76561198061278854",
@@ -999,6 +952,18 @@
       "event_type": "level_up",
       "skill": "Husbandry",
       "level": "3"
+    },
+    {
+      "timestamp": "01-01-26 02:36:25.687",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "x": "8610",
+      "y": "8820",
+      "z": "0",
+      "hours_survived": 635,
+      "event_type": "level_up",
+      "skill": "Electricity",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1303,5 +1268,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-01T02:35:01.736218"
+  "timestamp": "2026-01-01T02:40:02.107616"
 }
