@@ -1,392 +1,34 @@
 {
   "user_events": [
     {
-      "timestamp": "31-12-25 23:28:05.192",
-      "steam_id": "76561199249031770",
-      "username": "squibby",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "31-12-25 23:29:08.303",
-      "steam_id": "76561199249031770",
-      "username": "squibby",
-      "action": "fully connected",
-      "x": "8273",
-      "y": "11979",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 00:50:26.866",
-      "steam_id": "76561198721055189",
-      "username": "fishbait",
-      "action": "disconnected",
-      "x": "12069",
-      "y": "1932",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 00:50:29.638",
-      "steam_id": "76561198721055189",
-      "username": "fishbait",
-      "action": "fully connected",
-      "x": "12027",
-      "y": "2715",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 01:01:31.803",
-      "steam_id": "76561198766616478",
-      "username": "Sock_Monkey27",
-      "action": "disconnected",
-      "x": "12101",
-      "y": "2730",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 01:01:34.280",
-      "steam_id": "76561198766616478",
-      "username": "Sock_Monkey27",
-      "action": "fully connected",
-      "x": "12027",
-      "y": "2715",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 01:02:11.968",
-      "steam_id": "76561199249031770",
-      "username": "squibby",
-      "action": "disconnected",
-      "x": "10914",
-      "y": "10016",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 01:19:59.874",
-      "steam_id": "76561198766616478",
-      "username": "Sock_Monkey27",
-      "action": "disconnected",
-      "x": "12020",
-      "y": "2717",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 01:23:30.604",
+      "timestamp": "01-01-26 06:33:25.401",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
       "action": "attempting to join"
     },
     {
-      "timestamp": "01-01-26 01:23:30.604",
+      "timestamp": "01-01-26 06:33:25.401",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
       "action": "allowed to join"
     },
     {
-      "timestamp": "01-01-26 01:23:38.797",
+      "timestamp": "01-01-26 06:33:32.522",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
       "action": "attempting to join"
     },
     {
-      "timestamp": "01-01-26 01:24:33.288",
+      "timestamp": "01-01-26 06:34:04.982",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
       "action": "fully connected",
-      "x": "12754",
-      "y": "1568",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 01:42:15.245",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "action": "disconnected",
-      "x": "12025",
-      "y": "2716",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 01:42:23.040",
-      "steam_id": "76561198721055189",
-      "username": "fishbait",
-      "action": "disconnected",
-      "x": "12023",
-      "y": "2721",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 02:12:37.566",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "disconnected",
       "x": "12234",
       "y": "1263",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 02:19:52.090",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "01-01-26 02:19:52.091",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "01-01-26 02:20:04.677",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "01-01-26 02:21:06.019",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "fully connected",
-      "x": "8616",
-      "y": "8822",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 02:37:12.091",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "disconnected",
-      "x": "8617",
-      "y": "8825",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 05:07:53.782",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "01-01-26 05:07:53.783",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "01-01-26 05:30:43.165",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "01-01-26 05:31:15.707",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "fully connected",
-      "x": "8215",
-      "y": "11677",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 05:45:12.625",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "disconnected",
-      "x": "8226",
-      "y": "11677",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 05:49:00.833",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "01-01-26 05:49:00.833",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "01-01-26 05:49:14.576",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "01-01-26 05:49:36.592",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "fully connected",
-      "x": "8226",
-      "y": "11677",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 06:07:57.950",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "disconnected",
-      "x": "8133",
-      "y": "11643",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 06:08:22.611",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "01-01-26 06:08:22.611",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "01-01-26 06:08:36.718",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "01-01-26 06:09:02.081",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "fully connected",
-      "x": "8133",
-      "y": "11643",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 06:09:37.136",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "disconnected",
-      "x": "8133",
-      "y": "11643",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 06:10:01.543",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "01-01-26 06:10:01.543",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "01-01-26 06:10:11.677",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "01-01-26 06:10:37.231",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "fully connected",
-      "x": "8133",
-      "y": "11643",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 06:12:01.422",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "disconnected",
-      "x": "8133",
-      "y": "11623",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 06:12:54.025",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "01-01-26 06:12:54.026",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "01-01-26 06:13:06.178",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "01-01-26 06:13:40.380",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "fully connected",
-      "x": "8133",
-      "y": "11623",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 06:15:07.857",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "disconnected",
-      "x": "8131",
-      "y": "11592",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 06:21:51.441",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "01-01-26 06:21:51.442",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "01-01-26 06:22:09.823",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "01-01-26 06:22:36.632",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "fully connected",
-      "x": "8131",
-      "y": "11592",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 06:24:26.394",
-      "steam_id": "76561199511597958",
-      "username": "Tiger King",
-      "action": "disconnected",
-      "x": "8133",
-      "y": "11603",
       "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "31-12-25 21:59:32.073",
-      "steam_id": "76561198721055189",
-      "username": "fishbait",
-      "x": "12027",
-      "y": "2715",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
     {
       "timestamp": "31-12-25 22:35:48.936",
       "steam_id": "76561198061278854",
@@ -1072,309 +714,55 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "01-01-26 06:34:05.778",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12234",
+      "y": "1263",
+      "z": "0",
+      "hours_survived": 832,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 1,
+        "Fitness": 10,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 7,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 10,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 3,
+        "Blacksmith": 0,
+        "MetalWelding": 4,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 5,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 1,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
     }
   ],
-  "chat_messages": [
-    {
-      "timestamp": "30-12-25 01:42:12.419",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "30-12-25 01:42:12.419",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "30-12-25 03:08:20.217",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "has anything respawned yet?"
-    },
-    {
-      "timestamp": "30-12-25 03:08:20.217",
-      "chat_type": "General",
-      "author": "Sully",
-      "text": "has anything respawned yet?"
-    },
-    {
-      "timestamp": "30-12-25 03:17:58.213",
-      "chat_type": "Local",
-      "author": "Zero",
-      "text": "psst"
-    },
-    {
-      "timestamp": "30-12-25 03:17:58.214",
-      "chat_type": "Local",
-      "author": "Zero",
-      "text": "psst"
-    },
-    {
-      "timestamp": "30-12-25 04:16:31.950",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "30-12-25 04:16:31.950",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "30-12-25 04:16:48.030",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "30-12-25 04:16:48.030",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "30-12-25 04:53:04.711",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "30-12-25 04:53:04.712",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "30-12-25 04:54:46.115",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "30-12-25 04:54:46.116",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "30-12-25 04:54:59.071",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "30-12-25 04:54:59.071",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "30-12-25 05:07:46.853",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "30-12-25 05:07:46.853",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "30-12-25 05:07:52.528",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "30-12-25 05:07:52.529",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "30-12-25 05:07:59.275",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "30-12-25 05:07:59.276",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "30-12-25 05:08:13.775",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "30-12-25 05:08:13.775",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "30-12-25 19:33:14.752",
-      "chat_type": "General",
-      "author": "Tooth",
-      "text": "the worst time for joining the server for the first time"
-    },
-    {
-      "timestamp": "30-12-25 19:33:14.752",
-      "chat_type": "General",
-      "author": "Tooth",
-      "text": "the worst time for joining the server for the first time"
-    },
-    {
-      "timestamp": "30-12-25 20:11:58.840",
-      "chat_type": "Local",
-      "author": "Tooth",
-      "text": "hey"
-    },
-    {
-      "timestamp": "30-12-25 20:11:58.840",
-      "chat_type": "Local",
-      "author": "Tooth",
-      "text": "hey"
-    },
-    {
-      "timestamp": "30-12-25 21:57:06.307",
-      "chat_type": "General",
-      "author": "Tooth",
-      "text": "is anyone on this server?"
-    },
-    {
-      "timestamp": "30-12-25 21:57:06.307",
-      "chat_type": "General",
-      "author": "Tooth",
-      "text": "is anyone on this server?"
-    },
-    {
-      "timestamp": "30-12-25 21:59:23.967",
-      "chat_type": "Local",
-      "author": "Tooth",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "30-12-25 21:59:23.967",
-      "chat_type": "Local",
-      "author": "Tooth",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "31-12-25 03:12:21.180",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "omg"
-    },
-    {
-      "timestamp": "31-12-25 03:12:21.181",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "omg"
-    },
-    {
-      "timestamp": "31-12-25 03:15:35.902",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "yooooo"
-    },
-    {
-      "timestamp": "31-12-25 03:15:35.903",
-      "chat_type": "Local",
-      "author": "RottenPotato",
-      "text": "yooooo"
-    },
-    {
-      "timestamp": "31-12-25 05:39:55.503",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "31-12-25 05:39:55.503",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "31-12-25 22:11:16.816",
-      "chat_type": "Local",
-      "author": "fishbait",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "31-12-25 22:11:16.817",
-      "chat_type": "Local",
-      "author": "fishbait",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "31-12-25 23:11:20.429",
-      "chat_type": "Local",
-      "author": "fishbait",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "31-12-25 23:11:20.429",
-      "chat_type": "Local",
-      "author": "fishbait",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "31-12-25 23:19:06.249",
-      "chat_type": "Local",
-      "author": "Sock_Monkey27",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "31-12-25 23:19:06.250",
-      "chat_type": "Local",
-      "author": "Sock_Monkey27",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "31-12-25 23:19:06.573",
-      "chat_type": "Local",
-      "author": "Sock_Monkey27",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "31-12-25 23:19:06.573",
-      "chat_type": "Local",
-      "author": "Sock_Monkey27",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "31-12-25 23:19:06.937",
-      "chat_type": "Local",
-      "author": "Sock_Monkey27",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "31-12-25 23:19:06.937",
-      "chat_type": "Local",
-      "author": "Sock_Monkey27",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "31-12-25 23:19:07.654",
-      "chat_type": "Local",
-      "author": "Sock_Monkey27",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "31-12-25 23:19:07.654",
-      "chat_type": "Local",
-      "author": "Sock_Monkey27",
-      "text": "OVER HERE!"
-    }
-  ],
-  "timestamp": "2026-01-01T06:30:01.526565"
+  "chat_messages": [],
+  "timestamp": "2026-01-01T06:35:01.835256"
 }
