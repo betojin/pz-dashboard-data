@@ -3912,7 +3912,7 @@
         "Trapping": 0,
         "PlantScavenging": 0,
         "Doctor": 0,
-        "Electricity": 0,
+        "Electricity": 1,
         "Blacksmith": 0,
         "MetalWelding": 0,
         "Mechanics": 0,
@@ -3936,6 +3936,11 @@
           "skill": "Sprinting",
           "level": "1",
           "timestamp": "31-12-25 05:56:21.290"
+        },
+        {
+          "skill": "Electricity",
+          "level": "1",
+          "timestamp": "01-01-26 07:41:35.695"
         }
       ],
       "last_seen": "31-12-25 05:56:21.290",
@@ -4648,5 +4653,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-01T07:40:01.774130"
+  "timestamp": "2026-01-01T07:45:01.084381"
 }

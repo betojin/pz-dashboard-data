@@ -165,18 +165,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "01-01-26 00:34:14.676",
-      "steam_id": "76561198721055189",
-      "username": "fishbait",
-      "x": "12438",
-      "y": "1709",
-      "z": "0",
-      "hours_survived": 61,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "1"
-    },
-    {
       "timestamp": "01-01-26 00:36:06.164",
       "steam_id": "76561198061278854",
       "username": "Tooth",
@@ -964,8 +952,33 @@
       "event_type": "level_up",
       "skill": "Cooking",
       "level": "4"
+    },
+    {
+      "timestamp": "01-01-26 07:41:35.695",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "12110",
+      "y": "2526",
+      "z": "0",
+      "hours_survived": 18,
+      "event_type": "level_up",
+      "skill": "Electricity",
+      "level": "1"
     }
   ],
-  "chat_messages": [],
-  "timestamp": "2026-01-01T07:40:01.809416"
+  "chat_messages": [
+    {
+      "timestamp": "01-01-26 07:41:12.563",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "01-01-26 07:41:12.563",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
+    }
+  ],
+  "timestamp": "2026-01-01T07:45:01.120457"
 }
