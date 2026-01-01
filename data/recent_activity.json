@@ -372,18 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "31-12-25 09:03:49.409",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12053",
-      "y": "2599",
-      "z": "0",
-      "hours_survived": 9,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "4"
-    },
-    {
       "timestamp": "31-12-25 09:06:54.493",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -928,6 +916,16 @@
       "event_type": "level_up",
       "skill": "Doctor",
       "level": "2"
+    },
+    {
+      "timestamp": "01-01-26 00:47:47.364",
+      "steam_id": "76561198721055189",
+      "username": "fishbait",
+      "x": "12069",
+      "y": "1932",
+      "z": "0",
+      "hours_survived": 67,
+      "event_type": "died"
     }
   ],
   "chat_messages": [
@@ -1232,5 +1230,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-01T00:45:01.871589"
+  "timestamp": "2026-01-01T00:50:01.300999"
 }
