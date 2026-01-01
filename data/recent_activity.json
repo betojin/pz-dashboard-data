@@ -278,6 +278,33 @@
       "x": "12027",
       "y": "2607",
       "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 10:24:00.320",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "disconnected",
+      "x": "12023",
+      "y": "2594",
+      "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 10:24:27.711",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 10:24:27.712",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "01-01-26 10:24:37.941",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1178,5 +1205,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-01T10:20:01.576056"
+  "timestamp": "2026-01-01T10:25:01.881615"
 }
