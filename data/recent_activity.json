@@ -26,33 +26,72 @@
       "x": "12234",
       "y": "1263",
       "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 06:35:38.489",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 06:35:38.490",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "01-01-26 06:35:50.224",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 06:36:16.104",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "fully connected",
+      "x": "8133",
+      "y": "11603",
+      "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 06:37:46.691",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "disconnected",
+      "x": "8133",
+      "y": "11603",
+      "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 06:38:54.296",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 06:38:54.296",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "01-01-26 06:39:07.140",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 06:39:24.772",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "fully connected",
+      "x": "12025",
+      "y": "2592",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "31-12-25 22:35:48.936",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "x": "12018",
-      "y": "2714",
-      "z": "0",
-      "hours_survived": 144,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "2"
-    },
-    {
-      "timestamp": "31-12-25 23:14:49.948",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "x": "12453",
-      "y": "2433",
-      "z": "0",
-      "hours_survived": 159,
-      "event_type": "level_up",
-      "skill": "Blunt",
-      "level": "2"
-    },
     {
       "timestamp": "31-12-25 23:15:27.990",
       "steam_id": "76561198766616478",
@@ -761,8 +800,102 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "01-01-26 06:36:17.477",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "x": "8133",
+      "y": "11603",
+      "z": "0",
+      "hours_survived": 15,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 2,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "01-01-26 06:39:25.650",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "12025",
+      "y": "2592",
+      "z": "0",
+      "hours_survived": 56,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 1,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [],
-  "timestamp": "2026-01-01T06:35:01.835256"
+  "timestamp": "2026-01-01T06:40:01.249648"
 }
