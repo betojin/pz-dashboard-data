@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 847,
+      "total_hours": 852,
       "deaths": 3,
       "skills": {
         "Cooking": 2,
@@ -26,7 +26,7 @@
         "Electricity": 3,
         "Blacksmith": 0,
         "MetalWelding": 4,
-        "Mechanics": 1,
+        "Mechanics": 3,
         "Spear": 0,
         "Maintenance": 5,
         "SmallBlade": 0,
@@ -262,6 +262,16 @@
           "skill": "Cooking",
           "level": "2",
           "timestamp": "01-01-26 07:12:51.683"
+        },
+        {
+          "skill": "Mechanics",
+          "level": "2",
+          "timestamp": "01-01-26 07:22:48.675"
+        },
+        {
+          "skill": "Mechanics",
+          "level": "3",
+          "timestamp": "01-01-26 07:23:56.709"
         }
       ],
       "last_seen": "31-12-25 04:42:21.316",
@@ -4628,5 +4638,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-01T07:20:01.298729"
+  "timestamp": "2026-01-01T07:25:01.650128"
 }

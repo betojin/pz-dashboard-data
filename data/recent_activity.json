@@ -129,30 +129,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "01-01-26 00:02:35.287",
-      "steam_id": "76561198766616478",
-      "username": "Sock_Monkey27",
-      "x": "12218",
-      "y": "1619",
-      "z": "0",
-      "hours_survived": 15,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "2"
-    },
-    {
-      "timestamp": "01-01-26 00:06:59.596",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "x": "12233",
-      "y": "1641",
-      "z": "0",
-      "hours_survived": 180,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "2"
-    },
-    {
       "timestamp": "01-01-26 00:07:57.266",
       "steam_id": "76561199249031770",
       "username": "squibby",
@@ -893,8 +869,32 @@
       "event_type": "level_up",
       "skill": "Cooking",
       "level": "2"
+    },
+    {
+      "timestamp": "01-01-26 07:22:48.675",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12020",
+      "y": "2596",
+      "z": "0",
+      "hours_survived": 851,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "2"
+    },
+    {
+      "timestamp": "01-01-26 07:23:56.709",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12020",
+      "y": "2596",
+      "z": "0",
+      "hours_survived": 852,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "3"
     }
   ],
   "chat_messages": [],
-  "timestamp": "2026-01-01T07:20:01.333553"
+  "timestamp": "2026-01-01T07:25:01.684148"
 }
