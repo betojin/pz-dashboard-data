@@ -246,26 +246,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "01-01-26 00:59:41.690",
-      "steam_id": "76561198766616478",
-      "username": "Sock_Monkey27",
-      "x": "12101",
-      "y": "2730",
-      "z": "0",
-      "hours_survived": 38,
-      "event_type": "died"
-    },
-    {
-      "timestamp": "01-01-26 01:01:34.436",
-      "steam_id": "76561198766616478",
-      "username": "Sock_Monkey27",
-      "x": "12027",
-      "y": "2715",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
-    {
       "timestamp": "01-01-26 01:24:34.729",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -1119,6 +1099,30 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "2"
+    },
+    {
+      "timestamp": "01-01-26 08:28:52.210",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "12020",
+      "y": "2596",
+      "z": "0",
+      "hours_survived": 37,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "1"
+    },
+    {
+      "timestamp": "01-01-26 08:29:16.000",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "12020",
+      "y": "2596",
+      "z": "0",
+      "hours_survived": 37,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1135,5 +1139,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-01T08:25:01.929591"
+  "timestamp": "2026-01-01T08:30:01.321793"
 }
