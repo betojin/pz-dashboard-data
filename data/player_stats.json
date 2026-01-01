@@ -3349,7 +3349,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 629,
+      "total_hours": 632,
       "deaths": 0,
       "skills": {
         "Cooking": 4,
@@ -3380,7 +3380,7 @@
         "SmallBlunt": 1,
         "Tailoring": 2,
         "Tracking": 0,
-        "Husbandry": 2,
+        "Husbandry": 3,
         "FlintKnapping": 2,
         "Masonry": 4,
         "Pottery": 0,
@@ -3623,6 +3623,11 @@
           "skill": "Cooking",
           "level": "4",
           "timestamp": "31-12-25 00:32:59.977"
+        },
+        {
+          "skill": "Husbandry",
+          "level": "3",
+          "timestamp": "01-01-26 02:29:04.893"
         }
       ],
       "last_seen": "31-12-25 00:32:59.977",
@@ -4578,5 +4583,5 @@
     }
   },
   "total_players": 39,
-  "timestamp": "2026-01-01T02:25:01.755954"
+  "timestamp": "2026-01-01T02:30:01.298925"
 }
