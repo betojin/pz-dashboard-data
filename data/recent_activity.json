@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "31-12-25 08:38:35.312",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "disconnected",
-      "x": "12005",
-      "y": "2582",
-      "z": "0"
-    },
-    {
-      "timestamp": "31-12-25 08:38:37.921",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "fully connected",
-      "x": "12025",
-      "y": "2592",
-      "z": "0"
-    },
-    {
       "timestamp": "31-12-25 08:56:51.393",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -376,6 +358,24 @@
       "action": "fully connected",
       "x": "12754",
       "y": "1568",
+      "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 01:42:15.245",
+      "steam_id": "76561198061278854",
+      "username": "Tooth",
+      "action": "disconnected",
+      "x": "12025",
+      "y": "2716",
+      "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 01:42:23.040",
+      "steam_id": "76561198721055189",
+      "username": "fishbait",
+      "action": "disconnected",
+      "x": "12023",
+      "y": "2721",
       "z": "0"
     }
   ],
@@ -1268,5 +1268,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-01T01:40:01.286666"
+  "timestamp": "2026-01-01T01:45:01.657974"
 }
