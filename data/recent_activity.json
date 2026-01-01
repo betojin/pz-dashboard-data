@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "31-12-25 23:14:33.889",
-      "steam_id": "76561198766616478",
-      "username": "Sock_Monkey27",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "31-12-25 23:15:27.554",
       "steam_id": "76561198766616478",
       "username": "Sock_Monkey27",
@@ -373,6 +367,15 @@
       "action": "fully connected",
       "x": "8133",
       "y": "11623",
+      "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 06:15:07.857",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "disconnected",
+      "x": "8131",
+      "y": "11592",
       "z": "0"
     }
   ],
@@ -1339,5 +1342,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-01T06:15:01.329748"
+  "timestamp": "2026-01-01T06:20:01.738036"
 }
