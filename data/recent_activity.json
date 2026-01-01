@@ -1,63 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "31-12-25 21:49:45.831",
-      "steam_id": "76561198721055189",
-      "username": "fishbait",
-      "action": "fully connected",
-      "x": "8215",
-      "y": "11677",
-      "z": "0"
-    },
-    {
-      "timestamp": "31-12-25 21:53:09.379",
-      "steam_id": "76561198721055189",
-      "username": "fishbait",
-      "action": "disconnected",
-      "x": "8195",
-      "y": "11656",
-      "z": "0"
-    },
-    {
-      "timestamp": "31-12-25 21:53:11.768",
-      "steam_id": "76561198721055189",
-      "username": "fishbait",
-      "action": "fully connected",
-      "x": "12027",
-      "y": "2715",
-      "z": "0"
-    },
-    {
-      "timestamp": "31-12-25 21:59:28.111",
-      "steam_id": "76561198721055189",
-      "username": "fishbait",
-      "action": "disconnected",
-      "x": "12001",
-      "y": "2645",
-      "z": "0"
-    },
-    {
-      "timestamp": "31-12-25 21:59:31.606",
-      "steam_id": "76561198721055189",
-      "username": "fishbait",
-      "action": "fully connected",
-      "x": "12027",
-      "y": "2715",
-      "z": "0"
-    },
-    {
-      "timestamp": "31-12-25 23:11:52.914",
-      "steam_id": "76561198766616478",
-      "username": "Sock_Monkey27",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "31-12-25 23:11:52.915",
-      "steam_id": "76561198766616478",
-      "username": "Sock_Monkey27",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "31-12-25 23:14:33.889",
       "steam_id": "76561198766616478",
       "username": "Sock_Monkey27",
@@ -380,29 +323,60 @@
       "steam_id": "76561199511597958",
       "username": "Tiger King",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "01-01-26 06:10:11.677",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 06:10:37.231",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "fully connected",
+      "x": "8133",
+      "y": "11643",
+      "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 06:12:01.422",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "disconnected",
+      "x": "8133",
+      "y": "11623",
+      "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 06:12:54.025",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 06:12:54.026",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "01-01-26 06:13:06.178",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 06:13:40.380",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "fully connected",
+      "x": "8133",
+      "y": "11623",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "31-12-25 21:52:34.923",
-      "steam_id": "76561198721055189",
-      "username": "fishbait",
-      "x": "8195",
-      "y": "11656",
-      "z": "0",
-      "hours_survived": 1,
-      "event_type": "died"
-    },
-    {
-      "timestamp": "31-12-25 21:53:11.882",
-      "steam_id": "76561198721055189",
-      "username": "fishbait",
-      "x": "12027",
-      "y": "2715",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
     {
       "timestamp": "31-12-25 21:55:49.626",
       "steam_id": "76561198721055189",
@@ -967,6 +941,100 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "01-01-26 06:10:37.986",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "x": "8133",
+      "y": "11643",
+      "z": "0",
+      "hours_survived": 13,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 2,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "01-01-26 06:13:41.611",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "x": "8133",
+      "y": "11623",
+      "z": "0",
+      "hours_survived": 13,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 2,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1271,5 +1339,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-01T06:10:02.015094"
+  "timestamp": "2026-01-01T06:15:01.329748"
 }
