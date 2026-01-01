@@ -3918,7 +3918,7 @@
         "MetalWelding": 0,
         "Mechanics": 3,
         "Spear": 0,
-        "Maintenance": 2,
+        "Maintenance": 3,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -3972,6 +3972,11 @@
           "skill": "Cooking",
           "level": "2",
           "timestamp": "01-01-26 09:05:17.476"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "3",
+          "timestamp": "01-01-26 09:11:10.678"
         }
       ],
       "last_seen": "31-12-25 05:56:21.290",
@@ -4684,5 +4689,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-01T09:10:01.289801"
+  "timestamp": "2026-01-01T09:15:01.600392"
 }
