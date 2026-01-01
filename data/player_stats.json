@@ -4373,7 +4373,7 @@
     "Tooth": {
       "username": "Tooth",
       "steam_id": "76561198061278854",
-      "total_hours": 180,
+      "total_hours": 191,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -4399,7 +4399,7 @@
         "Mechanics": 0,
         "Spear": 0,
         "Maintenance": 2,
-        "SmallBlade": 0,
+        "SmallBlade": 1,
         "LongBlade": 0,
         "SmallBlunt": 0,
         "Tailoring": 0,
@@ -4452,6 +4452,11 @@
           "skill": "Maintenance",
           "level": "2",
           "timestamp": "01-01-26 00:06:59.596"
+        },
+        {
+          "skill": "SmallBlade",
+          "level": "1",
+          "timestamp": "01-01-26 00:33:46.129"
         }
       ],
       "last_seen": "31-12-25 23:28:57.230",
@@ -4460,7 +4465,7 @@
     "fishbait": {
       "username": "fishbait",
       "steam_id": "76561198721055189",
-      "total_hours": 1,
+      "total_hours": 61,
       "deaths": 2,
       "skills": {
         "Cooking": 0,
@@ -4485,7 +4490,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 0,
+        "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -4499,7 +4504,13 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
+      "level_ups": [
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "01-01-26 00:34:14.676"
+        }
+      ],
       "last_seen": "31-12-25 21:59:32.073",
       "connections": 3
     },
@@ -4557,5 +4568,5 @@
     }
   },
   "total_players": 39,
-  "timestamp": "2026-01-01T00:30:01.762424"
+  "timestamp": "2026-01-01T00:35:01.159862"
 }

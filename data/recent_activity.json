@@ -372,65 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "31-12-25 08:57:45.501",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12022",
-      "y": "2595",
-      "z": "0",
-      "hours_survived": 7,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 3,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 2,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 4,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 3,
-        "Pottery": 1,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 1
-      }
-    },
-    {
-      "timestamp": "31-12-25 09:00:21.785",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12053",
-      "y": "2598",
-      "z": "0",
-      "hours_survived": 8,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "2"
-    },
-    {
       "timestamp": "31-12-25 09:02:27.910",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -963,6 +904,30 @@
       "event_type": "level_up",
       "skill": "Electricity",
       "level": "1"
+    },
+    {
+      "timestamp": "01-01-26 00:33:46.129",
+      "steam_id": "76561198061278854",
+      "username": "Tooth",
+      "x": "12443",
+      "y": "1711",
+      "z": "0",
+      "hours_survived": 191,
+      "event_type": "level_up",
+      "skill": "SmallBlade",
+      "level": "1"
+    },
+    {
+      "timestamp": "01-01-26 00:34:14.676",
+      "steam_id": "76561198721055189",
+      "username": "fishbait",
+      "x": "12438",
+      "y": "1709",
+      "z": "0",
+      "hours_survived": 61,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1267,5 +1232,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-01T00:30:01.804826"
+  "timestamp": "2026-01-01T00:35:01.202742"
 }
