@@ -354,26 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "01-01-26 06:53:36.405",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "10872",
-      "y": "10138",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "died"
-    },
-    {
-      "timestamp": "01-01-26 06:54:13.353",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12025",
-      "y": "2592",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "created"
-    },
-    {
       "timestamp": "01-01-26 07:12:51.683",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -918,6 +898,30 @@
       "event_type": "level_up",
       "skill": "MetalWelding",
       "level": "6"
+    },
+    {
+      "timestamp": "01-01-26 11:59:19.392",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12028",
+      "y": "2588",
+      "z": "0",
+      "hours_survived": 81,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "1"
+    },
+    {
+      "timestamp": "01-01-26 11:59:29.610",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12028",
+      "y": "2588",
+      "z": "0",
+      "hours_survived": 81,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1042,5 +1046,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-01T11:55:01.365347"
+  "timestamp": "2026-01-01T12:00:01.713702"
 }
