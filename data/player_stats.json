@@ -3900,7 +3900,7 @@
         "Fitness": 9,
         "Strength": 10,
         "Blunt": 0,
-        "Axe": 2,
+        "Axe": 3,
         "Lightfoot": 0,
         "Nimble": 0,
         "Sprinting": 1,
@@ -3977,6 +3977,16 @@
           "skill": "Maintenance",
           "level": "3",
           "timestamp": "01-01-26 09:11:10.678"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "01-01-26 09:16:39.176"
+        },
+        {
+          "skill": "Axe",
+          "level": "3",
+          "timestamp": "01-01-26 09:17:39.548"
         }
       ],
       "last_seen": "31-12-25 05:56:21.290",
@@ -4689,5 +4699,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-01T09:15:01.600392"
+  "timestamp": "2026-01-01T09:20:01.069571"
 }
