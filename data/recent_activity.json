@@ -1,51 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "01-01-26 06:51:41.692",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "disconnected",
-      "x": "12148",
-      "y": "2471",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 06:51:44.685",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "fully connected",
-      "x": "10919",
-      "y": "10131",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 06:54:07.689",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "disconnected",
-      "x": "10872",
-      "y": "10138",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 06:54:12.098",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "fully connected",
-      "x": "12025",
-      "y": "2592",
-      "z": "0"
-    },
-    {
-      "timestamp": "01-01-26 07:26:48.173",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "disconnected",
-      "x": "12022",
-      "y": "2598",
-      "z": "0"
-    },
-    {
       "timestamp": "01-01-26 07:27:21.951",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -368,21 +323,45 @@
       "x": "8646",
       "y": "8549",
       "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 22:13:37.298",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "disconnected",
+      "x": "10063",
+      "y": "8232",
+      "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 22:14:04.998",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 22:14:04.998",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "01-01-26 22:14:23.523",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 22:14:41.076",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "fully connected",
+      "x": "10063",
+      "y": "8232",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "01-01-26 07:29:18.089",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12028",
-      "y": "2588",
-      "z": "0",
-      "hours_survived": 854,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "4"
-    },
     {
       "timestamp": "01-01-26 07:41:35.695",
       "steam_id": "76561199511597958",
@@ -1010,6 +989,53 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "01-01-26 22:14:41.475",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10063",
+      "y": "8232",
+      "z": "0",
+      "hours_survived": 1237,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 3,
+        "Fitness": 5,
+        "Strength": 9,
+        "Blunt": 3,
+        "Axe": 2,
+        "Lightfoot": 2,
+        "Nimble": 4,
+        "Sprinting": 4,
+        "Sneak": 2,
+        "Woodwork": 10,
+        "Aiming": 4,
+        "Reloading": 5,
+        "Farming": 0,
+        "Fishing": 2,
+        "Trapping": 0,
+        "PlantScavenging": 4,
+        "Doctor": 1,
+        "Electricity": 3,
+        "Blacksmith": 0,
+        "MetalWelding": 2,
+        "Mechanics": 2,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 4,
+        "Tracking": 0,
+        "Husbandry": 4,
+        "FlintKnapping": 0,
+        "Masonry": 3,
+        "Pottery": 0,
+        "Carving": 3,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1134,5 +1160,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-01T22:10:01.905996"
+  "timestamp": "2026-01-01T22:15:01.257530"
 }
