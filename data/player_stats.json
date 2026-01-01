@@ -3868,17 +3868,17 @@
       "username": "RottenTomato",
       "steam_id": "76561199511597958",
       "total_hours": 58,
-      "deaths": 8,
+      "deaths": 9,
       "skills": {
         "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
+        "Fitness": 9,
+        "Strength": 10,
         "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
+        "Axe": 2,
+        "Lightfoot": 0,
+        "Nimble": 0,
         "Sprinting": 1,
-        "Sneak": 2,
+        "Sneak": 0,
         "Woodwork": 0,
         "Aiming": 0,
         "Reloading": 0,
@@ -3892,7 +3892,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 0,
+        "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -3914,7 +3914,7 @@
         }
       ],
       "last_seen": "31-12-25 05:56:21.290",
-      "connections": 1
+      "connections": 3
     },
     "Sharkey": {
       "username": "Sharkey",
@@ -4623,5 +4623,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-01T06:50:01.928194"
+  "timestamp": "2026-01-01T06:55:01.367005"
 }
