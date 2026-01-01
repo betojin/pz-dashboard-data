@@ -197,19 +197,45 @@
       "x": "12016",
       "y": "2596",
       "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 08:00:32.651",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "disconnected",
+      "x": "12016",
+      "y": "2596",
+      "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 08:00:54.663",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 08:00:54.663",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "01-01-26 08:01:00.132",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 08:01:24.274",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "fully connected",
+      "x": "12084",
+      "y": "2484",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "01-01-26 00:47:47.364",
-      "steam_id": "76561198721055189",
-      "username": "fishbait",
-      "x": "12069",
-      "y": "1932",
-      "z": "0",
-      "hours_survived": 67,
-      "event_type": "died"
-    },
     {
       "timestamp": "01-01-26 00:50:29.745",
       "steam_id": "76561198721055189",
@@ -1035,6 +1061,53 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "01-01-26 08:01:24.530",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "12084",
+      "y": "2484",
+      "z": "0",
+      "hours_survived": 865,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 4,
+        "Fitness": 10,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 7,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 10,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 1,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 3,
+        "Blacksmith": 0,
+        "MetalWelding": 4,
+        "Mechanics": 3,
+        "Spear": 0,
+        "Maintenance": 5,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 1,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1051,5 +1124,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-01T08:00:01.127665"
+  "timestamp": "2026-01-01T08:05:01.490261"
 }
