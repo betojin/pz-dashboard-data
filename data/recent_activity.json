@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "01-01-26 08:20:44.739",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "disconnected",
-      "x": "12020",
-      "y": "2606",
-      "z": "0"
-    },
-    {
       "timestamp": "01-01-26 10:06:35.314",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -359,56 +350,18 @@
       "steam_id": "76561198061278854",
       "username": "Tooth",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 23:50:08.647",
+      "steam_id": "76561198061278854",
+      "username": "Tooth",
+      "action": "fully connected",
+      "x": "12025",
+      "y": "2716",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "01-01-26 08:01:24.530",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12084",
-      "y": "2484",
-      "z": "0",
-      "hours_survived": 865,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 10,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 7,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 10,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 3,
-        "Blacksmith": 0,
-        "MetalWelding": 4,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 5,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 1,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "01-01-26 08:18:44.110",
       "steam_id": "76561199511597958",
@@ -1071,6 +1024,53 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "01-01-26 23:50:09.252",
+      "steam_id": "76561198061278854",
+      "username": "Tooth",
+      "x": "12025",
+      "y": "2716",
+      "z": "0",
+      "hours_survived": 218,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 9,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 2,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 1,
+        "Trapping": 0,
+        "PlantScavenging": 1,
+        "Doctor": 2,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1195,5 +1195,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-01T23:50:01.112685"
+  "timestamp": "2026-01-01T23:55:01.649219"
 }
