@@ -1,42 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "31-12-25 18:42:43.226",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "action": "disconnected",
-      "x": "12644",
-      "y": "2192",
-      "z": "0"
-    },
-    {
-      "timestamp": "31-12-25 19:03:35.405",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "31-12-25 19:03:35.405",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "31-12-25 19:03:51.631",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "31-12-25 19:04:08.960",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "action": "fully connected",
-      "x": "12644",
-      "y": "2192",
-      "z": "0"
-    },
-    {
       "timestamp": "31-12-25 19:16:11.125",
       "steam_id": "76561198061278854",
       "username": "Tooth",
@@ -377,56 +341,45 @@
       "x": "8215",
       "y": "11677",
       "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 05:45:12.625",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "disconnected",
+      "x": "8226",
+      "y": "11677",
+      "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 05:49:00.833",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 05:49:00.833",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "01-01-26 05:49:14.576",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 05:49:36.592",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "fully connected",
+      "x": "8226",
+      "y": "11677",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "31-12-25 20:49:00.589",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "x": "12021",
-      "y": "2710",
-      "z": "0",
-      "hours_survived": 101,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 9,
-        "Strength": 9,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "31-12-25 21:49:46.527",
       "steam_id": "76561198721055189",
@@ -964,6 +917,53 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "01-01-26 05:49:37.546",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "x": "8226",
+      "y": "11677",
+      "z": "0",
+      "hours_survived": 5,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 2,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1268,5 +1268,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-01T05:45:01.144177"
+  "timestamp": "2026-01-01T05:50:01.554894"
 }
