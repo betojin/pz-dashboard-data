@@ -1,45 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "31-12-25 23:15:27.554",
-      "steam_id": "76561198766616478",
-      "username": "Sock_Monkey27",
-      "action": "fully connected",
-      "x": "12021",
-      "y": "6914",
-      "z": "0"
-    },
-    {
-      "timestamp": "31-12-25 23:22:56.296",
-      "steam_id": "76561198766616478",
-      "username": "Sock_Monkey27",
-      "action": "disconnected",
-      "x": "12035",
-      "y": "6947",
-      "z": "0"
-    },
-    {
-      "timestamp": "31-12-25 23:22:58.863",
-      "steam_id": "76561198766616478",
-      "username": "Sock_Monkey27",
-      "action": "fully connected",
-      "x": "12027",
-      "y": "2715",
-      "z": "0"
-    },
-    {
-      "timestamp": "31-12-25 23:27:43.710",
-      "steam_id": "76561199249031770",
-      "username": "squibby",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "31-12-25 23:27:43.711",
-      "steam_id": "76561199249031770",
-      "username": "squibby",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "31-12-25 23:28:05.192",
       "steam_id": "76561199249031770",
       "username": "squibby",
@@ -377,19 +338,45 @@
       "x": "8131",
       "y": "11592",
       "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 06:21:51.441",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 06:21:51.442",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "01-01-26 06:22:09.823",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "01-01-26 06:22:36.632",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "fully connected",
+      "x": "8131",
+      "y": "11592",
+      "z": "0"
+    },
+    {
+      "timestamp": "01-01-26 06:24:26.394",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "action": "disconnected",
+      "x": "8133",
+      "y": "11603",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "31-12-25 21:55:49.626",
-      "steam_id": "76561198721055189",
-      "username": "fishbait",
-      "x": "12001",
-      "y": "2645",
-      "z": "0",
-      "hours_survived": 1,
-      "event_type": "died"
-    },
     {
       "timestamp": "31-12-25 21:59:32.073",
       "steam_id": "76561198721055189",
@@ -1038,6 +1025,53 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "01-01-26 06:22:37.343",
+      "steam_id": "76561199511597958",
+      "username": "Tiger King",
+      "x": "8131",
+      "y": "11592",
+      "z": "0",
+      "hours_survived": 14,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 2,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1342,5 +1376,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-01T06:20:01.738036"
+  "timestamp": "2026-01-01T06:25:01.163315"
 }
