@@ -3797,7 +3797,7 @@
     "squibby": {
       "username": "squibby",
       "steam_id": "76561199249031770",
-      "total_hours": 65,
+      "total_hours": 81,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -3822,7 +3822,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 1,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -3846,6 +3846,11 @@
           "skill": "Sprinting",
           "level": "1",
           "timestamp": "28-12-25 18:49:03.440"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "01-01-26 00:07:57.266"
         }
       ],
       "last_seen": "31-12-25 23:29:09.185",
@@ -4363,7 +4368,7 @@
     "Tooth": {
       "username": "Tooth",
       "steam_id": "76561198061278854",
-      "total_hours": 165,
+      "total_hours": 180,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -4388,7 +4393,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -4437,6 +4442,11 @@
           "skill": "PlantScavenging",
           "level": "1",
           "timestamp": "31-12-25 23:28:57.230"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "01-01-26 00:06:59.596"
         }
       ],
       "last_seen": "31-12-25 23:28:57.230",
@@ -4542,5 +4552,5 @@
     }
   },
   "total_players": 39,
-  "timestamp": "2026-01-01T00:05:01.816108"
+  "timestamp": "2026-01-01T00:10:01.181859"
 }
