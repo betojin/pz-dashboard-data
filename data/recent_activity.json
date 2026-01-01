@@ -246,65 +246,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "01-01-26 01:30:44.058",
-      "steam_id": "76561198061278854",
-      "username": "Tooth",
-      "x": "11999",
-      "y": "2716",
-      "z": "0",
-      "hours_survived": 214,
-      "event_type": "level_up",
-      "skill": "Fishing",
-      "level": "1"
-    },
-    {
-      "timestamp": "01-01-26 02:21:06.986",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "x": "8616",
-      "y": "8822",
-      "z": "0",
-      "hours_survived": 629,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 7,
-        "Strength": 5,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 6,
-        "Aiming": 0,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 6,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 5,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 2,
-        "Masonry": 4,
-        "Pottery": 0,
-        "Carving": 7,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "01-01-26 02:29:04.893",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -1088,6 +1029,30 @@
       "event_type": "level_up",
       "skill": "Mechanics",
       "level": "3"
+    },
+    {
+      "timestamp": "01-01-26 09:05:07.274",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "12028",
+      "y": "2588",
+      "z": "0",
+      "hours_survived": 52,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "1"
+    },
+    {
+      "timestamp": "01-01-26 09:05:17.476",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "12050",
+      "y": "2594",
+      "z": "0",
+      "hours_survived": 52,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1104,5 +1069,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-01T09:05:01.989874"
+  "timestamp": "2026-01-01T09:10:01.324732"
 }
