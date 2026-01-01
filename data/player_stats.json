@@ -3,10 +3,10 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 832,
+      "total_hours": 847,
       "deaths": 3,
       "skills": {
-        "Cooking": 1,
+        "Cooking": 2,
         "Fitness": 10,
         "Strength": 10,
         "Blunt": 1,
@@ -257,6 +257,11 @@
           "skill": "Electricity",
           "level": "3",
           "timestamp": "31-12-25 04:42:21.316"
+        },
+        {
+          "skill": "Cooking",
+          "level": "2",
+          "timestamp": "01-01-26 07:12:51.683"
         }
       ],
       "last_seen": "31-12-25 04:42:21.316",
@@ -4623,5 +4628,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-01T07:10:01.375608"
+  "timestamp": "2026-01-01T07:15:01.873911"
 }
