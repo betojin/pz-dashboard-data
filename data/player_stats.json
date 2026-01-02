@@ -3972,14 +3972,14 @@
     "RottenTomato": {
       "username": "RottenTomato",
       "steam_id": "76561199511597958",
-      "total_hours": 167,
+      "total_hours": 176,
       "deaths": 9,
       "skills": {
         "Cooking": 4,
         "Fitness": 9,
         "Strength": 10,
         "Blunt": 0,
-        "Axe": 3,
+        "Axe": 4,
         "Lightfoot": 0,
         "Nimble": 0,
         "Sprinting": 2,
@@ -4091,6 +4091,11 @@
           "skill": "Sprinting",
           "level": "2",
           "timestamp": "02-01-26 08:41:05.205"
+        },
+        {
+          "skill": "Axe",
+          "level": "4",
+          "timestamp": "02-01-26 09:05:09.187"
         }
       ],
       "last_seen": "31-12-25 05:56:21.290",
@@ -4807,5 +4812,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-02T09:05:01.424985"
+  "timestamp": "2026-01-02T09:10:01.795995"
 }

@@ -138,18 +138,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "01-01-26 11:59:19.392",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12028",
-      "y": "2588",
-      "z": "0",
-      "hours_survived": 81,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "1"
-    },
-    {
       "timestamp": "01-01-26 11:59:29.610",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -1021,21 +1009,321 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "2"
+    },
+    {
+      "timestamp": "02-01-26 09:05:09.187",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "12157",
+      "y": "2318",
+      "z": "0",
+      "hours_survived": 176,
+      "event_type": "level_up",
+      "skill": "Axe",
+      "level": "4"
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "02-01-26 08:51:41.562",
+      "timestamp": "02-01-26 09:08:27.422",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:27.422",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:28.638",
       "chat_type": "Local",
       "author": "RottenTomato",
       "text": "HEY!"
     },
     {
-      "timestamp": "02-01-26 08:51:41.563",
+      "timestamp": "02-01-26 09:08:28.638",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:28.963",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:28.963",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:29.223",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:29.223",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:29.459",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:29.459",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:29.641",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:29.641",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:30.590",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:30.590",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:30.830",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:30.830",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:31.139",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:31.140",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:34.194",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:34.194",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:34.380",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:34.380",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:34.522",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:34.523",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:37.079",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:37.079",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:37.245",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:37.245",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:37.422",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:37.422",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:37.591",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:37.591",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:37.779",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:37.779",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:42.227",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:42.228",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:42.389",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:42.390",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:42.521",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:42.521",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:51.876",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:51.876",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:52.055",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:52.055",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:52.194",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:08:52.195",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:09:01.655",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:09:01.656",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-01-26 09:09:01.821",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "02-01-26 09:09:01.822",
       "chat_type": "Local",
       "author": "RottenTomato",
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-02T09:05:01.462190"
+  "timestamp": "2026-01-02T09:10:01.832488"
 }
