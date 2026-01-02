@@ -4508,7 +4508,7 @@
     "Tooth": {
       "username": "Tooth",
       "steam_id": "76561198061278854",
-      "total_hours": 218,
+      "total_hours": 225,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -4526,7 +4526,7 @@
         "Farming": 0,
         "Fishing": 1,
         "Trapping": 0,
-        "PlantScavenging": 1,
+        "PlantScavenging": 2,
         "Doctor": 2,
         "Electricity": 0,
         "Blacksmith": 0,
@@ -4602,6 +4602,11 @@
           "skill": "Fishing",
           "level": "1",
           "timestamp": "01-01-26 01:30:44.058"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "2",
+          "timestamp": "02-01-26 00:08:37.819"
         }
       ],
       "last_seen": "31-12-25 23:28:57.230",
@@ -4757,5 +4762,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-02T00:05:01.370564"
+  "timestamp": "2026-01-02T00:10:01.788633"
 }

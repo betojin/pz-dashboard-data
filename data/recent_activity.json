@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "01-01-26 08:28:52.210",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12020",
-      "y": "2596",
-      "z": "0",
-      "hours_survived": 37,
-      "event_type": "level_up",
-      "skill": "Mechanics",
-      "level": "1"
-    },
-    {
       "timestamp": "01-01-26 08:29:16.000",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -1106,6 +1094,18 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "02-01-26 00:08:37.819",
+      "steam_id": "76561198061278854",
+      "username": "Tooth",
+      "x": "12704",
+      "y": "1399",
+      "z": "0",
+      "hours_survived": 225,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1230,5 +1230,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-02T00:05:01.407975"
+  "timestamp": "2026-01-02T00:10:01.829128"
 }
