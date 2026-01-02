@@ -30,18 +30,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "01-01-26 09:16:39.176",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12149",
-      "y": "2454",
-      "z": "0",
-      "hours_survived": 56,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "1"
-    },
-    {
       "timestamp": "01-01-26 09:17:39.548",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -913,8 +901,20 @@
       "event_type": "level_up",
       "skill": "Cooking",
       "level": "3"
+    },
+    {
+      "timestamp": "02-01-26 02:28:03.192",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12020",
+      "y": "2588",
+      "z": "1",
+      "hours_survived": 102,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "1"
     }
   ],
   "chat_messages": [],
-  "timestamp": "2026-01-02T02:25:02.010494"
+  "timestamp": "2026-01-02T02:30:01.350866"
 }
