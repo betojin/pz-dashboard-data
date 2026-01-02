@@ -354,53 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "01-01-26 22:20:13.920",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10098",
-      "y": "8264",
-      "z": "0",
-      "hours_survived": 1239,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 3,
-        "Fitness": 5,
-        "Strength": 9,
-        "Blunt": 3,
-        "Axe": 2,
-        "Lightfoot": 2,
-        "Nimble": 4,
-        "Sprinting": 4,
-        "Sneak": 2,
-        "Woodwork": 10,
-        "Aiming": 4,
-        "Reloading": 5,
-        "Farming": 0,
-        "Fishing": 2,
-        "Trapping": 0,
-        "PlantScavenging": 4,
-        "Doctor": 1,
-        "Electricity": 3,
-        "Blacksmith": 0,
-        "MetalWelding": 2,
-        "Mechanics": 2,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 4,
-        "Tracking": 0,
-        "Husbandry": 4,
-        "FlintKnapping": 0,
-        "Masonry": 3,
-        "Pottery": 0,
-        "Carving": 3,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "01-01-26 22:28:14.018",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1307,6 +1260,16 @@
         "Butchering": 0,
         "Glassmaking": 1
       }
+    },
+    {
+      "timestamp": "02-01-26 11:10:05.485",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12022",
+      "y": "2589",
+      "z": "1",
+      "hours_survived": 167,
+      "event_type": "died"
     }
   ],
   "chat_messages": [
@@ -1611,5 +1574,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-02T11:10:01.629253"
+  "timestamp": "2026-01-02T11:15:01.965426"
 }
