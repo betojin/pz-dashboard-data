@@ -174,53 +174,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "01-01-26 12:36:05.109",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12023",
-      "y": "2594",
-      "z": "0",
-      "hours_survived": 83,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 2,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 3,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 3,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "01-01-26 12:38:06.442",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -1092,6 +1045,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "02-01-26 09:46:00.886",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "12197",
+      "y": "1638",
+      "z": "0",
+      "hours_survived": 192,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "6"
     }
   ],
   "chat_messages": [
@@ -1396,5 +1361,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-02T09:45:01.875604"
+  "timestamp": "2026-01-02T09:50:01.186043"
 }
