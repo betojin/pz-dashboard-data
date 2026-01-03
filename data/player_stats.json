@@ -290,7 +290,7 @@
     "admin": {
       "username": "admin",
       "steam_id": "76561198065774641",
-      "total_hours": 65,
+      "total_hours": 66,
       "deaths": 0,
       "skills": {
         "Cooking": 2,
@@ -382,6 +382,7 @@
         }
       ],
       "last_seen": "30-12-25 08:03:20.509",
+      "connections": 1,
       "role_id": 7,
       "last_connection_db": "2026-01-03 04:44:52"
     },
@@ -3212,6 +3213,26 @@
           "skill": "Blacksmith",
           "level": "6",
           "timestamp": "03-01-26 04:39:57.847"
+        },
+        {
+          "skill": "Blacksmith",
+          "level": "7",
+          "timestamp": "03-01-26 04:45:18.829"
+        },
+        {
+          "skill": "Blacksmith",
+          "level": "8",
+          "timestamp": "03-01-26 04:45:57.729"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "2",
+          "timestamp": "03-01-26 04:48:18.534"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "3",
+          "timestamp": "03-01-26 04:48:18.534"
         }
       ],
       "last_seen": "31-12-25 10:05:31.449",
@@ -4829,5 +4850,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-03T04:45:01.216552"
+  "timestamp": "2026-01-03T04:50:01.602642"
 }

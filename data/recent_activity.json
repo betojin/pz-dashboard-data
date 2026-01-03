@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "02-01-26 10:31:50.544",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "02-01-26 10:35:21.624",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "fully connected",
-      "x": "12024",
-      "y": "2592",
-      "z": "0"
-    },
-    {
       "timestamp": "02-01-26 10:37:58.767",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -356,69 +341,27 @@
       "steam_id": "76561198065774641",
       "username": "admin",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "03-01-26 04:45:09.421",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "fully connected",
+      "x": "12016",
+      "y": "2596",
+      "z": "0"
+    },
+    {
+      "timestamp": "03-01-26 04:47:56.780",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "disconnected",
+      "x": "12024",
+      "y": "2598",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "02-01-26 02:15:09.128",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12028",
-      "y": "2588",
-      "z": "0",
-      "hours_survived": 97,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "3"
-    },
-    {
-      "timestamp": "02-01-26 02:28:03.192",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12020",
-      "y": "2588",
-      "z": "1",
-      "hours_survived": 102,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "1"
-    },
-    {
-      "timestamp": "02-01-26 02:35:47.509",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12020",
-      "y": "2588",
-      "z": "1",
-      "hours_survived": 105,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "2"
-    },
-    {
-      "timestamp": "02-01-26 02:54:15.109",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12021",
-      "y": "2588",
-      "z": "1",
-      "hours_survived": 112,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "3"
-    },
-    {
-      "timestamp": "02-01-26 03:41:20.000",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12048",
-      "y": "2596",
-      "z": "0",
-      "hours_survived": 131,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "1"
-    },
     {
       "timestamp": "02-01-26 04:09:19.334",
       "steam_id": "76561199511597958",
@@ -1204,21 +1147,104 @@
       "event_type": "level_up",
       "skill": "Blacksmith",
       "level": "6"
+    },
+    {
+      "timestamp": "03-01-26 04:45:10.810",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "x": "12016",
+      "y": "2596",
+      "z": "0",
+      "hours_survived": 66,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 2,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 10,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "03-01-26 04:45:18.829",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12003",
+      "y": "2585",
+      "z": "0",
+      "hours_survived": 8,
+      "event_type": "level_up",
+      "skill": "Blacksmith",
+      "level": "7"
+    },
+    {
+      "timestamp": "03-01-26 04:45:57.729",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12003",
+      "y": "2585",
+      "z": "0",
+      "hours_survived": 9,
+      "event_type": "level_up",
+      "skill": "Blacksmith",
+      "level": "8"
+    },
+    {
+      "timestamp": "03-01-26 04:48:18.534",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12020",
+      "y": "2597",
+      "z": "0",
+      "hours_survived": 10,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "2"
+    },
+    {
+      "timestamp": "03-01-26 04:48:18.534",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12020",
+      "y": "2597",
+      "z": "0",
+      "hours_survived": 10,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "3"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "03-01-26 04:41:31.469",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "brb gonna shower"
-    },
-    {
-      "timestamp": "03-01-26 04:41:31.469",
-      "chat_type": "Local",
-      "author": "BetoJin",
-      "text": "brb gonna shower"
-    },
     {
       "timestamp": "03-01-26 04:41:36.875",
       "chat_type": "Local",
@@ -1506,7 +1532,19 @@
       "chat_type": "Local",
       "author": "BetoJin",
       "text": "ill jump on admin acc now"
+    },
+    {
+      "timestamp": "03-01-26 04:47:09.175",
+      "chat_type": "Local",
+      "author": "admin",
+      "text": "its been updated!"
+    },
+    {
+      "timestamp": "03-01-26 04:47:09.175",
+      "chat_type": "Local",
+      "author": "admin",
+      "text": "its been updated!"
     }
   ],
-  "timestamp": "2026-01-03T04:45:01.254884"
+  "timestamp": "2026-01-03T04:50:01.643639"
 }
