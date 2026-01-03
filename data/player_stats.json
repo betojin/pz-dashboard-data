@@ -2698,7 +2698,7 @@
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
-        "Tailoring": 5,
+        "Tailoring": 6,
         "Tracking": 0,
         "Husbandry": 1,
         "FlintKnapping": 0,
@@ -3343,6 +3343,11 @@
           "skill": "Masonry",
           "level": "10",
           "timestamp": "03-01-26 08:58:18.715"
+        },
+        {
+          "skill": "Tailoring",
+          "level": "6",
+          "timestamp": "03-01-26 09:37:11.858"
         }
       ],
       "last_seen": "31-12-25 10:05:31.449",
@@ -4980,5 +4985,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-03T09:35:01.154884"
+  "timestamp": "2026-01-03T09:40:01.521914"
 }
