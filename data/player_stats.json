@@ -399,7 +399,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 1310,
+      "total_hours": 1313,
       "deaths": 1,
       "skills": {
         "Cooking": 3,
@@ -791,7 +791,7 @@
         }
       ],
       "last_seen": "31-12-25 06:27:44.672",
-      "connections": 3
+      "connections": 4
     },
     "Firestorm3050": {
       "username": "Firestorm3050",
@@ -1363,7 +1363,7 @@
     "CaptainLobo": {
       "username": "CaptainLobo",
       "steam_id": "76561198044597580",
-      "total_hours": 644,
+      "total_hours": 653,
       "deaths": 5,
       "skills": {
         "Cooking": 3,
@@ -1388,7 +1388,7 @@
         "MetalWelding": 0,
         "Mechanics": 3,
         "Spear": 0,
-        "Maintenance": 2,
+        "Maintenance": 3,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -1602,6 +1602,11 @@
           "skill": "Electricity",
           "level": "1",
           "timestamp": "03-01-26 18:49:21.919"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "3",
+          "timestamp": "03-01-26 19:12:30.034"
         }
       ],
       "last_seen": "29-12-25 18:54:21.447",
@@ -5031,5 +5036,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-03T19:10:01.477204"
+  "timestamp": "2026-01-03T19:15:01.883215"
 }
