@@ -3648,7 +3648,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 635,
+      "total_hours": 637,
       "deaths": 0,
       "skills": {
         "Cooking": 4,
@@ -3668,7 +3668,7 @@
         "Trapping": 0,
         "PlantScavenging": 6,
         "Doctor": 1,
-        "Electricity": 1,
+        "Electricity": 2,
         "Blacksmith": 0,
         "MetalWelding": 0,
         "Mechanics": 1,
@@ -3932,6 +3932,11 @@
           "skill": "Electricity",
           "level": "1",
           "timestamp": "01-01-26 02:36:25.687"
+        },
+        {
+          "skill": "Electricity",
+          "level": "2",
+          "timestamp": "03-01-26 22:28:00.109"
         }
       ],
       "last_seen": "31-12-25 00:32:59.977",
@@ -5042,5 +5047,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-03T22:25:01.203393"
+  "timestamp": "2026-01-03T22:30:01.559264"
 }
