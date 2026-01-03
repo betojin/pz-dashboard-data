@@ -2704,7 +2704,7 @@
         "FlintKnapping": 0,
         "Masonry": 10,
         "Pottery": 4,
-        "Carving": 6,
+        "Carving": 7,
         "Butchering": 5,
         "Glassmaking": 1
       },
@@ -3358,6 +3358,11 @@
           "skill": "Sprinting",
           "level": "1",
           "timestamp": "03-01-26 11:18:07.899"
+        },
+        {
+          "skill": "Carving",
+          "level": "7",
+          "timestamp": "03-01-26 11:33:22.650"
         }
       ],
       "last_seen": "31-12-25 10:05:31.449",
@@ -4995,5 +5000,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-03T11:30:01.779044"
+  "timestamp": "2026-01-03T11:35:01.123989"
 }
