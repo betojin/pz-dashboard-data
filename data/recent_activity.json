@@ -363,101 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "03-01-26 05:07:20.413",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12020",
-      "y": "2588",
-      "z": "1",
-      "hours_survived": 17,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "2"
-    },
-    {
-      "timestamp": "03-01-26 05:08:04.369",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12019",
-      "y": "2598",
-      "z": "0",
-      "hours_survived": 876,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 10,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 7,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 10,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 3,
-        "Blacksmith": 0,
-        "MetalWelding": 4,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 5,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 1,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "03-01-26 05:10:35.814",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12020",
-      "y": "2588",
-      "z": "1",
-      "hours_survived": 18,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "3"
-    },
-    {
-      "timestamp": "03-01-26 05:13:33.730",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12020",
-      "y": "2588",
-      "z": "1",
-      "hours_survived": 20,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "4"
-    },
-    {
-      "timestamp": "03-01-26 05:16:39.220",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12024",
-      "y": "2607",
-      "z": "0",
-      "hours_survived": 21,
-      "event_type": "level_up",
-      "skill": "Husbandry",
-      "level": "1"
-    },
-    {
       "timestamp": "03-01-26 05:20:35.117",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -1141,6 +1046,66 @@
       "event_type": "level_up",
       "skill": "Masonry",
       "level": "5"
+    },
+    {
+      "timestamp": "03-01-26 08:55:17.087",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12011",
+      "y": "2590",
+      "z": "0",
+      "hours_survived": 43,
+      "event_type": "level_up",
+      "skill": "Masonry",
+      "level": "6"
+    },
+    {
+      "timestamp": "03-01-26 08:56:34.497",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12011",
+      "y": "2590",
+      "z": "0",
+      "hours_survived": 43,
+      "event_type": "level_up",
+      "skill": "Masonry",
+      "level": "7"
+    },
+    {
+      "timestamp": "03-01-26 08:56:56.005",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12011",
+      "y": "2590",
+      "z": "0",
+      "hours_survived": 43,
+      "event_type": "level_up",
+      "skill": "Masonry",
+      "level": "8"
+    },
+    {
+      "timestamp": "03-01-26 08:58:06.403",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12011",
+      "y": "2590",
+      "z": "0",
+      "hours_survived": 44,
+      "event_type": "level_up",
+      "skill": "Masonry",
+      "level": "9"
+    },
+    {
+      "timestamp": "03-01-26 08:58:18.715",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12011",
+      "y": "2590",
+      "z": "0",
+      "hours_survived": 44,
+      "event_type": "level_up",
+      "skill": "Masonry",
+      "level": "10"
     }
   ],
   "chat_messages": [
@@ -1445,5 +1410,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-03T08:55:01.297065"
+  "timestamp": "2026-01-03T09:00:01.710556"
 }

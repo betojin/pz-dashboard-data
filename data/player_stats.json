@@ -2702,7 +2702,7 @@
         "Tracking": 0,
         "Husbandry": 1,
         "FlintKnapping": 0,
-        "Masonry": 8,
+        "Masonry": 10,
         "Pottery": 4,
         "Carving": 6,
         "Butchering": 5,
@@ -3318,6 +3318,31 @@
           "skill": "Masonry",
           "level": "5",
           "timestamp": "03-01-26 08:55:00.817"
+        },
+        {
+          "skill": "Masonry",
+          "level": "6",
+          "timestamp": "03-01-26 08:55:17.087"
+        },
+        {
+          "skill": "Masonry",
+          "level": "7",
+          "timestamp": "03-01-26 08:56:34.497"
+        },
+        {
+          "skill": "Masonry",
+          "level": "8",
+          "timestamp": "03-01-26 08:56:56.005"
+        },
+        {
+          "skill": "Masonry",
+          "level": "9",
+          "timestamp": "03-01-26 08:58:06.403"
+        },
+        {
+          "skill": "Masonry",
+          "level": "10",
+          "timestamp": "03-01-26 08:58:18.715"
         }
       ],
       "last_seen": "31-12-25 10:05:31.449",
@@ -4955,5 +4980,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-03T08:55:01.255337"
+  "timestamp": "2026-01-03T09:00:01.665924"
 }
