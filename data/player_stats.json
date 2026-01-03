@@ -2688,7 +2688,7 @@
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
-        "Tailoring": 4,
+        "Tailoring": 5,
         "Tracking": 0,
         "Husbandry": 1,
         "FlintKnapping": 0,
@@ -3293,6 +3293,11 @@
           "skill": "Carving",
           "level": "6",
           "timestamp": "03-01-26 05:26:26.203"
+        },
+        {
+          "skill": "Tailoring",
+          "level": "5",
+          "timestamp": "03-01-26 05:33:57.820"
         }
       ],
       "last_seen": "31-12-25 10:05:31.449",
@@ -4910,5 +4915,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-03T05:30:01.549912"
+  "timestamp": "2026-01-03T05:35:01.903930"
 }
