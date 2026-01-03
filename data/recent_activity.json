@@ -363,65 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "03-01-26 05:33:57.820",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12003",
-      "y": "2585",
-      "z": "0",
-      "hours_survived": 28,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "5"
-    },
-    {
-      "timestamp": "03-01-26 05:43:23.713",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "12021",
-      "y": "2597",
-      "z": "0",
-      "hours_survived": 879,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 10,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 7,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 10,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 1,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 3,
-        "Blacksmith": 0,
-        "MetalWelding": 4,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 5,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 1,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "03-01-26 05:50:52.851",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -1106,6 +1047,30 @@
       "event_type": "level_up",
       "skill": "Carving",
       "level": "8"
+    },
+    {
+      "timestamp": "03-01-26 11:41:29.579",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12011",
+      "y": "2590",
+      "z": "0",
+      "hours_survived": 109,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "9"
+    },
+    {
+      "timestamp": "03-01-26 11:41:57.830",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12011",
+      "y": "2590",
+      "z": "0",
+      "hours_survived": 109,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "10"
     }
   ],
   "chat_messages": [
@@ -1410,5 +1375,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-03T11:40:01.518243"
+  "timestamp": "2026-01-03T11:45:01.905491"
 }

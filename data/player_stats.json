@@ -2704,7 +2704,7 @@
         "FlintKnapping": 0,
         "Masonry": 10,
         "Pottery": 4,
-        "Carving": 8,
+        "Carving": 10,
         "Butchering": 5,
         "Glassmaking": 1
       },
@@ -3368,6 +3368,16 @@
           "skill": "Carving",
           "level": "8",
           "timestamp": "03-01-26 11:36:33.523"
+        },
+        {
+          "skill": "Carving",
+          "level": "9",
+          "timestamp": "03-01-26 11:41:29.579"
+        },
+        {
+          "skill": "Carving",
+          "level": "10",
+          "timestamp": "03-01-26 11:41:57.830"
         }
       ],
       "last_seen": "31-12-25 10:05:31.449",
@@ -5005,5 +5015,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-03T11:40:01.477005"
+  "timestamp": "2026-01-03T11:45:01.863804"
 }
