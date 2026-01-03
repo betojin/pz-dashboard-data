@@ -1,36 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "02-01-26 10:11:18.325",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "fully connected",
-      "x": "12038",
-      "y": "2595",
-      "z": "0"
-    },
-    {
-      "timestamp": "02-01-26 10:31:14.483",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "disconnected",
-      "x": "12022",
-      "y": "2595",
-      "z": "0"
-    },
-    {
-      "timestamp": "02-01-26 10:31:41.453",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "02-01-26 10:31:41.453",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "02-01-26 10:31:50.544",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -359,6 +329,33 @@
       "x": "12020",
       "y": "2606",
       "z": "0"
+    },
+    {
+      "timestamp": "03-01-26 04:44:29.405",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "disconnected",
+      "x": "12019",
+      "y": "2598",
+      "z": "0"
+    },
+    {
+      "timestamp": "03-01-26 04:44:52.059",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "03-01-26 04:44:52.059",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "03-01-26 04:44:57.909",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1211,305 +1208,305 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "02-01-26 09:08:42.227",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 09:08:42.228",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 09:08:42.389",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 09:08:42.390",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 09:08:42.521",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 09:08:42.521",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 09:08:51.876",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "02-01-26 09:08:51.876",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "02-01-26 09:08:52.055",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "02-01-26 09:08:52.055",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "02-01-26 09:08:52.194",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "02-01-26 09:08:52.195",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "02-01-26 09:09:01.655",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "02-01-26 09:09:01.656",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "02-01-26 09:09:01.821",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "02-01-26 09:09:01.822",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "02-01-26 09:10:47.246",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "02-01-26 09:10:47.246",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "02-01-26 09:14:01.603",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 09:14:01.603",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 09:14:01.750",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "02-01-26 09:14:01.750",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "02-01-26 09:14:54.197",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "02-01-26 09:14:54.197",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "02-01-26 09:51:46.808",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "02-01-26 09:51:46.808",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "02-01-26 10:00:20.601",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "02-01-26 10:00:20.601",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:34.212",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:34.212",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:34.541",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:34.541",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:34.840",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:34.840",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:35.127",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:35.127",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:35.392",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:35.392",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:35.729",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:35.729",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:36.543",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:36.544",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:36.806",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:36.806",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:37.131",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:37.131",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:39.392",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "02-01-26 10:07:39.392",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "03-01-26 04:38:09.596",
+      "timestamp": "03-01-26 04:41:31.469",
       "chat_type": "Local",
       "author": "BetoJin",
-      "text": "yooooooo"
+      "text": "brb gonna shower"
     },
     {
-      "timestamp": "03-01-26 04:38:09.596",
+      "timestamp": "03-01-26 04:41:31.469",
       "chat_type": "Local",
       "author": "BetoJin",
-      "text": "yooooooo"
+      "text": "brb gonna shower"
+    },
+    {
+      "timestamp": "03-01-26 04:41:36.875",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "so this time... i think i accidentally ate an uncooked egg"
+    },
+    {
+      "timestamp": "03-01-26 04:41:36.875",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "so this time... i think i accidentally ate an uncooked egg"
+    },
+    {
+      "timestamp": "03-01-26 04:41:43.050",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "LMFAO"
+    },
+    {
+      "timestamp": "03-01-26 04:41:43.050",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "LMFAO"
+    },
+    {
+      "timestamp": "03-01-26 04:41:46.651",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "i got queasy and died SO FAST"
+    },
+    {
+      "timestamp": "03-01-26 04:41:46.651",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "i got queasy and died SO FAST"
+    },
+    {
+      "timestamp": "03-01-26 04:41:48.463",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "u died from that?!"
+    },
+    {
+      "timestamp": "03-01-26 04:41:48.463",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "u died from that?!"
+    },
+    {
+      "timestamp": "03-01-26 04:41:51.672",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "i was panicking"
+    },
+    {
+      "timestamp": "03-01-26 04:41:51.672",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "i was panicking"
+    },
+    {
+      "timestamp": "03-01-26 04:41:58.740",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "YES literally ONE EGG"
+    },
+    {
+      "timestamp": "03-01-26 04:41:58.740",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "YES literally ONE EGG"
+    },
+    {
+      "timestamp": "03-01-26 04:42:05.531",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "LOL"
+    },
+    {
+      "timestamp": "03-01-26 04:42:05.531",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "LOL"
+    },
+    {
+      "timestamp": "03-01-26 04:42:08.585",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "you had"
+    },
+    {
+      "timestamp": "03-01-26 04:42:08.585",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "you had"
+    },
+    {
+      "timestamp": "03-01-26 04:42:10.914",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "i have Iron Gut mod now"
+    },
+    {
+      "timestamp": "03-01-26 04:42:10.914",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "i have Iron Gut mod now"
+    },
+    {
+      "timestamp": "03-01-26 04:42:14.931",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "weak stomach trait too"
+    },
+    {
+      "timestamp": "03-01-26 04:42:14.931",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "weak stomach trait too"
+    },
+    {
+      "timestamp": "03-01-26 04:42:19.887",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "because I AINT RISKIN IT"
+    },
+    {
+      "timestamp": "03-01-26 04:42:19.888",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "because I AINT RISKIN IT"
+    },
+    {
+      "timestamp": "03-01-26 04:42:24.671",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "LOL"
+    },
+    {
+      "timestamp": "03-01-26 04:42:24.671",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "LOL"
+    },
+    {
+      "timestamp": "03-01-26 04:42:26.928",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "especially with all these eggs"
+    },
+    {
+      "timestamp": "03-01-26 04:42:26.929",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "especially with all these eggs"
+    },
+    {
+      "timestamp": "03-01-26 04:42:35.237",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "thats why u gatta COOK IT"
+    },
+    {
+      "timestamp": "03-01-26 04:42:35.237",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "thats why u gatta COOK IT"
+    },
+    {
+      "timestamp": "03-01-26 04:42:43.700",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "i thought i did"
+    },
+    {
+      "timestamp": "03-01-26 04:42:43.700",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "i thought i did"
+    },
+    {
+      "timestamp": "03-01-26 04:42:54.598",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "so now im back to lvling my blacksmith"
+    },
+    {
+      "timestamp": "03-01-26 04:42:54.598",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "so now im back to lvling my blacksmith"
+    },
+    {
+      "timestamp": "03-01-26 04:43:03.142",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "for the 3rd timeeeeeeee"
+    },
+    {
+      "timestamp": "03-01-26 04:43:03.142",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "for the 3rd timeeeeeeee"
+    },
+    {
+      "timestamp": "03-01-26 04:43:13.789",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "i was gonna ask if you can speed up the crafting times, tailoring, blacksmithing"
+    },
+    {
+      "timestamp": "03-01-26 04:43:13.789",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "i was gonna ask if you can speed up the crafting times, tailoring, blacksmithing"
+    },
+    {
+      "timestamp": "03-01-26 04:43:37.988",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "crafting times, I dont know but leveling up xp i can"
+    },
+    {
+      "timestamp": "03-01-26 04:43:37.988",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "crafting times, I dont know but leveling up xp i can"
+    },
+    {
+      "timestamp": "03-01-26 04:43:48.747",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "i see"
+    },
+    {
+      "timestamp": "03-01-26 04:43:48.747",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "i see"
+    },
+    {
+      "timestamp": "03-01-26 04:43:51.830",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "let me wash up first and do that"
+    },
+    {
+      "timestamp": "03-01-26 04:43:51.830",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "let me wash up first and do that"
+    },
+    {
+      "timestamp": "03-01-26 04:43:54.402",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "kk"
+    },
+    {
+      "timestamp": "03-01-26 04:43:54.402",
+      "chat_type": "Local",
+      "author": "RottenPotato",
+      "text": "kk"
+    },
+    {
+      "timestamp": "03-01-26 04:44:08.188",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "actually let me do that first then showertr"
+    },
+    {
+      "timestamp": "03-01-26 04:44:08.188",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "actually let me do that first then showertr"
+    },
+    {
+      "timestamp": "03-01-26 04:44:18.186",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "ill jump on admin acc now"
+    },
+    {
+      "timestamp": "03-01-26 04:44:18.187",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "ill jump on admin acc now"
     }
   ],
-  "timestamp": "2026-01-03T04:40:01.871795"
+  "timestamp": "2026-01-03T04:45:01.254884"
 }
