@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 912,
+      "total_hours": 926,
       "deaths": 3,
       "skills": {
         "Cooking": 4,
@@ -39,7 +39,7 @@
         "Masonry": 0,
         "Pottery": 0,
         "Carving": 0,
-        "Butchering": 3,
+        "Butchering": 4,
         "Glassmaking": 0
       },
       "level_ups": [
@@ -287,10 +287,15 @@
           "skill": "Husbandry",
           "level": "2",
           "timestamp": "03-01-26 07:10:56.825"
+        },
+        {
+          "skill": "Butchering",
+          "level": "4",
+          "timestamp": "03-01-26 07:46:34.654"
         }
       ],
       "last_seen": "31-12-25 04:42:21.316",
-      "connections": 4
+      "connections": 5
     },
     "admin": {
       "username": "admin",
@@ -4940,5 +4945,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-03T07:45:02.057946"
+  "timestamp": "2026-01-03T07:50:01.419692"
 }
