@@ -399,13 +399,13 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 1313,
+      "total_hours": 1332,
       "deaths": 1,
       "skills": {
         "Cooking": 3,
         "Fitness": 5,
         "Strength": 9,
-        "Blunt": 3,
+        "Blunt": 4,
         "Axe": 2,
         "Lightfoot": 2,
         "Nimble": 4,
@@ -788,6 +788,11 @@
           "skill": "Carving",
           "level": "3",
           "timestamp": "31-12-25 06:27:44.672"
+        },
+        {
+          "skill": "Blunt",
+          "level": "4",
+          "timestamp": "03-01-26 19:59:52.032"
         }
       ],
       "last_seen": "31-12-25 06:27:44.672",
@@ -5036,5 +5041,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-03T19:55:01.130913"
+  "timestamp": "2026-01-03T20:00:01.472118"
 }
