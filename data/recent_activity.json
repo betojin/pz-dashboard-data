@@ -4,12 +4,6 @@
       "timestamp": "03-01-26 06:45:50.597",
       "steam_id": "76561198065774641",
       "username": "admin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "03-01-26 06:45:50.597",
-      "steam_id": "76561198065774641",
-      "username": "admin",
       "action": "allowed to join"
     },
     {
@@ -358,6 +352,15 @@
       "action": "fully connected",
       "x": "12006",
       "y": "2588",
+      "z": "0"
+    },
+    {
+      "timestamp": "03-01-26 12:41:51.189",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "disconnected",
+      "x": "12027",
+      "y": "2593",
       "z": "0"
     }
   ],
@@ -1340,5 +1343,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-03T12:40:01.975272"
+  "timestamp": "2026-01-03T12:45:01.295399"
 }
