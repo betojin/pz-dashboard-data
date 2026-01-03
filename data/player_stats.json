@@ -4075,7 +4075,7 @@
     "RottenTomato": {
       "username": "RottenTomato",
       "steam_id": "76561199511597958",
-      "total_hours": 232,
+      "total_hours": 253,
       "deaths": 9,
       "skills": {
         "Cooking": 4,
@@ -4111,7 +4111,7 @@
         "Masonry": 0,
         "Pottery": 0,
         "Carving": 0,
-        "Butchering": 0,
+        "Butchering": 3,
         "Glassmaking": 0
       },
       "level_ups": [
@@ -4209,6 +4209,21 @@
           "skill": "Axe",
           "level": "5",
           "timestamp": "03-01-26 06:35:54.765"
+        },
+        {
+          "skill": "Butchering",
+          "level": "1",
+          "timestamp": "03-01-26 07:38:50.365"
+        },
+        {
+          "skill": "Butchering",
+          "level": "2",
+          "timestamp": "03-01-26 07:38:50.365"
+        },
+        {
+          "skill": "Butchering",
+          "level": "3",
+          "timestamp": "03-01-26 07:39:54.457"
         }
       ],
       "last_seen": "31-12-25 05:56:21.290",
@@ -4925,5 +4940,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-03T07:35:01.293641"
+  "timestamp": "2026-01-03T07:40:01.677523"
 }
