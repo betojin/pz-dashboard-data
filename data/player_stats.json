@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 865,
+      "total_hours": 873,
       "deaths": 3,
       "skills": {
         "Cooking": 4,
@@ -284,7 +284,8 @@
           "timestamp": "01-01-26 07:29:18.089"
         }
       ],
-      "last_seen": "31-12-25 04:42:21.316"
+      "last_seen": "31-12-25 04:42:21.316",
+      "connections": 1
     },
     "admin": {
       "username": "admin",
@@ -3201,6 +3202,16 @@
           "skill": "Husbandry",
           "level": "1",
           "timestamp": "02-01-26 04:10:08.924"
+        },
+        {
+          "skill": "Blacksmith",
+          "level": "5",
+          "timestamp": "03-01-26 04:38:04.910"
+        },
+        {
+          "skill": "Blacksmith",
+          "level": "6",
+          "timestamp": "03-01-26 04:39:57.847"
         }
       ],
       "last_seen": "31-12-25 10:05:31.449",
@@ -4818,5 +4829,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-03T04:35:01.490512"
+  "timestamp": "2026-01-03T04:40:01.833400"
 }
