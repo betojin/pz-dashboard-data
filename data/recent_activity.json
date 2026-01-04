@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "03-01-26 12:41:51.189",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "disconnected",
-      "x": "12027",
-      "y": "2593",
-      "z": "0"
-    },
-    {
       "timestamp": "03-01-26 18:24:13.674",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -358,6 +349,15 @@
       "action": "fully connected",
       "x": "8614",
       "y": "8822",
+      "z": "0"
+    },
+    {
+      "timestamp": "04-01-26 20:00:23.571",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "disconnected",
+      "x": "8615",
+      "y": "8823",
       "z": "0"
     }
   ],
@@ -1165,5 +1165,5 @@
       "text": "psst"
     }
   ],
-  "timestamp": "2026-01-04T20:00:01.161475"
+  "timestamp": "2026-01-04T20:05:01.681275"
 }
