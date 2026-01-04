@@ -4,12 +4,6 @@
       "timestamp": "03-01-26 19:12:22.020",
       "steam_id": "76561198119296623",
       "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "03-01-26 19:12:22.020",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
       "action": "allowed to join"
     },
     {
@@ -358,6 +352,15 @@
       "action": "fully connected",
       "x": "8132",
       "y": "11551",
+      "z": "0"
+    },
+    {
+      "timestamp": "04-01-26 22:05:19.346",
+      "steam_id": "76561198368197161",
+      "username": "half",
+      "action": "disconnected",
+      "x": "8131",
+      "y": "11558",
       "z": "0"
     }
   ],
@@ -1200,5 +1203,5 @@
       "text": "psst"
     }
   ],
-  "timestamp": "2026-01-04T22:05:01.632756"
+  "timestamp": "2026-01-04T22:10:02.023304"
 }
