@@ -2688,7 +2688,7 @@
       "total_hours": 761,
       "deaths": 6,
       "skills": {
-        "Cooking": 6,
+        "Cooking": 7,
         "Fitness": 4,
         "Strength": 9,
         "Blunt": 0,
@@ -3534,6 +3534,11 @@
           "skill": "Cooking",
           "level": "6",
           "timestamp": "04-01-26 06:39:57.264"
+        },
+        {
+          "skill": "Cooking",
+          "level": "7",
+          "timestamp": "04-01-26 06:41:38.266"
         }
       ],
       "last_seen": "31-12-25 10:05:31.449",
@@ -5182,5 +5187,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-04T06:40:01.753414"
+  "timestamp": "2026-01-04T06:45:01.226209"
 }
