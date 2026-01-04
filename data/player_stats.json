@@ -2707,7 +2707,7 @@
         "Doctor": 0,
         "Electricity": 2,
         "Blacksmith": 10,
-        "MetalWelding": 7,
+        "MetalWelding": 8,
         "Mechanics": 3,
         "Spear": 0,
         "Maintenance": 5,
@@ -3554,6 +3554,16 @@
           "skill": "MetalWelding",
           "level": "6",
           "timestamp": "04-01-26 06:58:04.770"
+        },
+        {
+          "skill": "MetalWelding",
+          "level": "7",
+          "timestamp": "04-01-26 07:00:50.674"
+        },
+        {
+          "skill": "MetalWelding",
+          "level": "8",
+          "timestamp": "04-01-26 07:03:44.357"
         }
       ],
       "last_seen": "31-12-25 10:05:31.449",
@@ -5202,5 +5212,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-04T07:00:01.456046"
+  "timestamp": "2026-01-04T07:05:01.861860"
 }
