@@ -363,65 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "04-01-26 04:30:48.647",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12020",
-      "y": "2597",
-      "z": "0",
-      "hours_survived": 123,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 4,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 10,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 3,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 6,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 0,
-        "Masonry": 10,
-        "Pottery": 2,
-        "Carving": 10,
-        "Butchering": 0,
-        "Glassmaking": 1
-      }
-    },
-    {
-      "timestamp": "04-01-26 04:56:09.999",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12300",
-      "y": "1501",
-      "z": "0",
-      "hours_survived": 133,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "1"
-    },
-    {
       "timestamp": "04-01-26 04:58:40.148",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -756,6 +697,30 @@
       "event_type": "level_up",
       "skill": "MetalWelding",
       "level": "4"
+    },
+    {
+      "timestamp": "04-01-26 06:55:52.760",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12011",
+      "y": "2590",
+      "z": "0",
+      "hours_survived": 181,
+      "event_type": "level_up",
+      "skill": "MetalWelding",
+      "level": "5"
+    },
+    {
+      "timestamp": "04-01-26 06:58:04.770",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12011",
+      "y": "2590",
+      "z": "0",
+      "hours_survived": 182,
+      "event_type": "level_up",
+      "skill": "MetalWelding",
+      "level": "6"
     }
   ],
   "chat_messages": [
@@ -1060,5 +1025,5 @@
       "text": "psst"
     }
   ],
-  "timestamp": "2026-01-04T06:55:02.076048"
+  "timestamp": "2026-01-04T07:00:01.500745"
 }
