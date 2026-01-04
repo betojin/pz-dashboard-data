@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "03-01-26 12:17:38.676",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "03-01-26 12:17:38.677",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "03-01-26 12:17:49.046",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -359,6 +347,18 @@
       "x": "10635",
       "y": "10537",
       "z": "0"
+    },
+    {
+      "timestamp": "04-01-26 19:44:39.442",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "04-01-26 19:44:39.443",
+      "steam_id": "76561198060886931",
+      "username": "Zero",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -1130,5 +1130,5 @@
       "text": "psst"
     }
   ],
-  "timestamp": "2026-01-04T19:40:01.685518"
+  "timestamp": "2026-01-04T19:45:02.043770"
 }
