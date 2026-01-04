@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "04-01-26 02:49:33.336",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "13423",
-      "y": "4195",
-      "z": "0",
-      "hours_survived": 1392,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 3,
-        "Fitness": 5,
-        "Strength": 9,
-        "Blunt": 4,
-        "Axe": 2,
-        "Lightfoot": 2,
-        "Nimble": 4,
-        "Sprinting": 4,
-        "Sneak": 2,
-        "Woodwork": 10,
-        "Aiming": 4,
-        "Reloading": 5,
-        "Farming": 0,
-        "Fishing": 2,
-        "Trapping": 0,
-        "PlantScavenging": 4,
-        "Doctor": 1,
-        "Electricity": 3,
-        "Blacksmith": 0,
-        "MetalWelding": 2,
-        "Mechanics": 2,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 4,
-        "Tracking": 0,
-        "Husbandry": 4,
-        "FlintKnapping": 0,
-        "Masonry": 3,
-        "Pottery": 0,
-        "Carving": 3,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "04-01-26 04:30:48.647",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -791,6 +744,18 @@
       "event_type": "level_up",
       "skill": "Cooking",
       "level": "7"
+    },
+    {
+      "timestamp": "04-01-26 06:52:32.762",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12011",
+      "y": "2590",
+      "z": "0",
+      "hours_survived": 180,
+      "event_type": "level_up",
+      "skill": "MetalWelding",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1095,5 +1060,5 @@
       "text": "psst"
     }
   ],
-  "timestamp": "2026-01-04T06:50:01.738097"
+  "timestamp": "2026-01-04T06:55:02.076048"
 }
