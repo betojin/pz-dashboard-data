@@ -363,42 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "03-01-26 08:58:06.403",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12011",
-      "y": "2590",
-      "z": "0",
-      "hours_survived": 44,
-      "event_type": "level_up",
-      "skill": "Masonry",
-      "level": "9"
-    },
-    {
-      "timestamp": "03-01-26 08:58:18.715",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12011",
-      "y": "2590",
-      "z": "0",
-      "hours_survived": 44,
-      "event_type": "level_up",
-      "skill": "Masonry",
-      "level": "10"
-    },
-    {
-      "timestamp": "03-01-26 09:37:11.858",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12003",
-      "y": "2585",
-      "z": "0",
-      "hours_survived": 59,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "6"
-    },
-    {
       "timestamp": "03-01-26 10:50:05.361",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -966,6 +930,42 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "5"
+    },
+    {
+      "timestamp": "04-01-26 05:56:43.200",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12009",
+      "y": "2592",
+      "z": "0",
+      "hours_survived": 158,
+      "event_type": "level_up",
+      "skill": "Pottery",
+      "level": "3"
+    },
+    {
+      "timestamp": "04-01-26 05:58:19.002",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12009",
+      "y": "2592",
+      "z": "0",
+      "hours_survived": 158,
+      "event_type": "level_up",
+      "skill": "Pottery",
+      "level": "4"
+    },
+    {
+      "timestamp": "04-01-26 05:59:50.388",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12009",
+      "y": "2592",
+      "z": "0",
+      "hours_survived": 159,
+      "event_type": "level_up",
+      "skill": "Pottery",
+      "level": "5"
     }
   ],
   "chat_messages": [
@@ -1270,5 +1270,5 @@
       "text": "psst"
     }
   ],
-  "timestamp": "2026-01-04T05:55:01.300774"
+  "timestamp": "2026-01-04T06:00:01.758518"
 }
