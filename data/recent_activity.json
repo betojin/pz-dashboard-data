@@ -363,66 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "03-01-26 11:18:07.899",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12008",
-      "y": "2587",
-      "z": "0",
-      "hours_survived": 100,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "1"
-    },
-    {
-      "timestamp": "03-01-26 11:33:22.650",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12010",
-      "y": "2589",
-      "z": "0",
-      "hours_survived": 106,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "7"
-    },
-    {
-      "timestamp": "03-01-26 11:36:33.523",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12012",
-      "y": "2589",
-      "z": "0",
-      "hours_survived": 107,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "8"
-    },
-    {
-      "timestamp": "03-01-26 11:41:29.579",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12011",
-      "y": "2590",
-      "z": "0",
-      "hours_survived": 109,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "9"
-    },
-    {
-      "timestamp": "03-01-26 11:41:57.830",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12011",
-      "y": "2590",
-      "z": "0",
-      "hours_survived": 109,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "10"
-    },
-    {
       "timestamp": "03-01-26 11:59:14.687",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -966,6 +906,66 @@
       "event_type": "level_up",
       "skill": "Glassmaking",
       "level": "2"
+    },
+    {
+      "timestamp": "04-01-26 06:10:35.807",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12003",
+      "y": "2589",
+      "z": "0",
+      "hours_survived": 163,
+      "event_type": "level_up",
+      "skill": "Glassmaking",
+      "level": "3"
+    },
+    {
+      "timestamp": "04-01-26 06:10:46.096",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12003",
+      "y": "2589",
+      "z": "0",
+      "hours_survived": 163,
+      "event_type": "level_up",
+      "skill": "Glassmaking",
+      "level": "4"
+    },
+    {
+      "timestamp": "04-01-26 06:11:25.506",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12003",
+      "y": "2589",
+      "z": "0",
+      "hours_survived": 164,
+      "event_type": "level_up",
+      "skill": "Glassmaking",
+      "level": "5"
+    },
+    {
+      "timestamp": "04-01-26 06:12:43.928",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12003",
+      "y": "2589",
+      "z": "0",
+      "hours_survived": 164,
+      "event_type": "level_up",
+      "skill": "Glassmaking",
+      "level": "6"
+    },
+    {
+      "timestamp": "04-01-26 06:13:24.501",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12009",
+      "y": "2592",
+      "z": "0",
+      "hours_survived": 164,
+      "event_type": "level_up",
+      "skill": "Pottery",
+      "level": "6"
     }
   ],
   "chat_messages": [
@@ -1270,5 +1270,5 @@
       "text": "psst"
     }
   ],
-  "timestamp": "2026-01-04T06:10:01.474918"
+  "timestamp": "2026-01-04T06:15:01.882709"
 }

@@ -2719,10 +2719,10 @@
         "Husbandry": 2,
         "FlintKnapping": 0,
         "Masonry": 10,
-        "Pottery": 5,
+        "Pottery": 6,
         "Carving": 10,
         "Butchering": 5,
-        "Glassmaking": 2
+        "Glassmaking": 6
       },
       "level_ups": [
         {
@@ -3459,6 +3459,31 @@
           "skill": "Glassmaking",
           "level": "2",
           "timestamp": "04-01-26 06:09:19.006"
+        },
+        {
+          "skill": "Glassmaking",
+          "level": "3",
+          "timestamp": "04-01-26 06:10:35.807"
+        },
+        {
+          "skill": "Glassmaking",
+          "level": "4",
+          "timestamp": "04-01-26 06:10:46.096"
+        },
+        {
+          "skill": "Glassmaking",
+          "level": "5",
+          "timestamp": "04-01-26 06:11:25.506"
+        },
+        {
+          "skill": "Glassmaking",
+          "level": "6",
+          "timestamp": "04-01-26 06:12:43.928"
+        },
+        {
+          "skill": "Pottery",
+          "level": "6",
+          "timestamp": "04-01-26 06:13:24.501"
         }
       ],
       "last_seen": "31-12-25 10:05:31.449",
@@ -5107,5 +5132,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-04T06:10:01.430943"
+  "timestamp": "2026-01-04T06:15:01.838806"
 }
