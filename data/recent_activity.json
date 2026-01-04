@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "03-01-26 08:24:12.182",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "03-01-26 08:24:12.182",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "03-01-26 08:24:17.373",
       "steam_id": "76561198065774641",
       "username": "admin",
@@ -359,6 +347,18 @@
       "x": "13423",
       "y": "4195",
       "z": "0"
+    },
+    {
+      "timestamp": "04-01-26 04:29:57.645",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "04-01-26 04:29:57.646",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -1075,42 +1075,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "04-01-26 03:43:00.314",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "04-01-26 03:43:00.314",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "04-01-26 03:59:18.581",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "04-01-26 03:59:18.581",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "04-01-26 03:59:19.196",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "04-01-26 03:59:19.196",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
       "timestamp": "04-01-26 03:59:19.401",
       "chat_type": "Local",
       "author": "Sully",
@@ -1373,7 +1337,43 @@
       "chat_type": "Local",
       "author": "Sully",
       "text": "pssst!"
+    },
+    {
+      "timestamp": "04-01-26 04:27:12.024",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "psst"
+    },
+    {
+      "timestamp": "04-01-26 04:27:12.024",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "psst"
+    },
+    {
+      "timestamp": "04-01-26 04:27:12.837",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "psst"
+    },
+    {
+      "timestamp": "04-01-26 04:27:12.837",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "psst"
+    },
+    {
+      "timestamp": "04-01-26 04:27:27.256",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "psst"
+    },
+    {
+      "timestamp": "04-01-26 04:27:27.256",
+      "chat_type": "Local",
+      "author": "Sully",
+      "text": "psst"
     }
   ],
-  "timestamp": "2026-01-04T04:25:01.257444"
+  "timestamp": "2026-01-04T04:30:01.655469"
 }
