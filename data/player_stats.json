@@ -1791,7 +1791,7 @@
     "half": {
       "username": "half",
       "steam_id": "76561198368197161",
-      "total_hours": 240,
+      "total_hours": 242,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -1922,7 +1922,8 @@
           "timestamp": "25-12-25 19:46:06.369"
         }
       ],
-      "last_seen": "28-12-25 15:36:04.004"
+      "last_seen": "28-12-25 15:36:04.004",
+      "connections": 1
     },
     "Kessel": {
       "username": "Kessel",
@@ -5223,5 +5224,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-04T22:00:01.175724"
+  "timestamp": "2026-01-04T22:05:01.586758"
 }
