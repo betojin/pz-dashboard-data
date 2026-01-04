@@ -2722,7 +2722,7 @@
         "Pottery": 5,
         "Carving": 10,
         "Butchering": 5,
-        "Glassmaking": 1
+        "Glassmaking": 2
       },
       "level_ups": [
         {
@@ -3454,6 +3454,11 @@
           "skill": "Pottery",
           "level": "5",
           "timestamp": "04-01-26 05:59:50.388"
+        },
+        {
+          "skill": "Glassmaking",
+          "level": "2",
+          "timestamp": "04-01-26 06:09:19.006"
         }
       ],
       "last_seen": "31-12-25 10:05:31.449",
@@ -5102,5 +5107,5 @@
     }
   },
   "total_players": 40,
-  "timestamp": "2026-01-04T06:05:01.105983"
+  "timestamp": "2026-01-04T06:10:01.430943"
 }
