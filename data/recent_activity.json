@@ -348,18 +348,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "04-01-26 06:12:43.928",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12003",
-      "y": "2589",
-      "z": "0",
-      "hours_survived": 164,
-      "event_type": "level_up",
-      "skill": "Glassmaking",
-      "level": "6"
-    },
-    {
       "timestamp": "04-01-26 06:13:24.501",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -1021,21 +1009,21 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "05-01-26 07:45:05.969",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "12076",
+      "y": "2095",
+      "z": "0",
+      "hours_survived": 370,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "4"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "04-01-26 03:59:23.673",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "04-01-26 03:59:23.673",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
     {
       "timestamp": "04-01-26 03:59:24.008",
       "chat_type": "Local",
@@ -1323,7 +1311,19 @@
       "chat_type": "Local",
       "author": "RottenTomato",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "05-01-26 07:46:47.898",
+      "chat_type": "Local",
+      "author": "Zeabi",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "05-01-26 07:46:47.898",
+      "chat_type": "Local",
+      "author": "Zeabi",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-05T07:45:01.274452"
+  "timestamp": "2026-01-05T07:50:01.636993"
 }
