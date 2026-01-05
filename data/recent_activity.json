@@ -4,12 +4,6 @@
       "timestamp": "04-01-26 22:03:53.734",
       "steam_id": "76561198368197161",
       "username": "half",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "04-01-26 22:03:53.734",
-      "steam_id": "76561198368197161",
-      "username": "half",
       "action": "allowed to join"
     },
     {
@@ -343,6 +337,15 @@
       "action": "fully connected",
       "x": "5537",
       "y": "6050",
+      "z": "0"
+    },
+    {
+      "timestamp": "05-01-26 16:04:55.994",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "5720",
+      "y": "5727",
       "z": "0"
     }
   ],
@@ -1426,5 +1429,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-05T16:00:01.871397"
+  "timestamp": "2026-01-05T16:05:01.536748"
 }
