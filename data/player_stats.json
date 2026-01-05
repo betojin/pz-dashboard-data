@@ -1368,7 +1368,7 @@
     "CaptainLobo": {
       "username": "CaptainLobo",
       "steam_id": "76561198044597580",
-      "total_hours": 697,
+      "total_hours": 709,
       "deaths": 5,
       "skills": {
         "Cooking": 3,
@@ -1380,7 +1380,7 @@
         "Nimble": 3,
         "Sprinting": 3,
         "Sneak": 2,
-        "Woodwork": 5,
+        "Woodwork": 6,
         "Aiming": 4,
         "Reloading": 4,
         "Farming": 0,
@@ -1617,6 +1617,11 @@
           "skill": "Woodwork",
           "level": "5",
           "timestamp": "05-01-26 15:58:36.795"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "6",
+          "timestamp": "05-01-26 17:35:09.684"
         }
       ],
       "last_seen": "29-12-25 18:54:21.447",
@@ -5358,5 +5363,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-05T17:35:01.969010"
+  "timestamp": "2026-01-05T17:40:01.424087"
 }
