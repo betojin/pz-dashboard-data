@@ -1,60 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "04-01-26 07:51:57.569",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "fully connected",
-      "x": "12005",
-      "y": "2581",
-      "z": "0"
-    },
-    {
-      "timestamp": "04-01-26 09:05:53.597",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "disconnected",
-      "x": "12020",
-      "y": "2594",
-      "z": "0"
-    },
-    {
-      "timestamp": "04-01-26 09:28:16.694",
-      "steam_id": "76561198162940087",
-      "username": "RinkRoller",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "04-01-26 09:28:16.695",
-      "steam_id": "76561198162940087",
-      "username": "RinkRoller",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "04-01-26 09:28:31.106",
-      "steam_id": "76561198162940087",
-      "username": "RinkRoller",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "04-01-26 09:28:42.536",
-      "steam_id": "76561198162940087",
-      "username": "RinkRoller",
-      "action": "fully connected",
-      "x": "10618",
-      "y": "10532",
-      "z": "0"
-    },
-    {
-      "timestamp": "04-01-26 09:33:36.998",
-      "steam_id": "76561198162940087",
-      "username": "RinkRoller",
-      "action": "disconnected",
-      "x": "10635",
-      "y": "10537",
-      "z": "0"
-    },
-    {
       "timestamp": "04-01-26 19:44:39.442",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -344,57 +290,63 @@
       "x": "8003",
       "y": "11439",
       "z": "0"
+    },
+    {
+      "timestamp": "05-01-26 08:05:51.442",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "disconnected",
+      "x": "8054",
+      "y": "11419",
+      "z": "0"
+    },
+    {
+      "timestamp": "05-01-26 08:06:27.684",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "05-01-26 08:06:27.685",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "05-01-26 08:06:41.587",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "05-01-26 08:07:20.474",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "fully connected",
+      "x": "8054",
+      "y": "11419",
+      "z": "0"
+    },
+    {
+      "timestamp": "05-01-26 08:08:37.929",
+      "steam_id": "76561198044417089",
+      "username": "Zeabi",
+      "action": "disconnected",
+      "x": "8056",
+      "y": "11412",
+      "z": "0"
+    },
+    {
+      "timestamp": "05-01-26 08:08:40.616",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "disconnected",
+      "x": "8055",
+      "y": "11418",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "04-01-26 06:29:09.472",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12003",
-      "y": "2589",
-      "z": "0",
-      "hours_survived": 171,
-      "event_type": "level_up",
-      "skill": "Glassmaking",
-      "level": "9"
-    },
-    {
-      "timestamp": "04-01-26 06:29:17.587",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12003",
-      "y": "2589",
-      "z": "0",
-      "hours_survived": 171,
-      "event_type": "level_up",
-      "skill": "Glassmaking",
-      "level": "10"
-    },
-    {
-      "timestamp": "04-01-26 06:35:38.870",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12028",
-      "y": "2588",
-      "z": "0",
-      "hours_survived": 173,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "1"
-    },
-    {
-      "timestamp": "04-01-26 06:35:38.870",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12028",
-      "y": "2588",
-      "z": "0",
-      "hours_survived": 173,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "2"
-    },
     {
       "timestamp": "04-01-26 06:35:38.870",
       "steam_id": "76561199511597958",
@@ -1056,6 +1008,85 @@
       "event_type": "level_up",
       "skill": "PlantScavenging",
       "level": "1"
+    },
+    {
+      "timestamp": "05-01-26 08:06:43.174",
+      "steam_id": "76561198044417089",
+      "username": "Zeabi",
+      "x": "8052",
+      "y": "11428",
+      "z": "0",
+      "hours_survived": 24,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "1"
+    },
+    {
+      "timestamp": "05-01-26 08:07:21.105",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "x": "8054",
+      "y": "11419",
+      "z": "0",
+      "hours_survived": 17,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 3,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 1,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "05-01-26 08:07:46.583",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "x": "8055",
+      "y": "11418",
+      "z": "0",
+      "hours_survived": 18,
+      "event_type": "died"
+    },
+    {
+      "timestamp": "05-01-26 08:08:22.669",
+      "steam_id": "76561198044417089",
+      "username": "Zeabi",
+      "x": "8056",
+      "y": "11412",
+      "z": "0",
+      "hours_survived": 25,
+      "event_type": "died"
     }
   ],
   "chat_messages": [
@@ -1360,5 +1391,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-05T08:05:01.900880"
+  "timestamp": "2026-01-05T08:10:01.306052"
 }

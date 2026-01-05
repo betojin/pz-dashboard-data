@@ -5235,8 +5235,8 @@
     "Zeabi": {
       "username": "Zeabi",
       "steam_id": "76561198044417089",
-      "total_hours": 0,
-      "deaths": 0,
+      "total_hours": 25,
+      "deaths": 1,
       "skills": {
         "Cooking": 0,
         "Fitness": 4,
@@ -5260,7 +5260,7 @@
         "MetalWelding": 0,
         "Mechanics": 1,
         "Spear": 0,
-        "Maintenance": 0,
+        "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -5274,15 +5274,21 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "05-01-26 07:05:20.671",
+      "level_ups": [
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "05-01-26 08:06:43.174"
+        }
+      ],
+      "last_seen": "05-01-26 08:08:22.669",
       "connections": 1
     },
     "Kirael": {
       "username": "Kirael",
       "steam_id": "76561198119194392",
-      "total_hours": 17,
-      "deaths": 0,
+      "total_hours": 18,
+      "deaths": 1,
       "skills": {
         "Cooking": 0,
         "Fitness": 5,
@@ -5332,10 +5338,10 @@
           "timestamp": "05-01-26 08:04:30.633"
         }
       ],
-      "last_seen": "05-01-26 08:04:30.633",
-      "connections": 3
+      "last_seen": "05-01-26 08:07:46.583",
+      "connections": 4
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-05T08:05:01.852792"
+  "timestamp": "2026-01-05T08:10:01.259321"
 }
