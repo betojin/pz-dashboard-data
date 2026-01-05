@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "04-01-26 00:17:18.085",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "04-01-26 00:17:18.086",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "04-01-26 00:17:33.691",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "04-01-26 00:18:18.621",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "fully connected",
-      "x": "12632",
-      "y": "5320",
-      "z": "0"
-    },
-    {
       "timestamp": "04-01-26 02:28:46.210",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -350,21 +323,36 @@
       "steam_id": "76561198044417089",
       "username": "Zeabi",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "05-01-26 07:05:19.937",
+      "steam_id": "76561198044417089",
+      "username": "Zeabi",
+      "action": "fully connected",
+      "x": "8215",
+      "y": "11677",
+      "z": "0"
+    },
+    {
+      "timestamp": "05-01-26 07:09:24.980",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "05-01-26 07:09:24.980",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "05-01-26 07:09:56.969",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "04-01-26 06:10:35.807",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12003",
-      "y": "2589",
-      "z": "0",
-      "hours_survived": 163,
-      "event_type": "level_up",
-      "skill": "Glassmaking",
-      "level": "3"
-    },
     {
       "timestamp": "04-01-26 06:10:46.096",
       "steam_id": "76561199511597958",
@@ -922,21 +910,56 @@
       "event_type": "level_up",
       "skill": "Husbandry",
       "level": "1"
+    },
+    {
+      "timestamp": "05-01-26 07:05:20.671",
+      "steam_id": "76561198044417089",
+      "username": "Zeabi",
+      "x": "8215",
+      "y": "11677",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 1,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 2,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "04-01-26 03:59:21.326",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "04-01-26 03:59:21.326",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
     {
       "timestamp": "04-01-26 03:59:21.498",
       "chat_type": "Local",
@@ -1224,7 +1247,19 @@
       "chat_type": "Local",
       "author": "RottenTomato",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "05-01-26 07:06:32.960",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "05-01-26 07:06:32.961",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-05T07:05:01.324978"
+  "timestamp": "2026-01-05T07:10:01.740909"
 }
