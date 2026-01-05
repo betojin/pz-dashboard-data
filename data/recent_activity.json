@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "05-01-26 07:05:19.937",
-      "steam_id": "76561198044417089",
-      "username": "Zeabi",
-      "action": "fully connected",
-      "x": "8215",
-      "y": "11677",
-      "z": "0"
-    },
-    {
-      "timestamp": "05-01-26 07:09:24.980",
-      "steam_id": "76561198119194392",
-      "username": "Kirael",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "05-01-26 07:09:24.980",
       "steam_id": "76561198119194392",
       "username": "Kirael",
@@ -353,103 +338,27 @@
       "x": "1931",
       "y": "7513",
       "z": "0"
+    },
+    {
+      "timestamp": "05-01-26 20:34:36.569",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "440",
+      "y": "10035",
+      "z": "0"
+    },
+    {
+      "timestamp": "05-01-26 20:34:40.719",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "5719",
+      "y": "5725",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "04-01-26 07:51:59.186",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12005",
-      "y": "2581",
-      "z": "0",
-      "hours_survived": 293,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 5,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 7,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "04-01-26 09:28:42.921",
-      "steam_id": "76561198162940087",
-      "username": "RinkRoller",
-      "x": "10618",
-      "y": "10532",
-      "z": "0",
-      "hours_survived": 76,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 5,
-        "Blunt": 1,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 4,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 2,
-        "Fishing": 1,
-        "Trapping": 0,
-        "PlantScavenging": 1,
-        "Doctor": 3,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 2,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 2,
-        "Pottery": 0,
-        "Carving": 2,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "04-01-26 19:58:48.901",
       "steam_id": "76561198060886931",
@@ -1201,6 +1110,26 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "05-01-26 20:32:19.576",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "440",
+      "y": "10035",
+      "z": "0",
+      "hours_survived": 773,
+      "event_type": "died"
+    },
+    {
+      "timestamp": "05-01-26 20:34:40.852",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5719",
+      "y": "5725",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
@@ -1505,5 +1434,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-05T20:30:01.462821"
+  "timestamp": "2026-01-05T20:35:01.904893"
 }
