@@ -1,42 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "04-01-26 07:18:22.725",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "fully connected",
-      "x": "12027",
-      "y": "2593",
-      "z": "0"
-    },
-    {
-      "timestamp": "04-01-26 07:45:44.710",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "disconnected",
-      "x": "12005",
-      "y": "2581",
-      "z": "0"
-    },
-    {
-      "timestamp": "04-01-26 07:51:03.278",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "04-01-26 07:51:03.278",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "04-01-26 07:51:18.729",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "04-01-26 07:51:57.569",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -344,33 +308,45 @@
       "x": "8324",
       "y": "11650",
       "z": "0"
+    },
+    {
+      "timestamp": "05-01-26 08:01:13.609",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "disconnected",
+      "x": "8003",
+      "y": "11439",
+      "z": "0"
+    },
+    {
+      "timestamp": "05-01-26 08:01:38.394",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "05-01-26 08:01:38.416",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "05-01-26 08:02:15.013",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "05-01-26 08:02:51.771",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "fully connected",
+      "x": "8003",
+      "y": "11439",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "04-01-26 06:16:00.605",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12003",
-      "y": "2588",
-      "z": "0",
-      "hours_survived": 165,
-      "event_type": "level_up",
-      "skill": "Glassmaking",
-      "level": "7"
-    },
-    {
-      "timestamp": "04-01-26 06:27:22.581",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12003",
-      "y": "2589",
-      "z": "0",
-      "hours_survived": 170,
-      "event_type": "level_up",
-      "skill": "Glassmaking",
-      "level": "8"
-    },
     {
       "timestamp": "04-01-26 06:29:09.472",
       "steam_id": "76561199511597958",
@@ -1021,6 +997,65 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "2"
+    },
+    {
+      "timestamp": "05-01-26 08:02:52.500",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "x": "8003",
+      "y": "11439",
+      "z": "0",
+      "hours_survived": 16,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 3,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "05-01-26 08:04:30.633",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "x": "8027",
+      "y": "11461",
+      "z": "0",
+      "hours_survived": 17,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1325,5 +1360,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-05T08:00:01.413960"
+  "timestamp": "2026-01-05T08:05:01.900880"
 }

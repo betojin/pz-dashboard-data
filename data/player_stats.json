@@ -5281,7 +5281,7 @@
     "Kirael": {
       "username": "Kirael",
       "steam_id": "76561198119194392",
-      "total_hours": 13,
+      "total_hours": 17,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -5299,7 +5299,7 @@
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
-        "PlantScavenging": 0,
+        "PlantScavenging": 1,
         "Doctor": 0,
         "Electricity": 0,
         "Blacksmith": 0,
@@ -5325,12 +5325,17 @@
           "skill": "Maintenance",
           "level": "2",
           "timestamp": "05-01-26 07:53:59.677"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "1",
+          "timestamp": "05-01-26 08:04:30.633"
         }
       ],
-      "last_seen": "05-01-26 07:53:59.677",
-      "connections": 2
+      "last_seen": "05-01-26 08:04:30.633",
+      "connections": 3
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-05T08:00:01.365876"
+  "timestamp": "2026-01-05T08:05:01.852792"
 }
