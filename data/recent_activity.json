@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "05-01-26 05:46:09.887",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "fully connected",
-      "x": "12020",
-      "y": "2594",
-      "z": "0"
-    },
-    {
-      "timestamp": "05-01-26 07:00:26.733",
-      "steam_id": "76561198044417089",
-      "username": "Zeabi",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "05-01-26 07:00:26.734",
-      "steam_id": "76561198044417089",
-      "username": "Zeabi",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "05-01-26 07:04:24.514",
-      "steam_id": "76561198044417089",
-      "username": "Zeabi",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "05-01-26 07:05:19.937",
       "steam_id": "76561198044417089",
       "username": "Zeabi",
@@ -353,56 +326,36 @@
       "x": "1931",
       "y": "7513",
       "z": "0"
+    },
+    {
+      "timestamp": "05-01-26 19:57:37.786",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "05-01-26 19:57:37.786",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "05-01-26 19:57:46.610",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "05-01-26 19:58:24.494",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "1931",
+      "y": "7513",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "04-01-26 07:18:23.352",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12027",
-      "y": "2593",
-      "z": "0",
-      "hours_survived": 282,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 5,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 7,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "04-01-26 07:51:59.186",
       "steam_id": "76561199511597958",
@@ -1201,6 +1154,53 @@
       "event_type": "level_up",
       "skill": "LongBlade",
       "level": "1"
+    },
+    {
+      "timestamp": "05-01-26 19:58:25.196",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "1931",
+      "y": "7513",
+      "z": "0",
+      "hours_survived": 760,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 3,
+        "Fitness": 7,
+        "Strength": 7,
+        "Blunt": 2,
+        "Axe": 3,
+        "Lightfoot": 2,
+        "Nimble": 3,
+        "Sprinting": 3,
+        "Sneak": 2,
+        "Woodwork": 6,
+        "Aiming": 4,
+        "Reloading": 4,
+        "Farming": 0,
+        "Fishing": 3,
+        "Trapping": 3,
+        "PlantScavenging": 2,
+        "Doctor": 0,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 3,
+        "Spear": 0,
+        "Maintenance": 3,
+        "SmallBlade": 0,
+        "LongBlade": 1,
+        "SmallBlunt": 0,
+        "Tailoring": 6,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1505,5 +1505,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-05T19:55:01.443917"
+  "timestamp": "2026-01-05T20:00:01.858099"
 }
