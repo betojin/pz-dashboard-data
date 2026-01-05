@@ -348,18 +348,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "04-01-26 06:36:44.666",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12028",
-      "y": "2588",
-      "z": "0",
-      "hours_survived": 174,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "4"
-    },
-    {
       "timestamp": "04-01-26 06:38:56.664",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -1087,21 +1075,21 @@
       "event_type": "level_up",
       "skill": "Mechanics",
       "level": "5"
+    },
+    {
+      "timestamp": "05-01-26 09:13:22.516",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "12021",
+      "y": "2596",
+      "z": "0",
+      "hours_survived": 405,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "3"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "04-01-26 03:59:24.008",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "psst"
-    },
-    {
-      "timestamp": "04-01-26 03:59:24.008",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "psst"
-    },
     {
       "timestamp": "04-01-26 04:23:21.759",
       "chat_type": "Local",
@@ -1389,7 +1377,19 @@
       "chat_type": "Local",
       "author": "Zeabi",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "05-01-26 09:13:52.589",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "05-01-26 09:13:52.589",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-05T09:10:01.874919"
+  "timestamp": "2026-01-05T09:15:01.309190"
 }
