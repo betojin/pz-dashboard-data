@@ -1,48 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "04-01-26 02:28:46.210",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "disconnected",
-      "x": "13423",
-      "y": "4195",
-      "z": "0"
-    },
-    {
-      "timestamp": "04-01-26 02:48:23.685",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "04-01-26 02:48:23.685",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "04-01-26 02:48:56.091",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "04-01-26 02:49:33.092",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "fully connected",
-      "x": "13423",
-      "y": "4195",
-      "z": "0"
-    },
-    {
-      "timestamp": "04-01-26 04:29:57.645",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "04-01-26 04:29:57.646",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -350,6 +308,45 @@
       "steam_id": "76561198119194392",
       "username": "Kirael",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "05-01-26 07:12:11.047",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "05-01-26 07:12:11.047",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "05-01-26 07:14:15.777",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "05-01-26 07:14:15.778",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "05-01-26 07:14:30.952",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "05-01-26 07:14:55.379",
+      "steam_id": "76561198119194392",
+      "username": "Kirael",
+      "action": "fully connected",
+      "x": "8215",
+      "y": "11677",
+      "z": "0"
     }
   ],
   "perk_events": [
@@ -961,78 +958,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "04-01-26 03:59:21.498",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "04-01-26 03:59:21.498",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "04-01-26 03:59:21.746",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "04-01-26 03:59:21.746",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "04-01-26 03:59:22.152",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "04-01-26 03:59:22.152",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "04-01-26 03:59:22.350",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "04-01-26 03:59:22.350",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "04-01-26 03:59:22.504",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "pssst!"
-    },
-    {
-      "timestamp": "04-01-26 03:59:22.504",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "pssst!"
-    },
-    {
-      "timestamp": "04-01-26 03:59:23.429",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
-      "timestamp": "04-01-26 03:59:23.429",
-      "chat_type": "Local",
-      "author": "Sully",
-      "text": "hey"
-    },
-    {
       "timestamp": "04-01-26 03:59:23.673",
       "chat_type": "Local",
       "author": "Sully",
@@ -1259,7 +1184,79 @@
       "chat_type": "Local",
       "author": "RottenTomato",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "05-01-26 07:13:07.772",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "05-01-26 07:13:07.772",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "05-01-26 07:13:26.621",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "05-01-26 07:13:26.621",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "05-01-26 07:13:29.936",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "05-01-26 07:13:29.936",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "05-01-26 07:13:30.139",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "05-01-26 07:13:30.139",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "05-01-26 07:13:30.342",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "05-01-26 07:13:30.342",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "05-01-26 07:13:30.570",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "05-01-26 07:13:30.570",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-05T07:10:01.740909"
+  "timestamp": "2026-01-05T07:15:02.083706"
 }
