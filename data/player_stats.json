@@ -1368,7 +1368,7 @@
     "CaptainLobo": {
       "username": "CaptainLobo",
       "steam_id": "76561198044597580",
-      "total_hours": 714,
+      "total_hours": 720,
       "deaths": 5,
       "skills": {
         "Cooking": 3,
@@ -1395,7 +1395,7 @@
         "Spear": 0,
         "Maintenance": 3,
         "SmallBlade": 0,
-        "LongBlade": 0,
+        "LongBlade": 1,
         "SmallBlunt": 0,
         "Tailoring": 6,
         "Tracking": 0,
@@ -1642,6 +1642,11 @@
           "skill": "Tailoring",
           "level": "6",
           "timestamp": "05-01-26 17:46:35.876"
+        },
+        {
+          "skill": "LongBlade",
+          "level": "1",
+          "timestamp": "05-01-26 18:02:25.701"
         }
       ],
       "last_seen": "29-12-25 18:54:21.447",
@@ -5383,5 +5388,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-05T18:00:01.382168"
+  "timestamp": "2026-01-05T18:05:01.874068"
 }

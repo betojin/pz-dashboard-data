@@ -354,18 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "04-01-26 07:09:32.366",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12011",
-      "y": "2590",
-      "z": "0",
-      "hours_survived": 187,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "10"
-    },
-    {
       "timestamp": "04-01-26 07:18:23.352",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -1198,6 +1186,18 @@
       "event_type": "level_up",
       "skill": "Tailoring",
       "level": "6"
+    },
+    {
+      "timestamp": "05-01-26 18:02:25.701",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5974",
+      "y": "5279",
+      "z": "0",
+      "hours_survived": 720,
+      "event_type": "level_up",
+      "skill": "LongBlade",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1502,5 +1502,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-05T18:00:01.430872"
+  "timestamp": "2026-01-05T18:05:01.922644"
 }
