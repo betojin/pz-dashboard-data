@@ -354,42 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "04-01-26 06:58:04.770",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12011",
-      "y": "2590",
-      "z": "0",
-      "hours_survived": 182,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "6"
-    },
-    {
-      "timestamp": "04-01-26 07:00:50.674",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12011",
-      "y": "2590",
-      "z": "0",
-      "hours_survived": 183,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "7"
-    },
-    {
-      "timestamp": "04-01-26 07:03:44.357",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "x": "12011",
-      "y": "2590",
-      "z": "0",
-      "hours_survived": 184,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "8"
-    },
-    {
       "timestamp": "04-01-26 07:06:32.068",
       "steam_id": "76561199511597958",
       "username": "RottenPotato",
@@ -1198,6 +1162,42 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "6"
+    },
+    {
+      "timestamp": "05-01-26 17:42:37.795",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5718",
+      "y": "5728",
+      "z": "0",
+      "hours_survived": 712,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "3"
+    },
+    {
+      "timestamp": "05-01-26 17:43:12.289",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5718",
+      "y": "5728",
+      "z": "0",
+      "hours_survived": 712,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "4"
+    },
+    {
+      "timestamp": "05-01-26 17:44:45.076",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5721",
+      "y": "5724",
+      "z": "0",
+      "hours_survived": 713,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "5"
     }
   ],
   "chat_messages": [
@@ -1502,5 +1502,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-05T17:40:01.472525"
+  "timestamp": "2026-01-05T17:45:01.185984"
 }
