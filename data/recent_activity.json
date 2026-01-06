@@ -1,42 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "05-01-26 07:09:56.969",
-      "steam_id": "76561198119194392",
-      "username": "Kirael",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "05-01-26 07:12:11.047",
-      "steam_id": "76561198119194392",
-      "username": "Kirael",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "05-01-26 07:12:11.047",
-      "steam_id": "76561198119194392",
-      "username": "Kirael",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "05-01-26 07:14:15.777",
-      "steam_id": "76561198119194392",
-      "username": "Kirael",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "05-01-26 07:14:15.778",
-      "steam_id": "76561198119194392",
-      "username": "Kirael",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "05-01-26 07:14:30.952",
-      "steam_id": "76561198119194392",
-      "username": "Kirael",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "05-01-26 07:14:55.379",
       "steam_id": "76561198119194392",
       "username": "Kirael",
@@ -359,6 +323,42 @@
       "x": "432",
       "y": "10006",
       "z": "0"
+    },
+    {
+      "timestamp": "06-01-26 01:52:24.771",
+      "steam_id": "76561198805250083",
+      "username": "Carl",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "06-01-26 01:52:24.772",
+      "steam_id": "76561198805250083",
+      "username": "Carl",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "06-01-26 01:52:41.392",
+      "steam_id": "76561198805250083",
+      "username": "Carl",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "06-01-26 01:54:07.978",
+      "steam_id": "76561198805250083",
+      "username": "Carl",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "06-01-26 01:54:07.978",
+      "steam_id": "76561198805250083",
+      "username": "Carl",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "06-01-26 01:54:20.926",
+      "steam_id": "76561198805250083",
+      "username": "Carl",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1437,5 +1437,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-06T01:50:01.540027"
+  "timestamp": "2026-01-06T01:55:01.428974"
 }
