@@ -399,7 +399,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 1440,
+      "total_hours": 1462,
       "deaths": 1,
       "skills": {
         "Cooking": 3,
@@ -417,7 +417,7 @@
         "Farming": 0,
         "Fishing": 2,
         "Trapping": 0,
-        "PlantScavenging": 4,
+        "PlantScavenging": 5,
         "Doctor": 1,
         "Electricity": 3,
         "Blacksmith": 0,
@@ -793,6 +793,11 @@
           "skill": "Blunt",
           "level": "4",
           "timestamp": "03-01-26 19:59:52.032"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "5",
+          "timestamp": "06-01-26 03:45:57.402"
         }
       ],
       "last_seen": "31-12-25 06:27:44.672",
@@ -5389,5 +5394,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-06T03:45:01.084440"
+  "timestamp": "2026-01-06T03:50:01.517109"
 }
