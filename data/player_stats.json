@@ -4403,7 +4403,7 @@
     "RottenTomato": {
       "username": "RottenTomato",
       "steam_id": "76561199511597958",
-      "total_hours": 443,
+      "total_hours": 444,
       "deaths": 9,
       "skills": {
         "Cooking": 4,
@@ -4425,7 +4425,7 @@
         "Doctor": 0,
         "Electricity": 1,
         "Blacksmith": 0,
-        "MetalWelding": 4,
+        "MetalWelding": 5,
         "Mechanics": 5,
         "Spear": 0,
         "Maintenance": 7,
@@ -4597,6 +4597,11 @@
           "skill": "MetalWelding",
           "level": "4",
           "timestamp": "07-01-26 07:09:19.535"
+        },
+        {
+          "skill": "MetalWelding",
+          "level": "5",
+          "timestamp": "07-01-26 07:11:34.536"
         }
       ],
       "last_seen": "31-12-25 05:56:21.290",
@@ -5424,5 +5429,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-07T07:10:01.851090"
+  "timestamp": "2026-01-07T07:15:01.237322"
 }
