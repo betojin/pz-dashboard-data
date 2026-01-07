@@ -360,53 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "05-01-26 17:05:41.144",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5720",
-      "y": "5722",
-      "z": "0",
-      "hours_survived": 697,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 3,
-        "Fitness": 7,
-        "Strength": 7,
-        "Blunt": 2,
-        "Axe": 3,
-        "Lightfoot": 2,
-        "Nimble": 3,
-        "Sprinting": 3,
-        "Sneak": 2,
-        "Woodwork": 5,
-        "Aiming": 4,
-        "Reloading": 4,
-        "Farming": 0,
-        "Fishing": 3,
-        "Trapping": 3,
-        "PlantScavenging": 2,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 3,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "05-01-26 17:35:09.684",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1134,6 +1087,18 @@
         "Butchering": 0,
         "Glassmaking": 10
       }
+    },
+    {
+      "timestamp": "07-01-26 09:38:36.536",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "x": "12010",
+      "y": "2588",
+      "z": "0",
+      "hours_survived": 210,
+      "event_type": "level_up",
+      "skill": "Pottery",
+      "level": "7"
     }
   ],
   "chat_messages": [
@@ -1438,5 +1403,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-07T09:35:01.837156"
+  "timestamp": "2026-01-07T09:40:01.231221"
 }
