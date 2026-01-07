@@ -2765,7 +2765,7 @@
         "Husbandry": 2,
         "FlintKnapping": 0,
         "Masonry": 10,
-        "Pottery": 7,
+        "Pottery": 8,
         "Carving": 10,
         "Butchering": 5,
         "Glassmaking": 10
@@ -3630,6 +3630,11 @@
           "skill": "Pottery",
           "level": "7",
           "timestamp": "07-01-26 09:38:36.536"
+        },
+        {
+          "skill": "Pottery",
+          "level": "8",
+          "timestamp": "07-01-26 09:54:59.533"
         }
       ],
       "last_seen": "31-12-25 10:05:31.449",
@@ -5444,5 +5449,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-07T09:50:02.002503"
+  "timestamp": "2026-01-07T09:55:01.452929"
 }
