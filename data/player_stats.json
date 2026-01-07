@@ -399,7 +399,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 1488,
+      "total_hours": 1537,
       "deaths": 1,
       "skills": {
         "Cooking": 3,
@@ -421,7 +421,7 @@
         "Doctor": 1,
         "Electricity": 3,
         "Blacksmith": 0,
-        "MetalWelding": 2,
+        "MetalWelding": 3,
         "Mechanics": 2,
         "Spear": 0,
         "Maintenance": 4,
@@ -798,6 +798,11 @@
           "skill": "PlantScavenging",
           "level": "5",
           "timestamp": "06-01-26 03:45:57.402"
+        },
+        {
+          "skill": "MetalWelding",
+          "level": "3",
+          "timestamp": "07-01-26 04:44:18.595"
         }
       ],
       "last_seen": "31-12-25 06:27:44.672",
@@ -5399,5 +5404,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-07T04:40:01.757905"
+  "timestamp": "2026-01-07T04:45:01.181303"
 }
