@@ -3864,7 +3864,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 640,
+      "total_hours": 646,
       "deaths": 0,
       "skills": {
         "Cooking": 4,
@@ -3876,7 +3876,7 @@
         "Nimble": 0,
         "Sprinting": 3,
         "Sneak": 0,
-        "Woodwork": 6,
+        "Woodwork": 7,
         "Aiming": 0,
         "Reloading": 1,
         "Farming": 0,
@@ -4153,6 +4153,11 @@
           "skill": "Electricity",
           "level": "2",
           "timestamp": "03-01-26 22:28:00.109"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "7",
+          "timestamp": "07-01-26 03:20:17.388"
         }
       ],
       "last_seen": "31-12-25 00:32:59.977",
@@ -5394,5 +5399,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-07T03:20:01.519605"
+  "timestamp": "2026-01-07T03:25:01.956859"
 }
