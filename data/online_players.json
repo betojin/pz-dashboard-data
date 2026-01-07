@@ -1,15 +1,24 @@
 {
-  "count": 1,
+  "count": 2,
   "players": [
     {
       "username": "Sully",
       "steam_id": "76561198119296623",
       "connected_at": "07-01-26 02:42:29.401",
       "x": 10062,
-      "y": 8244,
+      "y": 8243,
+      "z": 0,
+      "online": true
+    },
+    {
+      "username": "Zero",
+      "steam_id": "76561198060886931",
+      "connected_at": "07-01-26 03:06:22.423",
+      "x": 8615,
+      "y": 8823,
       "z": 0,
       "online": true
     }
   ],
-  "timestamp": "2026-01-07T03:05:01.349812"
+  "timestamp": "2026-01-07T03:10:01.732782"
 }
