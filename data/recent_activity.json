@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "05-01-26 19:41:32.108",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "disconnected",
-      "x": "1931",
-      "y": "7513",
-      "z": "0"
-    },
-    {
-      "timestamp": "05-01-26 19:57:37.786",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "05-01-26 19:57:37.786",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "05-01-26 19:57:46.610",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "05-01-26 19:58:24.494",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -359,6 +332,33 @@
       "x": "12023",
       "y": "2593",
       "z": "0"
+    },
+    {
+      "timestamp": "07-01-26 08:44:08.848",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "disconnected",
+      "x": "12021",
+      "y": "2591",
+      "z": "0"
+    },
+    {
+      "timestamp": "07-01-26 08:44:34.812",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "07-01-26 08:44:34.813",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "07-01-26 08:44:45.555",
+      "steam_id": "76561199511597958",
+      "username": "RottenPotato",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1441,5 +1441,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-07T08:40:01.682407"
+  "timestamp": "2026-01-07T08:45:02.044254"
 }
