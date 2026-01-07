@@ -363,26 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "05-01-26 08:07:46.583",
-      "steam_id": "76561198119194392",
-      "username": "Kirael",
-      "x": "8055",
-      "y": "11418",
-      "z": "0",
-      "hours_survived": 18,
-      "event_type": "died"
-    },
-    {
-      "timestamp": "05-01-26 08:08:22.669",
-      "steam_id": "76561198044417089",
-      "username": "Zeabi",
-      "x": "8056",
-      "y": "11412",
-      "z": "0",
-      "hours_survived": 25,
-      "event_type": "died"
-    },
-    {
       "timestamp": "05-01-26 08:30:33.355",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -1133,6 +1113,30 @@
       "event_type": "level_up",
       "skill": "MetalWelding",
       "level": "2"
+    },
+    {
+      "timestamp": "07-01-26 07:05:19.805",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "12600",
+      "y": "1307",
+      "z": "0",
+      "hours_survived": 441,
+      "event_type": "level_up",
+      "skill": "MetalWelding",
+      "level": "3"
+    },
+    {
+      "timestamp": "07-01-26 07:09:19.535",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "12602",
+      "y": "1292",
+      "z": "0",
+      "hours_survived": 443,
+      "event_type": "level_up",
+      "skill": "MetalWelding",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1437,5 +1441,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-07T07:05:01.531569"
+  "timestamp": "2026-01-07T07:10:01.904471"
 }
