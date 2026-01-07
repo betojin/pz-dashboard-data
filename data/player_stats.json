@@ -2743,7 +2743,7 @@
         "Nimble": 0,
         "Sprinting": 3,
         "Sneak": 0,
-        "Woodwork": 5,
+        "Woodwork": 6,
         "Aiming": 0,
         "Reloading": 1,
         "Farming": 0,
@@ -3620,6 +3620,11 @@
           "skill": "MetalWelding",
           "level": "10",
           "timestamp": "04-01-26 07:09:32.366"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "6",
+          "timestamp": "07-01-26 08:57:45.260"
         }
       ],
       "last_seen": "31-12-25 10:05:31.449",
@@ -5434,5 +5439,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-07T08:55:01.841438"
+  "timestamp": "2026-01-07T09:00:01.250498"
 }
