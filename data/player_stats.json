@@ -399,7 +399,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 1576,
+      "total_hours": 1584,
       "deaths": 1,
       "skills": {
         "Cooking": 3,
@@ -415,7 +415,7 @@
         "Aiming": 4,
         "Reloading": 5,
         "Farming": 0,
-        "Fishing": 2,
+        "Fishing": 3,
         "Trapping": 0,
         "PlantScavenging": 6,
         "Doctor": 1,
@@ -808,6 +808,11 @@
           "skill": "PlantScavenging",
           "level": "6",
           "timestamp": "08-01-26 03:30:03.460"
+        },
+        {
+          "skill": "Fishing",
+          "level": "3",
+          "timestamp": "08-01-26 03:52:18.034"
         }
       ],
       "last_seen": "31-12-25 06:27:44.672",
@@ -5455,5 +5460,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-08T03:50:01.785635"
+  "timestamp": "2026-01-08T03:55:01.197617"
 }

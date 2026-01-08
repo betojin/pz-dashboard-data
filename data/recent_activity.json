@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "05-01-26 17:46:35.876",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5721",
-      "y": "5724",
-      "z": "0",
-      "hours_survived": 714,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "6"
-    },
-    {
       "timestamp": "05-01-26 18:02:25.701",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1172,6 +1160,18 @@
       "event_type": "level_up",
       "skill": "PlantScavenging",
       "level": "6"
+    },
+    {
+      "timestamp": "08-01-26 03:52:18.034",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10095",
+      "y": "8290",
+      "z": "0",
+      "hours_survived": 1584,
+      "event_type": "level_up",
+      "skill": "Fishing",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1476,5 +1476,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-08T03:50:01.837394"
+  "timestamp": "2026-01-08T03:55:01.250091"
 }
