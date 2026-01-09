@@ -4434,7 +4434,7 @@
     "RottenTomato": {
       "username": "RottenTomato",
       "steam_id": "76561199511597958",
-      "total_hours": 472,
+      "total_hours": 481,
       "deaths": 9,
       "skills": {
         "Cooking": 4,
@@ -4459,7 +4459,7 @@
         "MetalWelding": 5,
         "Mechanics": 6,
         "Spear": 0,
-        "Maintenance": 7,
+        "Maintenance": 8,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -4638,10 +4638,15 @@
           "skill": "Mechanics",
           "level": "6",
           "timestamp": "07-01-26 08:22:08.874"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "8",
+          "timestamp": "09-01-26 06:44:18.735"
         }
       ],
       "last_seen": "31-12-25 05:56:21.290",
-      "connections": 11
+      "connections": 12
     },
     "Sharkey": {
       "username": "Sharkey",
@@ -5465,5 +5470,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-09T06:40:01.366087"
+  "timestamp": "2026-01-09T06:45:01.743193"
 }
