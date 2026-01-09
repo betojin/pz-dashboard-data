@@ -3754,7 +3754,8 @@
           "timestamp": "27-12-25 08:32:16.288"
         }
       ],
-      "last_seen": "27-12-25 08:32:16.288"
+      "last_seen": "27-12-25 08:32:16.288",
+      "connections": 1
     },
     "Danford": {
       "username": "Danford",
@@ -4427,7 +4428,7 @@
     "RottenTomato": {
       "username": "RottenTomato",
       "steam_id": "76561199511597958",
-      "total_hours": 481,
+      "total_hours": 485,
       "deaths": 9,
       "skills": {
         "Cooking": 4,
@@ -4638,7 +4639,8 @@
           "timestamp": "09-01-26 06:44:18.735"
         }
       ],
-      "last_seen": "31-12-25 05:56:21.290"
+      "last_seen": "31-12-25 05:56:21.290",
+      "connections": 1
     },
     "Sharkey": {
       "username": "Sharkey",
@@ -5458,5 +5460,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-09T18:30:01.391021"
+  "timestamp": "2026-01-09T18:35:01.883981"
 }
