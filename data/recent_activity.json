@@ -197,21 +197,45 @@
       "x": "12028",
       "y": "2593",
       "z": "0"
+    },
+    {
+      "timestamp": "09-01-26 20:51:56.357",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "disconnected",
+      "x": "13828",
+      "y": "5776",
+      "z": "0"
+    },
+    {
+      "timestamp": "09-01-26 20:52:22.619",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "09-01-26 20:52:22.620",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "09-01-26 20:52:33.597",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "09-01-26 20:53:00.055",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "fully connected",
+      "x": "13828",
+      "y": "5776",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "07-01-26 06:59:40.799",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12397",
-      "y": "1352",
-      "z": "0",
-      "hours_survived": 439,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "1"
-    },
     {
       "timestamp": "07-01-26 07:01:38.986",
       "steam_id": "76561199511597958",
@@ -1084,69 +1108,56 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "09-01-26 20:53:00.421",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "13828",
+      "y": "5776",
+      "z": "0",
+      "hours_survived": 541,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 4,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 5,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 2,
+        "Blacksmith": 0,
+        "MetalWelding": 5,
+        "Mechanics": 6,
+        "Spear": 0,
+        "Maintenance": 8,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 1,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "09-01-26 19:09:35.607",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "09-01-26 19:09:35.607",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "09-01-26 19:10:40.663",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "09-01-26 19:10:40.663",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "09-01-26 19:10:40.829",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "09-01-26 19:10:40.829",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "09-01-26 19:10:42.059",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "09-01-26 19:10:42.060",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "09-01-26 19:13:06.853",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "09-01-26 19:13:06.853",
-      "chat_type": "Local",
-      "author": "RottenTomato",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "09-01-26 19:13:07.098",
       "chat_type": "Local",
@@ -1386,7 +1397,67 @@
       "chat_type": "Local",
       "author": "RottenTomato",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "09-01-26 20:52:32.758",
+      "chat_type": "Local",
+      "author": "ExpiredMayo",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "09-01-26 20:52:32.758",
+      "chat_type": "Local",
+      "author": "ExpiredMayo",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "09-01-26 20:52:48.890",
+      "chat_type": "Local",
+      "author": "ExpiredMayo",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "09-01-26 20:52:48.890",
+      "chat_type": "Local",
+      "author": "ExpiredMayo",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "09-01-26 20:52:49.033",
+      "chat_type": "Local",
+      "author": "ExpiredMayo",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "09-01-26 20:52:49.033",
+      "chat_type": "Local",
+      "author": "ExpiredMayo",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "09-01-26 20:52:49.172",
+      "chat_type": "Local",
+      "author": "ExpiredMayo",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "09-01-26 20:52:49.172",
+      "chat_type": "Local",
+      "author": "ExpiredMayo",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "09-01-26 20:52:57.942",
+      "chat_type": "Local",
+      "author": "ExpiredMayo",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "09-01-26 20:52:57.942",
+      "chat_type": "Local",
+      "author": "ExpiredMayo",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-09T20:50:02.043851"
+  "timestamp": "2026-01-09T20:55:01.963390"
 }
