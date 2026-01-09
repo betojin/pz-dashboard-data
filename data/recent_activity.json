@@ -1,75 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "09-01-26 21:49:09.282",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "09-01-26 21:50:32.558",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "09-01-26 21:50:32.558",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "09-01-26 21:50:50.702",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "09-01-26 21:51:11.875",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "fully connected",
-      "x": "13861",
-      "y": "5837",
-      "z": "0"
-    },
-    {
-      "timestamp": "09-01-26 21:51:37.849",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "fully connected",
-      "x": "13845",
-      "y": "5822",
-      "z": "0"
-    },
-    {
-      "timestamp": "09-01-26 21:52:39.368",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "disconnected",
-      "x": "13845",
-      "y": "5822",
-      "z": "0"
-    },
-    {
-      "timestamp": "09-01-26 21:53:12.070",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "09-01-26 21:53:12.070",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "09-01-26 21:53:38.069",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "09-01-26 21:54:33.814",
       "steam_id": "76561199510927772",
       "username": "ExpiredMayo",
@@ -356,68 +287,84 @@
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "09-01-26 22:20:38.170",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "fully connected",
+      "x": "13723",
+      "y": "5734",
+      "z": "0"
+    },
+    {
+      "timestamp": "09-01-26 22:22:00.428",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "disconnected",
+      "x": "13722",
+      "y": "5735",
+      "z": "0"
+    },
+    {
+      "timestamp": "09-01-26 22:22:26.771",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "09-01-26 22:22:26.771",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "09-01-26 22:22:47.076",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "09-01-26 22:23:19.619",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "fully connected",
+      "x": "13722",
+      "y": "5735",
+      "z": "0"
+    },
+    {
+      "timestamp": "09-01-26 22:24:19.936",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "disconnected",
+      "x": "12515",
+      "y": "3646",
+      "z": "0"
+    },
+    {
+      "timestamp": "09-01-26 22:24:37.696",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "action": "disconnected",
+      "x": "13647",
+      "y": "5719",
+      "z": "0"
+    },
+    {
+      "timestamp": "09-01-26 22:25:00.784",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "09-01-26 22:25:00.784",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "09-01-26 03:20:31.409",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10090",
-      "y": "8264",
-      "z": "1",
-      "hours_survived": 1589,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 3,
-        "Fitness": 5,
-        "Strength": 9,
-        "Blunt": 4,
-        "Axe": 2,
-        "Lightfoot": 2,
-        "Nimble": 4,
-        "Sprinting": 4,
-        "Sneak": 2,
-        "Woodwork": 10,
-        "Aiming": 4,
-        "Reloading": 5,
-        "Farming": 0,
-        "Fishing": 3,
-        "Trapping": 0,
-        "PlantScavenging": 6,
-        "Doctor": 1,
-        "Electricity": 3,
-        "Blacksmith": 0,
-        "MetalWelding": 3,
-        "Mechanics": 2,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 4,
-        "Tracking": 0,
-        "Husbandry": 4,
-        "FlintKnapping": 0,
-        "Masonry": 3,
-        "Pottery": 0,
-        "Carving": 3,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "09-01-26 04:00:03.122",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10087",
-      "y": "8261",
-      "z": "1",
-      "hours_survived": 1605,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "4"
-    },
     {
       "timestamp": "09-01-26 05:36:13.886",
       "steam_id": "76561199511597958",
@@ -1593,6 +1540,100 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "09-01-26 22:20:39.166",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "13723",
+      "y": "5734",
+      "z": "0",
+      "hours_survived": 562,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 4,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 5,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 2,
+        "Blacksmith": 0,
+        "MetalWelding": 5,
+        "Mechanics": 6,
+        "Spear": 0,
+        "Maintenance": 8,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 1,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "09-01-26 22:23:20.009",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "13722",
+      "y": "5735",
+      "z": "0",
+      "hours_survived": 563,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 4,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 5,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 2,
+        "Blacksmith": 0,
+        "MetalWelding": 5,
+        "Mechanics": 6,
+        "Spear": 0,
+        "Maintenance": 8,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 1,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1897,5 +1938,5 @@
       "text": "hello"
     }
   ],
-  "timestamp": "2026-01-09T22:20:01.252091"
+  "timestamp": "2026-01-09T22:25:01.737843"
 }
