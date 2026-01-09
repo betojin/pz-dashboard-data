@@ -269,21 +269,45 @@
       "x": "13798",
       "y": "5799",
       "z": "0"
+    },
+    {
+      "timestamp": "09-01-26 21:42:48.475",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "disconnected",
+      "x": "13859",
+      "y": "5834",
+      "z": "0"
+    },
+    {
+      "timestamp": "09-01-26 21:43:24.078",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "09-01-26 21:43:24.078",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "09-01-26 21:43:45.322",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "09-01-26 21:44:27.878",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "fully connected",
+      "x": "13859",
+      "y": "5834",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "07-01-26 07:09:19.535",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12602",
-      "y": "1292",
-      "z": "0",
-      "hours_survived": 443,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "4"
-    },
     {
       "timestamp": "07-01-26 07:11:34.536",
       "steam_id": "76561199511597958",
@@ -1226,21 +1250,56 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "09-01-26 21:44:28.396",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "x": "13859",
+      "y": "5834",
+      "z": "0",
+      "hours_survived": 114,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 1,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 1,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "09-01-26 21:16:45.245",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "09-01-26 21:16:45.245",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "09-01-26 21:16:45.446",
       "chat_type": "Local",
@@ -1528,7 +1587,19 @@
       "chat_type": "Local",
       "author": "ExpiredMayo",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "09-01-26 21:42:59.724",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "hello"
+    },
+    {
+      "timestamp": "09-01-26 21:42:59.725",
+      "chat_type": "Local",
+      "author": "RottenTomato",
+      "text": "hello"
     }
   ],
-  "timestamp": "2026-01-09T21:40:01.888661"
+  "timestamp": "2026-01-09T21:45:01.258409"
 }
