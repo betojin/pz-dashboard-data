@@ -170,56 +170,36 @@
       "x": "12028",
       "y": "2593",
       "z": "0"
+    },
+    {
+      "timestamp": "09-01-26 19:40:31.488",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "09-01-26 19:40:31.489",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "09-01-26 19:40:41.633",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "09-01-26 19:41:03.022",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "fully connected",
+      "x": "12028",
+      "y": "2593",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "07-01-26 06:35:04.174",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12023",
-      "y": "2593",
-      "z": "0",
-      "hours_survived": 429,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 5,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 5,
-        "Spear": 0,
-        "Maintenance": 7,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 1,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "07-01-26 06:59:40.799",
       "steam_id": "76561199511597958",
@@ -1057,6 +1037,53 @@
       "event_type": "level_up",
       "skill": "Doctor",
       "level": "1"
+    },
+    {
+      "timestamp": "09-01-26 19:41:03.942",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "x": "12028",
+      "y": "2593",
+      "z": "0",
+      "hours_survived": 65,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 1,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1361,5 +1388,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-09T19:40:01.454779"
+  "timestamp": "2026-01-09T19:45:01.938754"
 }
