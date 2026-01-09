@@ -3680,7 +3680,7 @@
         "Spear": 0,
         "Maintenance": 1,
         "SmallBlade": 0,
-        "LongBlade": 0,
+        "LongBlade": 1,
         "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
@@ -3752,6 +3752,11 @@
           "skill": "Aiming",
           "level": "1",
           "timestamp": "27-12-25 08:32:16.288"
+        },
+        {
+          "skill": "LongBlade",
+          "level": "1",
+          "timestamp": "09-01-26 21:11:51.692"
         }
       ],
       "last_seen": "27-12-25 08:32:16.288",
@@ -5470,5 +5475,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-09T21:10:01.315549"
+  "timestamp": "2026-01-09T21:15:01.702268"
 }

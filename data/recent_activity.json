@@ -246,18 +246,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "07-01-26 07:01:38.986",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12505",
-      "y": "1343",
-      "z": "0",
-      "hours_survived": 440,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "2"
-    },
-    {
       "timestamp": "07-01-26 07:05:19.805",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -1164,6 +1152,18 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "09-01-26 21:11:51.692",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "x": "13784",
+      "y": "5819",
+      "z": "0",
+      "hours_survived": 102,
+      "event_type": "level_up",
+      "skill": "LongBlade",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1468,5 +1468,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-09T21:10:01.357472"
+  "timestamp": "2026-01-09T21:15:01.743791"
 }
