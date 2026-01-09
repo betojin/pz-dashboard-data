@@ -4428,7 +4428,7 @@
     "RottenTomato": {
       "username": "RottenTomato",
       "steam_id": "76561199511597958",
-      "total_hours": 497,
+      "total_hours": 501,
       "deaths": 9,
       "skills": {
         "Cooking": 4,
@@ -4448,7 +4448,7 @@
         "Trapping": 0,
         "PlantScavenging": 0,
         "Doctor": 0,
-        "Electricity": 1,
+        "Electricity": 2,
         "Blacksmith": 0,
         "MetalWelding": 5,
         "Mechanics": 6,
@@ -4637,6 +4637,11 @@
           "skill": "Maintenance",
           "level": "8",
           "timestamp": "09-01-26 06:44:18.735"
+        },
+        {
+          "skill": "Electricity",
+          "level": "2",
+          "timestamp": "09-01-26 19:12:27.700"
         }
       ],
       "last_seen": "31-12-25 05:56:21.290",
@@ -5460,5 +5465,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-09T19:10:01.303071"
+  "timestamp": "2026-01-09T19:15:01.765641"
 }
