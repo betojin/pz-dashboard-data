@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "06-01-26 04:39:02.786",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "06-01-26 04:39:20.183",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "fully connected",
-      "x": "10088",
-      "y": "8232",
-      "z": "0"
-    },
-    {
       "timestamp": "06-01-26 04:57:52.133",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -359,21 +344,24 @@
       "steam_id": "76561198119296623",
       "username": "Sully",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "09-01-26 03:20:08.042",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "09-01-26 03:20:30.669",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "fully connected",
+      "x": "10090",
+      "y": "8264",
+      "z": "1"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "05-01-26 18:02:25.701",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5974",
-      "y": "5279",
-      "z": "0",
-      "hours_survived": 720,
-      "event_type": "level_up",
-      "skill": "LongBlade",
-      "level": "1"
-    },
     {
       "timestamp": "05-01-26 19:58:25.196",
       "steam_id": "76561198044597580",
@@ -1172,6 +1160,53 @@
       "event_type": "level_up",
       "skill": "Fishing",
       "level": "3"
+    },
+    {
+      "timestamp": "09-01-26 03:20:31.409",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10090",
+      "y": "8264",
+      "z": "1",
+      "hours_survived": 1589,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 3,
+        "Fitness": 5,
+        "Strength": 9,
+        "Blunt": 4,
+        "Axe": 2,
+        "Lightfoot": 2,
+        "Nimble": 4,
+        "Sprinting": 4,
+        "Sneak": 2,
+        "Woodwork": 10,
+        "Aiming": 4,
+        "Reloading": 5,
+        "Farming": 0,
+        "Fishing": 3,
+        "Trapping": 0,
+        "PlantScavenging": 6,
+        "Doctor": 1,
+        "Electricity": 3,
+        "Blacksmith": 0,
+        "MetalWelding": 3,
+        "Mechanics": 2,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 4,
+        "Tracking": 0,
+        "Husbandry": 4,
+        "FlintKnapping": 0,
+        "Masonry": 3,
+        "Pottery": 0,
+        "Carving": 3,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1476,5 +1511,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-09T03:20:01.531903"
+  "timestamp": "2026-01-09T03:25:01.956031"
 }
