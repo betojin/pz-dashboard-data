@@ -165,53 +165,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "07-01-26 05:54:13.173",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10104",
-      "y": "8259",
-      "z": "0",
-      "hours_survived": 1564,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 3,
-        "Fitness": 5,
-        "Strength": 9,
-        "Blunt": 4,
-        "Axe": 2,
-        "Lightfoot": 2,
-        "Nimble": 4,
-        "Sprinting": 4,
-        "Sneak": 2,
-        "Woodwork": 10,
-        "Aiming": 4,
-        "Reloading": 5,
-        "Farming": 0,
-        "Fishing": 2,
-        "Trapping": 0,
-        "PlantScavenging": 5,
-        "Doctor": 1,
-        "Electricity": 3,
-        "Blacksmith": 0,
-        "MetalWelding": 3,
-        "Mechanics": 2,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 4,
-        "Tracking": 0,
-        "Husbandry": 4,
-        "FlintKnapping": 0,
-        "Masonry": 3,
-        "Pottery": 0,
-        "Carving": 3,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "07-01-26 06:35:04.174",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -1083,6 +1036,18 @@
       "event_type": "level_up",
       "skill": "Electricity",
       "level": "2"
+    },
+    {
+      "timestamp": "09-01-26 19:29:22.386",
+      "steam_id": "76561199511597958",
+      "username": "RottenTomato",
+      "x": "12771",
+      "y": "3195",
+      "z": "0",
+      "hours_survived": 508,
+      "event_type": "level_up",
+      "skill": "Doctor",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1387,5 +1352,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-09T19:25:01.785885"
+  "timestamp": "2026-01-09T19:30:01.187663"
 }
