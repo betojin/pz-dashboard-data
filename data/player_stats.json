@@ -5611,17 +5611,17 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 8,
+      "total_hours": 50,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
         "Fitness": 9,
         "Strength": 10,
-        "Blunt": 0,
+        "Blunt": 1,
         "Axe": 2,
         "Lightfoot": 0,
         "Nimble": 0,
-        "Sprinting": 0,
+        "Sprinting": 1,
         "Sneak": 0,
         "Woodwork": 0,
         "Aiming": 0,
@@ -5630,13 +5630,13 @@
         "Fishing": 0,
         "Trapping": 0,
         "PlantScavenging": 0,
-        "Doctor": 0,
+        "Doctor": 1,
         "Electricity": 0,
         "Blacksmith": 0,
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 2,
+        "Maintenance": 3,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -5655,9 +5655,29 @@
           "skill": "Maintenance",
           "level": "2",
           "timestamp": "10-01-26 07:59:27.931"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "10-01-26 09:40:32.979"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "3",
+          "timestamp": "10-01-26 09:40:45.897"
+        },
+        {
+          "skill": "Blunt",
+          "level": "1",
+          "timestamp": "10-01-26 09:40:56.186"
+        },
+        {
+          "skill": "Doctor",
+          "level": "1",
+          "timestamp": "10-01-26 09:44:37.788"
         }
       ],
-      "last_seen": "10-01-26 07:59:27.931",
+      "last_seen": "10-01-26 09:44:37.788",
       "connections": 1
     },
     "BetoJinn": {
@@ -5720,7 +5740,7 @@
     "ExpiredPork": {
       "username": "ExpiredPork",
       "steam_id": "76561199510927772",
-      "total_hours": 2,
+      "total_hours": 44,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -5760,10 +5780,10 @@
         "Glassmaking": 0
       },
       "level_ups": [],
-      "last_seen": "10-01-26 07:48:49.296",
-      "connections": 2
+      "last_seen": "10-01-26 09:41:47.830",
+      "connections": 3
     }
   },
   "total_players": 46,
-  "timestamp": "2026-01-10T09:40:01.789222"
+  "timestamp": "2026-01-10T09:45:01.129265"
 }
