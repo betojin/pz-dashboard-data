@@ -3792,7 +3792,7 @@
         }
       ],
       "last_seen": "27-12-25 08:32:16.288",
-      "connections": 12
+      "connections": 13
     },
     "Danford": {
       "username": "Danford",
@@ -4465,14 +4465,14 @@
     "RottenTomato": {
       "username": "RottenTomato",
       "steam_id": "76561199511597958",
-      "total_hours": 591,
+      "total_hours": 611,
       "deaths": 9,
       "skills": {
         "Cooking": 4,
         "Fitness": 9,
         "Strength": 10,
         "Blunt": 0,
-        "Axe": 5,
+        "Axe": 6,
         "Lightfoot": 0,
         "Nimble": 0,
         "Sprinting": 3,
@@ -4699,6 +4699,11 @@
           "skill": "Doctor",
           "level": "2",
           "timestamp": "10-01-26 04:39:59.771"
+        },
+        {
+          "skill": "Axe",
+          "level": "6",
+          "timestamp": "10-01-26 05:29:03.826"
         }
       ],
       "last_seen": "31-12-25 05:56:21.290",
@@ -5522,5 +5527,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-10T05:25:02.031297"
+  "timestamp": "2026-01-10T05:30:01.452028"
 }
