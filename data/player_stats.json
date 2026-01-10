@@ -5565,7 +5565,7 @@
     "Bobaa": {
       "username": "Bobaa",
       "steam_id": "76561199317533255",
-      "total_hours": 9,
+      "total_hours": 53,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -5575,7 +5575,7 @@
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 0,
-        "Sprinting": 0,
+        "Sprinting": 1,
         "Sneak": 0,
         "Woodwork": 1,
         "Aiming": 0,
@@ -5604,8 +5604,14 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "10-01-26 08:01:49.024",
+      "level_ups": [
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "10-01-26 10:15:00.014"
+        }
+      ],
+      "last_seen": "10-01-26 10:15:00.014",
       "connections": 2
     },
     "RottenEgg": {
@@ -5790,5 +5796,5 @@
     }
   },
   "total_players": 46,
-  "timestamp": "2026-01-10T10:10:01.162411"
+  "timestamp": "2026-01-10T10:15:01.525242"
 }
