@@ -1,30 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "09-01-26 22:17:38.998",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "fully connected",
-      "x": "13720",
-      "y": "5736",
-      "z": "0"
-    },
-    {
-      "timestamp": "09-01-26 22:18:43.825",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "disconnected",
-      "x": "13723",
-      "y": "5734",
-      "z": "0"
-    },
-    {
-      "timestamp": "09-01-26 22:19:33.492",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "09-01-26 22:19:33.492",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -359,6 +335,24 @@
       "x": "12051",
       "y": "2616",
       "z": "0"
+    },
+    {
+      "timestamp": "10-01-26 03:59:44.080",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "10-01-26 03:59:44.081",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "10-01-26 03:59:53.698",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1670,18 +1664,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "09-01-26 21:16:45.446",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "09-01-26 21:16:45.447",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
       "timestamp": "09-01-26 21:16:45.562",
       "chat_type": "Local",
       "author": "ExpiredMayo",
@@ -1968,7 +1950,19 @@
       "chat_type": "Local",
       "author": "RottenTomato",
       "text": "hello"
+    },
+    {
+      "timestamp": "10-01-26 03:58:16.608",
+      "chat_type": "Local",
+      "author": "Boba",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "10-01-26 03:58:16.608",
+      "chat_type": "Local",
+      "author": "Boba",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-10T03:55:02.085039"
+  "timestamp": "2026-01-10T04:00:01.445405"
 }
