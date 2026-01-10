@@ -2649,7 +2649,7 @@
         "Spear": 0,
         "Maintenance": 3,
         "SmallBlade": 0,
-        "LongBlade": 1,
+        "LongBlade": 2,
         "SmallBlunt": 5,
         "Tailoring": 0,
         "Tracking": 0,
@@ -2756,6 +2756,11 @@
           "skill": "LongBlade",
           "level": "1",
           "timestamp": "10-01-26 04:35:29.250"
+        },
+        {
+          "skill": "LongBlade",
+          "level": "2",
+          "timestamp": "10-01-26 05:15:06.252"
         }
       ],
       "last_seen": "28-12-25 08:33:21.028",
@@ -5517,5 +5522,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-10T05:15:01.252732"
+  "timestamp": "2026-01-10T05:20:01.675287"
 }

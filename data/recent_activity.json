@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "09-01-26 21:51:13.219",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "13861",
-      "y": "5837",
-      "z": "0",
-      "hours_survived": 555,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 5,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 2,
-        "Blacksmith": 0,
-        "MetalWelding": 5,
-        "Mechanics": 6,
-        "Spear": 0,
-        "Maintenance": 8,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 1,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "09-01-26 21:51:38.635",
       "steam_id": "76561199510927772",
       "username": "ExpiredMayo",
@@ -1491,6 +1444,18 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "1"
+    },
+    {
+      "timestamp": "10-01-26 05:15:06.252",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "13541",
+      "y": "1385",
+      "z": "0",
+      "hours_survived": 202,
+      "event_type": "level_up",
+      "skill": "LongBlade",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1795,5 +1760,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-10T05:15:01.298757"
+  "timestamp": "2026-01-10T05:20:01.721701"
 }
