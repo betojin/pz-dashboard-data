@@ -5593,7 +5593,7 @@
         "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
-        "SmallBlunt": 3,
+        "SmallBlunt": 4,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
@@ -5609,9 +5609,14 @@
           "skill": "Sprinting",
           "level": "1",
           "timestamp": "10-01-26 10:15:00.014"
+        },
+        {
+          "skill": "SmallBlunt",
+          "level": "4",
+          "timestamp": "10-01-26 10:16:31.516"
         }
       ],
-      "last_seen": "10-01-26 10:15:00.014",
+      "last_seen": "10-01-26 10:16:31.516",
       "connections": 2
     },
     "RottenEgg": {
@@ -5796,5 +5801,5 @@
     }
   },
   "total_players": 46,
-  "timestamp": "2026-01-10T10:15:01.525242"
+  "timestamp": "2026-01-10T10:20:01.121382"
 }
