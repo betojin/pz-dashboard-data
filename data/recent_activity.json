@@ -1,24 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "09-01-26 22:13:49.670",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "09-01-26 22:13:49.671",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "09-01-26 22:13:58.289",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "09-01-26 22:13:58.290",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -353,56 +335,33 @@
       "steam_id": "76561199317533255",
       "username": "Boba",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "10-01-26 03:35:10.485",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "10-01-26 03:35:35.101",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "action": "fully connected",
+      "x": "12023",
+      "y": "2595",
+      "z": "0"
+    },
+    {
+      "timestamp": "10-01-26 03:38:48.295",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "action": "disconnected",
+      "x": "12044",
+      "y": "2592",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "09-01-26 18:14:08.037",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "12025",
-      "y": "2591",
-      "z": "0",
-      "hours_survived": 160,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 7,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 1,
-        "Aiming": 0,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 3,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 5,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 2,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 1,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "09-01-26 18:30:41.927",
       "steam_id": "76561199511597958",
@@ -1660,6 +1619,53 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "10-01-26 03:35:36.154",
+      "steam_id": "76561199317533255",
+      "username": "Boba",
+      "x": "12023",
+      "y": "2595",
+      "z": "0",
+      "hours_survived": 163,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 7,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 1,
+        "Aiming": 0,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 3,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 5,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 2,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 1,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1964,5 +1970,5 @@
       "text": "hello"
     }
   ],
-  "timestamp": "2026-01-10T03:35:01.472205"
+  "timestamp": "2026-01-10T03:40:01.956479"
 }
