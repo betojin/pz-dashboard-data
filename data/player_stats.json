@@ -5565,8 +5565,8 @@
     "Bobaa": {
       "username": "Bobaa",
       "steam_id": "76561199317533255",
-      "total_hours": 0,
-      "deaths": 0,
+      "total_hours": 9,
+      "deaths": 1,
       "skills": {
         "Cooking": 0,
         "Fitness": 7,
@@ -5605,13 +5605,13 @@
         "Glassmaking": 0
       },
       "level_ups": [],
-      "last_seen": "10-01-26 07:34:41.458",
+      "last_seen": "10-01-26 07:59:34.955",
       "connections": 1
     },
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 0,
+      "total_hours": 8,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -5636,7 +5636,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -5650,8 +5650,14 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "10-01-26 07:37:43.428",
+      "level_ups": [
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "10-01-26 07:59:27.931"
+        }
+      ],
+      "last_seen": "10-01-26 07:59:27.931",
       "connections": 1
     },
     "BetoJinn": {
@@ -5748,5 +5754,5 @@
     }
   },
   "total_players": 46,
-  "timestamp": "2026-01-10T07:55:01.554944"
+  "timestamp": "2026-01-10T08:00:01.981893"
 }

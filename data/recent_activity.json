@@ -363,30 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "10-01-26 04:51:17.598",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "13544",
-      "y": "1352",
-      "z": "0",
-      "hours_survived": 968,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "2"
-    },
-    {
-      "timestamp": "10-01-26 05:02:32.026",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "x": "13540",
-      "y": "1401",
-      "z": "0",
-      "hours_survived": 150,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "1"
-    },
-    {
       "timestamp": "10-01-26 05:15:06.252",
       "steam_id": "76561199317533255",
       "username": "Boba",
@@ -1275,189 +1251,31 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "10-01-26 07:59:27.931",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "6077",
+      "y": "5300",
+      "z": "0",
+      "hours_survived": 8,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "2"
+    },
+    {
+      "timestamp": "10-01-26 07:59:34.955",
+      "steam_id": "76561199317533255",
+      "username": "Bobaa",
+      "x": "6194",
+      "y": "5283",
+      "z": "0",
+      "hours_survived": 9,
+      "event_type": "died"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "10-01-26 06:48:25.187",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:25.187",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:25.460",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:25.460",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:25.490",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:25.490",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:25.608",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:25.608",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:25.718",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:25.718",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:25.861",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:25.861",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:26.022",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:26.022",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:26.182",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:26.182",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:26.258",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:26.258",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:26.368",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:26.368",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:27.662",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:27.662",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:27.792",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:27.792",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:27.931",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:27.932",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:28.028",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:28.028",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:28.158",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "10-01-26 06:48:28.158",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "10-01-26 06:48:28.275",
       "chat_type": "Local",
@@ -1577,7 +1395,187 @@
       "chat_type": "Local",
       "author": "ExpiredPork",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:35.742",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:35.742",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:35.913",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:35.913",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:36.094",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:36.094",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:36.271",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:36.271",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:36.432",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:36.432",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:36.631",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:36.632",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:38.509",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:38.509",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:49.527",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:49.527",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:50.306",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:50.306",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:51.290",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "10-01-26 07:58:51.291",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "10-01-26 07:59:06.325",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "10-01-26 07:59:06.325",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "10-01-26 07:59:07.588",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "10-01-26 07:59:07.588",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "10-01-26 07:59:08.494",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "10-01-26 07:59:08.494",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "10-01-26 07:59:16.281",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "10-01-26 07:59:16.281",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "10-01-26 07:59:21.691",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "10-01-26 07:59:21.691",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-10T07:55:01.605238"
+  "timestamp": "2026-01-10T08:00:02.031918"
 }
