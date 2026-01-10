@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "10-01-26 06:21:51.353",
-      "steam_id": "76561199511597958",
-      "username": "RottenPotato",
-      "action": "disconnected",
-      "x": "12010",
-      "y": "2591",
-      "z": "0"
-    },
-    {
-      "timestamp": "10-01-26 06:22:21.772",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "10-01-26 06:22:21.773",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -359,21 +344,27 @@
       "x": "6057",
       "y": "5349",
       "z": "0"
+    },
+    {
+      "timestamp": "10-01-26 08:01:46.509",
+      "steam_id": "76561199317533255",
+      "username": "Bobaa",
+      "action": "disconnected",
+      "x": "6194",
+      "y": "5283",
+      "z": "0"
+    },
+    {
+      "timestamp": "10-01-26 08:01:48.889",
+      "steam_id": "76561199317533255",
+      "username": "Bobaa",
+      "action": "fully connected",
+      "x": "6071",
+      "y": "5323",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "10-01-26 05:15:06.252",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "13541",
-      "y": "1385",
-      "z": "0",
-      "hours_survived": 202,
-      "event_type": "level_up",
-      "skill": "LongBlade",
-      "level": "2"
-    },
     {
       "timestamp": "10-01-26 05:29:03.826",
       "steam_id": "76561199511597958",
@@ -1273,6 +1264,16 @@
       "z": "0",
       "hours_survived": 9,
       "event_type": "died"
+    },
+    {
+      "timestamp": "10-01-26 08:01:49.024",
+      "steam_id": "76561199317533255",
+      "username": "Bobaa",
+      "x": "6071",
+      "y": "5323",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
@@ -1577,5 +1578,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-10T08:00:02.031918"
+  "timestamp": "2026-01-10T08:05:01.506499"
 }
