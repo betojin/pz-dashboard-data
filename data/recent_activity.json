@@ -369,16 +369,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "10-01-26 05:32:48.397",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "13565",
-      "y": "1325",
-      "z": "2",
-      "hours_survived": 209,
-      "event_type": "died"
-    },
-    {
       "timestamp": "10-01-26 05:36:51.761",
       "steam_id": "76561199317533255",
       "username": "Boba",
@@ -1277,6 +1267,18 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "1"
+    },
+    {
+      "timestamp": "10-01-26 09:13:31.588",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "2219",
+      "y": "5850",
+      "z": "0",
+      "hours_survived": 37,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1581,5 +1583,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-10T09:10:01.543627"
+  "timestamp": "2026-01-10T09:15:01.963967"
 }
