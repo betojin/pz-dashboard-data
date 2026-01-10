@@ -16,7 +16,7 @@
         "Sprinting": 3,
         "Sneak": 0,
         "Woodwork": 10,
-        "Aiming": 1,
+        "Aiming": 2,
         "Reloading": 3,
         "Farming": 0,
         "Fishing": 0,
@@ -312,6 +312,11 @@
           "skill": "Reloading",
           "level": "3",
           "timestamp": "10-01-26 06:39:48.797"
+        },
+        {
+          "skill": "Aiming",
+          "level": "2",
+          "timestamp": "10-01-26 06:40:50.123"
         }
       ],
       "last_seen": "31-12-25 04:42:21.316",
@@ -3943,7 +3948,7 @@
     "Zero": {
       "username": "Zero",
       "steam_id": "76561198060886931",
-      "total_hours": 646,
+      "total_hours": 653,
       "deaths": 0,
       "skills": {
         "Cooking": 4,
@@ -4239,7 +4244,8 @@
           "timestamp": "07-01-26 03:20:17.388"
         }
       ],
-      "last_seen": "31-12-25 00:32:59.977"
+      "last_seen": "31-12-25 00:32:59.977",
+      "connections": 1
     },
     "El_Moctezuma": {
       "username": "El_Moctezuma",
@@ -5538,5 +5544,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-10T06:40:01.500530"
+  "timestamp": "2026-01-10T06:45:01.888577"
 }
