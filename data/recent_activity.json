@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "10-01-26 05:28:33.868",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "10-01-26 05:28:46.959",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "10-01-26 05:29:05.857",
       "steam_id": "76561199510927772",
       "username": "ExpiredMayo",
@@ -362,6 +350,18 @@
       "x": "13553",
       "y": "1266",
       "z": "0"
+    },
+    {
+      "timestamp": "10-01-26 07:14:58.566",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "10-01-26 07:14:58.567",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -1444,5 +1444,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-10T07:10:02.074660"
+  "timestamp": "2026-01-10T07:15:01.455508"
 }
