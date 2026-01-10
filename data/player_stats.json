@@ -3762,7 +3762,7 @@
         }
       ],
       "last_seen": "27-12-25 08:32:16.288",
-      "connections": 10
+      "connections": 11
     },
     "Danford": {
       "username": "Danford",
@@ -4435,7 +4435,7 @@
     "RottenTomato": {
       "username": "RottenTomato",
       "steam_id": "76561199511597958",
-      "total_hours": 564,
+      "total_hours": 577,
       "deaths": 9,
       "skills": {
         "Cooking": 4,
@@ -4464,7 +4464,7 @@
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
-        "Tailoring": 0,
+        "Tailoring": 2,
         "Tracking": 0,
         "Husbandry": 1,
         "FlintKnapping": 0,
@@ -4654,6 +4654,16 @@
           "skill": "Doctor",
           "level": "1",
           "timestamp": "09-01-26 19:29:22.386"
+        },
+        {
+          "skill": "Tailoring",
+          "level": "1",
+          "timestamp": "10-01-26 04:03:26.983"
+        },
+        {
+          "skill": "Tailoring",
+          "level": "2",
+          "timestamp": "10-01-26 04:03:36.278"
         }
       ],
       "last_seen": "31-12-25 05:56:21.290",
@@ -5477,5 +5487,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-10T04:00:01.399629"
+  "timestamp": "2026-01-10T04:05:01.775084"
 }
