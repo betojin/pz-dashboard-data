@@ -1,42 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "09-01-26 22:19:59.073",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "09-01-26 22:20:38.170",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "fully connected",
-      "x": "13723",
-      "y": "5734",
-      "z": "0"
-    },
-    {
-      "timestamp": "09-01-26 22:22:00.428",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "disconnected",
-      "x": "13722",
-      "y": "5735",
-      "z": "0"
-    },
-    {
-      "timestamp": "09-01-26 22:22:26.771",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "09-01-26 22:22:26.771",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "09-01-26 22:22:47.076",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -356,21 +320,45 @@
       "x": "12066",
       "y": "2616",
       "z": "0"
+    },
+    {
+      "timestamp": "10-01-26 04:11:00.547",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "disconnected",
+      "x": "12028",
+      "y": "2588",
+      "z": "0"
+    },
+    {
+      "timestamp": "10-01-26 04:11:38.752",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "10-01-26 04:11:38.752",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "10-01-26 04:11:46.585",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "10-01-26 04:13:03.179",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "action": "fully connected",
+      "x": "12028",
+      "y": "2588",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "09-01-26 19:29:22.386",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12771",
-      "y": "3195",
-      "z": "0",
-      "hours_survived": 508,
-      "event_type": "level_up",
-      "skill": "Doctor",
-      "level": "1"
-    },
     {
       "timestamp": "09-01-26 19:41:03.942",
       "steam_id": "76561199510927772",
@@ -1628,6 +1616,53 @@
       "event_type": "level_up",
       "skill": "Tailoring",
       "level": "2"
+    },
+    {
+      "timestamp": "10-01-26 04:13:03.717",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredMayo",
+      "x": "12028",
+      "y": "2588",
+      "z": "0",
+      "hours_survived": 130,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 1,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 1,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1932,5 +1967,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-10T04:10:01.192394"
+  "timestamp": "2026-01-10T04:15:01.593753"
 }
