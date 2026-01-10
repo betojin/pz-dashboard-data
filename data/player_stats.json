@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 1015,
+      "total_hours": 1023,
       "deaths": 3,
       "skills": {
         "Cooking": 4,
@@ -13,7 +13,7 @@
         "Axe": 7,
         "Lightfoot": 0,
         "Nimble": 1,
-        "Sprinting": 3,
+        "Sprinting": 4,
         "Sneak": 0,
         "Woodwork": 10,
         "Aiming": 2,
@@ -322,10 +322,15 @@
           "skill": "Maintenance",
           "level": "6",
           "timestamp": "10-01-26 06:52:50.196"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "4",
+          "timestamp": "10-01-26 07:16:20.473"
         }
       ],
       "last_seen": "31-12-25 04:42:21.316",
-      "connections": 1
+      "connections": 2
     },
     "admin": {
       "username": "admin",
@@ -5559,5 +5564,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-10T07:15:01.405021"
+  "timestamp": "2026-01-10T07:20:01.834692"
 }
