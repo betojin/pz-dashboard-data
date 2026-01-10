@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 1010,
+      "total_hours": 1015,
       "deaths": 3,
       "skills": {
         "Cooking": 4,
@@ -28,7 +28,7 @@
         "MetalWelding": 4,
         "Mechanics": 3,
         "Spear": 0,
-        "Maintenance": 5,
+        "Maintenance": 6,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -317,6 +317,11 @@
           "skill": "Aiming",
           "level": "2",
           "timestamp": "10-01-26 06:40:50.123"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "6",
+          "timestamp": "10-01-26 06:52:50.196"
         }
       ],
       "last_seen": "31-12-25 04:42:21.316",
@@ -3728,7 +3733,7 @@
         "Spear": 0,
         "Maintenance": 1,
         "SmallBlade": 0,
-        "LongBlade": 1,
+        "LongBlade": 2,
         "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
@@ -3810,6 +3815,11 @@
           "skill": "Sprinting",
           "level": "1",
           "timestamp": "10-01-26 05:02:32.026"
+        },
+        {
+          "skill": "LongBlade",
+          "level": "2",
+          "timestamp": "10-01-26 06:51:34.098"
         }
       ],
       "last_seen": "27-12-25 08:32:16.288",
@@ -4487,7 +4497,7 @@
     "RottenTomato": {
       "username": "RottenTomato",
       "steam_id": "76561199511597958",
-      "total_hours": 623,
+      "total_hours": 634,
       "deaths": 9,
       "skills": {
         "Cooking": 4,
@@ -4729,7 +4739,7 @@
         }
       ],
       "last_seen": "31-12-25 05:56:21.290",
-      "connections": 16
+      "connections": 17
     },
     "Sharkey": {
       "username": "Sharkey",
@@ -5549,5 +5559,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-10T06:50:01.307009"
+  "timestamp": "2026-01-10T06:55:01.688144"
 }
