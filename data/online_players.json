@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 5,
   "players": [
     {
       "username": "Boba",
@@ -7,6 +7,15 @@
       "connected_at": "10-01-26 05:36:51.621",
       "x": 13597,
       "y": 1413,
+      "z": 0,
+      "online": true
+    },
+    {
+      "username": "RottenTomato",
+      "steam_id": "76561199511597958",
+      "connected_at": "10-01-26 06:56:39.664",
+      "x": 13602,
+      "y": 1416,
       "z": 0,
       "online": true
     },
@@ -32,11 +41,11 @@
       "username": "Zero",
       "steam_id": "76561198060886931",
       "connected_at": "10-01-26 06:43:02.204",
-      "x": 8613,
-      "y": 8823,
+      "x": 8612,
+      "y": 8822,
       "z": 0,
       "online": true
     }
   ],
-  "timestamp": "2026-01-10T06:55:01.707045"
+  "timestamp": "2026-01-10T07:00:01.115799"
 }
