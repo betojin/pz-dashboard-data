@@ -1,39 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "10-01-26 06:22:21.773",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "10-01-26 06:22:30.997",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "10-01-26 06:24:20.366",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "fully connected",
-      "x": "12021",
-      "y": "2589",
-      "z": "0"
-    },
-    {
-      "timestamp": "10-01-26 06:41:53.734",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "10-01-26 06:41:53.735",
-      "steam_id": "76561198060886931",
-      "username": "Zero",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "10-01-26 06:42:06.388",
       "steam_id": "76561198060886931",
       "username": "Zero",
@@ -362,21 +329,45 @@
       "x": "6071",
       "y": "5323",
       "z": "0"
+    },
+    {
+      "timestamp": "10-01-26 09:00:34.566",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "disconnected",
+      "x": "2060",
+      "y": "5834",
+      "z": "0"
+    },
+    {
+      "timestamp": "10-01-26 09:00:57.866",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "10-01-26 09:00:57.866",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "10-01-26 09:01:03.773",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "10-01-26 09:01:16.483",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "fully connected",
+      "x": "2060",
+      "y": "5834",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "10-01-26 05:29:03.826",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "13537",
-      "y": "1328",
-      "z": "0",
-      "hours_survived": 611,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "6"
-    },
     {
       "timestamp": "10-01-26 05:29:06.859",
       "steam_id": "76561199510927772",
@@ -1274,6 +1265,53 @@
       "z": "0",
       "hours_survived": 0,
       "event_type": "created"
+    },
+    {
+      "timestamp": "10-01-26 09:01:16.856",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "2060",
+      "y": "5834",
+      "z": "0",
+      "hours_survived": 32,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 2,
+        "Reloading": 2,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1578,5 +1616,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-10T09:00:01.744592"
+  "timestamp": "2026-01-10T09:05:01.116318"
 }
