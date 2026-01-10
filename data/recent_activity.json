@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "09-01-26 22:27:17.233",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "13647",
-      "y": "5719",
-      "z": "0",
-      "hours_survived": 564,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 5,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 2,
-        "Blacksmith": 0,
-        "MetalWelding": 5,
-        "Mechanics": 6,
-        "Spear": 0,
-        "Maintenance": 8,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 1,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "09-01-26 22:27:26.250",
       "steam_id": "76561199510927772",
       "username": "ExpiredMayo",
@@ -1312,33 +1265,21 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "10-01-26 06:39:48.797",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "13537",
+      "y": "1414",
+      "z": "0",
+      "hours_survived": 1010,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "3"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "10-01-26 04:35:01.592",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "10-01-26 04:35:01.592",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "10-01-26 04:35:01.706",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "10-01-26 04:35:01.706",
-      "chat_type": "Local",
-      "author": "ExpiredMayo",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "10-01-26 04:35:01.840",
       "chat_type": "Local",
@@ -1614,7 +1555,31 @@
       "chat_type": "Local",
       "author": "Boba",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "10-01-26 06:39:08.682",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "10-01-26 06:39:08.682",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "10-01-26 06:39:12.518",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "10-01-26 06:39:12.518",
+      "chat_type": "Local",
+      "author": "BetoJin",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-10T06:35:01.138849"
+  "timestamp": "2026-01-10T06:40:01.548449"
 }
