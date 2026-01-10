@@ -360,53 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "09-01-26 21:44:28.396",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "x": "13859",
-      "y": "5834",
-      "z": "0",
-      "hours_survived": 114,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 0,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 1,
-        "Reloading": 1,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 1,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "09-01-26 21:46:47.423",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -1558,6 +1511,18 @@
       "event_type": "level_up",
       "skill": "Aiming",
       "level": "1"
+    },
+    {
+      "timestamp": "10-01-26 04:51:17.598",
+      "steam_id": "76561198065774641",
+      "username": "BetoJin",
+      "x": "13544",
+      "y": "1352",
+      "z": "0",
+      "hours_survived": 968,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1862,5 +1827,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-10T04:50:01.870575"
+  "timestamp": "2026-01-10T04:55:01.184595"
 }

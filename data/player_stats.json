@@ -3,7 +3,7 @@
     "BetoJin": {
       "username": "BetoJin",
       "steam_id": "76561198065774641",
-      "total_hours": 967,
+      "total_hours": 968,
       "deaths": 3,
       "skills": {
         "Cooking": 4,
@@ -17,7 +17,7 @@
         "Sneak": 0,
         "Woodwork": 10,
         "Aiming": 1,
-        "Reloading": 1,
+        "Reloading": 2,
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 1,
@@ -302,6 +302,11 @@
           "skill": "Aiming",
           "level": "1",
           "timestamp": "10-01-26 04:49:58.089"
+        },
+        {
+          "skill": "Reloading",
+          "level": "2",
+          "timestamp": "10-01-26 04:51:17.598"
         }
       ],
       "last_seen": "31-12-25 04:42:21.316",
@@ -5507,5 +5512,5 @@
     }
   },
   "total_players": 42,
-  "timestamp": "2026-01-10T04:50:01.823847"
+  "timestamp": "2026-01-10T04:55:01.137859"
 }
