@@ -5740,7 +5740,7 @@
     "BetoJinn": {
       "username": "BetoJinn",
       "steam_id": "76561198065774641",
-      "total_hours": 129,
+      "total_hours": 134,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -5765,7 +5765,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -5814,9 +5814,14 @@
           "skill": "Reloading",
           "level": "5",
           "timestamp": "11-01-26 07:28:51.230"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "11-01-26 08:09:06.964"
         }
       ],
-      "last_seen": "11-01-26 07:55:18.643",
+      "last_seen": "11-01-26 08:09:06.964",
       "connections": 5
     },
     "ExpiredPork": {
@@ -5878,5 +5883,5 @@
     }
   },
   "total_players": 46,
-  "timestamp": "2026-01-11T08:05:01.271547"
+  "timestamp": "2026-01-11T08:10:01.759245"
 }
