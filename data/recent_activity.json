@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "10-01-26 07:34:41.458",
-      "steam_id": "76561199317533255",
-      "username": "Bobaa",
-      "x": "6057",
-      "y": "5349",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 7,
-        "Strength": 7,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 1,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 3,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 2,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "10-01-26 07:37:43.428",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1170,6 +1123,18 @@
       "event_type": "level_up",
       "skill": "Aiming",
       "level": "3"
+    },
+    {
+      "timestamp": "11-01-26 07:13:57.000",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "2450",
+      "y": "13453",
+      "z": "0",
+      "hours_survived": 100,
+      "event_type": "level_up",
+      "skill": "Electricity",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1474,5 +1439,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-11T07:10:01.693171"
+  "timestamp": "2026-01-11T07:15:02.115796"
 }
