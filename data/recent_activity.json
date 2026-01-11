@@ -1,379 +1,64 @@
 {
   "user_events": [
     {
-      "timestamp": "10-01-26 09:40:41.751",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "disconnected",
-      "x": "1966",
-      "y": "6345",
-      "z": "0"
-    },
-    {
-      "timestamp": "10-01-26 09:41:13.791",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "10-01-26 09:41:13.791",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "10-01-26 09:41:25.090",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "10-01-26 09:41:47.482",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "fully connected",
-      "x": "1966",
-      "y": "6345",
-      "z": "0"
-    },
-    {
-      "timestamp": "10-01-26 10:26:01.222",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "disconnected",
-      "x": "1377",
-      "y": "11215",
-      "z": "0"
-    },
-    {
-      "timestamp": "10-01-26 10:26:03.222",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "disconnected",
-      "x": "1368",
-      "y": "11227",
-      "z": "0"
-    },
-    {
-      "timestamp": "10-01-26 10:27:00.432",
-      "steam_id": "76561199317533255",
-      "username": "Bobaa",
-      "action": "disconnected",
-      "x": "1379",
-      "y": "11202",
-      "z": "0"
-    },
-    {
-      "timestamp": "10-01-26 10:42:20.460",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "disconnected",
-      "x": "1374",
-      "y": "11203",
-      "z": "1"
-    },
-    {
-      "timestamp": "11-01-26 05:30:59.444",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 05:30:59.445",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "11-01-26 05:31:09.445",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 05:31:33.392",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "fully connected",
-      "x": "1374",
-      "y": "11203",
-      "z": "1"
-    },
-    {
-      "timestamp": "11-01-26 05:32:10.498",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "disconnected",
-      "x": "1374",
-      "y": "11203",
-      "z": "1"
-    },
-    {
-      "timestamp": "11-01-26 05:33:05.890",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 05:33:05.891",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "11-01-26 05:33:13.526",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 05:33:27.709",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "fully connected",
-      "x": "1374",
-      "y": "11203",
-      "z": "1"
-    },
-    {
-      "timestamp": "11-01-26 05:49:18.677",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 05:49:18.678",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "11-01-26 05:49:27.580",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 05:49:37.387",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 05:49:37.387",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "11-01-26 05:49:48.783",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "fully connected",
-      "x": "1377",
-      "y": "11215",
-      "z": "0"
-    },
-    {
-      "timestamp": "11-01-26 05:49:49.811",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 05:50:10.700",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "fully connected",
-      "x": "1368",
-      "y": "11227",
-      "z": "0"
-    },
-    {
-      "timestamp": "11-01-26 05:50:50.883",
+      "timestamp": "11-01-26 08:29:22.751",
       "steam_id": "76561199317533255",
       "username": "Bobaa",
       "action": "attempting to join"
     },
     {
-      "timestamp": "11-01-26 05:50:50.884",
+      "timestamp": "11-01-26 08:29:22.752",
       "steam_id": "76561199317533255",
       "username": "Bobaa",
       "action": "allowed to join"
     },
     {
-      "timestamp": "11-01-26 05:51:05.615",
+      "timestamp": "11-01-26 08:29:22.803",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "11-01-26 08:29:22.804",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "11-01-26 08:29:32.092",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "11-01-26 08:29:33.790",
       "steam_id": "76561199317533255",
       "username": "Bobaa",
       "action": "attempting to join"
     },
     {
-      "timestamp": "11-01-26 05:52:02.465",
+      "timestamp": "11-01-26 08:29:50.214",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "11-01-26 08:29:50.215",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "11-01-26 08:29:55.336",
       "steam_id": "76561199317533255",
       "username": "Bobaa",
       "action": "fully connected",
-      "x": "1379",
-      "y": "11202",
-      "z": "0"
-    },
-    {
-      "timestamp": "11-01-26 07:03:45.568",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 07:03:45.569",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "11-01-26 07:04:01.900",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 07:04:43.833",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "fully connected",
-      "x": "10098",
-      "y": "8259",
-      "z": "0"
-    },
-    {
-      "timestamp": "11-01-26 07:52:35.197",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "disconnected",
-      "x": "2232",
-      "y": "14518",
-      "z": "0"
-    },
-    {
-      "timestamp": "11-01-26 07:53:08.405",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 07:53:08.406",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "11-01-26 07:53:20.326",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 07:53:42.784",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "fully connected",
-      "x": "2232",
-      "y": "14518",
-      "z": "0"
-    },
-    {
-      "timestamp": "11-01-26 07:54:36.511",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "disconnected",
-      "x": "2153",
-      "y": "14554",
-      "z": "0"
-    },
-    {
-      "timestamp": "11-01-26 07:54:58.696",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 07:54:58.697",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "11-01-26 07:55:04.753",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 07:55:17.929",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "fully connected",
-      "x": "2153",
-      "y": "14554",
-      "z": "0"
-    },
-    {
-      "timestamp": "11-01-26 08:21:02.176",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "disconnected",
-      "x": "1756",
-      "y": "14816",
-      "z": "0"
-    },
-    {
-      "timestamp": "11-01-26 08:21:27.167",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 08:21:27.168",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "11-01-26 08:21:39.179",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 08:21:54.161",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "fully connected",
-      "x": "1756",
-      "y": "14816",
-      "z": "0"
-    },
-    {
-      "timestamp": "11-01-26 08:24:53.391",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "disconnected",
-      "x": "1757",
-      "y": "14813",
+      "x": "1765",
+      "y": "14834",
       "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "10-01-26 09:44:37.788",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1852",
-      "y": "6332",
-      "z": "0",
-      "hours_survived": 50,
-      "event_type": "level_up",
-      "skill": "Doctor",
-      "level": "1"
-    },
     {
       "timestamp": "10-01-26 09:59:17.092",
       "steam_id": "76561199511597958",
@@ -1036,309 +721,55 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "11-01-26 08:29:55.659",
+      "steam_id": "76561199317533255",
+      "username": "Bobaa",
+      "x": "1765",
+      "y": "14834",
+      "z": "0",
+      "hours_survived": 118,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 7,
+        "Strength": 7,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 1,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 4,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 2,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
-  "chat_messages": [
-    {
-      "timestamp": "11-01-26 06:31:36.994",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 06:31:36.994",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 06:31:37.190",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "11-01-26 06:31:37.190",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "11-01-26 06:31:39.279",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 06:31:39.279",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 06:31:39.524",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 06:31:39.524",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 06:31:42.847",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 06:31:42.847",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 06:31:43.222",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 06:31:43.222",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 06:31:43.495",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 06:31:43.495",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 06:34:18.396",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 06:34:18.396",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 06:34:18.716",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 06:34:18.716",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 06:52:48.862",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 06:52:48.862",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 07:08:57.359",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 07:08:57.359",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 07:08:57.512",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "11-01-26 07:08:57.512",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "11-01-26 07:08:57.660",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 07:08:57.660",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 07:08:57.769",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 07:08:57.770",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 07:08:57.929",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 07:08:57.929",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 07:22:17.266",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 07:22:17.266",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 07:23:54.278",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 07:23:54.278",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 07:25:17.332",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "11-01-26 07:25:17.332",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "11-01-26 07:25:19.725",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "11-01-26 07:25:19.725",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "11-01-26 07:25:20.948",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "11-01-26 07:25:20.948",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "11-01-26 07:25:23.316",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "11-01-26 07:25:23.317",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "11-01-26 08:01:38.898",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 08:01:38.899",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 08:01:54.425",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 08:01:54.425",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 08:01:54.629",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 08:01:54.629",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 08:10:02.181",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 08:10:02.181",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    }
-  ],
-  "timestamp": "2026-01-11T08:25:01.930023"
+  "chat_messages": [],
+  "timestamp": "2026-01-11T08:30:01.182377"
 }
