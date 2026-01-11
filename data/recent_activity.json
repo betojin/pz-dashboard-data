@@ -366,30 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "11-01-26 07:25:54.804",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "x": "2537",
-      "y": "13957",
-      "z": "0",
-      "hours_survived": 100,
-      "event_type": "level_up",
-      "skill": "SmallBlunt",
-      "level": "1"
-    },
-    {
-      "timestamp": "11-01-26 07:26:09.132",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "2541",
-      "y": "13952",
-      "z": "0",
-      "hours_survived": 118,
-      "event_type": "level_up",
-      "skill": "Aiming",
-      "level": "4"
-    },
-    {
       "timestamp": "11-01-26 07:28:51.230",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -1354,6 +1330,30 @@
       "event_type": "level_up",
       "skill": "Pottery",
       "level": "3"
+    },
+    {
+      "timestamp": "11-01-26 18:48:01.836",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10115",
+      "y": "8245",
+      "z": "0",
+      "hours_survived": 1726,
+      "event_type": "level_up",
+      "skill": "Blacksmith",
+      "level": "1"
+    },
+    {
+      "timestamp": "11-01-26 18:48:11.439",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10115",
+      "y": "8245",
+      "z": "0",
+      "hours_survived": 1726,
+      "event_type": "level_up",
+      "skill": "Blacksmith",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1658,5 +1658,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-11T18:45:01.432524"
+  "timestamp": "2026-01-11T18:50:01.834681"
 }
