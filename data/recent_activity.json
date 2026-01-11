@@ -179,56 +179,72 @@
       "x": "835",
       "y": "11002",
       "z": "0"
+    },
+    {
+      "timestamp": "11-01-26 08:56:48.954",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "disconnected",
+      "x": "405",
+      "y": "9881",
+      "z": "0"
+    },
+    {
+      "timestamp": "11-01-26 08:57:10.169",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "11-01-26 08:57:10.170",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "11-01-26 08:57:15.618",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "11-01-26 08:57:30.705",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "fully connected",
+      "x": "13719",
+      "y": "5738",
+      "z": "0"
+    },
+    {
+      "timestamp": "11-01-26 08:59:27.352",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "disconnected",
+      "x": "5720",
+      "y": "5723",
+      "z": "0"
+    },
+    {
+      "timestamp": "11-01-26 08:59:54.545",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "11-01-26 08:59:54.545",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "11-01-26 09:00:00.329",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "11-01-26 05:33:28.197",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1374",
-      "y": "11203",
-      "z": "1",
-      "hours_survived": 73,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 2,
-        "Reloading": 3,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "11-01-26 05:49:49.308",
       "steam_id": "76561199510927772",
@@ -1031,8 +1047,80 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "11-01-26 08:57:31.637",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "x": "13719",
+      "y": "5738",
+      "z": "0",
+      "hours_survived": 100,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 2,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 10,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
-  "chat_messages": [],
-  "timestamp": "2026-01-11T08:55:01.245120"
+  "chat_messages": [
+    {
+      "timestamp": "11-01-26 08:57:19.265",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "11-01-26 08:57:19.266",
+      "chat_type": "Local",
+      "author": "Bobaa",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "11-01-26 08:59:21.903",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "11-01-26 08:59:21.903",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "HEY!"
+    }
+  ],
+  "timestamp": "2026-01-11T09:00:01.578027"
 }
