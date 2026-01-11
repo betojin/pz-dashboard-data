@@ -366,18 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "11-01-26 07:31:42.202",
-      "steam_id": "76561199317533255",
-      "username": "Bobaa",
-      "x": "2478",
-      "y": "13920",
-      "z": "0",
-      "hours_survived": 97,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "2"
-    },
-    {
       "timestamp": "11-01-26 07:37:22.219",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1354,6 +1342,18 @@
       "event_type": "level_up",
       "skill": "Blacksmith",
       "level": "3"
+    },
+    {
+      "timestamp": "11-01-26 18:57:07.520",
+      "steam_id": "76561199116672989",
+      "username": "Mors Deus",
+      "x": "6310",
+      "y": "5276",
+      "z": "0",
+      "hours_survived": 10,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1658,5 +1658,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-11T18:55:01.230024"
+  "timestamp": "2026-01-11T19:00:01.620254"
 }

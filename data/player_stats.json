@@ -5909,7 +5909,7 @@
     "Mors Deus": {
       "username": "Mors Deus",
       "steam_id": "76561199116672989",
-      "total_hours": 0,
+      "total_hours": 10,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -5934,7 +5934,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 0,
+        "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -5948,11 +5948,17 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "11-01-26 18:29:53.576",
+      "level_ups": [
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "11-01-26 18:57:07.520"
+        }
+      ],
+      "last_seen": "11-01-26 18:57:07.520",
       "connections": 1
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-11T18:55:01.182175"
+  "timestamp": "2026-01-11T19:00:01.571882"
 }
