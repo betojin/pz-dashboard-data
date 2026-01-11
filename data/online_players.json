@@ -1,12 +1,21 @@
 {
-  "count": 3,
+  "count": 4,
   "players": [
     {
       "username": "Bobaa",
       "steam_id": "76561199317533255",
-      "connected_at": "11-01-26 08:29:55.336",
-      "x": 426,
-      "y": 9879,
+      "connected_at": "11-01-26 09:01:57.651",
+      "x": 392,
+      "y": 9892,
+      "z": 0,
+      "online": true
+    },
+    {
+      "username": "BetoJinn",
+      "steam_id": "76561198065774641",
+      "connected_at": "11-01-26 09:01:23.268",
+      "x": 512,
+      "y": 9676,
       "z": 0,
       "online": true
     },
@@ -14,20 +23,20 @@
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
       "connected_at": "11-01-26 08:30:42.923",
-      "x": 435,
-      "y": 9877,
+      "x": 425,
+      "y": 9881,
       "z": 0,
       "online": true
     },
     {
       "username": "ExpiredPork",
       "steam_id": "76561199510927772",
-      "connected_at": "11-01-26 08:45:35.424",
-      "x": 444,
-      "y": 9874,
+      "connected_at": "11-01-26 09:02:02.530",
+      "x": 447,
+      "y": 9893,
       "z": 0,
       "online": true
     }
   ],
-  "timestamp": "2026-01-11T09:00:01.549663"
+  "timestamp": "2026-01-11T09:05:01.965379"
 }
