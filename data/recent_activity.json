@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "11-01-26 08:44:56.993",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 08:45:07.317",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "11-01-26 08:45:09.843",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -361,6 +349,24 @@
       "action": "fully connected",
       "x": "5395",
       "y": "6056",
+      "z": "0"
+    },
+    {
+      "timestamp": "11-01-26 19:12:50.437",
+      "steam_id": "76561198417595781",
+      "username": "exoticbutter",
+      "action": "disconnected",
+      "x": "10108",
+      "y": "6654",
+      "z": "0"
+    },
+    {
+      "timestamp": "11-01-26 19:13:47.623",
+      "steam_id": "76561199116672989",
+      "username": "Mors Deus",
+      "action": "disconnected",
+      "x": "10104",
+      "y": "6654",
       "z": "0"
     }
   ],
@@ -1658,5 +1664,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-11T19:10:01.548671"
+  "timestamp": "2026-01-11T19:15:01.908400"
 }
