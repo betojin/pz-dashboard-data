@@ -366,53 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "10-01-26 06:56:41.497",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "13602",
-      "y": "1416",
-      "z": "0",
-      "hours_survived": 635,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 6,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 2,
-        "Electricity": 2,
-        "Blacksmith": 0,
-        "MetalWelding": 5,
-        "Mechanics": 6,
-        "Spear": 0,
-        "Maintenance": 8,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 1,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "10-01-26 07:15:24.153",
       "steam_id": "76561198065774641",
       "username": "BetoJin",
@@ -1208,57 +1161,21 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "4"
+    },
+    {
+      "timestamp": "11-01-26 06:21:40.570",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "x": "2499",
+      "y": "10959",
+      "z": "0",
+      "hours_survived": 74,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "10-01-26 09:59:10.282",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 09:59:10.282",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "10-01-26 09:59:10.404",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "10-01-26 09:59:10.404",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "10-01-26 09:59:10.548",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "10-01-26 09:59:10.548",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "10-01-26 09:59:10.698",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "10-01-26 09:59:10.698",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "10-01-26 09:59:10.863",
       "chat_type": "Local",
@@ -1510,7 +1427,55 @@
       "chat_type": "Local",
       "author": "BetoJinn",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "11-01-26 06:22:50.433",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "11-01-26 06:22:50.433",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "11-01-26 06:22:50.550",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "11-01-26 06:22:50.550",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "11-01-26 06:22:50.688",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "11-01-26 06:22:50.688",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "11-01-26 06:22:50.836",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "11-01-26 06:22:50.836",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-11T06:20:01.542436"
+  "timestamp": "2026-01-11T06:25:01.976754"
 }

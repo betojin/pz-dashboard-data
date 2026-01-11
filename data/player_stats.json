@@ -5766,7 +5766,7 @@
     "ExpiredPork": {
       "username": "ExpiredPork",
       "steam_id": "76561199510927772",
-      "total_hours": 62,
+      "total_hours": 74,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -5776,7 +5776,7 @@
         "Axe": 0,
         "Lightfoot": 2,
         "Nimble": 2,
-        "Sprinting": 0,
+        "Sprinting": 1,
         "Sneak": 2,
         "Woodwork": 0,
         "Aiming": 0,
@@ -5805,11 +5805,17 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "11-01-26 05:49:49.308",
+      "level_ups": [
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "11-01-26 06:21:40.570"
+        }
+      ],
+      "last_seen": "11-01-26 06:21:40.570",
       "connections": 4
     }
   },
   "total_players": 46,
-  "timestamp": "2026-01-11T06:20:01.486475"
+  "timestamp": "2026-01-11T06:25:01.922015"
 }
