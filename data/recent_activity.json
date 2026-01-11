@@ -1,60 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "10-01-26 07:27:44.372",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "action": "disconnected",
-      "x": "12037",
-      "y": "2592",
-      "z": "0"
-    },
-    {
-      "timestamp": "10-01-26 07:29:27.275",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "10-01-26 07:29:27.276",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "10-01-26 07:29:54.462",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "action": "disconnected",
-      "x": "12020",
-      "y": "2593",
-      "z": "1"
-    },
-    {
-      "timestamp": "10-01-26 07:30:49.083",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "disconnected",
-      "x": "12025",
-      "y": "2592",
-      "z": "0"
-    },
-    {
-      "timestamp": "10-01-26 07:30:49.148",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredMayo",
-      "action": "disconnected",
-      "x": "12025",
-      "y": "2591",
-      "z": "0"
-    },
-    {
-      "timestamp": "10-01-26 07:31:28.751",
-      "steam_id": "76561199317533255",
-      "username": "Bobaa",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "10-01-26 07:31:28.751",
       "steam_id": "76561199317533255",
       "username": "Bobaa",
@@ -368,21 +314,54 @@
       "x": "1374",
       "y": "11203",
       "z": "1"
+    },
+    {
+      "timestamp": "11-01-26 05:49:18.677",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "11-01-26 05:49:18.678",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "11-01-26 05:49:27.580",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "11-01-26 05:49:37.387",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "11-01-26 05:49:37.387",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "11-01-26 05:49:48.783",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "fully connected",
+      "x": "1377",
+      "y": "11215",
+      "z": "0"
+    },
+    {
+      "timestamp": "11-01-26 05:49:49.811",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "10-01-26 06:49:12.630",
-      "steam_id": "76561199317533255",
-      "username": "Boba",
-      "x": "13597",
-      "y": "1413",
-      "z": "0",
-      "hours_survived": 28,
-      "event_type": "level_up",
-      "skill": "LongBlade",
-      "level": "1"
-    },
     {
       "timestamp": "10-01-26 06:51:34.098",
       "steam_id": "76561199510927772",
@@ -1144,6 +1123,53 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "11-01-26 05:49:49.308",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "x": "1377",
+      "y": "11215",
+      "z": "0",
+      "hours_survived": 62,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 7,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1448,5 +1474,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-11T05:45:01.325028"
+  "timestamp": "2026-01-11T05:50:01.889986"
 }
