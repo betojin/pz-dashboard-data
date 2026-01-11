@@ -1,30 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "11-01-26 08:30:07.470",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 08:30:19.527",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 08:30:19.528",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "11-01-26 08:30:31.482",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "11-01-26 08:30:42.923",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -365,56 +341,36 @@
       "x": "1383",
       "y": "11206",
       "z": "0"
+    },
+    {
+      "timestamp": "11-01-26 17:20:47.715",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "11-01-26 17:20:47.716",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "11-01-26 17:21:05.968",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "11-01-26 17:22:28.537",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "fully connected",
+      "x": "10091",
+      "y": "8236",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "11-01-26 07:04:44.535",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10098",
-      "y": "8259",
-      "z": "0",
-      "hours_survived": 1660,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 5,
-        "Strength": 9,
-        "Blunt": 4,
-        "Axe": 2,
-        "Lightfoot": 2,
-        "Nimble": 4,
-        "Sprinting": 4,
-        "Sneak": 2,
-        "Woodwork": 10,
-        "Aiming": 4,
-        "Reloading": 5,
-        "Farming": 0,
-        "Fishing": 3,
-        "Trapping": 0,
-        "PlantScavenging": 6,
-        "Doctor": 1,
-        "Electricity": 3,
-        "Blacksmith": 0,
-        "MetalWelding": 3,
-        "Mechanics": 2,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 4,
-        "Tracking": 0,
-        "Husbandry": 4,
-        "FlintKnapping": 0,
-        "Masonry": 3,
-        "Pottery": 0,
-        "Carving": 3,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "11-01-26 07:06:59.884",
       "steam_id": "76561198065774641",
@@ -1287,6 +1243,53 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "11-01-26 17:22:29.171",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10091",
+      "y": "8236",
+      "z": "0",
+      "hours_survived": 1692,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 4,
+        "Fitness": 5,
+        "Strength": 9,
+        "Blunt": 4,
+        "Axe": 2,
+        "Lightfoot": 2,
+        "Nimble": 4,
+        "Sprinting": 4,
+        "Sneak": 2,
+        "Woodwork": 10,
+        "Aiming": 4,
+        "Reloading": 5,
+        "Farming": 0,
+        "Fishing": 4,
+        "Trapping": 0,
+        "PlantScavenging": 6,
+        "Doctor": 1,
+        "Electricity": 3,
+        "Blacksmith": 0,
+        "MetalWelding": 3,
+        "Mechanics": 2,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 4,
+        "Tracking": 0,
+        "Husbandry": 4,
+        "FlintKnapping": 0,
+        "Masonry": 3,
+        "Pottery": 2,
+        "Carving": 3,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1591,5 +1594,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-11T17:20:02.076592"
+  "timestamp": "2026-01-11T17:25:01.451333"
 }
