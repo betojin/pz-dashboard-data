@@ -434,7 +434,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 1665,
+      "total_hours": 1677,
       "deaths": 1,
       "skills": {
         "Cooking": 4,
@@ -468,7 +468,7 @@
         "Husbandry": 4,
         "FlintKnapping": 0,
         "Masonry": 3,
-        "Pottery": 0,
+        "Pottery": 1,
         "Carving": 3,
         "Butchering": 3,
         "Glassmaking": 0
@@ -858,6 +858,11 @@
           "skill": "Fishing",
           "level": "4",
           "timestamp": "11-01-26 07:18:28.617"
+        },
+        {
+          "skill": "Pottery",
+          "level": "1",
+          "timestamp": "11-01-26 07:46:32.044"
         }
       ],
       "last_seen": "31-12-25 06:27:44.672",
@@ -5633,14 +5638,14 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 109,
+      "total_hours": 114,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
         "Fitness": 9,
         "Strength": 10,
         "Blunt": 1,
-        "Axe": 3,
+        "Axe": 4,
         "Lightfoot": 0,
         "Nimble": 0,
         "Sprinting": 1,
@@ -5717,9 +5722,14 @@
           "skill": "Maintenance",
           "level": "4",
           "timestamp": "11-01-26 07:37:22.219"
+        },
+        {
+          "skill": "Axe",
+          "level": "4",
+          "timestamp": "11-01-26 07:48:16.373"
         }
       ],
-      "last_seen": "11-01-26 07:37:22.219",
+      "last_seen": "11-01-26 07:48:16.373",
       "connections": 2
     },
     "BetoJinn": {
@@ -5863,5 +5873,5 @@
     }
   },
   "total_players": 46,
-  "timestamp": "2026-01-11T07:45:01.738841"
+  "timestamp": "2026-01-11T07:50:01.131129"
 }
