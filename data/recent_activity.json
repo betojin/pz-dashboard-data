@@ -366,18 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "11-01-26 07:28:51.230",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "2516",
-      "y": "13984",
-      "z": "0",
-      "hours_survived": 119,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "5"
-    },
-    {
       "timestamp": "11-01-26 07:31:42.202",
       "steam_id": "76561199317533255",
       "username": "Bobaa",
@@ -1354,6 +1342,18 @@
       "event_type": "level_up",
       "skill": "Blacksmith",
       "level": "2"
+    },
+    {
+      "timestamp": "11-01-26 18:50:11.135",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10115",
+      "y": "8245",
+      "z": "0",
+      "hours_survived": 1727,
+      "event_type": "level_up",
+      "skill": "Blacksmith",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1658,5 +1658,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-11T18:50:01.834681"
+  "timestamp": "2026-01-11T18:55:01.230024"
 }

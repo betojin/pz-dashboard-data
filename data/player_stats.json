@@ -433,7 +433,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 1726,
+      "total_hours": 1727,
       "deaths": 1,
       "skills": {
         "Cooking": 4,
@@ -454,7 +454,7 @@
         "PlantScavenging": 6,
         "Doctor": 1,
         "Electricity": 3,
-        "Blacksmith": 2,
+        "Blacksmith": 3,
         "MetalWelding": 4,
         "Mechanics": 2,
         "Spear": 0,
@@ -887,6 +887,11 @@
           "skill": "Blacksmith",
           "level": "2",
           "timestamp": "11-01-26 18:48:11.439"
+        },
+        {
+          "skill": "Blacksmith",
+          "level": "3",
+          "timestamp": "11-01-26 18:50:11.135"
         }
       ],
       "last_seen": "31-12-25 06:27:44.672",
@@ -5949,5 +5954,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-11T18:50:01.786570"
+  "timestamp": "2026-01-11T18:55:01.182175"
 }
