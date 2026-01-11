@@ -107,6 +107,54 @@
       "x": "1757",
       "y": "14813",
       "z": "0"
+    },
+    {
+      "timestamp": "11-01-26 08:44:17.501",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "disconnected",
+      "x": "835",
+      "y": "11002",
+      "z": "0"
+    },
+    {
+      "timestamp": "11-01-26 08:44:27.265",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "disconnected",
+      "x": "833",
+      "y": "10934",
+      "z": "0"
+    },
+    {
+      "timestamp": "11-01-26 08:44:50.950",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "11-01-26 08:44:50.950",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "11-01-26 08:44:55.443",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "11-01-26 08:44:55.444",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "11-01-26 08:44:56.993",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -927,5 +975,5 @@
     }
   ],
   "chat_messages": [],
-  "timestamp": "2026-01-11T08:40:02.128348"
+  "timestamp": "2026-01-11T08:45:01.490660"
 }
