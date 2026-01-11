@@ -433,7 +433,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 1727,
+      "total_hours": 1737,
       "deaths": 1,
       "skills": {
         "Cooking": 4,
@@ -464,7 +464,7 @@
         "SmallBlunt": 1,
         "Tailoring": 4,
         "Tracking": 0,
-        "Husbandry": 4,
+        "Husbandry": 5,
         "FlintKnapping": 0,
         "Masonry": 3,
         "Pottery": 3,
@@ -892,6 +892,11 @@
           "skill": "Blacksmith",
           "level": "3",
           "timestamp": "11-01-26 18:50:11.135"
+        },
+        {
+          "skill": "Husbandry",
+          "level": "5",
+          "timestamp": "11-01-26 19:15:50.730"
         }
       ],
       "last_seen": "31-12-25 06:27:44.672",
@@ -5960,5 +5965,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-11T19:15:01.860622"
+  "timestamp": "2026-01-11T19:20:01.187767"
 }
