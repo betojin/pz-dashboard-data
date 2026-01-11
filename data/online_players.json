@@ -1,5 +1,5 @@
 {
-  "count": 1,
+  "count": 3,
   "players": [
     {
       "username": "Sully",
@@ -9,7 +9,25 @@
       "y": 8266,
       "z": 0,
       "online": true
+    },
+    {
+      "username": "exoticbutter",
+      "steam_id": "76561198417595781",
+      "connected_at": "11-01-26 18:27:13.192",
+      "x": 5333,
+      "y": 6063,
+      "z": 0,
+      "online": true
+    },
+    {
+      "username": "Mors Deus",
+      "steam_id": "76561199116672989",
+      "connected_at": "11-01-26 18:29:53.126",
+      "x": 5395,
+      "y": 6056,
+      "z": 0,
+      "online": true
     }
   ],
-  "timestamp": "2026-01-11T18:25:01.793530"
+  "timestamp": "2026-01-11T18:30:01.267918"
 }
