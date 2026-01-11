@@ -366,18 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "10-01-26 06:52:50.196",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "13599",
-      "y": "1389",
-      "z": "0",
-      "hours_survived": 1015,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "6"
-    },
-    {
       "timestamp": "10-01-26 06:56:41.497",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -1208,6 +1196,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "11-01-26 06:03:38.405",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "2587",
+      "y": "10899",
+      "z": "0",
+      "hours_survived": 85,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1512,5 +1512,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-11T06:00:01.677582"
+  "timestamp": "2026-01-11T06:05:02.088438"
 }
