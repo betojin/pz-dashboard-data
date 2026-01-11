@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "10-01-26 09:40:56.186",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1858",
-      "y": "6358",
-      "z": "0",
-      "hours_survived": 49,
-      "event_type": "level_up",
-      "skill": "Blunt",
-      "level": "1"
-    },
-    {
       "timestamp": "10-01-26 09:41:47.830",
       "steam_id": "76561199510927772",
       "username": "ExpiredPork",
@@ -1036,21 +1024,21 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "2"
+    },
+    {
+      "timestamp": "11-01-26 08:10:15.850",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1777",
+      "y": "14799",
+      "z": "0",
+      "hours_survived": 135,
+      "event_type": "level_up",
+      "skill": "SmallBlunt",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "11-01-26 06:31:36.824",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 06:31:36.825",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "11-01-26 06:31:36.994",
       "chat_type": "Local",
@@ -1338,7 +1326,19 @@
       "chat_type": "Local",
       "author": "ExpiredPork",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "11-01-26 08:10:02.181",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "11-01-26 08:10:02.181",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-11T08:10:01.815354"
+  "timestamp": "2026-01-11T08:15:01.205424"
 }
