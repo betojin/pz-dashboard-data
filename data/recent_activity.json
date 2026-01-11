@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "10-01-26 07:16:20.473",
-      "steam_id": "76561198065774641",
-      "username": "BetoJin",
-      "x": "13553",
-      "y": "1279",
-      "z": "0",
-      "hours_survived": 1023,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "4"
-    },
-    {
       "timestamp": "10-01-26 07:34:41.458",
       "steam_id": "76561199317533255",
       "username": "Bobaa",
@@ -1170,69 +1158,21 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "11-01-26 07:06:59.884",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "2889",
+      "y": "12552",
+      "z": "0",
+      "hours_survived": 110,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "3"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "11-01-26 06:09:38.711",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "11-01-26 06:09:38.711",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "11-01-26 06:22:50.433",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 06:22:50.433",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "11-01-26 06:22:50.550",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 06:22:50.550",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 06:22:50.688",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 06:22:50.688",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 06:22:50.836",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "11-01-26 06:22:50.836",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "11-01-26 06:31:35.176",
       "chat_type": "Local",
@@ -1472,7 +1412,67 @@
       "chat_type": "Local",
       "author": "RottenEgg",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "11-01-26 07:08:57.359",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "11-01-26 07:08:57.359",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "11-01-26 07:08:57.512",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "11-01-26 07:08:57.512",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "11-01-26 07:08:57.660",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "11-01-26 07:08:57.660",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "11-01-26 07:08:57.769",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "11-01-26 07:08:57.770",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "11-01-26 07:08:57.929",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "11-01-26 07:08:57.929",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-11T07:05:01.241013"
+  "timestamp": "2026-01-11T07:10:01.693171"
 }

@@ -5700,7 +5700,7 @@
     "BetoJinn": {
       "username": "BetoJinn",
       "steam_id": "76561198065774641",
-      "total_hours": 85,
+      "total_hours": 110,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -5713,7 +5713,7 @@
         "Sprinting": 1,
         "Sneak": 0,
         "Woodwork": 0,
-        "Aiming": 2,
+        "Aiming": 3,
         "Reloading": 4,
         "Farming": 0,
         "Fishing": 0,
@@ -5759,9 +5759,14 @@
           "skill": "Reloading",
           "level": "4",
           "timestamp": "11-01-26 06:03:38.405"
+        },
+        {
+          "skill": "Aiming",
+          "level": "3",
+          "timestamp": "11-01-26 07:06:59.884"
         }
       ],
-      "last_seen": "11-01-26 06:03:38.405",
+      "last_seen": "11-01-26 07:06:59.884",
       "connections": 4
     },
     "ExpiredPork": {
@@ -5818,5 +5823,5 @@
     }
   },
   "total_players": 46,
-  "timestamp": "2026-01-11T07:05:01.186332"
+  "timestamp": "2026-01-11T07:10:01.638141"
 }
