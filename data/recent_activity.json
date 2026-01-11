@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "10-01-26 07:59:27.931",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "6077",
-      "y": "5300",
-      "z": "0",
-      "hours_survived": 8,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "2"
-    },
-    {
       "timestamp": "10-01-26 07:59:34.955",
       "steam_id": "76561199317533255",
       "username": "Bobaa",
@@ -997,6 +985,18 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "5"
+    },
+    {
+      "timestamp": "11-01-26 07:31:42.202",
+      "steam_id": "76561199317533255",
+      "username": "Bobaa",
+      "x": "2478",
+      "y": "13920",
+      "z": "0",
+      "hours_survived": 97,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1301,5 +1301,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-11T07:30:01.464451"
+  "timestamp": "2026-01-11T07:35:01.961251"
 }

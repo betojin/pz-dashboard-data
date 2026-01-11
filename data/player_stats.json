@@ -5571,7 +5571,7 @@
     "Bobaa": {
       "username": "Bobaa",
       "steam_id": "76561199317533255",
-      "total_hours": 57,
+      "total_hours": 97,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -5596,7 +5596,7 @@
         "MetalWelding": 0,
         "Mechanics": 0,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 4,
@@ -5620,9 +5620,14 @@
           "skill": "SmallBlunt",
           "level": "4",
           "timestamp": "10-01-26 10:16:31.516"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "11-01-26 07:31:42.202"
         }
       ],
-      "last_seen": "11-01-26 05:52:11.994",
+      "last_seen": "11-01-26 07:31:42.202",
       "connections": 3
     },
     "RottenEgg": {
@@ -5853,5 +5858,5 @@
     }
   },
   "total_players": 46,
-  "timestamp": "2026-01-11T07:30:01.409419"
+  "timestamp": "2026-01-11T07:35:01.906315"
 }
