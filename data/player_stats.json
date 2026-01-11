@@ -433,7 +433,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 1703,
+      "total_hours": 1724,
       "deaths": 1,
       "skills": {
         "Cooking": 4,
@@ -467,7 +467,7 @@
         "Husbandry": 4,
         "FlintKnapping": 0,
         "Masonry": 3,
-        "Pottery": 2,
+        "Pottery": 3,
         "Carving": 3,
         "Butchering": 3,
         "Glassmaking": 0
@@ -872,6 +872,11 @@
           "skill": "MetalWelding",
           "level": "4",
           "timestamp": "11-01-26 17:49:08.838"
+        },
+        {
+          "skill": "Pottery",
+          "level": "3",
+          "timestamp": "11-01-26 18:42:39.132"
         }
       ],
       "last_seen": "31-12-25 06:27:44.672",
@@ -5934,5 +5939,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-11T18:40:02.028218"
+  "timestamp": "2026-01-11T18:45:01.383741"
 }

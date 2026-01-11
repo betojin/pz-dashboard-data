@@ -366,18 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "11-01-26 07:18:28.617",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10099",
-      "y": "8290",
-      "z": "0",
-      "hours_survived": 1665,
-      "event_type": "level_up",
-      "skill": "Fishing",
-      "level": "4"
-    },
-    {
       "timestamp": "11-01-26 07:25:54.804",
       "steam_id": "76561199510927772",
       "username": "ExpiredPork",
@@ -1354,6 +1342,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "11-01-26 18:42:39.132",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10110",
+      "y": "8266",
+      "z": "0",
+      "hours_survived": 1724,
+      "event_type": "level_up",
+      "skill": "Pottery",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1658,5 +1658,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-11T18:40:02.076747"
+  "timestamp": "2026-01-11T18:45:01.432524"
 }
