@@ -434,7 +434,7 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 1660,
+      "total_hours": 1665,
       "deaths": 1,
       "skills": {
         "Cooking": 4,
@@ -450,7 +450,7 @@
         "Aiming": 4,
         "Reloading": 5,
         "Farming": 0,
-        "Fishing": 3,
+        "Fishing": 4,
         "Trapping": 0,
         "PlantScavenging": 6,
         "Doctor": 1,
@@ -853,6 +853,11 @@
           "skill": "Cooking",
           "level": "4",
           "timestamp": "09-01-26 04:00:03.122"
+        },
+        {
+          "skill": "Fishing",
+          "level": "4",
+          "timestamp": "11-01-26 07:18:28.617"
         }
       ],
       "last_seen": "31-12-25 06:27:44.672",
@@ -5623,14 +5628,14 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 100,
+      "total_hours": 101,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
         "Fitness": 9,
         "Strength": 10,
         "Blunt": 1,
-        "Axe": 2,
+        "Axe": 3,
         "Lightfoot": 0,
         "Nimble": 0,
         "Sprinting": 1,
@@ -5697,9 +5702,14 @@
           "skill": "Electricity",
           "level": "1",
           "timestamp": "11-01-26 07:13:57.000"
+        },
+        {
+          "skill": "Axe",
+          "level": "3",
+          "timestamp": "11-01-26 07:17:07.300"
         }
       ],
-      "last_seen": "11-01-26 07:13:57.000",
+      "last_seen": "11-01-26 07:17:07.300",
       "connections": 2
     },
     "BetoJinn": {
@@ -5828,5 +5838,5 @@
     }
   },
   "total_players": 46,
-  "timestamp": "2026-01-11T07:15:02.061201"
+  "timestamp": "2026-01-11T07:20:01.505782"
 }
