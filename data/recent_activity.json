@@ -372,18 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "11-01-26 07:06:59.884",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "2889",
-      "y": "12552",
-      "z": "0",
-      "hours_survived": 110,
-      "event_type": "level_up",
-      "skill": "Aiming",
-      "level": "3"
-    },
-    {
       "timestamp": "11-01-26 07:13:57.000",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1290,6 +1278,18 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "11-01-26 17:49:08.838",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "11646",
+      "y": "7738",
+      "z": "0",
+      "hours_survived": 1703,
+      "event_type": "level_up",
+      "skill": "MetalWelding",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1594,5 +1594,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-11T17:45:01.145029"
+  "timestamp": "2026-01-11T17:50:01.480537"
 }
