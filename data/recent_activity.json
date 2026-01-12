@@ -372,65 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "11-01-26 17:49:08.838",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "11646",
-      "y": "7738",
-      "z": "0",
-      "hours_survived": 1703,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "4"
-    },
-    {
-      "timestamp": "11-01-26 18:27:14.375",
-      "steam_id": "76561198417595781",
-      "username": "exoticbutter",
-      "x": "5333",
-      "y": "6063",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 9,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 5,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "11-01-26 18:29:53.576",
       "steam_id": "76561199116672989",
       "username": "Mors Deus",
@@ -1039,6 +980,30 @@
       "event_type": "level_up",
       "skill": "Mechanics",
       "level": "3"
+    },
+    {
+      "timestamp": "12-01-26 17:33:22.243",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5717",
+      "y": "5729",
+      "z": "0",
+      "hours_survived": 29,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "2"
+    },
+    {
+      "timestamp": "12-01-26 17:33:26.164",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5717",
+      "y": "5729",
+      "z": "0",
+      "hours_survived": 29,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1343,5 +1308,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-12T17:30:01.427991"
+  "timestamp": "2026-01-12T17:35:02.039669"
 }
