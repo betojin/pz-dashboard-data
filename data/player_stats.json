@@ -5774,7 +5774,7 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 313,
+      "total_hours": 318,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -5796,7 +5796,7 @@
         "Doctor": 2,
         "Electricity": 1,
         "Blacksmith": 0,
-        "MetalWelding": 1,
+        "MetalWelding": 2,
         "Mechanics": 2,
         "Spear": 0,
         "Maintenance": 6,
@@ -5908,9 +5908,14 @@
           "skill": "MetalWelding",
           "level": "1",
           "timestamp": "12-01-26 22:14:55.473"
+        },
+        {
+          "skill": "MetalWelding",
+          "level": "2",
+          "timestamp": "12-01-26 22:26:26.539"
         }
       ],
-      "last_seen": "12-01-26 22:14:55.473",
+      "last_seen": "12-01-26 22:26:26.539",
       "connections": 4
     },
     "BetoJinn": {
@@ -6116,5 +6121,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-12T22:25:01.392638"
+  "timestamp": "2026-01-12T22:30:01.849030"
 }
