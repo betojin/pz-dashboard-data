@@ -372,53 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "12-01-26 20:21:51.104",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5717",
-      "y": "5729",
-      "z": "0",
-      "hours_survived": 44,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 7,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 1,
-        "Sneak": 2,
-        "Woodwork": 3,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 2,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "12-01-26 20:22:42.532",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -800,6 +753,18 @@
       "event_type": "level_up",
       "skill": "Carving",
       "level": "3"
+    },
+    {
+      "timestamp": "12-01-26 23:02:46.914",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1365",
+      "y": "11217",
+      "z": "0",
+      "hours_survived": 332,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1104,5 +1069,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-12T23:00:01.929682"
+  "timestamp": "2026-01-12T23:05:01.427573"
 }
