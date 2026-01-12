@@ -237,212 +237,56 @@
     }
   ],
   "skills": {
-    "Woodwork": [
+    "Masonry": [
       {
-        "username": "BetoJin",
-        "skill": "Woodwork",
+        "username": "RottenPotato",
+        "skill": "Masonry",
         "level": 10
-      },
-      {
-        "username": "admin",
-        "skill": "Woodwork",
-        "level": 10
-      },
-      {
-        "username": "Sully",
-        "skill": "Woodwork",
-        "level": 10
-      },
-      {
-        "username": "half",
-        "skill": "Woodwork",
-        "level": 8
       },
       {
         "username": "Firestorm3050",
-        "skill": "Woodwork",
-        "level": 7
+        "skill": "Masonry",
+        "level": 8
       },
       {
         "username": "Zero",
-        "skill": "Woodwork",
-        "level": 7
-      },
-      {
-        "username": "CaptainLobo",
-        "skill": "Woodwork",
-        "level": 6
-      },
-      {
-        "username": "RottenPotato",
-        "skill": "Woodwork",
-        "level": 6
-      },
-      {
-        "username": "Pabstlite",
-        "skill": "Woodwork",
-        "level": 5
-      },
-      {
-        "username": "Woofie",
-        "skill": "Woodwork",
-        "level": 4
-      }
-    ],
-    "Blacksmith": [
-      {
-        "username": "RottenPotato",
-        "skill": "Blacksmith",
-        "level": 10
-      },
-      {
-        "username": "KeenIslander",
-        "skill": "Blacksmith",
+        "skill": "Masonry",
         "level": 4
       },
       {
         "username": "Sully",
-        "skill": "Blacksmith",
+        "skill": "Masonry",
         "level": 3
       },
       {
-        "username": "BetoJin",
-        "skill": "Blacksmith",
-        "level": 0
+        "username": "Boba",
+        "skill": "Masonry",
+        "level": 2
       },
       {
-        "username": "admin",
-        "skill": "Blacksmith",
-        "level": 0
-      },
-      {
-        "username": "Firestorm3050",
-        "skill": "Blacksmith",
-        "level": 0
-      },
-      {
-        "username": "Molotov Kid",
-        "skill": "Blacksmith",
-        "level": 0
-      },
-      {
-        "username": "CaptainLobo",
-        "skill": "Blacksmith",
-        "level": 0
-      },
-      {
-        "username": "Woofie",
-        "skill": "Blacksmith",
-        "level": 0
-      },
-      {
-        "username": "half",
-        "skill": "Blacksmith",
-        "level": 0
-      }
-    ],
-    "MetalWelding": [
-      {
-        "username": "RottenPotato",
-        "skill": "MetalWelding",
-        "level": 10
-      },
-      {
-        "username": "RottenTomato",
-        "skill": "MetalWelding",
-        "level": 5
-      },
-      {
-        "username": "BetoJin",
-        "skill": "MetalWelding",
-        "level": 4
-      },
-      {
-        "username": "Sully",
-        "skill": "MetalWelding",
-        "level": 4
-      },
-      {
-        "username": "admin",
-        "skill": "MetalWelding",
-        "level": 0
-      },
-      {
-        "username": "Firestorm3050",
-        "skill": "MetalWelding",
-        "level": 0
-      },
-      {
-        "username": "Molotov Kid",
-        "skill": "MetalWelding",
-        "level": 0
-      },
-      {
-        "username": "CaptainLobo",
-        "skill": "MetalWelding",
-        "level": 0
-      },
-      {
-        "username": "Woofie",
-        "skill": "MetalWelding",
-        "level": 0
-      },
-      {
-        "username": "half",
-        "skill": "MetalWelding",
-        "level": 0
-      }
-    ],
-    "Maintenance": [
-      {
-        "username": "RottenTomato",
-        "skill": "Maintenance",
-        "level": 8
-      },
-      {
-        "username": "BetoJin",
-        "skill": "Maintenance",
-        "level": 6
-      },
-      {
-        "username": "Firestorm3050",
-        "skill": "Maintenance",
-        "level": 6
-      },
-      {
-        "username": "RottenPotato",
-        "skill": "Maintenance",
-        "level": 5
-      },
-      {
-        "username": "Zero",
-        "skill": "Maintenance",
-        "level": 5
-      },
-      {
-        "username": "Sully",
-        "skill": "Maintenance",
-        "level": 4
-      },
-      {
-        "username": "half",
-        "skill": "Maintenance",
-        "level": 4
+        "username": "GameItOut",
+        "skill": "Masonry",
+        "level": 2
       },
       {
         "username": "RinkRoller",
-        "skill": "Maintenance",
-        "level": 4
+        "skill": "Masonry",
+        "level": 2
       },
       {
-        "username": "RottenEgg",
-        "skill": "Maintenance",
-        "level": 4
+        "username": "Bobaa",
+        "skill": "Masonry",
+        "level": 2
       },
       {
-        "username": "CaptainLobo",
-        "skill": "Maintenance",
-        "level": 3
+        "username": "half",
+        "skill": "Masonry",
+        "level": 1
+      },
+      {
+        "username": "Pabstlite",
+        "skill": "Masonry",
+        "level": 1
       }
     ],
     "Doctor": [
@@ -497,108 +341,160 @@
         "level": 1
       }
     ],
-    "FlintKnapping": [
-      {
-        "username": "Firestorm3050",
-        "skill": "FlintKnapping",
-        "level": 3
-      },
-      {
-        "username": "Woofie",
-        "skill": "FlintKnapping",
-        "level": 3
-      },
-      {
-        "username": "Zero",
-        "skill": "FlintKnapping",
-        "level": 2
-      },
-      {
-        "username": "Pabstlite",
-        "skill": "FlintKnapping",
-        "level": 1
-      },
-      {
-        "username": "Charlie",
-        "skill": "FlintKnapping",
-        "level": 1
-      },
-      {
-        "username": "BetoJin",
-        "skill": "FlintKnapping",
-        "level": 0
-      },
-      {
-        "username": "admin",
-        "skill": "FlintKnapping",
-        "level": 0
-      },
-      {
-        "username": "Sully",
-        "skill": "FlintKnapping",
-        "level": 0
-      },
+    "Aiming": [
       {
         "username": "Molotov Kid",
-        "skill": "FlintKnapping",
-        "level": 0
-      },
-      {
-        "username": "CaptainLobo",
-        "skill": "FlintKnapping",
-        "level": 0
-      }
-    ],
-    "Reloading": [
-      {
-        "username": "Sully",
-        "skill": "Reloading",
-        "level": 5
-      },
-      {
-        "username": "Molotov Kid",
-        "skill": "Reloading",
+        "skill": "Aiming",
         "level": 5
       },
       {
         "username": "lefons",
-        "skill": "Reloading",
+        "skill": "Aiming",
         "level": 5
       },
       {
-        "username": "BetoJinn",
-        "skill": "Reloading",
-        "level": 5
-      },
-      {
-        "username": "Firestorm3050",
-        "skill": "Reloading",
+        "username": "Sully",
+        "skill": "Aiming",
         "level": 4
       },
       {
         "username": "CaptainLobo",
-        "skill": "Reloading",
+        "skill": "Aiming",
+        "level": 4
+      },
+      {
+        "username": "BetoJinn",
+        "skill": "Aiming",
         "level": 4
       },
       {
         "username": "BetoJin",
-        "skill": "Reloading",
-        "level": 3
-      },
-      {
-        "username": "KeenIslander",
-        "skill": "Reloading",
-        "level": 3
+        "skill": "Aiming",
+        "level": 2
       },
       {
         "username": "TwoHorndUnicorn",
-        "skill": "Reloading",
+        "skill": "Aiming",
+        "level": 2
+      },
+      {
+        "username": "KeenIslander",
+        "skill": "Aiming",
         "level": 2
       },
       {
         "username": "Woofie",
-        "skill": "Reloading",
+        "skill": "Aiming",
         "level": 1
+      },
+      {
+        "username": "exoticbutter",
+        "skill": "Aiming",
+        "level": 1
+      }
+    ],
+    "Fishing": [
+      {
+        "username": "Firestorm3050",
+        "skill": "Fishing",
+        "level": 5
+      },
+      {
+        "username": "Sully",
+        "skill": "Fishing",
+        "level": 4
+      },
+      {
+        "username": "CaptainLobo",
+        "skill": "Fishing",
+        "level": 3
+      },
+      {
+        "username": "RottenPotato",
+        "skill": "Fishing",
+        "level": 2
+      },
+      {
+        "username": "RinkRoller",
+        "skill": "Fishing",
+        "level": 1
+      },
+      {
+        "username": "Tooth",
+        "skill": "Fishing",
+        "level": 1
+      },
+      {
+        "username": "BetoJin",
+        "skill": "Fishing",
+        "level": 0
+      },
+      {
+        "username": "admin",
+        "skill": "Fishing",
+        "level": 0
+      },
+      {
+        "username": "Molotov Kid",
+        "skill": "Fishing",
+        "level": 0
+      },
+      {
+        "username": "Woofie",
+        "skill": "Fishing",
+        "level": 0
+      }
+    ],
+    "Cooking": [
+      {
+        "username": "RottenPotato",
+        "skill": "Cooking",
+        "level": 7
+      },
+      {
+        "username": "Firestorm3050",
+        "skill": "Cooking",
+        "level": 6
+      },
+      {
+        "username": "BetoJin",
+        "skill": "Cooking",
+        "level": 4
+      },
+      {
+        "username": "Sully",
+        "skill": "Cooking",
+        "level": 4
+      },
+      {
+        "username": "Zero",
+        "skill": "Cooking",
+        "level": 4
+      },
+      {
+        "username": "RottenTomato",
+        "skill": "Cooking",
+        "level": 4
+      },
+      {
+        "username": "CaptainLobo",
+        "skill": "Cooking",
+        "level": 3
+      },
+      {
+        "username": "admin",
+        "skill": "Cooking",
+        "level": 2
+      },
+      {
+        "username": "Kersene",
+        "skill": "Cooking",
+        "level": 2
+      },
+      {
+        "username": "Kirkinator",
+        "skill": "Cooking",
+        "level": 2
       }
     ],
     "Sprinting": [
@@ -653,107 +549,159 @@
         "level": 2
       }
     ],
-    "Masonry": [
+    "SmallBlunt": [
       {
-        "username": "RottenPotato",
-        "skill": "Masonry",
-        "level": 10
+        "username": "Boba",
+        "skill": "SmallBlunt",
+        "level": 5
       },
       {
         "username": "Firestorm3050",
-        "skill": "Masonry",
-        "level": 8
-      },
-      {
-        "username": "Zero",
-        "skill": "Masonry",
+        "skill": "SmallBlunt",
         "level": 4
       },
       {
-        "username": "Sully",
-        "skill": "Masonry",
-        "level": 3
+        "username": "MarySueGangster",
+        "skill": "SmallBlunt",
+        "level": 4
       },
       {
-        "username": "Boba",
-        "skill": "Masonry",
-        "level": 2
+        "username": "Bobaa",
+        "skill": "SmallBlunt",
+        "level": 4
       },
       {
         "username": "GameItOut",
-        "skill": "Masonry",
+        "skill": "SmallBlunt",
+        "level": 3
+      },
+      {
+        "username": "exoticbutter",
+        "skill": "SmallBlunt",
+        "level": 2
+      },
+      {
+        "username": "Pabstlite",
+        "skill": "SmallBlunt",
         "level": 2
       },
       {
         "username": "RinkRoller",
-        "skill": "Masonry",
+        "skill": "SmallBlunt",
         "level": 2
-      },
-      {
-        "username": "Bobaa",
-        "skill": "Masonry",
-        "level": 2
-      },
-      {
-        "username": "half",
-        "skill": "Masonry",
-        "level": 1
-      },
-      {
-        "username": "Pabstlite",
-        "skill": "Masonry",
-        "level": 1
-      }
-    ],
-    "Mechanics": [
-      {
-        "username": "RottenTomato",
-        "skill": "Mechanics",
-        "level": 6
-      },
-      {
-        "username": "BetoJin",
-        "skill": "Mechanics",
-        "level": 3
       },
       {
         "username": "Sully",
-        "skill": "Mechanics",
+        "skill": "SmallBlunt",
+        "level": 1
+      },
+      {
+        "username": "Molotov Kid",
+        "skill": "SmallBlunt",
+        "level": 1
+      }
+    ],
+    "Blacksmith": [
+      {
+        "username": "RottenPotato",
+        "skill": "Blacksmith",
+        "level": 10
+      },
+      {
+        "username": "KeenIslander",
+        "skill": "Blacksmith",
+        "level": 4
+      },
+      {
+        "username": "Sully",
+        "skill": "Blacksmith",
         "level": 3
+      },
+      {
+        "username": "BetoJin",
+        "skill": "Blacksmith",
+        "level": 0
+      },
+      {
+        "username": "admin",
+        "skill": "Blacksmith",
+        "level": 0
+      },
+      {
+        "username": "Firestorm3050",
+        "skill": "Blacksmith",
+        "level": 0
+      },
+      {
+        "username": "Molotov Kid",
+        "skill": "Blacksmith",
+        "level": 0
       },
       {
         "username": "CaptainLobo",
-        "skill": "Mechanics",
-        "level": 3
+        "skill": "Blacksmith",
+        "level": 0
       },
       {
-        "username": "MarySueGangster",
-        "skill": "Mechanics",
-        "level": 3
+        "username": "Woofie",
+        "skill": "Blacksmith",
+        "level": 0
       },
+      {
+        "username": "half",
+        "skill": "Blacksmith",
+        "level": 0
+      }
+    ],
+    "Butchering": [
       {
         "username": "RottenPotato",
-        "skill": "Mechanics",
-        "level": 3
+        "skill": "Butchering",
+        "level": 5
       },
       {
-        "username": "fishbait",
-        "skill": "Mechanics",
+        "username": "BetoJin",
+        "skill": "Butchering",
+        "level": 4
+      },
+      {
+        "username": "Sully",
+        "skill": "Butchering",
         "level": 3
       },
       {
         "username": "Firestorm3050",
-        "skill": "Mechanics",
-        "level": 2
+        "skill": "Butchering",
+        "level": 3
       },
       {
-        "username": "half",
-        "skill": "Mechanics",
+        "username": "Zero",
+        "skill": "Butchering",
+        "level": 3
+      },
+      {
+        "username": "RottenTomato",
+        "skill": "Butchering",
+        "level": 3
+      },
+      {
+        "username": "Molotov Kid",
+        "skill": "Butchering",
         "level": 1
       },
       {
-        "username": "Kessel",
-        "skill": "Mechanics",
+        "username": "exoticbutter",
+        "skill": "Butchering",
+        "level": 1
+      },
+      {
+        "username": "Boba",
+        "skill": "Butchering",
+        "level": 1
+      },
+      {
+        "username": "Kersene",
+        "skill": "Butchering",
         "level": 1
       }
     ],
@@ -861,211 +809,159 @@
         "level": 0
       }
     ],
-    "Spear": [
-      {
-        "username": "Firestorm3050",
-        "skill": "Spear",
-        "level": 1
-      },
-      {
-        "username": "BetoJin",
-        "skill": "Spear",
-        "level": 0
-      },
-      {
-        "username": "admin",
-        "skill": "Spear",
-        "level": 0
-      },
+    "Sneak": [
       {
         "username": "Sully",
-        "skill": "Spear",
-        "level": 0
-      },
-      {
-        "username": "Molotov Kid",
-        "skill": "Spear",
-        "level": 0
+        "skill": "Sneak",
+        "level": 2
       },
       {
         "username": "CaptainLobo",
-        "skill": "Spear",
-        "level": 0
-      },
-      {
-        "username": "Woofie",
-        "skill": "Spear",
-        "level": 0
-      },
-      {
-        "username": "half",
-        "skill": "Spear",
-        "level": 0
-      },
-      {
-        "username": "Kessel",
-        "skill": "Spear",
-        "level": 0
-      },
-      {
-        "username": "buttersshoes",
-        "skill": "Spear",
-        "level": 0
-      }
-    ],
-    "SmallBlade": [
-      {
-        "username": "Lourex",
-        "skill": "SmallBlade",
+        "skill": "Sneak",
         "level": 2
       },
       {
-        "username": "admin",
-        "skill": "SmallBlade",
-        "level": 1
+        "username": "Jacko",
+        "skill": "Sneak",
+        "level": 2
       },
       {
-        "username": "Sully",
-        "skill": "SmallBlade",
-        "level": 1
+        "username": "ExpiredMayo",
+        "skill": "Sneak",
+        "level": 2
+      },
+      {
+        "username": "Kersene",
+        "skill": "Sneak",
+        "level": 2
+      },
+      {
+        "username": "Alexbg6000",
+        "skill": "Sneak",
+        "level": 2
+      },
+      {
+        "username": "ExpiredPork",
+        "skill": "Sneak",
+        "level": 2
       },
       {
         "username": "Molotov Kid",
-        "skill": "SmallBlade",
+        "skill": "Sneak",
         "level": 1
       },
       {
-        "username": "exoticbutter",
-        "skill": "SmallBlade",
-        "level": 1
-      },
-      {
-        "username": "squibby",
-        "skill": "SmallBlade",
-        "level": 1
-      },
-      {
-        "username": "Kirkinator",
-        "skill": "SmallBlade",
-        "level": 1
-      },
-      {
-        "username": "Tooth",
-        "skill": "SmallBlade",
+        "username": "Lourex",
+        "skill": "Sneak",
         "level": 1
       },
       {
         "username": "BetoJin",
-        "skill": "SmallBlade",
-        "level": 0
-      },
-      {
-        "username": "Firestorm3050",
-        "skill": "SmallBlade",
+        "skill": "Sneak",
         "level": 0
       }
     ],
-    "Husbandry": [
-      {
-        "username": "Sully",
-        "skill": "Husbandry",
-        "level": 5
-      },
-      {
-        "username": "Firestorm3050",
-        "skill": "Husbandry",
-        "level": 3
-      },
-      {
-        "username": "Woofie",
-        "skill": "Husbandry",
-        "level": 3
-      },
-      {
-        "username": "Zero",
-        "skill": "Husbandry",
-        "level": 3
-      },
-      {
-        "username": "BetoJin",
-        "skill": "Husbandry",
-        "level": 2
-      },
+    "MetalWelding": [
       {
         "username": "RottenPotato",
-        "skill": "Husbandry",
-        "level": 2
+        "skill": "MetalWelding",
+        "level": 10
       },
       {
         "username": "RottenTomato",
-        "skill": "Husbandry",
-        "level": 1
-      },
-      {
-        "username": "admin",
-        "skill": "Husbandry",
-        "level": 0
-      },
-      {
-        "username": "Molotov Kid",
-        "skill": "Husbandry",
-        "level": 0
-      },
-      {
-        "username": "CaptainLobo",
-        "skill": "Husbandry",
-        "level": 0
-      }
-    ],
-    "Butchering": [
-      {
-        "username": "RottenPotato",
-        "skill": "Butchering",
+        "skill": "MetalWelding",
         "level": 5
       },
       {
         "username": "BetoJin",
-        "skill": "Butchering",
+        "skill": "MetalWelding",
         "level": 4
       },
       {
         "username": "Sully",
-        "skill": "Butchering",
-        "level": 3
+        "skill": "MetalWelding",
+        "level": 4
+      },
+      {
+        "username": "admin",
+        "skill": "MetalWelding",
+        "level": 0
       },
       {
         "username": "Firestorm3050",
-        "skill": "Butchering",
-        "level": 3
-      },
-      {
-        "username": "Zero",
-        "skill": "Butchering",
-        "level": 3
-      },
-      {
-        "username": "RottenTomato",
-        "skill": "Butchering",
-        "level": 3
+        "skill": "MetalWelding",
+        "level": 0
       },
       {
         "username": "Molotov Kid",
-        "skill": "Butchering",
-        "level": 1
+        "skill": "MetalWelding",
+        "level": 0
+      },
+      {
+        "username": "CaptainLobo",
+        "skill": "MetalWelding",
+        "level": 0
+      },
+      {
+        "username": "Woofie",
+        "skill": "MetalWelding",
+        "level": 0
+      },
+      {
+        "username": "half",
+        "skill": "MetalWelding",
+        "level": 0
+      }
+    ],
+    "Carving": [
+      {
+        "username": "RottenPotato",
+        "skill": "Carving",
+        "level": 10
+      },
+      {
+        "username": "Firestorm3050",
+        "skill": "Carving",
+        "level": 7
+      },
+      {
+        "username": "Zero",
+        "skill": "Carving",
+        "level": 7
+      },
+      {
+        "username": "Sully",
+        "skill": "Carving",
+        "level": 3
+      },
+      {
+        "username": "Woofie",
+        "skill": "Carving",
+        "level": 3
       },
       {
         "username": "exoticbutter",
-        "skill": "Butchering",
-        "level": 1
+        "skill": "Carving",
+        "level": 2
       },
       {
-        "username": "Boba",
-        "skill": "Butchering",
-        "level": 1
+        "username": "Pabstlite",
+        "skill": "Carving",
+        "level": 2
       },
       {
-        "username": "Kersene",
-        "skill": "Butchering",
+        "username": "GameItOut",
+        "skill": "Carving",
+        "level": 2
+      },
+      {
+        "username": "RinkRoller",
+        "skill": "Carving",
+        "level": 2
+      },
+      {
+        "username": "half",
+        "skill": "Carving",
         "level": 1
       }
     ],
@@ -1121,110 +1017,6 @@
         "level": 1
       }
     ],
-    "Carving": [
-      {
-        "username": "RottenPotato",
-        "skill": "Carving",
-        "level": 10
-      },
-      {
-        "username": "Firestorm3050",
-        "skill": "Carving",
-        "level": 7
-      },
-      {
-        "username": "Zero",
-        "skill": "Carving",
-        "level": 7
-      },
-      {
-        "username": "Sully",
-        "skill": "Carving",
-        "level": 3
-      },
-      {
-        "username": "Woofie",
-        "skill": "Carving",
-        "level": 3
-      },
-      {
-        "username": "exoticbutter",
-        "skill": "Carving",
-        "level": 2
-      },
-      {
-        "username": "Pabstlite",
-        "skill": "Carving",
-        "level": 2
-      },
-      {
-        "username": "GameItOut",
-        "skill": "Carving",
-        "level": 2
-      },
-      {
-        "username": "RinkRoller",
-        "skill": "Carving",
-        "level": 2
-      },
-      {
-        "username": "half",
-        "skill": "Carving",
-        "level": 1
-      }
-    ],
-    "Fitness": [
-      {
-        "username": "BetoJin",
-        "skill": "Fitness",
-        "level": 10
-      },
-      {
-        "username": "Firestorm3050",
-        "skill": "Fitness",
-        "level": 10
-      },
-      {
-        "username": "Danford",
-        "skill": "Fitness",
-        "level": 10
-      },
-      {
-        "username": "Sharkey",
-        "skill": "Fitness",
-        "level": 10
-      },
-      {
-        "username": "Woofie",
-        "skill": "Fitness",
-        "level": 9
-      },
-      {
-        "username": "exoticbutter",
-        "skill": "Fitness",
-        "level": 9
-      },
-      {
-        "username": "RottenTomato",
-        "skill": "Fitness",
-        "level": 9
-      },
-      {
-        "username": "Carl",
-        "skill": "Fitness",
-        "level": 9
-      },
-      {
-        "username": "Tooth",
-        "skill": "Fitness",
-        "level": 9
-      },
-      {
-        "username": "Tiger King",
-        "skill": "Fitness",
-        "level": 9
-      }
-    ],
     "Farming": [
       {
         "username": "Firestorm3050",
@@ -1274,110 +1066,6 @@
       {
         "username": "Kessel",
         "skill": "Farming",
-        "level": 0
-      }
-    ],
-    "Lightfoot": [
-      {
-        "username": "Sully",
-        "skill": "Lightfoot",
-        "level": 2
-      },
-      {
-        "username": "CaptainLobo",
-        "skill": "Lightfoot",
-        "level": 2
-      },
-      {
-        "username": "Jacko",
-        "skill": "Lightfoot",
-        "level": 2
-      },
-      {
-        "username": "ExpiredMayo",
-        "skill": "Lightfoot",
-        "level": 2
-      },
-      {
-        "username": "Kersene",
-        "skill": "Lightfoot",
-        "level": 2
-      },
-      {
-        "username": "Alexbg6000",
-        "skill": "Lightfoot",
-        "level": 2
-      },
-      {
-        "username": "ExpiredPork",
-        "skill": "Lightfoot",
-        "level": 2
-      },
-      {
-        "username": "Woofie",
-        "skill": "Lightfoot",
-        "level": 1
-      },
-      {
-        "username": "Kessel",
-        "skill": "Lightfoot",
-        "level": 1
-      },
-      {
-        "username": "buttersshoes",
-        "skill": "Lightfoot",
-        "level": 1
-      }
-    ],
-    "Trapping": [
-      {
-        "username": "CaptainLobo",
-        "skill": "Trapping",
-        "level": 3
-      },
-      {
-        "username": "Firestorm3050",
-        "skill": "Trapping",
-        "level": 2
-      },
-      {
-        "username": "Woofie",
-        "skill": "Trapping",
-        "level": 2
-      },
-      {
-        "username": "buttersshoes",
-        "skill": "Trapping",
-        "level": 2
-      },
-      {
-        "username": "BetoJin",
-        "skill": "Trapping",
-        "level": 1
-      },
-      {
-        "username": "Molotov Kid",
-        "skill": "Trapping",
-        "level": 1
-      },
-      {
-        "username": "half",
-        "skill": "Trapping",
-        "level": 1
-      },
-      {
-        "username": "Lourex",
-        "skill": "Trapping",
-        "level": 1
-      },
-      {
-        "username": "admin",
-        "skill": "Trapping",
-        "level": 0
-      },
-      {
-        "username": "Sully",
-        "skill": "Trapping",
         "level": 0
       }
     ],
@@ -1433,56 +1121,108 @@
         "level": 0
       }
     ],
-    "Cooking": [
-      {
-        "username": "RottenPotato",
-        "skill": "Cooking",
-        "level": 7
-      },
-      {
-        "username": "Firestorm3050",
-        "skill": "Cooking",
-        "level": 6
-      },
-      {
-        "username": "BetoJin",
-        "skill": "Cooking",
-        "level": 4
-      },
-      {
-        "username": "Sully",
-        "skill": "Cooking",
-        "level": 4
-      },
-      {
-        "username": "Zero",
-        "skill": "Cooking",
-        "level": 4
-      },
-      {
-        "username": "RottenTomato",
-        "skill": "Cooking",
-        "level": 4
-      },
+    "Trapping": [
       {
         "username": "CaptainLobo",
-        "skill": "Cooking",
+        "skill": "Trapping",
         "level": 3
       },
       {
+        "username": "Firestorm3050",
+        "skill": "Trapping",
+        "level": 2
+      },
+      {
+        "username": "Woofie",
+        "skill": "Trapping",
+        "level": 2
+      },
+      {
+        "username": "buttersshoes",
+        "skill": "Trapping",
+        "level": 2
+      },
+      {
+        "username": "BetoJin",
+        "skill": "Trapping",
+        "level": 1
+      },
+      {
+        "username": "Molotov Kid",
+        "skill": "Trapping",
+        "level": 1
+      },
+      {
+        "username": "half",
+        "skill": "Trapping",
+        "level": 1
+      },
+      {
+        "username": "Lourex",
+        "skill": "Trapping",
+        "level": 1
+      },
+      {
         "username": "admin",
-        "skill": "Cooking",
+        "skill": "Trapping",
+        "level": 0
+      },
+      {
+        "username": "Sully",
+        "skill": "Trapping",
+        "level": 0
+      }
+    ],
+    "Lightfoot": [
+      {
+        "username": "Sully",
+        "skill": "Lightfoot",
+        "level": 2
+      },
+      {
+        "username": "CaptainLobo",
+        "skill": "Lightfoot",
+        "level": 2
+      },
+      {
+        "username": "Jacko",
+        "skill": "Lightfoot",
+        "level": 2
+      },
+      {
+        "username": "ExpiredMayo",
+        "skill": "Lightfoot",
         "level": 2
       },
       {
         "username": "Kersene",
-        "skill": "Cooking",
+        "skill": "Lightfoot",
         "level": 2
       },
       {
-        "username": "Kirkinator",
-        "skill": "Cooking",
+        "username": "Alexbg6000",
+        "skill": "Lightfoot",
         "level": 2
+      },
+      {
+        "username": "ExpiredPork",
+        "skill": "Lightfoot",
+        "level": 2
+      },
+      {
+        "username": "Woofie",
+        "skill": "Lightfoot",
+        "level": 1
+      },
+      {
+        "username": "Kessel",
+        "skill": "Lightfoot",
+        "level": 1
+      },
+      {
+        "username": "buttersshoes",
+        "skill": "Lightfoot",
+        "level": 1
       }
     ],
     "Tailoring": [
@@ -1537,159 +1277,367 @@
         "level": 0
       }
     ],
-    "Electricity": [
-      {
-        "username": "BetoJin",
-        "skill": "Electricity",
-        "level": 3
-      },
-      {
-        "username": "Sully",
-        "skill": "Electricity",
-        "level": 3
-      },
+    "Spear": [
       {
         "username": "Firestorm3050",
-        "skill": "Electricity",
-        "level": 3
-      },
-      {
-        "username": "RottenPotato",
-        "skill": "Electricity",
-        "level": 2
-      },
-      {
-        "username": "Zero",
-        "skill": "Electricity",
-        "level": 2
-      },
-      {
-        "username": "RottenTomato",
-        "skill": "Electricity",
-        "level": 2
-      },
-      {
-        "username": "CaptainLobo",
-        "skill": "Electricity",
+        "skill": "Spear",
         "level": 1
-      },
-      {
-        "username": "half",
-        "skill": "Electricity",
-        "level": 1
-      },
-      {
-        "username": "Omar",
-        "skill": "Electricity",
-        "level": 1
-      },
-      {
-        "username": "squibby",
-        "skill": "Electricity",
-        "level": 1
-      }
-    ],
-    "SmallBlunt": [
-      {
-        "username": "Boba",
-        "skill": "SmallBlunt",
-        "level": 5
-      },
-      {
-        "username": "Firestorm3050",
-        "skill": "SmallBlunt",
-        "level": 4
-      },
-      {
-        "username": "MarySueGangster",
-        "skill": "SmallBlunt",
-        "level": 4
-      },
-      {
-        "username": "Bobaa",
-        "skill": "SmallBlunt",
-        "level": 4
-      },
-      {
-        "username": "GameItOut",
-        "skill": "SmallBlunt",
-        "level": 3
-      },
-      {
-        "username": "exoticbutter",
-        "skill": "SmallBlunt",
-        "level": 2
-      },
-      {
-        "username": "Pabstlite",
-        "skill": "SmallBlunt",
-        "level": 2
-      },
-      {
-        "username": "RinkRoller",
-        "skill": "SmallBlunt",
-        "level": 2
-      },
-      {
-        "username": "Sully",
-        "skill": "SmallBlunt",
-        "level": 1
-      },
-      {
-        "username": "Molotov Kid",
-        "skill": "SmallBlunt",
-        "level": 1
-      }
-    ],
-    "Glassmaking": [
-      {
-        "username": "RottenPotato",
-        "skill": "Glassmaking",
-        "level": 10
       },
       {
         "username": "BetoJin",
-        "skill": "Glassmaking",
+        "skill": "Spear",
         "level": 0
       },
       {
         "username": "admin",
-        "skill": "Glassmaking",
+        "skill": "Spear",
         "level": 0
       },
       {
         "username": "Sully",
-        "skill": "Glassmaking",
-        "level": 0
-      },
-      {
-        "username": "Firestorm3050",
-        "skill": "Glassmaking",
+        "skill": "Spear",
         "level": 0
       },
       {
         "username": "Molotov Kid",
-        "skill": "Glassmaking",
+        "skill": "Spear",
         "level": 0
       },
       {
         "username": "CaptainLobo",
-        "skill": "Glassmaking",
+        "skill": "Spear",
         "level": 0
       },
       {
         "username": "Woofie",
-        "skill": "Glassmaking",
+        "skill": "Spear",
         "level": 0
       },
       {
         "username": "half",
-        "skill": "Glassmaking",
+        "skill": "Spear",
         "level": 0
       },
       {
         "username": "Kessel",
-        "skill": "Glassmaking",
+        "skill": "Spear",
+        "level": 0
+      },
+      {
+        "username": "buttersshoes",
+        "skill": "Spear",
+        "level": 0
+      }
+    ],
+    "Pottery": [
+      {
+        "username": "RottenPotato",
+        "skill": "Pottery",
+        "level": 8
+      },
+      {
+        "username": "Sully",
+        "skill": "Pottery",
+        "level": 3
+      },
+      {
+        "username": "BetoJin",
+        "skill": "Pottery",
+        "level": 0
+      },
+      {
+        "username": "admin",
+        "skill": "Pottery",
+        "level": 0
+      },
+      {
+        "username": "Firestorm3050",
+        "skill": "Pottery",
+        "level": 0
+      },
+      {
+        "username": "Molotov Kid",
+        "skill": "Pottery",
+        "level": 0
+      },
+      {
+        "username": "CaptainLobo",
+        "skill": "Pottery",
+        "level": 0
+      },
+      {
+        "username": "Woofie",
+        "skill": "Pottery",
+        "level": 0
+      },
+      {
+        "username": "half",
+        "skill": "Pottery",
+        "level": 0
+      },
+      {
+        "username": "Kessel",
+        "skill": "Pottery",
+        "level": 0
+      }
+    ],
+    "Husbandry": [
+      {
+        "username": "Sully",
+        "skill": "Husbandry",
+        "level": 5
+      },
+      {
+        "username": "Firestorm3050",
+        "skill": "Husbandry",
+        "level": 3
+      },
+      {
+        "username": "Woofie",
+        "skill": "Husbandry",
+        "level": 3
+      },
+      {
+        "username": "Zero",
+        "skill": "Husbandry",
+        "level": 3
+      },
+      {
+        "username": "BetoJin",
+        "skill": "Husbandry",
+        "level": 2
+      },
+      {
+        "username": "RottenPotato",
+        "skill": "Husbandry",
+        "level": 2
+      },
+      {
+        "username": "RottenTomato",
+        "skill": "Husbandry",
+        "level": 1
+      },
+      {
+        "username": "admin",
+        "skill": "Husbandry",
+        "level": 0
+      },
+      {
+        "username": "Molotov Kid",
+        "skill": "Husbandry",
+        "level": 0
+      },
+      {
+        "username": "CaptainLobo",
+        "skill": "Husbandry",
+        "level": 0
+      }
+    ],
+    "Reloading": [
+      {
+        "username": "Sully",
+        "skill": "Reloading",
+        "level": 5
+      },
+      {
+        "username": "Molotov Kid",
+        "skill": "Reloading",
+        "level": 5
+      },
+      {
+        "username": "lefons",
+        "skill": "Reloading",
+        "level": 5
+      },
+      {
+        "username": "BetoJinn",
+        "skill": "Reloading",
+        "level": 5
+      },
+      {
+        "username": "Firestorm3050",
+        "skill": "Reloading",
+        "level": 4
+      },
+      {
+        "username": "CaptainLobo",
+        "skill": "Reloading",
+        "level": 4
+      },
+      {
+        "username": "BetoJin",
+        "skill": "Reloading",
+        "level": 3
+      },
+      {
+        "username": "KeenIslander",
+        "skill": "Reloading",
+        "level": 3
+      },
+      {
+        "username": "TwoHorndUnicorn",
+        "skill": "Reloading",
+        "level": 2
+      },
+      {
+        "username": "Woofie",
+        "skill": "Reloading",
+        "level": 1
+      }
+    ],
+    "PlantScavenging": [
+      {
+        "username": "Woofie",
+        "skill": "PlantScavenging",
+        "level": 8
+      },
+      {
+        "username": "Sully",
+        "skill": "PlantScavenging",
+        "level": 6
+      },
+      {
+        "username": "Firestorm3050",
+        "skill": "PlantScavenging",
+        "level": 6
+      },
+      {
+        "username": "Zero",
+        "skill": "PlantScavenging",
+        "level": 6
+      },
+      {
+        "username": "buttersshoes",
+        "skill": "PlantScavenging",
+        "level": 5
+      },
+      {
+        "username": "Charlie",
+        "skill": "PlantScavenging",
+        "level": 4
+      },
+      {
+        "username": "CaptainLobo",
+        "skill": "PlantScavenging",
+        "level": 2
+      },
+      {
+        "username": "Pabstlite",
+        "skill": "PlantScavenging",
+        "level": 2
+      },
+      {
+        "username": "Tooth",
+        "skill": "PlantScavenging",
+        "level": 2
+      },
+      {
+        "username": "half",
+        "skill": "PlantScavenging",
+        "level": 1
+      }
+    ],
+    "Nimble": [
+      {
+        "username": "Sully",
+        "skill": "Nimble",
+        "level": 4
+      },
+      {
+        "username": "CaptainLobo",
+        "skill": "Nimble",
+        "level": 3
+      },
+      {
+        "username": "Boba",
+        "skill": "Nimble",
+        "level": 3
+      },
+      {
+        "username": "Woofie",
+        "skill": "Nimble",
+        "level": 2
+      },
+      {
+        "username": "Jacko",
+        "skill": "Nimble",
+        "level": 2
+      },
+      {
+        "username": "ExpiredMayo",
+        "skill": "Nimble",
+        "level": 2
+      },
+      {
+        "username": "Kersene",
+        "skill": "Nimble",
+        "level": 2
+      },
+      {
+        "username": "Alexbg6000",
+        "skill": "Nimble",
+        "level": 2
+      },
+      {
+        "username": "ExpiredPork",
+        "skill": "Nimble",
+        "level": 2
+      },
+      {
+        "username": "BetoJin",
+        "skill": "Nimble",
+        "level": 1
+      }
+    ],
+    "SmallBlade": [
+      {
+        "username": "Lourex",
+        "skill": "SmallBlade",
+        "level": 2
+      },
+      {
+        "username": "admin",
+        "skill": "SmallBlade",
+        "level": 1
+      },
+      {
+        "username": "Sully",
+        "skill": "SmallBlade",
+        "level": 1
+      },
+      {
+        "username": "Molotov Kid",
+        "skill": "SmallBlade",
+        "level": 1
+      },
+      {
+        "username": "exoticbutter",
+        "skill": "SmallBlade",
+        "level": 1
+      },
+      {
+        "username": "squibby",
+        "skill": "SmallBlade",
+        "level": 1
+      },
+      {
+        "username": "Kirkinator",
+        "skill": "SmallBlade",
+        "level": 1
+      },
+      {
+        "username": "Tooth",
+        "skill": "SmallBlade",
+        "level": 1
+      },
+      {
+        "username": "BetoJin",
+        "skill": "SmallBlade",
+        "level": 0
+      },
+      {
+        "username": "Firestorm3050",
+        "skill": "SmallBlade",
         "level": 0
       }
     ],
@@ -1745,318 +1693,370 @@
         "level": 9
       }
     ],
-    "Nimble": [
+    "Maintenance": [
+      {
+        "username": "RottenTomato",
+        "skill": "Maintenance",
+        "level": 8
+      },
+      {
+        "username": "BetoJin",
+        "skill": "Maintenance",
+        "level": 6
+      },
+      {
+        "username": "Firestorm3050",
+        "skill": "Maintenance",
+        "level": 6
+      },
+      {
+        "username": "RottenPotato",
+        "skill": "Maintenance",
+        "level": 5
+      },
+      {
+        "username": "Zero",
+        "skill": "Maintenance",
+        "level": 5
+      },
       {
         "username": "Sully",
-        "skill": "Nimble",
+        "skill": "Maintenance",
+        "level": 4
+      },
+      {
+        "username": "half",
+        "skill": "Maintenance",
+        "level": 4
+      },
+      {
+        "username": "RinkRoller",
+        "skill": "Maintenance",
+        "level": 4
+      },
+      {
+        "username": "RottenEgg",
+        "skill": "Maintenance",
         "level": 4
       },
       {
         "username": "CaptainLobo",
-        "skill": "Nimble",
+        "skill": "Maintenance",
         "level": 3
-      },
-      {
-        "username": "Boba",
-        "skill": "Nimble",
-        "level": 3
-      },
-      {
-        "username": "Woofie",
-        "skill": "Nimble",
-        "level": 2
-      },
-      {
-        "username": "Jacko",
-        "skill": "Nimble",
-        "level": 2
-      },
-      {
-        "username": "ExpiredMayo",
-        "skill": "Nimble",
-        "level": 2
-      },
-      {
-        "username": "Kersene",
-        "skill": "Nimble",
-        "level": 2
-      },
-      {
-        "username": "Alexbg6000",
-        "skill": "Nimble",
-        "level": 2
-      },
-      {
-        "username": "ExpiredPork",
-        "skill": "Nimble",
-        "level": 2
-      },
-      {
-        "username": "BetoJin",
-        "skill": "Nimble",
-        "level": 1
       }
     ],
-    "Pottery": [
+    "Glassmaking": [
       {
         "username": "RottenPotato",
-        "skill": "Pottery",
-        "level": 8
-      },
-      {
-        "username": "Sully",
-        "skill": "Pottery",
-        "level": 3
+        "skill": "Glassmaking",
+        "level": 10
       },
       {
         "username": "BetoJin",
-        "skill": "Pottery",
+        "skill": "Glassmaking",
         "level": 0
       },
       {
         "username": "admin",
-        "skill": "Pottery",
+        "skill": "Glassmaking",
+        "level": 0
+      },
+      {
+        "username": "Sully",
+        "skill": "Glassmaking",
         "level": 0
       },
       {
         "username": "Firestorm3050",
-        "skill": "Pottery",
+        "skill": "Glassmaking",
         "level": 0
       },
       {
         "username": "Molotov Kid",
-        "skill": "Pottery",
+        "skill": "Glassmaking",
         "level": 0
       },
       {
         "username": "CaptainLobo",
-        "skill": "Pottery",
+        "skill": "Glassmaking",
         "level": 0
       },
       {
         "username": "Woofie",
-        "skill": "Pottery",
+        "skill": "Glassmaking",
         "level": 0
       },
       {
         "username": "half",
-        "skill": "Pottery",
+        "skill": "Glassmaking",
         "level": 0
       },
       {
         "username": "Kessel",
-        "skill": "Pottery",
+        "skill": "Glassmaking",
         "level": 0
       }
     ],
-    "PlantScavenging": [
+    "Mechanics": [
       {
-        "username": "Woofie",
-        "skill": "PlantScavenging",
-        "level": 8
-      },
-      {
-        "username": "Sully",
-        "skill": "PlantScavenging",
+        "username": "RottenTomato",
+        "skill": "Mechanics",
         "level": 6
-      },
-      {
-        "username": "Firestorm3050",
-        "skill": "PlantScavenging",
-        "level": 6
-      },
-      {
-        "username": "Zero",
-        "skill": "PlantScavenging",
-        "level": 6
-      },
-      {
-        "username": "buttersshoes",
-        "skill": "PlantScavenging",
-        "level": 5
-      },
-      {
-        "username": "Charlie",
-        "skill": "PlantScavenging",
-        "level": 4
-      },
-      {
-        "username": "CaptainLobo",
-        "skill": "PlantScavenging",
-        "level": 2
-      },
-      {
-        "username": "Pabstlite",
-        "skill": "PlantScavenging",
-        "level": 2
-      },
-      {
-        "username": "Tooth",
-        "skill": "PlantScavenging",
-        "level": 2
-      },
-      {
-        "username": "half",
-        "skill": "PlantScavenging",
-        "level": 1
-      }
-    ],
-    "Sneak": [
-      {
-        "username": "Sully",
-        "skill": "Sneak",
-        "level": 2
-      },
-      {
-        "username": "CaptainLobo",
-        "skill": "Sneak",
-        "level": 2
-      },
-      {
-        "username": "Jacko",
-        "skill": "Sneak",
-        "level": 2
-      },
-      {
-        "username": "ExpiredMayo",
-        "skill": "Sneak",
-        "level": 2
-      },
-      {
-        "username": "Kersene",
-        "skill": "Sneak",
-        "level": 2
-      },
-      {
-        "username": "Alexbg6000",
-        "skill": "Sneak",
-        "level": 2
-      },
-      {
-        "username": "ExpiredPork",
-        "skill": "Sneak",
-        "level": 2
-      },
-      {
-        "username": "Molotov Kid",
-        "skill": "Sneak",
-        "level": 1
-      },
-      {
-        "username": "Lourex",
-        "skill": "Sneak",
-        "level": 1
       },
       {
         "username": "BetoJin",
-        "skill": "Sneak",
-        "level": 0
-      }
-    ],
-    "Aiming": [
-      {
-        "username": "Molotov Kid",
-        "skill": "Aiming",
-        "level": 5
-      },
-      {
-        "username": "lefons",
-        "skill": "Aiming",
-        "level": 5
+        "skill": "Mechanics",
+        "level": 3
       },
       {
         "username": "Sully",
-        "skill": "Aiming",
-        "level": 4
+        "skill": "Mechanics",
+        "level": 3
       },
       {
         "username": "CaptainLobo",
-        "skill": "Aiming",
-        "level": 4
+        "skill": "Mechanics",
+        "level": 3
       },
       {
-        "username": "BetoJinn",
-        "skill": "Aiming",
-        "level": 4
-      },
-      {
-        "username": "BetoJin",
-        "skill": "Aiming",
-        "level": 2
-      },
-      {
-        "username": "TwoHorndUnicorn",
-        "skill": "Aiming",
-        "level": 2
-      },
-      {
-        "username": "KeenIslander",
-        "skill": "Aiming",
-        "level": 2
-      },
-      {
-        "username": "Woofie",
-        "skill": "Aiming",
-        "level": 1
-      },
-      {
-        "username": "exoticbutter",
-        "skill": "Aiming",
-        "level": 1
-      }
-    ],
-    "Fishing": [
-      {
-        "username": "Firestorm3050",
-        "skill": "Fishing",
-        "level": 5
-      },
-      {
-        "username": "Sully",
-        "skill": "Fishing",
-        "level": 4
-      },
-      {
-        "username": "CaptainLobo",
-        "skill": "Fishing",
+        "username": "MarySueGangster",
+        "skill": "Mechanics",
         "level": 3
       },
       {
         "username": "RottenPotato",
-        "skill": "Fishing",
+        "skill": "Mechanics",
+        "level": 3
+      },
+      {
+        "username": "fishbait",
+        "skill": "Mechanics",
+        "level": 3
+      },
+      {
+        "username": "Firestorm3050",
+        "skill": "Mechanics",
         "level": 2
       },
       {
-        "username": "RinkRoller",
-        "skill": "Fishing",
+        "username": "half",
+        "skill": "Mechanics",
         "level": 1
       },
       {
-        "username": "Tooth",
-        "skill": "Fishing",
+        "username": "Kessel",
+        "skill": "Mechanics",
+        "level": 1
+      }
+    ],
+    "Woodwork": [
+      {
+        "username": "BetoJin",
+        "skill": "Woodwork",
+        "level": 10
+      },
+      {
+        "username": "admin",
+        "skill": "Woodwork",
+        "level": 10
+      },
+      {
+        "username": "Sully",
+        "skill": "Woodwork",
+        "level": 10
+      },
+      {
+        "username": "half",
+        "skill": "Woodwork",
+        "level": 8
+      },
+      {
+        "username": "Firestorm3050",
+        "skill": "Woodwork",
+        "level": 7
+      },
+      {
+        "username": "Zero",
+        "skill": "Woodwork",
+        "level": 7
+      },
+      {
+        "username": "CaptainLobo",
+        "skill": "Woodwork",
+        "level": 6
+      },
+      {
+        "username": "RottenPotato",
+        "skill": "Woodwork",
+        "level": 6
+      },
+      {
+        "username": "Pabstlite",
+        "skill": "Woodwork",
+        "level": 5
+      },
+      {
+        "username": "Woofie",
+        "skill": "Woodwork",
+        "level": 4
+      }
+    ],
+    "Electricity": [
+      {
+        "username": "BetoJin",
+        "skill": "Electricity",
+        "level": 3
+      },
+      {
+        "username": "Sully",
+        "skill": "Electricity",
+        "level": 3
+      },
+      {
+        "username": "Firestorm3050",
+        "skill": "Electricity",
+        "level": 3
+      },
+      {
+        "username": "RottenPotato",
+        "skill": "Electricity",
+        "level": 2
+      },
+      {
+        "username": "Zero",
+        "skill": "Electricity",
+        "level": 2
+      },
+      {
+        "username": "RottenTomato",
+        "skill": "Electricity",
+        "level": 2
+      },
+      {
+        "username": "CaptainLobo",
+        "skill": "Electricity",
+        "level": 1
+      },
+      {
+        "username": "half",
+        "skill": "Electricity",
+        "level": 1
+      },
+      {
+        "username": "Omar",
+        "skill": "Electricity",
+        "level": 1
+      },
+      {
+        "username": "squibby",
+        "skill": "Electricity",
+        "level": 1
+      }
+    ],
+    "FlintKnapping": [
+      {
+        "username": "Firestorm3050",
+        "skill": "FlintKnapping",
+        "level": 3
+      },
+      {
+        "username": "Woofie",
+        "skill": "FlintKnapping",
+        "level": 3
+      },
+      {
+        "username": "Zero",
+        "skill": "FlintKnapping",
+        "level": 2
+      },
+      {
+        "username": "Pabstlite",
+        "skill": "FlintKnapping",
+        "level": 1
+      },
+      {
+        "username": "Charlie",
+        "skill": "FlintKnapping",
         "level": 1
       },
       {
         "username": "BetoJin",
-        "skill": "Fishing",
+        "skill": "FlintKnapping",
         "level": 0
       },
       {
         "username": "admin",
-        "skill": "Fishing",
+        "skill": "FlintKnapping",
+        "level": 0
+      },
+      {
+        "username": "Sully",
+        "skill": "FlintKnapping",
         "level": 0
       },
       {
         "username": "Molotov Kid",
-        "skill": "Fishing",
+        "skill": "FlintKnapping",
         "level": 0
       },
       {
-        "username": "Woofie",
-        "skill": "Fishing",
+        "username": "CaptainLobo",
+        "skill": "FlintKnapping",
         "level": 0
+      }
+    ],
+    "Fitness": [
+      {
+        "username": "BetoJin",
+        "skill": "Fitness",
+        "level": 10
+      },
+      {
+        "username": "Firestorm3050",
+        "skill": "Fitness",
+        "level": 10
+      },
+      {
+        "username": "Danford",
+        "skill": "Fitness",
+        "level": 10
+      },
+      {
+        "username": "Sharkey",
+        "skill": "Fitness",
+        "level": 10
+      },
+      {
+        "username": "Woofie",
+        "skill": "Fitness",
+        "level": 9
+      },
+      {
+        "username": "exoticbutter",
+        "skill": "Fitness",
+        "level": 9
+      },
+      {
+        "username": "RottenTomato",
+        "skill": "Fitness",
+        "level": 9
+      },
+      {
+        "username": "Carl",
+        "skill": "Fitness",
+        "level": 9
+      },
+      {
+        "username": "Tooth",
+        "skill": "Fitness",
+        "level": 9
+      },
+      {
+        "username": "Tiger King",
+        "skill": "Fitness",
+        "level": 9
       }
     ]
   },
-  "timestamp": "2026-01-12T02:00:01.145709"
+  "timestamp": "2026-01-12T02:05:01.499948"
 }
