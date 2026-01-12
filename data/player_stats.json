@@ -5683,7 +5683,7 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 185,
+      "total_hours": 187,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -5702,7 +5702,7 @@
         "Fishing": 0,
         "Trapping": 0,
         "PlantScavenging": 0,
-        "Doctor": 1,
+        "Doctor": 2,
         "Electricity": 1,
         "Blacksmith": 0,
         "MetalWelding": 0,
@@ -5777,9 +5777,14 @@
           "skill": "Mechanics",
           "level": "2",
           "timestamp": "12-01-26 07:56:42.146"
+        },
+        {
+          "skill": "Doctor",
+          "level": "2",
+          "timestamp": "12-01-26 08:03:16.574"
         }
       ],
-      "last_seen": "12-01-26 07:56:42.146",
+      "last_seen": "12-01-26 08:03:16.574",
       "connections": 3
     },
     "BetoJinn": {
@@ -5985,5 +5990,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-12T08:00:01.846466"
+  "timestamp": "2026-01-12T08:05:01.282497"
 }
