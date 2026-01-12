@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "12-01-26 03:50:02.331",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "12-01-26 03:50:33.303",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -365,103 +359,18 @@
       "x": "5719",
       "y": "5728",
       "z": "-1"
+    },
+    {
+      "timestamp": "12-01-26 22:50:40.504",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "5718",
+      "y": "5725",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "12-01-26 19:50:34.820",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5716",
-      "y": "5730",
-      "z": "0",
-      "hours_survived": 32,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 7,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 1,
-        "Sneak": 2,
-        "Woodwork": 3,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 1,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "12-01-26 19:54:15.360",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1377",
-      "y": "11208",
-      "z": "0",
-      "hours_survived": 257,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 1,
-        "Axe": 4,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 2,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 0,
-        "Maintenance": 6,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "12-01-26 20:01:21.829",
       "steam_id": "76561198044597580",
@@ -867,6 +776,30 @@
       "event_type": "level_up",
       "skill": "Masonry",
       "level": "7"
+    },
+    {
+      "timestamp": "12-01-26 22:50:42.702",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1360",
+      "y": "11221",
+      "z": "0",
+      "hours_survived": 327,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "1"
+    },
+    {
+      "timestamp": "12-01-26 22:53:02.581",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1360",
+      "y": "11221",
+      "z": "0",
+      "hours_survived": 328,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1171,5 +1104,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-12T22:50:01.897294"
+  "timestamp": "2026-01-12T22:55:01.500186"
 }
