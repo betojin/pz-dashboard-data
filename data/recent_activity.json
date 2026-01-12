@@ -369,65 +369,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "12-01-26 09:38:26.370",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "5550",
-      "y": "12473",
-      "z": "-13",
-      "hours_survived": 225,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "6"
-    },
-    {
-      "timestamp": "12-01-26 15:39:33.210",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "432",
-      "y": "10006",
-      "z": "0",
-      "hours_survived": 10,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 7,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 1,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 1,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 1,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "12-01-26 16:09:47.919",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -931,6 +872,30 @@
       "event_type": "level_up",
       "skill": "Tailoring",
       "level": "4"
+    },
+    {
+      "timestamp": "12-01-26 22:20:39.256",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5717",
+      "y": "5722",
+      "z": "0",
+      "hours_survived": 91,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "5"
+    },
+    {
+      "timestamp": "12-01-26 22:21:50.745",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5717",
+      "y": "5722",
+      "z": "0",
+      "hours_survived": 91,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "6"
     }
   ],
   "chat_messages": [
@@ -1235,5 +1200,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-12T22:20:01.453174"
+  "timestamp": "2026-01-12T22:25:01.444339"
 }
