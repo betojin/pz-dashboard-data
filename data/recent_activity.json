@@ -372,18 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "11-01-26 18:48:11.439",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10115",
-      "y": "8245",
-      "z": "0",
-      "hours_survived": 1726,
-      "event_type": "level_up",
-      "skill": "Blacksmith",
-      "level": "2"
-    },
-    {
       "timestamp": "11-01-26 18:50:11.135",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1039,6 +1027,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "12-01-26 20:01:21.829",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5717",
+      "y": "5729",
+      "z": "0",
+      "hours_survived": 36,
+      "event_type": "level_up",
+      "skill": "Fishing",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1343,5 +1343,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-12T20:00:01.554629"
+  "timestamp": "2026-01-12T20:05:02.049931"
 }
