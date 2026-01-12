@@ -1,63 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "11-01-26 09:01:04.529",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "11-01-26 09:01:11.238",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 09:01:11.238",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "11-01-26 09:01:11.422",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 09:01:23.268",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "fully connected",
-      "x": "405",
-      "y": "9881",
-      "z": "0"
-    },
-    {
-      "timestamp": "11-01-26 09:01:25.317",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 09:01:27.042",
-      "steam_id": "76561199317533255",
-      "username": "Bobaa",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "11-01-26 09:01:27.043",
-      "steam_id": "76561199317533255",
-      "username": "Bobaa",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "11-01-26 09:01:38.186",
-      "steam_id": "76561199317533255",
-      "username": "Bobaa",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "11-01-26 09:01:57.651",
       "steam_id": "76561199317533255",
       "username": "Bobaa",
@@ -362,68 +305,72 @@
       "x": "10087",
       "y": "8263",
       "z": "1"
+    },
+    {
+      "timestamp": "12-01-26 06:56:10.518",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "12-01-26 06:56:10.518",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "12-01-26 06:56:24.121",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "12-01-26 06:56:58.925",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "fully connected",
+      "x": "1382",
+      "y": "11204",
+      "z": "0"
+    },
+    {
+      "timestamp": "12-01-26 06:57:18.999",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "disconnected",
+      "x": "1382",
+      "y": "11204",
+      "z": "0"
+    },
+    {
+      "timestamp": "12-01-26 06:58:47.415",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "12-01-26 06:58:47.416",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "12-01-26 06:58:57.417",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "12-01-26 06:59:16.966",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "fully connected",
+      "x": "1382",
+      "y": "11204",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "11-01-26 08:10:15.850",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1777",
-      "y": "14799",
-      "z": "0",
-      "hours_survived": 135,
-      "event_type": "level_up",
-      "skill": "SmallBlunt",
-      "level": "1"
-    },
-    {
-      "timestamp": "11-01-26 08:21:54.598",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1756",
-      "y": "14816",
-      "z": "0",
-      "hours_survived": 126,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 1,
-        "Axe": 4,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "11-01-26 08:29:55.659",
       "steam_id": "76561199317533255",
@@ -1389,6 +1336,100 @@
       "event_type": "level_up",
       "skill": "Axe",
       "level": "3"
+    },
+    {
+      "timestamp": "12-01-26 06:57:00.345",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1382",
+      "y": "11204",
+      "z": "0",
+      "hours_survived": 162,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 1,
+        "Axe": 4,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "12-01-26 06:59:18.235",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1382",
+      "y": "11204",
+      "z": "0",
+      "hours_survived": 162,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 1,
+        "Axe": 4,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 4,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1693,5 +1734,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-12T06:55:01.211265"
+  "timestamp": "2026-01-12T07:00:01.582678"
 }
