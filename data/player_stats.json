@@ -1866,6 +1866,11 @@
           "skill": "Trapping",
           "level": "2",
           "timestamp": "12-01-26 22:39:18.795"
+        },
+        {
+          "skill": "Trapping",
+          "level": "3",
+          "timestamp": "12-01-26 22:41:04.495"
         }
       ],
       "last_seen": "29-12-25 18:54:21.447",
@@ -5784,7 +5789,7 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 318,
+      "total_hours": 325,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -5817,7 +5822,7 @@
         "Tracking": 0,
         "Husbandry": 0,
         "FlintKnapping": 0,
-        "Masonry": 1,
+        "Masonry": 5,
         "Pottery": 0,
         "Carving": 0,
         "Butchering": 0,
@@ -5923,9 +5928,29 @@
           "skill": "MetalWelding",
           "level": "2",
           "timestamp": "12-01-26 22:26:26.539"
+        },
+        {
+          "skill": "Masonry",
+          "level": "2",
+          "timestamp": "12-01-26 22:40:27.397"
+        },
+        {
+          "skill": "Masonry",
+          "level": "3",
+          "timestamp": "12-01-26 22:41:31.496"
+        },
+        {
+          "skill": "Masonry",
+          "level": "4",
+          "timestamp": "12-01-26 22:42:26.416"
+        },
+        {
+          "skill": "Masonry",
+          "level": "5",
+          "timestamp": "12-01-26 22:43:52.007"
         }
       ],
-      "last_seen": "12-01-26 22:26:26.539",
+      "last_seen": "12-01-26 22:43:52.007",
       "connections": 4
     },
     "BetoJinn": {
@@ -6131,5 +6156,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-12T22:40:01.161607"
+  "timestamp": "2026-01-12T22:45:01.237894"
 }
