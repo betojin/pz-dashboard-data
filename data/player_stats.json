@@ -5683,7 +5683,7 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 217,
+      "total_hours": 225,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -5708,7 +5708,7 @@
         "MetalWelding": 0,
         "Mechanics": 2,
         "Spear": 0,
-        "Maintenance": 5,
+        "Maintenance": 6,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -5792,9 +5792,14 @@
           "skill": "Maintenance",
           "level": "5",
           "timestamp": "12-01-26 09:18:55.920"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "6",
+          "timestamp": "12-01-26 09:38:26.370"
         }
       ],
-      "last_seen": "12-01-26 09:18:55.920",
+      "last_seen": "12-01-26 09:38:26.370",
       "connections": 3
     },
     "BetoJinn": {
@@ -6000,5 +6005,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-12T09:35:01.374978"
+  "timestamp": "2026-01-12T09:40:01.836800"
 }
