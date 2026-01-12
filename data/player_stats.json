@@ -1491,7 +1491,7 @@
       "deaths": 6,
       "skills": {
         "Cooking": 3,
-        "Fitness": 7,
+        "Fitness": 4,
         "Strength": 7,
         "Blunt": 2,
         "Axe": 3,
@@ -1519,10 +1519,10 @@
         "Tailoring": 6,
         "Tracking": 0,
         "Husbandry": 0,
-        "FlintKnapping": 0,
+        "FlintKnapping": 1,
         "Masonry": 0,
         "Pottery": 0,
-        "Carving": 0,
+        "Carving": 1,
         "Butchering": 0,
         "Glassmaking": 0
       },
@@ -1768,7 +1768,8 @@
           "timestamp": "05-01-26 18:02:25.701"
         }
       ],
-      "last_seen": "29-12-25 18:54:21.447"
+      "last_seen": "29-12-25 18:54:21.447",
+      "connections": 1
     },
     "Woofie": {
       "username": "Woofie",
@@ -6005,5 +6006,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-12T15:35:01.634258"
+  "timestamp": "2026-01-12T15:40:01.112358"
 }
