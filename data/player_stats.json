@@ -5789,7 +5789,7 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 328,
+      "total_hours": 330,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -5824,7 +5824,7 @@
         "FlintKnapping": 0,
         "Masonry": 7,
         "Pottery": 0,
-        "Carving": 2,
+        "Carving": 3,
         "Butchering": 0,
         "Glassmaking": 0
       },
@@ -5968,9 +5968,14 @@
           "skill": "Carving",
           "level": "2",
           "timestamp": "12-01-26 22:53:02.581"
+        },
+        {
+          "skill": "Carving",
+          "level": "3",
+          "timestamp": "12-01-26 22:58:29.002"
         }
       ],
-      "last_seen": "12-01-26 22:53:02.581",
+      "last_seen": "12-01-26 22:58:29.002",
       "connections": 4
     },
     "BetoJinn": {
@@ -6176,5 +6181,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-12T22:55:01.448031"
+  "timestamp": "2026-01-12T23:00:01.877162"
 }

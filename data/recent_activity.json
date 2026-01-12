@@ -372,18 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "12-01-26 20:01:21.829",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5717",
-      "y": "5729",
-      "z": "0",
-      "hours_survived": 36,
-      "event_type": "level_up",
-      "skill": "Fishing",
-      "level": "2"
-    },
-    {
       "timestamp": "12-01-26 20:21:51.104",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -800,6 +788,18 @@
       "event_type": "level_up",
       "skill": "Carving",
       "level": "2"
+    },
+    {
+      "timestamp": "12-01-26 22:58:29.002",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1360",
+      "y": "11221",
+      "z": "0",
+      "hours_survived": 330,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1104,5 +1104,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-12T22:55:01.500186"
+  "timestamp": "2026-01-12T23:00:01.929682"
 }
