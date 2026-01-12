@@ -372,30 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "12-01-26 04:38:21.424",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10080",
-      "y": "8056",
-      "z": "0",
-      "hours_survived": 1778,
-      "event_type": "level_up",
-      "skill": "Mechanics",
-      "level": "4"
-    },
-    {
-      "timestamp": "12-01-26 05:19:27.428",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10620",
-      "y": "9455",
-      "z": "0",
-      "hours_survived": 1794,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "3"
-    },
-    {
       "timestamp": "12-01-26 06:57:00.345",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -969,6 +945,30 @@
       "event_type": "level_up",
       "skill": "Cooking",
       "level": "1"
+    },
+    {
+      "timestamp": "12-01-26 21:55:07.639",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5592",
+      "y": "5617",
+      "z": "0",
+      "hours_survived": 81,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "1"
+    },
+    {
+      "timestamp": "12-01-26 21:56:31.913",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5612",
+      "y": "5685",
+      "z": "0",
+      "hours_survived": 82,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1273,5 +1273,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-12T21:55:01.164477"
+  "timestamp": "2026-01-12T22:00:01.599534"
 }
