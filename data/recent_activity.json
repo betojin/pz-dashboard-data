@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "11-01-26 08:09:06.964",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1773",
-      "y": "14785",
-      "z": "0",
-      "hours_survived": 134,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "2"
-    },
-    {
       "timestamp": "11-01-26 08:10:15.850",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -1386,6 +1374,18 @@
       "event_type": "level_up",
       "skill": "Mechanics",
       "level": "4"
+    },
+    {
+      "timestamp": "12-01-26 05:19:27.428",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10620",
+      "y": "9455",
+      "z": "0",
+      "hours_survived": 1794,
+      "event_type": "level_up",
+      "skill": "Axe",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1690,5 +1690,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-12T05:15:01.314895"
+  "timestamp": "2026-01-12T05:20:01.746656"
 }
