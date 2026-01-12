@@ -1522,7 +1522,7 @@
         "FlintKnapping": 0,
         "Masonry": 1,
         "Pottery": 0,
-        "Carving": 1,
+        "Carving": 2,
         "Butchering": 0,
         "Glassmaking": 0
       },
@@ -1801,10 +1801,20 @@
           "skill": "Fishing",
           "level": "2",
           "timestamp": "12-01-26 20:01:21.829"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "12-01-26 20:22:42.532"
+        },
+        {
+          "skill": "Carving",
+          "level": "2",
+          "timestamp": "12-01-26 20:23:50.850"
         }
       ],
       "last_seen": "29-12-25 18:54:21.447",
-      "connections": 4
+      "connections": 5
     },
     "Woofie": {
       "username": "Woofie",
@@ -6041,5 +6051,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-12T20:20:01.504936"
+  "timestamp": "2026-01-12T20:25:01.914932"
 }
