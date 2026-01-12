@@ -369,54 +369,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "12-01-26 07:56:42.146",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "5474",
-      "y": "9566",
-      "z": "0",
-      "hours_survived": 185,
-      "event_type": "level_up",
-      "skill": "Mechanics",
-      "level": "2"
-    },
-    {
-      "timestamp": "12-01-26 08:03:16.574",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "5470",
-      "y": "9526",
-      "z": "0",
-      "hours_survived": 187,
-      "event_type": "level_up",
-      "skill": "Doctor",
-      "level": "2"
-    },
-    {
-      "timestamp": "12-01-26 08:20:20.595",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "5476",
-      "y": "9684",
-      "z": "0",
-      "hours_survived": 194,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "2"
-    },
-    {
-      "timestamp": "12-01-26 09:18:55.920",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "5547",
-      "y": "12469",
-      "z": "-13",
-      "hours_survived": 217,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "5"
-    },
-    {
       "timestamp": "12-01-26 09:38:26.370",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -931,6 +883,54 @@
       "event_type": "level_up",
       "skill": "MetalWelding",
       "level": "1"
+    },
+    {
+      "timestamp": "12-01-26 22:17:50.563",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5718",
+      "y": "5722",
+      "z": "0",
+      "hours_survived": 89,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "1"
+    },
+    {
+      "timestamp": "12-01-26 22:17:56.560",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5718",
+      "y": "5722",
+      "z": "0",
+      "hours_survived": 89,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "2"
+    },
+    {
+      "timestamp": "12-01-26 22:18:31.460",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5721",
+      "y": "5724",
+      "z": "0",
+      "hours_survived": 90,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "3"
+    },
+    {
+      "timestamp": "12-01-26 22:19:10.943",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5721",
+      "y": "5724",
+      "z": "0",
+      "hours_survived": 90,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1235,5 +1235,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-12T22:15:01.969683"
+  "timestamp": "2026-01-12T22:20:01.453174"
 }
