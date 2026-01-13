@@ -334,7 +334,7 @@
     "admin": {
       "username": "admin",
       "steam_id": "76561198065774641",
-      "total_hours": 127,
+      "total_hours": 129,
       "deaths": 0,
       "skills": {
         "Cooking": 2,
@@ -426,9 +426,9 @@
         }
       ],
       "last_seen": "30-12-25 08:03:20.509",
-      "connections": 4,
+      "connections": 5,
       "role_id": 7,
-      "last_connection_db": "2026-01-13 03:55:19"
+      "last_connection_db": "2026-01-13 04:09:49"
     },
     "Sully": {
       "username": "Sully",
@@ -6002,7 +6002,7 @@
     "BetoJinn": {
       "username": "BetoJinn",
       "steam_id": "76561198065774641",
-      "total_hours": 184,
+      "total_hours": 187,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -6012,7 +6012,7 @@
         "Axe": 0,
         "Lightfoot": 0,
         "Nimble": 0,
-        "Sprinting": 1,
+        "Sprinting": 2,
         "Sneak": 0,
         "Woodwork": 0,
         "Aiming": 4,
@@ -6086,9 +6086,14 @@
           "skill": "SmallBlunt",
           "level": "1",
           "timestamp": "11-01-26 08:10:15.850"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "2",
+          "timestamp": "13-01-26 04:06:01.056"
         }
       ],
-      "last_seen": "13-01-26 04:00:17.748",
+      "last_seen": "13-01-26 04:06:01.056",
       "connections": 8
     },
     "ExpiredPork": {
@@ -6202,5 +6207,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-13T04:05:01.341014"
+  "timestamp": "2026-01-13T04:10:01.910484"
 }
