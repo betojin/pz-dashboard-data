@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "12-01-26 22:12:53.966",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "fully connected",
-      "x": "5719",
-      "y": "5728",
-      "z": "-1"
-    },
-    {
-      "timestamp": "12-01-26 22:50:40.504",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "disconnected",
-      "x": "5718",
-      "y": "5725",
-      "z": "0"
-    },
-    {
-      "timestamp": "12-01-26 23:32:36.198",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "disconnected",
-      "x": "1362",
-      "y": "11214",
-      "z": "0"
-    },
-    {
       "timestamp": "13-01-26 00:58:54.873",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -359,33 +332,36 @@
       "x": "10057",
       "y": "8237",
       "z": "0"
+    },
+    {
+      "timestamp": "13-01-26 03:52:07.730",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "disconnected",
+      "x": "10085",
+      "y": "8263",
+      "z": "1"
+    },
+    {
+      "timestamp": "13-01-26 03:52:10.192",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "fully connected",
+      "x": "10086",
+      "y": "8265",
+      "z": "0"
+    },
+    {
+      "timestamp": "13-01-26 03:54:56.144",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "disconnected",
+      "x": "1382",
+      "y": "11226",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "12-01-26 22:19:10.943",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5721",
-      "y": "5724",
-      "z": "0",
-      "hours_survived": 90,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "4"
-    },
-    {
-      "timestamp": "12-01-26 22:20:39.256",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5717",
-      "y": "5722",
-      "z": "0",
-      "hours_survived": 91,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "5"
-    },
     {
       "timestamp": "12-01-26 22:21:50.745",
       "steam_id": "76561198044597580",
@@ -1071,6 +1047,63 @@
         "Butchering": 3,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "13-01-26 03:51:40.150",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10085",
+      "y": "8263",
+      "z": "1",
+      "hours_survived": 1877,
+      "event_type": "died"
+    },
+    {
+      "timestamp": "13-01-26 03:52:10.336",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10086",
+      "y": "8265",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 9,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1375,5 +1408,5 @@
       "text": "YO"
     }
   ],
-  "timestamp": "2026-01-13T03:50:01.511043"
+  "timestamp": "2026-01-13T03:55:01.925985"
 }
