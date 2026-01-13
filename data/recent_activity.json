@@ -369,42 +369,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "12-01-26 22:48:07.694",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1365",
-      "y": "11217",
-      "z": "0",
-      "hours_survived": 326,
-      "event_type": "level_up",
-      "skill": "Masonry",
-      "level": "7"
-    },
-    {
-      "timestamp": "12-01-26 22:50:42.702",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1360",
-      "y": "11221",
-      "z": "0",
-      "hours_survived": 327,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "1"
-    },
-    {
-      "timestamp": "12-01-26 22:53:02.581",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1360",
-      "y": "11221",
-      "z": "0",
-      "hours_survived": 328,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "2"
-    },
-    {
       "timestamp": "12-01-26 22:58:29.002",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1320,6 +1284,42 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "3"
+    },
+    {
+      "timestamp": "13-01-26 05:31:31.014",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1407",
+      "y": "11199",
+      "z": "0",
+      "hours_survived": 380,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "4"
+    },
+    {
+      "timestamp": "13-01-26 05:31:46.077",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1391",
+      "y": "11189",
+      "z": "0",
+      "hours_survived": 217,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "3"
+    },
+    {
+      "timestamp": "13-01-26 05:32:58.687",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1407",
+      "y": "11203",
+      "z": "0",
+      "hours_survived": 218,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1624,5 +1624,5 @@
       "text": "YO"
     }
   ],
-  "timestamp": "2026-01-13T05:30:01.780804"
+  "timestamp": "2026-01-13T05:35:01.192018"
 }
