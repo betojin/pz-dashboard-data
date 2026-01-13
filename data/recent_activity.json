@@ -369,18 +369,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "13-01-26 01:11:43.378",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10085",
-      "y": "8262",
-      "z": "1",
-      "hours_survived": 1821,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "5"
-    },
-    {
       "timestamp": "13-01-26 01:42:34.823",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1285,6 +1273,18 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "7"
+    },
+    {
+      "timestamp": "13-01-26 05:52:38.596",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1413",
+      "y": "11216",
+      "z": "0",
+      "hours_survived": 388,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1589,5 +1589,5 @@
       "text": "YO"
     }
   ],
-  "timestamp": "2026-01-13T05:50:01.470792"
+  "timestamp": "2026-01-13T05:55:01.910368"
 }
