@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "13-01-26 07:01:05.530",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1414",
-      "y": "11200",
-      "z": "0",
-      "hours_survived": 414,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "8"
-    },
-    {
       "timestamp": "13-01-26 07:06:06.279",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -861,6 +849,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "13-01-26 20:13:59.677",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5716",
+      "y": "5728",
+      "z": "0",
+      "hours_survived": 105,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1165,5 +1165,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-13T20:10:01.834756"
+  "timestamp": "2026-01-13T20:15:01.286019"
 }

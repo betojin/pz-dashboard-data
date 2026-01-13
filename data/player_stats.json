@@ -1515,7 +1515,7 @@
         "Farming": 0,
         "Fishing": 3,
         "Trapping": 3,
-        "PlantScavenging": 2,
+        "PlantScavenging": 3,
         "Doctor": 0,
         "Electricity": 1,
         "Blacksmith": 0,
@@ -1881,6 +1881,11 @@
           "skill": "Trapping",
           "level": "3",
           "timestamp": "12-01-26 22:41:04.495"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "3",
+          "timestamp": "13-01-26 20:13:59.677"
         }
       ],
       "last_seen": "29-12-25 18:54:21.447",
@@ -6407,5 +6412,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-13T20:10:01.772403"
+  "timestamp": "2026-01-13T20:15:01.228150"
 }
