@@ -5800,7 +5800,7 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 463,
+      "total_hours": 469,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -5821,7 +5821,7 @@
         "PlantScavenging": 0,
         "Doctor": 2,
         "Electricity": 1,
-        "Blacksmith": 2,
+        "Blacksmith": 5,
         "MetalWelding": 2,
         "Mechanics": 2,
         "Spear": 0,
@@ -6069,9 +6069,24 @@
           "skill": "Masonry",
           "level": "9",
           "timestamp": "13-01-26 08:37:30.572"
+        },
+        {
+          "skill": "Blacksmith",
+          "level": "3",
+          "timestamp": "13-01-26 09:40:26.061"
+        },
+        {
+          "skill": "Blacksmith",
+          "level": "4",
+          "timestamp": "13-01-26 09:41:05.159"
+        },
+        {
+          "skill": "Blacksmith",
+          "level": "5",
+          "timestamp": "13-01-26 09:42:14.526"
         }
       ],
-      "last_seen": "13-01-26 09:26:22.985",
+      "last_seen": "13-01-26 09:42:14.526",
       "connections": 9
     },
     "BetoJinn": {
@@ -6327,5 +6342,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-13T09:40:01.691480"
+  "timestamp": "2026-01-13T09:45:01.162497"
 }
