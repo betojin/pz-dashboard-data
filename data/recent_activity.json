@@ -366,30 +366,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "13-01-26 05:32:58.687",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1407",
-      "y": "11203",
-      "z": "0",
-      "hours_survived": 218,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "4"
-    },
-    {
-      "timestamp": "13-01-26 05:35:16.659",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1407",
-      "y": "11211",
-      "z": "0",
-      "hours_survived": 218,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "5"
-    },
-    {
       "timestamp": "13-01-26 05:35:42.602",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -864,6 +840,30 @@
       "event_type": "level_up",
       "skill": "MetalWelding",
       "level": "3"
+    },
+    {
+      "timestamp": "13-01-26 10:10:08.618",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1356",
+      "y": "11213",
+      "z": "0",
+      "hours_survived": 480,
+      "event_type": "level_up",
+      "skill": "Blacksmith",
+      "level": "9"
+    },
+    {
+      "timestamp": "13-01-26 10:12:21.682",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1356",
+      "y": "11213",
+      "z": "0",
+      "hours_survived": 481,
+      "event_type": "level_up",
+      "skill": "Blacksmith",
+      "level": "10"
     }
   ],
   "chat_messages": [
@@ -1168,5 +1168,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-13T10:10:01.523536"
+  "timestamp": "2026-01-13T10:15:01.954379"
 }
