@@ -372,18 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "12-01-26 21:05:16.408",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1469",
-      "y": "11231",
-      "z": "0",
-      "hours_survived": 285,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "5"
-    },
-    {
       "timestamp": "12-01-26 21:07:59.457",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -800,6 +788,18 @@
       "event_type": "level_up",
       "skill": "Mechanics",
       "level": "5"
+    },
+    {
+      "timestamp": "13-01-26 01:11:43.378",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10085",
+      "y": "8262",
+      "z": "1",
+      "hours_survived": 1821,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "5"
     }
   ],
   "chat_messages": [
@@ -1104,5 +1104,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-13T01:10:01.837462"
+  "timestamp": "2026-01-13T01:15:01.370973"
 }

@@ -433,10 +433,10 @@
     "Sully": {
       "username": "Sully",
       "steam_id": "76561198119296623",
-      "total_hours": 1820,
+      "total_hours": 1821,
       "deaths": 1,
       "skills": {
-        "Cooking": 4,
+        "Cooking": 5,
         "Fitness": 5,
         "Strength": 9,
         "Blunt": 4,
@@ -917,6 +917,11 @@
           "skill": "Mechanics",
           "level": "5",
           "timestamp": "13-01-26 01:09:31.689"
+        },
+        {
+          "skill": "Cooking",
+          "level": "5",
+          "timestamp": "13-01-26 01:11:43.378"
         }
       ],
       "last_seen": "31-12-25 06:27:44.672",
@@ -6196,5 +6201,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-13T01:10:01.785068"
+  "timestamp": "2026-01-13T01:15:01.318141"
 }
