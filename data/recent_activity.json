@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "13-01-26 04:07:19.729",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "disconnected",
-      "x": "1383",
-      "y": "11227",
-      "z": "0"
-    },
-    {
       "timestamp": "13-01-26 04:07:45.427",
       "steam_id": "76561198065774641",
       "username": "admin",
@@ -359,56 +350,18 @@
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "13-01-26 22:40:26.208",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "5717",
+      "y": "5723",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "13-01-26 07:36:46.309",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1414",
-      "y": "11182",
-      "z": "0",
-      "hours_survived": 419,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 1,
-        "Axe": 5,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 8,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 2,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 2,
-        "Mechanics": 2,
-        "Spear": 0,
-        "Maintenance": 6,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 1,
-        "FlintKnapping": 0,
-        "Masonry": 7,
-        "Pottery": 0,
-        "Carving": 4,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "13-01-26 08:00:43.132",
       "steam_id": "76561199511597958",
@@ -861,6 +814,53 @@
       "event_type": "level_up",
       "skill": "Electricity",
       "level": "1"
+    },
+    {
+      "timestamp": "13-01-26 22:40:26.717",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5717",
+      "y": "5723",
+      "z": "0",
+      "hours_survived": 143,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 1,
+        "Fitness": 5,
+        "Strength": 7,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 1,
+        "Sneak": 2,
+        "Woodwork": 3,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 2,
+        "Trapping": 3,
+        "PlantScavenging": 3,
+        "Doctor": 0,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 3,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 6,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1165,5 +1165,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-13T22:40:01.748414"
+  "timestamp": "2026-01-13T22:45:01.190100"
 }
