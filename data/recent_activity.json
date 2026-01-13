@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "13-01-26 02:41:24.289",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "13-01-26 02:41:36.724",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -365,21 +359,18 @@
       "steam_id": "76561198065774641",
       "username": "admin",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "13-01-26 04:10:19.785",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "fully connected",
+      "x": "12033",
+      "y": "2594",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "12-01-26 22:41:04.495",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5716",
-      "y": "5728",
-      "z": "0",
-      "hours_survived": 99,
-      "event_type": "level_up",
-      "skill": "Trapping",
-      "level": "3"
-    },
     {
       "timestamp": "12-01-26 22:41:31.496",
       "steam_id": "76561199511597958",
@@ -1250,6 +1241,53 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "13-01-26 04:10:20.775",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "x": "12033",
+      "y": "2594",
+      "z": "0",
+      "hours_survived": 129,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 2,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 10,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1554,5 +1592,5 @@
       "text": "YO"
     }
   ],
-  "timestamp": "2026-01-13T04:10:01.966255"
+  "timestamp": "2026-01-13T04:15:01.350387"
 }
