@@ -5800,10 +5800,10 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 498,
+      "total_hours": 499,
       "deaths": 0,
       "skills": {
-        "Cooking": 4,
+        "Cooking": 5,
         "Fitness": 9,
         "Strength": 10,
         "Blunt": 1,
@@ -6144,9 +6144,14 @@
           "skill": "Cooking",
           "level": "4",
           "timestamp": "13-01-26 10:54:10.248"
+        },
+        {
+          "skill": "Cooking",
+          "level": "5",
+          "timestamp": "13-01-26 10:56:52.447"
         }
       ],
-      "last_seen": "13-01-26 10:54:10.248",
+      "last_seen": "13-01-26 10:56:52.447",
       "connections": 9
     },
     "BetoJinn": {
@@ -6402,5 +6407,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-13T10:55:01.592313"
+  "timestamp": "2026-01-13T11:00:01.121735"
 }
