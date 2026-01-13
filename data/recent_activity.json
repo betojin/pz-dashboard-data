@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "13-01-26 03:08:39.148",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "13-01-26 03:08:39.148",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "13-01-26 03:08:50.366",
       "steam_id": "76561199511597958",
       "username": "RottenTomato",
@@ -358,6 +346,24 @@
       "action": "fully connected",
       "x": "1413",
       "y": "11204",
+      "z": "0"
+    },
+    {
+      "timestamp": "13-01-26 07:10:25.766",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "disconnected",
+      "x": "1381",
+      "y": "11205",
+      "z": "0"
+    },
+    {
+      "timestamp": "13-01-26 07:10:29.411",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "disconnected",
+      "x": "1376",
+      "y": "11207",
       "z": "0"
     }
   ],
@@ -1443,5 +1449,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-13T07:10:01.231067"
+  "timestamp": "2026-01-13T07:15:01.890908"
 }
