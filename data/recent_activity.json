@@ -1,36 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "13-01-26 03:09:19.131",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "13-01-26 03:09:33.045",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "fully connected",
-      "x": "1384",
-      "y": "11194",
-      "z": "0"
-    },
-    {
-      "timestamp": "13-01-26 03:09:33.170",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "13-01-26 03:09:36.106",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "fully connected",
-      "x": "12030",
-      "y": "2603",
-      "z": "0"
-    },
-    {
       "timestamp": "13-01-26 03:09:52.654",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -371,56 +341,36 @@
       "x": "1414",
       "y": "11182",
       "z": "0"
+    },
+    {
+      "timestamp": "13-01-26 07:36:12.693",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "13-01-26 07:36:12.693",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "13-01-26 07:36:23.957",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "13-01-26 07:36:45.083",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "fully connected",
+      "x": "1414",
+      "y": "11182",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "13-01-26 03:09:37.102",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "x": "12030",
-      "y": "2603",
-      "z": "0",
-      "hours_survived": 659,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 6,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 2,
-        "Electricity": 2,
-        "Blacksmith": 0,
-        "MetalWelding": 5,
-        "Mechanics": 6,
-        "Spear": 0,
-        "Maintenance": 8,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 2,
-        "Tracking": 0,
-        "Husbandry": 1,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "13-01-26 03:09:53.110",
       "steam_id": "76561198119296623",
@@ -1116,6 +1066,53 @@
       "event_type": "level_up",
       "skill": "Husbandry",
       "level": "1"
+    },
+    {
+      "timestamp": "13-01-26 07:36:46.309",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1414",
+      "y": "11182",
+      "z": "0",
+      "hours_survived": 419,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 1,
+        "Axe": 5,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 8,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 2,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 2,
+        "Mechanics": 2,
+        "Spear": 0,
+        "Maintenance": 6,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 1,
+        "FlintKnapping": 0,
+        "Masonry": 7,
+        "Pottery": 0,
+        "Carving": 4,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1420,5 +1417,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-13T07:35:01.491978"
+  "timestamp": "2026-01-13T07:40:02.012423"
 }
