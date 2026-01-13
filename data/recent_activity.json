@@ -372,18 +372,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "13-01-26 04:06:01.056",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1373",
-      "y": "11225",
-      "z": "0",
-      "hours_survived": 187,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "2"
-    },
-    {
       "timestamp": "13-01-26 04:08:03.771",
       "steam_id": "76561198065774641",
       "username": "admin",
@@ -940,6 +928,18 @@
       "event_type": "level_up",
       "skill": "Masonry",
       "level": "8"
+    },
+    {
+      "timestamp": "13-01-26 08:37:30.572",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1365",
+      "y": "11217",
+      "z": "0",
+      "hours_survived": 444,
+      "event_type": "level_up",
+      "skill": "Masonry",
+      "level": "9"
     }
   ],
   "chat_messages": [
@@ -1244,5 +1244,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-13T08:35:01.296217"
+  "timestamp": "2026-01-13T08:40:01.840907"
 }
