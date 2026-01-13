@@ -5800,7 +5800,7 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 395,
+      "total_hours": 414,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -5812,7 +5812,7 @@
         "Nimble": 0,
         "Sprinting": 3,
         "Sneak": 0,
-        "Woodwork": 7,
+        "Woodwork": 8,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -6024,9 +6024,14 @@
           "skill": "Sprinting",
           "level": "3",
           "timestamp": "13-01-26 05:52:38.596"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "8",
+          "timestamp": "13-01-26 07:01:05.530"
         }
       ],
-      "last_seen": "13-01-26 06:12:01.501",
+      "last_seen": "13-01-26 07:01:05.530",
       "connections": 6
     },
     "BetoJinn": {
@@ -6277,5 +6282,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-13T07:00:01.294995"
+  "timestamp": "2026-01-13T07:05:01.718173"
 }

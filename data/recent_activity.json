@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "13-01-26 02:41:37.125",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10077",
-      "y": "8174",
-      "z": "0",
-      "hours_survived": 1856,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 5,
-        "Fitness": 5,
-        "Strength": 9,
-        "Blunt": 4,
-        "Axe": 3,
-        "Lightfoot": 2,
-        "Nimble": 4,
-        "Sprinting": 4,
-        "Sneak": 2,
-        "Woodwork": 10,
-        "Aiming": 4,
-        "Reloading": 5,
-        "Farming": 0,
-        "Fishing": 4,
-        "Trapping": 0,
-        "PlantScavenging": 6,
-        "Doctor": 1,
-        "Electricity": 3,
-        "Blacksmith": 3,
-        "MetalWelding": 4,
-        "Mechanics": 5,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 4,
-        "Tracking": 0,
-        "Husbandry": 5,
-        "FlintKnapping": 0,
-        "Masonry": 3,
-        "Pottery": 3,
-        "Carving": 3,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "13-01-26 02:42:17.980",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -1209,6 +1162,18 @@
       "event_type": "level_up",
       "skill": "Butchering",
       "level": "1"
+    },
+    {
+      "timestamp": "13-01-26 07:01:05.530",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1414",
+      "y": "11200",
+      "z": "0",
+      "hours_survived": 414,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "8"
     }
   ],
   "chat_messages": [
@@ -1513,5 +1478,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-13T07:00:01.352418"
+  "timestamp": "2026-01-13T07:05:01.774071"
 }
