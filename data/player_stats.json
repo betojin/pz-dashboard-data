@@ -5800,7 +5800,7 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 388,
+      "total_hours": 395,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -6026,16 +6026,16 @@
           "timestamp": "13-01-26 05:52:38.596"
         }
       ],
-      "last_seen": "13-01-26 05:52:38.596",
-      "connections": 5
+      "last_seen": "13-01-26 06:12:01.501",
+      "connections": 6
     },
     "BetoJinn": {
       "username": "BetoJinn",
       "steam_id": "76561198065774641",
-      "total_hours": 220,
+      "total_hours": 233,
       "deaths": 0,
       "skills": {
-        "Cooking": 0,
+        "Cooking": 1,
         "Fitness": 5,
         "Strength": 5,
         "Blunt": 0,
@@ -6151,9 +6151,14 @@
           "skill": "Woodwork",
           "level": "6",
           "timestamp": "13-01-26 05:40:01.672"
+        },
+        {
+          "skill": "Cooking",
+          "level": "1",
+          "timestamp": "13-01-26 06:12:43.558"
         }
       ],
-      "last_seen": "13-01-26 05:40:01.672",
+      "last_seen": "13-01-26 06:12:43.558",
       "connections": 9
     },
     "ExpiredPork": {
@@ -6267,5 +6272,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-13T06:10:01.381184"
+  "timestamp": "2026-01-13T06:15:01.787773"
 }
