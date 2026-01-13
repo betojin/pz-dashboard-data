@@ -363,65 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "13-01-26 07:32:06.168",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1376",
-      "y": "11207",
-      "z": "0",
-      "hours_survived": 418,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 1,
-        "Axe": 5,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 8,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 2,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 2,
-        "Mechanics": 2,
-        "Spear": 0,
-        "Maintenance": 6,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 7,
-        "Pottery": 0,
-        "Carving": 4,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "13-01-26 07:32:56.309",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1415",
-      "y": "11202",
-      "z": "0",
-      "hours_survived": 419,
-      "event_type": "level_up",
-      "skill": "Husbandry",
-      "level": "1"
-    },
-    {
       "timestamp": "13-01-26 07:36:46.309",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -896,6 +837,30 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "13-01-26 21:35:44.767",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "6304",
+      "y": "5285",
+      "z": "0",
+      "hours_survived": 127,
+      "event_type": "level_up",
+      "skill": "Axe",
+      "level": "1"
+    },
+    {
+      "timestamp": "13-01-26 21:39:26.518",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "6322",
+      "y": "5270",
+      "z": "0",
+      "hours_survived": 128,
+      "event_type": "level_up",
+      "skill": "Electricity",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1200,5 +1165,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-13T21:35:01.318775"
+  "timestamp": "2026-01-13T21:40:01.743135"
 }
