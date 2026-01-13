@@ -1,36 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "13-01-26 03:08:50.366",
-      "steam_id": "76561199511597958",
-      "username": "RottenTomato",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "13-01-26 03:09:12.606",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "13-01-26 03:09:12.607",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "13-01-26 03:09:18.417",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "13-01-26 03:09:18.417",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "13-01-26 03:09:19.131",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -365,103 +335,45 @@
       "x": "1376",
       "y": "11207",
       "z": "0"
+    },
+    {
+      "timestamp": "13-01-26 07:31:22.189",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "13-01-26 07:31:22.190",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "13-01-26 07:31:36.737",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "13-01-26 07:32:05.810",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "fully connected",
+      "x": "1376",
+      "y": "11207",
+      "z": "0"
+    },
+    {
+      "timestamp": "13-01-26 07:34:36.538",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "disconnected",
+      "x": "1414",
+      "y": "11182",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "13-01-26 02:56:59.342",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10085",
-      "y": "8183",
-      "z": "0",
-      "hours_survived": 1856,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 5,
-        "Fitness": 5,
-        "Strength": 9,
-        "Blunt": 4,
-        "Axe": 3,
-        "Lightfoot": 2,
-        "Nimble": 4,
-        "Sprinting": 4,
-        "Sneak": 2,
-        "Woodwork": 10,
-        "Aiming": 4,
-        "Reloading": 5,
-        "Farming": 0,
-        "Fishing": 4,
-        "Trapping": 0,
-        "PlantScavenging": 6,
-        "Doctor": 1,
-        "Electricity": 3,
-        "Blacksmith": 3,
-        "MetalWelding": 4,
-        "Mechanics": 5,
-        "Spear": 0,
-        "Maintenance": 4,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 4,
-        "Tracking": 0,
-        "Husbandry": 5,
-        "FlintKnapping": 0,
-        "Masonry": 3,
-        "Pottery": 3,
-        "Carving": 3,
-        "Butchering": 3,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "13-01-26 03:09:33.943",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1384",
-      "y": "11194",
-      "z": "0",
-      "hours_survived": 166,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 4,
-        "Reloading": 5,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "13-01-26 03:09:37.102",
       "steam_id": "76561199511597958",
@@ -1145,6 +1057,65 @@
       "event_type": "level_up",
       "skill": "Husbandry",
       "level": "1"
+    },
+    {
+      "timestamp": "13-01-26 07:32:06.168",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1376",
+      "y": "11207",
+      "z": "0",
+      "hours_survived": 418,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 1,
+        "Axe": 5,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 8,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 2,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 2,
+        "Mechanics": 2,
+        "Spear": 0,
+        "Maintenance": 6,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 7,
+        "Pottery": 0,
+        "Carving": 4,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "13-01-26 07:32:56.309",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1415",
+      "y": "11202",
+      "z": "0",
+      "hours_survived": 419,
+      "event_type": "level_up",
+      "skill": "Husbandry",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1449,5 +1420,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-13T07:30:02.062916"
+  "timestamp": "2026-01-13T07:35:01.491978"
 }
