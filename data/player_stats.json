@@ -5800,7 +5800,7 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 383,
+      "total_hours": 385,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -5812,7 +5812,7 @@
         "Nimble": 0,
         "Sprinting": 2,
         "Sneak": 0,
-        "Woodwork": 6,
+        "Woodwork": 7,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -6014,15 +6014,20 @@
           "skill": "Woodwork",
           "level": "6",
           "timestamp": "13-01-26 05:39:14.580"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "7",
+          "timestamp": "13-01-26 05:44:16.985"
         }
       ],
-      "last_seen": "13-01-26 05:39:14.580",
+      "last_seen": "13-01-26 05:44:16.985",
       "connections": 5
     },
     "BetoJinn": {
       "username": "BetoJinn",
       "steam_id": "76561198065774641",
-      "total_hours": 218,
+      "total_hours": 220,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -6034,7 +6039,7 @@
         "Nimble": 0,
         "Sprinting": 2,
         "Sneak": 0,
-        "Woodwork": 5,
+        "Woodwork": 6,
         "Aiming": 4,
         "Reloading": 5,
         "Farming": 0,
@@ -6136,9 +6141,14 @@
           "skill": "Woodwork",
           "level": "5",
           "timestamp": "13-01-26 05:35:16.659"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "6",
+          "timestamp": "13-01-26 05:40:01.672"
         }
       ],
-      "last_seen": "13-01-26 05:35:16.659",
+      "last_seen": "13-01-26 05:40:01.672",
       "connections": 9
     },
     "ExpiredPork": {
@@ -6252,5 +6262,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-13T05:40:01.604446"
+  "timestamp": "2026-01-13T05:45:01.996682"
 }
