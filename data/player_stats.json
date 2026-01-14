@@ -1524,7 +1524,7 @@
         "Electricity": 5,
         "Blacksmith": 0,
         "MetalWelding": 0,
-        "Mechanics": 3,
+        "Mechanics": 4,
         "Spear": 0,
         "Maintenance": 6,
         "SmallBlade": 0,
@@ -2000,6 +2000,11 @@
           "skill": "Electricity",
           "level": "5",
           "timestamp": "14-01-26 17:19:19.323"
+        },
+        {
+          "skill": "Mechanics",
+          "level": "4",
+          "timestamp": "14-01-26 17:58:54.729"
         }
       ],
       "last_seen": "29-12-25 18:54:21.447",
@@ -6580,5 +6585,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-14T17:55:01.274364"
+  "timestamp": "2026-01-14T18:00:01.702148"
 }
