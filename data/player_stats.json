@@ -1521,7 +1521,7 @@
         "Trapping": 3,
         "PlantScavenging": 3,
         "Doctor": 0,
-        "Electricity": 3,
+        "Electricity": 4,
         "Blacksmith": 0,
         "MetalWelding": 0,
         "Mechanics": 3,
@@ -1960,6 +1960,11 @@
           "skill": "Electricity",
           "level": "3",
           "timestamp": "14-01-26 14:09:49.055"
+        },
+        {
+          "skill": "Electricity",
+          "level": "4",
+          "timestamp": "14-01-26 14:59:49.736"
         }
       ],
       "last_seen": "29-12-25 18:54:21.447",
@@ -6540,5 +6545,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-14T14:55:01.147586"
+  "timestamp": "2026-01-14T15:00:01.726731"
 }

@@ -360,18 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "14-01-26 01:37:43.463",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5718",
-      "y": "5730",
-      "z": "0",
-      "hours_survived": 168,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "8"
-    },
-    {
       "timestamp": "14-01-26 01:43:19.358",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1068,6 +1056,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "14-01-26 14:59:49.736",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5710",
+      "y": "5725",
+      "z": "0",
+      "hours_survived": 207,
+      "event_type": "level_up",
+      "skill": "Electricity",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1372,5 +1372,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-14T14:55:01.198833"
+  "timestamp": "2026-01-14T15:00:01.778012"
 }
