@@ -1526,7 +1526,7 @@
         "MetalWelding": 0,
         "Mechanics": 3,
         "Spear": 0,
-        "Maintenance": 5,
+        "Maintenance": 6,
         "SmallBlade": 0,
         "LongBlade": 1,
         "SmallBlunt": 0,
@@ -1970,6 +1970,11 @@
           "skill": "Sprinting",
           "level": "2",
           "timestamp": "14-01-26 15:37:25.726"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "6",
+          "timestamp": "14-01-26 15:45:28.469"
         }
       ],
       "last_seen": "29-12-25 18:54:21.447",
@@ -6550,5 +6555,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-14T15:45:01.139228"
+  "timestamp": "2026-01-14T15:50:01.536795"
 }

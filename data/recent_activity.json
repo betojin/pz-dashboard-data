@@ -360,18 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "14-01-26 01:44:38.054",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5678",
-      "y": "5732",
-      "z": "0",
-      "hours_survived": 170,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "9"
-    },
-    {
       "timestamp": "14-01-26 01:55:48.009",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1068,6 +1056,18 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "2"
+    },
+    {
+      "timestamp": "14-01-26 15:45:28.469",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5522",
+      "y": "6060",
+      "z": "0",
+      "hours_survived": 226,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "6"
     }
   ],
   "chat_messages": [
@@ -1372,5 +1372,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-14T15:45:01.190986"
+  "timestamp": "2026-01-14T15:50:01.587880"
 }
