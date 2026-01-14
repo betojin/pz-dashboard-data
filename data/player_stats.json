@@ -1521,7 +1521,7 @@
         "Trapping": 3,
         "PlantScavenging": 3,
         "Doctor": 0,
-        "Electricity": 4,
+        "Electricity": 5,
         "Blacksmith": 0,
         "MetalWelding": 0,
         "Mechanics": 3,
@@ -1995,6 +1995,11 @@
           "skill": "Reloading",
           "level": "2",
           "timestamp": "14-01-26 17:07:27.713"
+        },
+        {
+          "skill": "Electricity",
+          "level": "5",
+          "timestamp": "14-01-26 17:19:19.323"
         }
       ],
       "last_seen": "29-12-25 18:54:21.447",
@@ -6575,5 +6580,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-14T17:15:01.229776"
+  "timestamp": "2026-01-14T17:20:01.813886"
 }
