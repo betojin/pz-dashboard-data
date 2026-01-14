@@ -206,68 +206,18 @@
       "x": "1406",
       "y": "11189",
       "z": "0"
+    },
+    {
+      "timestamp": "14-01-26 05:49:44.451",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "disconnected",
+      "x": "1377",
+      "y": "11211",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "13-01-26 21:31:56.199",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "6259",
-      "y": "5258",
-      "z": "0",
-      "hours_survived": 125,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 1,
-        "Fitness": 5,
-        "Strength": 7,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 1,
-        "Sneak": 2,
-        "Woodwork": 3,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 2,
-        "Trapping": 3,
-        "PlantScavenging": 3,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 6,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 2,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
-      "timestamp": "13-01-26 21:35:44.767",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "6304",
-      "y": "5285",
-      "z": "0",
-      "hours_survived": 127,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "1"
-    },
     {
       "timestamp": "13-01-26 21:39:26.518",
       "steam_id": "76561198044597580",
@@ -918,6 +868,30 @@
       "event_type": "level_up",
       "skill": "Husbandry",
       "level": "3"
+    },
+    {
+      "timestamp": "14-01-26 05:48:04.173",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1383",
+      "y": "11203",
+      "z": "0",
+      "hours_survived": 270,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "7"
+    },
+    {
+      "timestamp": "14-01-26 05:48:13.949",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1383",
+      "y": "11203",
+      "z": "0",
+      "hours_survived": 270,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "8"
     }
   ],
   "chat_messages": [
@@ -1042,5 +1016,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-14T05:45:01.821052"
+  "timestamp": "2026-01-14T05:50:01.190406"
 }
