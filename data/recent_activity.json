@@ -246,53 +246,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "13-01-26 22:40:26.717",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5717",
-      "y": "5723",
-      "z": "0",
-      "hours_survived": 143,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 1,
-        "Fitness": 5,
-        "Strength": 7,
-        "Blunt": 0,
-        "Axe": 1,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 1,
-        "Sneak": 2,
-        "Woodwork": 3,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 2,
-        "Trapping": 3,
-        "PlantScavenging": 3,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 6,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 2,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "13-01-26 23:21:31.301",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -954,6 +907,18 @@
         "Butchering": 1,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "14-01-26 06:06:46.170",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1407",
+      "y": "11191",
+      "z": "0",
+      "hours_survived": 272,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "7"
     }
   ],
   "chat_messages": [
@@ -1078,5 +1043,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-14T06:05:01.477475"
+  "timestamp": "2026-01-14T06:10:01.162149"
 }
