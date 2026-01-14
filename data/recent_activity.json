@@ -360,18 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "14-01-26 01:43:19.358",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5655",
-      "y": "5725",
-      "z": "0",
-      "hours_survived": 170,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "4"
-    },
-    {
       "timestamp": "14-01-26 01:44:38.054",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1068,6 +1056,18 @@
       "event_type": "level_up",
       "skill": "Electricity",
       "level": "4"
+    },
+    {
+      "timestamp": "14-01-26 15:37:25.726",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5421",
+      "y": "5870",
+      "z": "0",
+      "hours_survived": 222,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1372,5 +1372,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-14T15:35:01.718610"
+  "timestamp": "2026-01-14T15:40:01.738612"
 }
