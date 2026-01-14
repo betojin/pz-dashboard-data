@@ -1507,7 +1507,7 @@
         "Nimble": 3,
         "Sprinting": 3,
         "Sneak": 2,
-        "Woodwork": 8,
+        "Woodwork": 9,
         "Aiming": 4,
         "Reloading": 4,
         "Farming": 0,
@@ -1520,7 +1520,7 @@
         "MetalWelding": 0,
         "Mechanics": 3,
         "Spear": 0,
-        "Maintenance": 3,
+        "Maintenance": 4,
         "SmallBlade": 0,
         "LongBlade": 1,
         "SmallBlunt": 0,
@@ -1924,6 +1924,16 @@
           "skill": "Woodwork",
           "level": "8",
           "timestamp": "14-01-26 01:37:43.463"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "4",
+          "timestamp": "14-01-26 01:43:19.358"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "9",
+          "timestamp": "14-01-26 01:44:38.054"
         }
       ],
       "last_seen": "29-12-25 18:54:21.447",
@@ -6443,5 +6453,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-14T01:40:01.532003"
+  "timestamp": "2026-01-14T01:45:01.899687"
 }
