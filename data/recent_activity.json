@@ -47,21 +47,33 @@
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "14-01-26 02:00:02.041",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "14-01-26 02:00:17.098",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "5678",
+      "y": "5733",
+      "z": "0"
+    },
+    {
+      "timestamp": "14-01-26 02:03:44.761",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "5670",
+      "y": "5731",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "13-01-26 09:52:22.062",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1356",
-      "y": "11213",
-      "z": "0",
-      "hours_survived": 473,
-      "event_type": "level_up",
-      "skill": "Blacksmith",
-      "level": "7"
-    },
     {
       "timestamp": "13-01-26 09:54:10.975",
       "steam_id": "76561199511597958",
@@ -619,8 +631,55 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "5"
+    },
+    {
+      "timestamp": "14-01-26 02:00:17.316",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5678",
+      "y": "5733",
+      "z": "0",
+      "hours_survived": 176,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 1,
+        "Fitness": 5,
+        "Strength": 7,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 1,
+        "Sneak": 2,
+        "Woodwork": 9,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 2,
+        "Trapping": 3,
+        "PlantScavenging": 3,
+        "Doctor": 0,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 3,
+        "Spear": 0,
+        "Maintenance": 5,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 6,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [],
-  "timestamp": "2026-01-14T02:00:01.208889"
+  "timestamp": "2026-01-14T02:05:01.564610"
 }
