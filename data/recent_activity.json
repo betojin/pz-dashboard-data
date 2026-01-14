@@ -1,77 +1,34 @@
 {
-  "user_events": [],
+  "user_events": [
+    {
+      "timestamp": "14-01-26 01:30:44.039",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "14-01-26 01:30:44.040",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "14-01-26 01:30:55.186",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "14-01-26 01:31:20.133",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "fully connected",
+      "x": "5723",
+      "y": "5730",
+      "z": "0"
+    }
+  ],
   "perk_events": [
-    {
-      "timestamp": "13-01-26 08:34:12.272",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1365",
-      "y": "11216",
-      "z": "0",
-      "hours_survived": 442,
-      "event_type": "level_up",
-      "skill": "Masonry",
-      "level": "8"
-    },
-    {
-      "timestamp": "13-01-26 08:37:30.572",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1365",
-      "y": "11217",
-      "z": "0",
-      "hours_survived": 444,
-      "event_type": "level_up",
-      "skill": "Masonry",
-      "level": "9"
-    },
-    {
-      "timestamp": "13-01-26 09:26:22.985",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1372",
-      "y": "11220",
-      "z": "0",
-      "hours_survived": 463,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 1,
-        "Axe": 5,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 8,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 2,
-        "Electricity": 1,
-        "Blacksmith": 2,
-        "MetalWelding": 2,
-        "Mechanics": 2,
-        "Spear": 0,
-        "Maintenance": 6,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 1,
-        "FlintKnapping": 0,
-        "Masonry": 9,
-        "Pottery": 3,
-        "Carving": 4,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "13-01-26 09:40:26.061",
       "steam_id": "76561199511597958",
@@ -570,8 +527,79 @@
         "Butchering": 1,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "14-01-26 01:31:20.574",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5723",
+      "y": "5730",
+      "z": "0",
+      "hours_survived": 165,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 1,
+        "Fitness": 5,
+        "Strength": 7,
+        "Blunt": 0,
+        "Axe": 1,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 1,
+        "Sneak": 2,
+        "Woodwork": 6,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 2,
+        "Trapping": 3,
+        "PlantScavenging": 3,
+        "Doctor": 0,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 3,
+        "Spear": 0,
+        "Maintenance": 2,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 6,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "14-01-26 01:33:27.221",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5714",
+      "y": "5732",
+      "z": "0",
+      "hours_survived": 166,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "3"
+    },
+    {
+      "timestamp": "14-01-26 01:34:32.964",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5723",
+      "y": "5725",
+      "z": "0",
+      "hours_survived": 166,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "7"
     }
   ],
   "chat_messages": [],
-  "timestamp": "2026-01-14T01:30:01.798348"
+  "timestamp": "2026-01-14T01:35:01.166857"
 }
