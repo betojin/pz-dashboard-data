@@ -30,18 +30,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "13-01-26 09:40:26.061",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1356",
-      "y": "11213",
-      "z": "0",
-      "hours_survived": 468,
-      "event_type": "level_up",
-      "skill": "Blacksmith",
-      "level": "3"
-    },
-    {
       "timestamp": "13-01-26 09:41:05.159",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -598,8 +586,20 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "7"
+    },
+    {
+      "timestamp": "14-01-26 01:37:43.463",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5718",
+      "y": "5730",
+      "z": "0",
+      "hours_survived": 168,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "8"
     }
   ],
   "chat_messages": [],
-  "timestamp": "2026-01-14T01:35:01.166857"
+  "timestamp": "2026-01-14T01:40:01.582366"
 }
