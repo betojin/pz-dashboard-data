@@ -210,42 +210,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "13-01-26 10:54:05.243",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1383",
-      "y": "11204",
-      "z": "0",
-      "hours_survived": 498,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "1"
-    },
-    {
-      "timestamp": "13-01-26 10:54:05.243",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1383",
-      "y": "11204",
-      "z": "0",
-      "hours_survived": 498,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "2"
-    },
-    {
-      "timestamp": "13-01-26 10:54:05.243",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1383",
-      "y": "11204",
-      "z": "0",
-      "hours_survived": 498,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "3"
-    },
-    {
       "timestamp": "13-01-26 10:54:10.248",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -953,6 +917,42 @@
         "Butchering": 1,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "14-01-26 05:32:13.886",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1410",
+      "y": "11190",
+      "z": "0",
+      "hours_survived": 264,
+      "event_type": "level_up",
+      "skill": "Husbandry",
+      "level": "2"
+    },
+    {
+      "timestamp": "14-01-26 05:34:28.264",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1383",
+      "y": "11204",
+      "z": "0",
+      "hours_survived": 264,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "2"
+    },
+    {
+      "timestamp": "14-01-26 05:34:33.265",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1383",
+      "y": "11204",
+      "z": "0",
+      "hours_survived": 264,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1077,5 +1077,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-14T05:30:01.167616"
+  "timestamp": "2026-01-14T05:35:01.801909"
 }
