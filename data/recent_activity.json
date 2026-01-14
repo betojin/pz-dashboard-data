@@ -360,18 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "14-01-26 01:55:48.009",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5774",
-      "y": "5732",
-      "z": "0",
-      "hours_survived": 175,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "5"
-    },
-    {
       "timestamp": "14-01-26 02:00:17.316",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1068,6 +1056,18 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "6"
+    },
+    {
+      "timestamp": "14-01-26 16:49:22.754",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "2111",
+      "y": "5803",
+      "z": "0",
+      "hours_survived": 251,
+      "event_type": "level_up",
+      "skill": "Blunt",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1372,5 +1372,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-14T16:45:01.285244"
+  "timestamp": "2026-01-14T16:50:01.752480"
 }
