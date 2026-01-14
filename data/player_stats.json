@@ -6217,10 +6217,10 @@
     "BetoJinn": {
       "username": "BetoJinn",
       "steam_id": "76561198065774641",
-      "total_hours": 264,
+      "total_hours": 266,
       "deaths": 0,
       "skills": {
-        "Cooking": 3,
+        "Cooking": 4,
         "Fitness": 5,
         "Strength": 5,
         "Blunt": 0,
@@ -6371,9 +6371,14 @@
           "skill": "Cooking",
           "level": "3",
           "timestamp": "14-01-26 05:34:33.265"
+        },
+        {
+          "skill": "Cooking",
+          "level": "4",
+          "timestamp": "14-01-26 05:39:17.062"
         }
       ],
-      "last_seen": "14-01-26 05:34:33.265",
+      "last_seen": "14-01-26 05:39:17.062",
       "connections": 2
     },
     "ExpiredPork": {
@@ -6485,5 +6490,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-14T05:35:01.749931"
+  "timestamp": "2026-01-14T05:40:01.393982"
 }
