@@ -26,21 +26,30 @@
       "x": "5723",
       "y": "5730",
       "z": "0"
+    },
+    {
+      "timestamp": "14-01-26 01:59:29.173",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "disconnected",
+      "x": "5678",
+      "y": "5733",
+      "z": "0"
+    },
+    {
+      "timestamp": "14-01-26 01:59:52.142",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "14-01-26 01:59:52.143",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "13-01-26 09:46:10.273",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1356",
-      "y": "11213",
-      "z": "0",
-      "hours_survived": 471,
-      "event_type": "level_up",
-      "skill": "Blacksmith",
-      "level": "6"
-    },
     {
       "timestamp": "13-01-26 09:52:22.062",
       "steam_id": "76561199511597958",
@@ -598,8 +607,20 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "9"
+    },
+    {
+      "timestamp": "14-01-26 01:55:48.009",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "5774",
+      "y": "5732",
+      "z": "0",
+      "hours_survived": 175,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "5"
     }
   ],
   "chat_messages": [],
-  "timestamp": "2026-01-14T01:55:01.784862"
+  "timestamp": "2026-01-14T02:00:01.208889"
 }
