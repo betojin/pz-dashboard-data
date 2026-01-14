@@ -89,21 +89,18 @@
       "steam_id": "76561198119296623",
       "username": "Sully",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "14-01-26 04:36:00.623",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "fully connected",
+      "x": "10098",
+      "y": "8259",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "13-01-26 09:54:10.975",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1356",
-      "y": "11213",
-      "z": "0",
-      "hours_survived": 474,
-      "event_type": "level_up",
-      "skill": "Blacksmith",
-      "level": "8"
-    },
     {
       "timestamp": "13-01-26 10:06:58.007",
       "steam_id": "76561199511597958",
@@ -696,8 +693,55 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "14-01-26 04:36:01.702",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10098",
+      "y": "8259",
+      "z": "0",
+      "hours_survived": 2,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 9,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 0,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [],
-  "timestamp": "2026-01-14T04:35:01.610148"
+  "timestamp": "2026-01-14T04:40:01.999536"
 }
