@@ -360,53 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "14-01-26 02:00:17.316",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "5678",
-      "y": "5733",
-      "z": "0",
-      "hours_survived": 176,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 1,
-        "Fitness": 5,
-        "Strength": 7,
-        "Blunt": 0,
-        "Axe": 1,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 1,
-        "Sneak": 2,
-        "Woodwork": 9,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 2,
-        "Trapping": 3,
-        "PlantScavenging": 3,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 5,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 6,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 2,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "14-01-26 04:36:01.702",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1068,6 +1021,18 @@
       "event_type": "level_up",
       "skill": "Blunt",
       "level": "1"
+    },
+    {
+      "timestamp": "14-01-26 16:51:15.337",
+      "steam_id": "76561198044597580",
+      "username": "CaptainLobo",
+      "x": "2057",
+      "y": "5795",
+      "z": "0",
+      "hours_survived": 252,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1372,5 +1337,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-14T16:50:01.752480"
+  "timestamp": "2026-01-14T16:55:01.217645"
 }
