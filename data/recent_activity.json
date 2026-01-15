@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "15-01-26 03:20:43.456",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "15-01-26 03:21:12.906",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "fully connected",
-      "x": "1381",
-      "y": "11205",
-      "z": "0"
-    },
-    {
       "timestamp": "15-01-26 03:49:12.963",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -368,45 +353,24 @@
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "15-01-26 06:40:09.601",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "15-01-26 06:41:07.149",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "fully connected",
+      "x": "1406",
+      "y": "11190",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "15-01-26 04:03:09.553",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10094",
-      "y": "8264",
-      "z": "0",
-      "hours_survived": 31,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "1"
-    },
-    {
-      "timestamp": "15-01-26 04:04:29.440",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1384",
-      "y": "11227",
-      "z": "1",
-      "hours_survived": 362,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "9"
-    },
-    {
-      "timestamp": "15-01-26 04:07:59.933",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1383",
-      "y": "11228",
-      "z": "0",
-      "hours_survived": 363,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "10"
-    },
     {
       "timestamp": "15-01-26 04:10:16.664",
       "steam_id": "76561199511597958",
@@ -1004,6 +968,77 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "15-01-26 06:41:08.769",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1406",
+      "y": "11190",
+      "z": "0",
+      "hours_survived": 42,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 3,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 2,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 4,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "15-01-26 06:42:32.983",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1410",
+      "y": "11190",
+      "z": "0",
+      "hours_survived": 43,
+      "event_type": "level_up",
+      "skill": "Husbandry",
+      "level": "1"
+    },
+    {
+      "timestamp": "15-01-26 06:43:27.560",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1411",
+      "y": "11181",
+      "z": "0",
+      "hours_survived": 43,
+      "event_type": "level_up",
+      "skill": "Husbandry",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1308,5 +1343,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-15T06:40:01.613650"
+  "timestamp": "2026-01-15T06:45:02.071141"
 }

@@ -6362,10 +6362,20 @@
           "skill": "Sprinting",
           "level": "1",
           "timestamp": "15-01-26 06:33:58.848"
+        },
+        {
+          "skill": "Husbandry",
+          "level": "1",
+          "timestamp": "15-01-26 06:42:32.983"
+        },
+        {
+          "skill": "Husbandry",
+          "level": "2",
+          "timestamp": "15-01-26 06:43:27.560"
         }
       ],
-      "last_seen": "15-01-26 06:37:31.179",
-      "connections": 3
+      "last_seen": "15-01-26 06:43:27.560",
+      "connections": 4
     },
     "BetoJinn": {
       "username": "BetoJinn",
@@ -6723,5 +6733,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-15T06:40:01.557615"
+  "timestamp": "2026-01-15T06:45:02.012453"
 }
