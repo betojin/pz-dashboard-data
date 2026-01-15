@@ -334,7 +334,7 @@
     "admin": {
       "username": "admin",
       "steam_id": "76561198065774641",
-      "total_hours": 131,
+      "total_hours": 137,
       "deaths": 0,
       "skills": {
         "Cooking": 2,
@@ -426,8 +426,9 @@
         }
       ],
       "last_seen": "30-12-25 08:03:20.509",
+      "connections": 1,
       "role_id": 7,
-      "last_connection_db": "2026-01-15 06:04:38"
+      "last_connection_db": "2026-01-15 07:45:49"
     },
     "Sully": {
       "username": "Sully",
@@ -6428,9 +6429,19 @@
           "skill": "Woodwork",
           "level": "10",
           "timestamp": "15-01-26 07:22:49.812"
+        },
+        {
+          "skill": "Carving",
+          "level": "1",
+          "timestamp": "15-01-26 07:48:21.226"
+        },
+        {
+          "skill": "Carving",
+          "level": "2",
+          "timestamp": "15-01-26 07:49:38.327"
         }
       ],
-      "last_seen": "15-01-26 07:22:49.812",
+      "last_seen": "15-01-26 07:49:38.327",
       "connections": 1
     },
     "BetoJinn": {
@@ -6839,5 +6850,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-15T07:45:02.012821"
+  "timestamp": "2026-01-15T07:50:01.439609"
 }
