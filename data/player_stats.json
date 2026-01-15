@@ -426,7 +426,6 @@
         }
       ],
       "last_seen": "30-12-25 08:03:20.509",
-      "connections": 1,
       "role_id": 7,
       "last_connection_db": "2026-01-15 06:04:38"
     },
@@ -954,8 +953,7 @@
           "timestamp": "15-01-26 04:03:09.553"
         }
       ],
-      "last_seen": "31-12-25 06:27:44.672",
-      "connections": 3
+      "last_seen": "31-12-25 06:27:44.672"
     },
     "Firestorm3050": {
       "username": "Firestorm3050",
@@ -1441,8 +1439,7 @@
           "timestamp": "15-01-26 05:13:01.595"
         }
       ],
-      "last_seen": "31-12-25 01:43:29.977",
-      "connections": 3
+      "last_seen": "31-12-25 01:43:29.977"
     },
     "Molotov Kid": {
       "username": "Molotov Kid",
@@ -2044,8 +2041,7 @@
           "timestamp": "14-01-26 18:04:08.619"
         }
       ],
-      "last_seen": "29-12-25 18:54:21.447",
-      "connections": 9
+      "last_seen": "29-12-25 18:54:21.447"
     },
     "Woofie": {
       "username": "Woofie",
@@ -6394,8 +6390,7 @@
           "timestamp": "15-01-26 06:47:11.748"
         }
       ],
-      "last_seen": "15-01-26 06:47:11.748",
-      "connections": 4
+      "last_seen": "15-01-26 06:47:11.748"
     },
     "BetoJinn": {
       "username": "BetoJinn",
@@ -6404,8 +6399,8 @@
       "deaths": 1,
       "skills": {
         "Cooking": 8,
-        "Fitness": 5,
-        "Strength": 5,
+        "Fitness": 8,
+        "Strength": 9,
         "Blunt": 0,
         "Axe": 0,
         "Lightfoot": 0,
@@ -6641,8 +6636,8 @@
           "timestamp": "15-01-26 05:07:37.577"
         }
       ],
-      "last_seen": "15-01-26 06:34:45.436",
-      "connections": 8
+      "last_seen": "15-01-26 06:54:05.463",
+      "connections": 1
     },
     "ExpiredPork": {
       "username": "ExpiredPork",
@@ -6753,5 +6748,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-15T06:50:01.371567"
+  "timestamp": "2026-01-15T06:55:01.816561"
 }
