@@ -5966,7 +5966,7 @@
         "Nimble": 0,
         "Sprinting": 3,
         "Sneak": 0,
-        "Woodwork": 9,
+        "Woodwork": 10,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -6418,9 +6418,19 @@
           "skill": "Woodwork",
           "level": "8",
           "timestamp": "15-01-26 07:18:27.399"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "9",
+          "timestamp": "15-01-26 07:20:49.813"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "10",
+          "timestamp": "15-01-26 07:22:49.812"
         }
       ],
-      "last_seen": "15-01-26 07:18:27.399",
+      "last_seen": "15-01-26 07:22:49.812",
       "connections": 1
     },
     "BetoJinn": {
@@ -6814,5 +6824,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-15T07:20:02.005228"
+  "timestamp": "2026-01-15T07:25:01.416103"
 }
