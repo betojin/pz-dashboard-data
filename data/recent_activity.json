@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "14-01-26 14:36:02.408",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "14-01-26 14:36:02.409",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "14-01-26 14:36:10.121",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -350,21 +338,27 @@
       "x": "10658",
       "y": "9566",
       "z": "0"
+    },
+    {
+      "timestamp": "15-01-26 04:50:50.433",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "disconnected",
+      "x": "934",
+      "y": "13085",
+      "z": "0"
+    },
+    {
+      "timestamp": "15-01-26 04:50:55.666",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "fully connected",
+      "x": "1378",
+      "y": "11207",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "14-01-26 17:06:02.893",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "2081",
-      "y": "6466",
-      "z": "0",
-      "hours_survived": 258,
-      "event_type": "level_up",
-      "skill": "Aiming",
-      "level": "1"
-    },
     {
       "timestamp": "14-01-26 17:07:27.713",
       "steam_id": "76561198044597580",
@@ -990,21 +984,56 @@
       "z": "0",
       "hours_survived": 536,
       "event_type": "died"
+    },
+    {
+      "timestamp": "15-01-26 04:50:58.075",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1378",
+      "y": "11207",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 2,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "14-01-26 06:31:34.833",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "14-01-26 06:31:34.833",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "14-01-26 06:31:36.055",
       "chat_type": "Local",
@@ -1292,7 +1321,19 @@
       "chat_type": "Local",
       "author": "Firestorm3050",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "15-01-26 04:52:00.794",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "15-01-26 04:52:00.795",
+      "chat_type": "Local",
+      "author": "Firestorm3050",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-15T04:50:01.166261"
+  "timestamp": "2026-01-15T04:55:01.576132"
 }
