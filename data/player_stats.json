@@ -334,7 +334,7 @@
     "admin": {
       "username": "admin",
       "steam_id": "76561198065774641",
-      "total_hours": 137,
+      "total_hours": 145,
       "deaths": 0,
       "skills": {
         "Cooking": 2,
@@ -428,7 +428,7 @@
       "last_seen": "30-12-25 08:03:20.509",
       "connections": 1,
       "role_id": 7,
-      "last_connection_db": "2026-01-15 07:45:49"
+      "last_connection_db": "2026-01-15 08:07:37"
     },
     "Sully": {
       "username": "Sully",
@@ -5975,7 +5975,7 @@
         "Trapping": 0,
         "PlantScavenging": 0,
         "Doctor": 2,
-        "Electricity": 2,
+        "Electricity": 5,
         "Blacksmith": 10,
         "MetalWelding": 3,
         "Mechanics": 2,
@@ -6441,7 +6441,7 @@
           "timestamp": "15-01-26 07:49:38.327"
         }
       ],
-      "last_seen": "15-01-26 07:49:38.327",
+      "last_seen": "15-01-26 08:08:18.301",
       "connections": 1
     },
     "BetoJinn": {
@@ -6738,8 +6738,7 @@
           "timestamp": "15-01-26 07:40:35.384"
         }
       ],
-      "last_seen": "15-01-26 07:40:35.384",
-      "connections": 1
+      "last_seen": "15-01-26 07:40:35.384"
     },
     "ExpiredPork": {
       "username": "ExpiredPork",
@@ -6850,5 +6849,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-15T08:05:01.344740"
+  "timestamp": "2026-01-15T08:10:01.717730"
 }
