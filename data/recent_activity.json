@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "14-01-26 13:43:16.067",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "14-01-26 13:43:16.068",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -349,6 +343,15 @@
       "action": "fully connected",
       "x": "1374",
       "y": "11215",
+      "z": "0"
+    },
+    {
+      "timestamp": "15-01-26 04:18:34.256",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "disconnected",
+      "x": "10098",
+      "y": "8260",
       "z": "0"
     }
   ],
@@ -1331,5 +1334,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-15T04:15:01.514760"
+  "timestamp": "2026-01-15T04:20:01.953449"
 }
