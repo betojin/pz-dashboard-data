@@ -926,6 +926,16 @@
           "skill": "Cooking",
           "level": "1",
           "timestamp": "14-01-26 04:46:08.199"
+        },
+        {
+          "skill": "Electricity",
+          "level": "1",
+          "timestamp": "15-01-26 03:11:55.921"
+        },
+        {
+          "skill": "Electricity",
+          "level": "2",
+          "timestamp": "15-01-26 03:12:14.514"
         }
       ],
       "last_seen": "31-12-25 06:27:44.672",
@@ -6282,7 +6292,7 @@
     "BetoJinn": {
       "username": "BetoJinn",
       "steam_id": "76561198065774641",
-      "total_hours": 337,
+      "total_hours": 342,
       "deaths": 0,
       "skills": {
         "Cooking": 8,
@@ -6313,7 +6323,7 @@
         "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
-        "Husbandry": 3,
+        "Husbandry": 4,
         "FlintKnapping": 0,
         "Masonry": 0,
         "Pottery": 0,
@@ -6476,9 +6486,14 @@
           "skill": "Woodwork",
           "level": "8",
           "timestamp": "14-01-26 07:47:18.941"
+        },
+        {
+          "skill": "Husbandry",
+          "level": "4",
+          "timestamp": "15-01-26 03:13:05.528"
         }
       ],
-      "last_seen": "15-01-26 03:00:55.311",
+      "last_seen": "15-01-26 03:13:05.528",
       "connections": 4
     },
     "ExpiredPork": {
@@ -6590,5 +6605,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-15T03:10:01.829420"
+  "timestamp": "2026-01-15T03:15:01.218488"
 }

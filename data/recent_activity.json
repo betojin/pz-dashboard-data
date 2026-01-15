@@ -357,42 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "14-01-26 05:40:18.065",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1383",
-      "y": "11203",
-      "z": "0",
-      "hours_survived": 267,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "5"
-    },
-    {
-      "timestamp": "14-01-26 05:40:18.065",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1383",
-      "y": "11203",
-      "z": "0",
-      "hours_survived": 267,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "6"
-    },
-    {
-      "timestamp": "14-01-26 05:45:00.564",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1410",
-      "y": "11202",
-      "z": "0",
-      "hours_survived": 269,
-      "event_type": "level_up",
-      "skill": "Husbandry",
-      "level": "3"
-    },
-    {
       "timestamp": "14-01-26 05:48:04.173",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -1065,6 +1029,42 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "15-01-26 03:11:55.921",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10102",
+      "y": "8262",
+      "z": "0",
+      "hours_survived": 11,
+      "event_type": "level_up",
+      "skill": "Electricity",
+      "level": "1"
+    },
+    {
+      "timestamp": "15-01-26 03:12:14.514",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10102",
+      "y": "8262",
+      "z": "0",
+      "hours_survived": 11,
+      "event_type": "level_up",
+      "skill": "Electricity",
+      "level": "2"
+    },
+    {
+      "timestamp": "15-01-26 03:13:05.528",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1411",
+      "y": "11181",
+      "z": "0",
+      "hours_survived": 342,
+      "event_type": "level_up",
+      "skill": "Husbandry",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1369,5 +1369,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-15T03:10:01.882590"
+  "timestamp": "2026-01-15T03:15:01.274116"
 }
