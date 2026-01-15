@@ -946,6 +946,11 @@
           "skill": "Cooking",
           "level": "2",
           "timestamp": "15-01-26 03:55:53.086"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "1",
+          "timestamp": "15-01-26 04:03:09.553"
         }
       ],
       "last_seen": "31-12-25 06:27:44.672",
@@ -6308,7 +6313,7 @@
     "BetoJinn": {
       "username": "BetoJinn",
       "steam_id": "76561198065774641",
-      "total_hours": 357,
+      "total_hours": 362,
       "deaths": 0,
       "skills": {
         "Cooking": 8,
@@ -6320,7 +6325,7 @@
         "Nimble": 0,
         "Sprinting": 2,
         "Sneak": 0,
-        "Woodwork": 8,
+        "Woodwork": 9,
         "Aiming": 5,
         "Reloading": 5,
         "Farming": 0,
@@ -6512,9 +6517,14 @@
           "skill": "Butchering",
           "level": "2",
           "timestamp": "15-01-26 03:51:04.266"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "9",
+          "timestamp": "15-01-26 04:04:29.440"
         }
       ],
-      "last_seen": "15-01-26 03:51:04.266",
+      "last_seen": "15-01-26 04:04:29.440",
       "connections": 5
     },
     "ExpiredPork": {
@@ -6626,5 +6636,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-15T04:00:01.165702"
+  "timestamp": "2026-01-15T04:05:01.606063"
 }
