@@ -5989,7 +5989,7 @@
         "Husbandry": 2,
         "FlintKnapping": 0,
         "Masonry": 10,
-        "Pottery": 3,
+        "Pottery": 4,
         "Carving": 5,
         "Butchering": 0,
         "Glassmaking": 7
@@ -6499,9 +6499,14 @@
           "skill": "Maintenance",
           "level": "2",
           "timestamp": "15-01-26 09:44:38.342"
+        },
+        {
+          "skill": "Pottery",
+          "level": "4",
+          "timestamp": "15-01-26 09:46:57.938"
         }
       ],
-      "last_seen": "15-01-26 09:44:38.342",
+      "last_seen": "15-01-26 09:46:57.938",
       "connections": 1
     },
     "BetoJinn": {
@@ -6909,5 +6914,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-15T09:45:01.219568"
+  "timestamp": "2026-01-15T09:50:01.716936"
 }
