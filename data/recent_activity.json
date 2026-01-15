@@ -44,21 +44,18 @@
       "x": "1363",
       "y": "11207",
       "z": "0"
+    },
+    {
+      "timestamp": "15-01-26 06:56:03.510",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "fully connected",
+      "x": "1378",
+      "y": "11208",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "15-01-26 04:33:03.643",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "879",
-      "y": "13009",
-      "z": "0",
-      "hours_survived": 373,
-      "event_type": "level_up",
-      "skill": "Electricity",
-      "level": "2"
-    },
     {
       "timestamp": "15-01-26 04:46:18.644",
       "steam_id": "76561198065774641",
@@ -715,8 +712,55 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "15-01-26 06:56:04.608",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1378",
+      "y": "11208",
+      "z": "0",
+      "hours_survived": 45,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 4,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 3,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 2,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 2,
+        "FlintKnapping": 0,
+        "Masonry": 4,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [],
-  "timestamp": "2026-01-15T06:55:01.869166"
+  "timestamp": "2026-01-15T07:00:01.282234"
 }
