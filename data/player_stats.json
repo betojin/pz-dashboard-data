@@ -959,7 +959,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 1463,
+      "total_hours": 1480,
       "deaths": 0,
       "skills": {
         "Cooking": 6,
@@ -971,7 +971,7 @@
         "Nimble": 1,
         "Sprinting": 5,
         "Sneak": 0,
-        "Woodwork": 7,
+        "Woodwork": 8,
         "Aiming": 0,
         "Reloading": 4,
         "Farming": 6,
@@ -1433,6 +1433,11 @@
           "skill": "Farming",
           "level": "6",
           "timestamp": "31-12-25 01:43:29.977"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "8",
+          "timestamp": "15-01-26 05:13:01.595"
         }
       ],
       "last_seen": "31-12-25 01:43:29.977",
@@ -6677,5 +6682,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-15T05:10:01.781436"
+  "timestamp": "2026-01-15T05:15:01.140233"
 }
