@@ -354,30 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "14-01-26 16:49:22.754",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "2111",
-      "y": "5803",
-      "z": "0",
-      "hours_survived": 251,
-      "event_type": "level_up",
-      "skill": "Blunt",
-      "level": "1"
-    },
-    {
-      "timestamp": "14-01-26 16:51:15.337",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "2057",
-      "y": "5795",
-      "z": "0",
-      "hours_survived": 252,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "1"
-    },
-    {
       "timestamp": "14-01-26 17:06:02.893",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -992,6 +968,28 @@
       "event_type": "level_up",
       "skill": "Electricity",
       "level": "2"
+    },
+    {
+      "timestamp": "15-01-26 04:46:18.644",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "989",
+      "y": "12948",
+      "z": "0",
+      "hours_survived": 379,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "6"
+    },
+    {
+      "timestamp": "15-01-26 04:48:52.776",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "934",
+      "y": "13085",
+      "z": "0",
+      "hours_survived": 536,
+      "event_type": "died"
     }
   ],
   "chat_messages": [
@@ -1296,5 +1294,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-15T04:45:01.210646"
+  "timestamp": "2026-01-15T04:50:01.166261"
 }
