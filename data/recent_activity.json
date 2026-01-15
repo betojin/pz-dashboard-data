@@ -66,18 +66,6 @@
       "hours_survived": 44,
       "event_type": "level_up",
       "skill": "Cooking",
-      "level": "1"
-    },
-    {
-      "timestamp": "15-01-26 06:47:05.104",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1383",
-      "y": "11204",
-      "z": "0",
-      "hours_survived": 44,
-      "event_type": "level_up",
-      "skill": "Cooking",
       "level": "2"
     },
     {
@@ -590,6 +578,18 @@
       "event_type": "level_up",
       "skill": "Carving",
       "level": "3"
+    },
+    {
+      "timestamp": "15-01-26 08:42:42.128",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1363",
+      "y": "11210",
+      "z": "0",
+      "hours_survived": 87,
+      "event_type": "level_up",
+      "skill": "Pottery",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -606,5 +606,5 @@
       "text": "not working"
     }
   ],
-  "timestamp": "2026-01-15T08:40:01.792281"
+  "timestamp": "2026-01-15T08:45:01.168976"
 }
