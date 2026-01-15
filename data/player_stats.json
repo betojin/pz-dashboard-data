@@ -6403,9 +6403,14 @@
           "skill": "Woodwork",
           "level": "5",
           "timestamp": "15-01-26 07:04:35.012"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "6",
+          "timestamp": "15-01-26 07:05:32.065"
         }
       ],
-      "last_seen": "15-01-26 07:04:35.012",
+      "last_seen": "15-01-26 07:05:32.065",
       "connections": 1
     },
     "BetoJinn": {
@@ -6670,9 +6675,19 @@
           "skill": "Woodwork",
           "level": "4",
           "timestamp": "15-01-26 07:04:19.048"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "5",
+          "timestamp": "15-01-26 07:05:25.048"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "6",
+          "timestamp": "15-01-26 07:06:34.057"
         }
       ],
-      "last_seen": "15-01-26 07:04:19.048",
+      "last_seen": "15-01-26 07:06:34.057",
       "connections": 1
     },
     "ExpiredPork": {
@@ -6784,5 +6799,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-15T07:05:01.706344"
+  "timestamp": "2026-01-15T07:10:01.103762"
 }
