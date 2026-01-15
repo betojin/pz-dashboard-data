@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "15-01-26 03:00:03.545",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "15-01-26 03:00:03.546",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "15-01-26 03:00:15.068",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -359,33 +347,27 @@
       "x": "1382",
       "y": "11228",
       "z": "0"
+    },
+    {
+      "timestamp": "15-01-26 06:34:43.044",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "disconnected",
+      "x": "1382",
+      "y": "11209",
+      "z": "0"
+    },
+    {
+      "timestamp": "15-01-26 06:34:45.335",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "fully connected",
+      "x": "1378",
+      "y": "11207",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "15-01-26 03:51:04.266",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1370",
-      "y": "11215",
-      "z": "0",
-      "hours_survived": 357,
-      "event_type": "level_up",
-      "skill": "Butchering",
-      "level": "2"
-    },
-    {
-      "timestamp": "15-01-26 03:55:53.086",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10087",
-      "y": "8261",
-      "z": "1",
-      "hours_survived": 28,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "2"
-    },
     {
       "timestamp": "15-01-26 03:55:54.124",
       "steam_id": "76561199511597958",
@@ -962,6 +944,28 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "2"
+    },
+    {
+      "timestamp": "15-01-26 06:33:58.848",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1424",
+      "y": "11187",
+      "z": "0",
+      "hours_survived": 41,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "1"
+    },
+    {
+      "timestamp": "15-01-26 06:34:45.436",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1378",
+      "y": "11207",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
@@ -1266,5 +1270,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-15T06:30:01.649106"
+  "timestamp": "2026-01-15T06:35:02.127061"
 }
