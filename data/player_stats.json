@@ -5992,7 +5992,7 @@
         "Pottery": 3,
         "Carving": 5,
         "Butchering": 0,
-        "Glassmaking": 4
+        "Glassmaking": 6
       },
       "level_ups": [
         {
@@ -6479,9 +6479,19 @@
           "skill": "Glassmaking",
           "level": "4",
           "timestamp": "15-01-26 09:09:22.046"
+        },
+        {
+          "skill": "Glassmaking",
+          "level": "5",
+          "timestamp": "15-01-26 09:11:02.546"
+        },
+        {
+          "skill": "Glassmaking",
+          "level": "6",
+          "timestamp": "15-01-26 09:12:43.056"
         }
       ],
-      "last_seen": "15-01-26 09:09:22.046",
+      "last_seen": "15-01-26 09:12:43.056",
       "connections": 1
     },
     "BetoJinn": {
@@ -6889,5 +6899,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-15T09:10:01.100211"
+  "timestamp": "2026-01-15T09:15:01.536017"
 }
