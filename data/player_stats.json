@@ -959,7 +959,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 1480,
+      "total_hours": 1481,
       "deaths": 0,
       "skills": {
         "Cooking": 6,
@@ -1441,7 +1441,7 @@
         }
       ],
       "last_seen": "31-12-25 01:43:29.977",
-      "connections": 1
+      "connections": 3
     },
     "Molotov Kid": {
       "username": "Molotov Kid",
@@ -6321,9 +6321,14 @@
           "skill": "Electricity",
           "level": "2",
           "timestamp": "15-01-26 04:30:19.376"
+        },
+        {
+          "skill": "Axe",
+          "level": "3",
+          "timestamp": "15-01-26 05:16:36.259"
         }
       ],
-      "last_seen": "15-01-26 04:50:58.075",
+      "last_seen": "15-01-26 05:16:36.259",
       "connections": 2
     },
     "BetoJinn": {
@@ -6682,5 +6687,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-15T05:15:01.140233"
+  "timestamp": "2026-01-15T05:20:01.540788"
 }
