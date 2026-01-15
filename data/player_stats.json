@@ -959,7 +959,7 @@
     "Firestorm3050": {
       "username": "Firestorm3050",
       "steam_id": "76561198031138505",
-      "total_hours": 1460,
+      "total_hours": 1463,
       "deaths": 0,
       "skills": {
         "Cooking": 6,
@@ -1435,7 +1435,8 @@
           "timestamp": "31-12-25 01:43:29.977"
         }
       ],
-      "last_seen": "31-12-25 01:43:29.977"
+      "last_seen": "31-12-25 01:43:29.977",
+      "connections": 1
     },
     "Molotov Kid": {
       "username": "Molotov Kid",
@@ -5951,7 +5952,7 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 520,
+      "total_hours": 528,
       "deaths": 0,
       "skills": {
         "Cooking": 5,
@@ -5971,7 +5972,7 @@
         "Trapping": 0,
         "PlantScavenging": 0,
         "Doctor": 2,
-        "Electricity": 1,
+        "Electricity": 2,
         "Blacksmith": 10,
         "MetalWelding": 3,
         "Mechanics": 2,
@@ -6310,15 +6311,20 @@
           "skill": "Woodwork",
           "level": "9",
           "timestamp": "15-01-26 04:10:16.664"
+        },
+        {
+          "skill": "Electricity",
+          "level": "2",
+          "timestamp": "15-01-26 04:30:19.376"
         }
       ],
-      "last_seen": "15-01-26 04:10:16.664",
+      "last_seen": "15-01-26 04:30:19.376",
       "connections": 1
     },
     "BetoJinn": {
       "username": "BetoJinn",
       "steam_id": "76561198065774641",
-      "total_hours": 371,
+      "total_hours": 373,
       "deaths": 0,
       "skills": {
         "Cooking": 8,
@@ -6338,7 +6344,7 @@
         "Trapping": 0,
         "PlantScavenging": 0,
         "Doctor": 0,
-        "Electricity": 0,
+        "Electricity": 2,
         "Blacksmith": 0,
         "MetalWelding": 0,
         "Mechanics": 0,
@@ -6537,9 +6543,19 @@
           "skill": "Reloading",
           "level": "6",
           "timestamp": "15-01-26 04:26:23.052"
+        },
+        {
+          "skill": "Electricity",
+          "level": "1",
+          "timestamp": "15-01-26 04:30:59.038"
+        },
+        {
+          "skill": "Electricity",
+          "level": "2",
+          "timestamp": "15-01-26 04:33:03.643"
         }
       ],
-      "last_seen": "15-01-26 04:26:23.052",
+      "last_seen": "15-01-26 04:33:03.643",
       "connections": 5
     },
     "ExpiredPork": {
@@ -6651,5 +6667,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-15T04:30:01.759793"
+  "timestamp": "2026-01-15T04:35:01.322456"
 }
