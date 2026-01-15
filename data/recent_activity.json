@@ -53,21 +53,18 @@
       "x": "1362",
       "y": "11210",
       "z": "0"
+    },
+    {
+      "timestamp": "15-01-26 09:03:03.901",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "disconnected",
+      "x": "1368",
+      "y": "11231",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "15-01-26 06:47:11.748",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1383",
-      "y": "11204",
-      "z": "0",
-      "hours_survived": 44,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "4"
-    },
     {
       "timestamp": "15-01-26 06:54:05.463",
       "steam_id": "76561198065774641",
@@ -590,6 +587,18 @@
       "event_type": "level_up",
       "skill": "Glassmaking",
       "level": "2"
+    },
+    {
+      "timestamp": "15-01-26 09:00:30.641",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1357",
+      "y": "11217",
+      "z": "0",
+      "hours_survived": 94,
+      "event_type": "level_up",
+      "skill": "Glassmaking",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -606,5 +615,5 @@
       "text": "not working"
     }
   ],
-  "timestamp": "2026-01-15T09:00:02.005799"
+  "timestamp": "2026-01-15T09:05:01.677189"
 }
