@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "15-01-26 03:50:06.477",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1374",
-      "y": "11215",
-      "z": "0",
-      "hours_survived": 356,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 8,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 2,
-        "Sneak": 0,
-        "Woodwork": 8,
-        "Aiming": 5,
-        "Reloading": 5,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 2,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 4,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 1,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "15-01-26 03:51:04.266",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -997,6 +950,18 @@
       "z": "0",
       "hours_survived": 411,
       "event_type": "died"
+    },
+    {
+      "timestamp": "15-01-26 06:25:51.572",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1359",
+      "y": "11216",
+      "z": "0",
+      "hours_survived": 37,
+      "event_type": "level_up",
+      "skill": "Woodwork",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1301,5 +1266,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-15T06:25:01.202976"
+  "timestamp": "2026-01-15T06:30:01.649106"
 }
