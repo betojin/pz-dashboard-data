@@ -360,18 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "14-01-26 17:07:27.713",
-      "steam_id": "76561198044597580",
-      "username": "CaptainLobo",
-      "x": "2090",
-      "y": "6411",
-      "z": "0",
-      "hours_survived": 258,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "2"
-    },
-    {
       "timestamp": "14-01-26 17:19:19.323",
       "steam_id": "76561198044597580",
       "username": "CaptainLobo",
@@ -1031,33 +1019,21 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "15-01-26 05:07:37.577",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "963",
+      "y": "13103",
+      "z": "0",
+      "hours_survived": 387,
+      "event_type": "level_up",
+      "skill": "Doctor",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "14-01-26 06:31:38.105",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "14-01-26 06:31:38.105",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "14-01-26 06:31:39.327",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "14-01-26 06:31:39.327",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY!"
-    },
     {
       "timestamp": "14-01-26 06:31:40.897",
       "chat_type": "Local",
@@ -1333,7 +1309,31 @@
       "chat_type": "Local",
       "author": "BetoJinn",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "15-01-26 05:07:59.979",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "15-01-26 05:07:59.979",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "15-01-26 05:08:28.605",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "15-01-26 05:08:28.605",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-15T05:05:01.436615"
+  "timestamp": "2026-01-15T05:10:01.836449"
 }
