@@ -66,18 +66,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "15-01-26 07:03:54.738",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1360",
-      "y": "11216",
-      "z": "0",
-      "hours_survived": 9,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "3"
-    },
-    {
       "timestamp": "15-01-26 07:04:19.048",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -529,6 +517,18 @@
       "event_type": "level_up",
       "skill": "Glassmaking",
       "level": "7"
+    },
+    {
+      "timestamp": "15-01-26 09:44:38.342",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1364",
+      "y": "11212",
+      "z": "0",
+      "hours_survived": 112,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -545,5 +545,5 @@
       "text": "not working"
     }
   ],
-  "timestamp": "2026-01-15T09:40:01.845469"
+  "timestamp": "2026-01-15T09:45:01.273057"
 }
