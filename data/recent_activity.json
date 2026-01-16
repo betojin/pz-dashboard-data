@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "16-01-26 03:49:48.638",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1362",
-      "y": "11208",
-      "z": "0",
-      "hours_survived": 32,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "3"
-    },
-    {
       "timestamp": "16-01-26 03:51:03.137",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -931,6 +919,18 @@
       "event_type": "level_up",
       "skill": "Doctor",
       "level": "1"
+    },
+    {
+      "timestamp": "16-01-26 08:07:39.481",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "5681",
+      "y": "12443",
+      "z": "-17",
+      "hours_survived": 209,
+      "event_type": "level_up",
+      "skill": "Axe",
+      "level": "5"
     }
   ],
   "chat_messages": [
@@ -1235,5 +1235,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-16T08:05:01.619573"
+  "timestamp": "2026-01-16T08:10:02.068552"
 }
