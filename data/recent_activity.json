@@ -341,6 +341,15 @@
       "x": "5632",
       "y": "12498",
       "z": "0"
+    },
+    {
+      "timestamp": "16-01-26 06:48:07.725",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "disconnected",
+      "x": "5592",
+      "y": "12484",
+      "z": "0"
     }
   ],
   "perk_events": [
@@ -987,18 +996,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "16-01-26 04:27:08.116",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "16-01-26 04:27:08.117",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY!"
-    },
-    {
       "timestamp": "16-01-26 04:27:15.292",
       "chat_type": "Local",
       "author": "BetoJinn",
@@ -1285,7 +1282,19 @@
       "chat_type": "Local",
       "author": "RottenEgg",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "16-01-26 06:47:31.567",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "16-01-26 06:47:31.567",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-16T06:45:02.108918"
+  "timestamp": "2026-01-16T06:50:01.506566"
 }
