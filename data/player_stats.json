@@ -6625,9 +6625,14 @@
           "skill": "Carving",
           "level": "5",
           "timestamp": "16-01-26 05:56:06.546"
+        },
+        {
+          "skill": "Axe",
+          "level": "4",
+          "timestamp": "16-01-26 06:53:04.901"
         }
       ],
-      "last_seen": "16-01-26 06:15:44.051",
+      "last_seen": "16-01-26 06:53:04.901",
       "connections": 3
     },
     "BetoJinn": {
@@ -6964,8 +6969,8 @@
           "timestamp": "16-01-26 05:22:39.762"
         }
       ],
-      "last_seen": "16-01-26 06:42:34.181",
-      "connections": 4
+      "last_seen": "16-01-26 06:53:39.620",
+      "connections": 5
     },
     "ExpiredPork": {
       "username": "ExpiredPork",
@@ -7076,5 +7081,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-16T06:50:01.450435"
+  "timestamp": "2026-01-16T06:55:01.859384"
 }
