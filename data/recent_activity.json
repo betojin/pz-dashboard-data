@@ -273,18 +273,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "15-01-26 10:00:35.860",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1356",
-      "y": "11213",
-      "z": "0",
-      "hours_survived": 118,
-      "event_type": "level_up",
-      "skill": "Blacksmith",
-      "level": "2"
-    },
-    {
       "timestamp": "15-01-26 10:01:41.746",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -841,21 +829,21 @@
       "event_type": "level_up",
       "skill": "Mechanics",
       "level": "2"
+    },
+    {
+      "timestamp": "16-01-26 05:14:36.991",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "302",
+      "y": "9873",
+      "z": "0",
+      "hours_survived": 65,
+      "event_type": "level_up",
+      "skill": "LongBlade",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "16-01-26 04:24:21.098",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "16-01-26 04:24:21.098",
-      "chat_type": "Local",
-      "author": "BetoJinn",
-      "text": "HEY!"
-    },
     {
       "timestamp": "16-01-26 04:26:59.201",
       "chat_type": "Local",
@@ -1143,7 +1131,19 @@
       "chat_type": "Local",
       "author": "BetoJinn",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "16-01-26 05:13:02.564",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "16-01-26 05:13:02.564",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-16T05:10:01.392610"
+  "timestamp": "2026-01-16T05:15:01.174901"
 }

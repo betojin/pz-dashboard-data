@@ -6635,7 +6635,7 @@
         "Spear": 0,
         "Maintenance": 2,
         "SmallBlade": 0,
-        "LongBlade": 0,
+        "LongBlade": 1,
         "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
@@ -6927,9 +6927,14 @@
           "skill": "Aiming",
           "level": "5",
           "timestamp": "16-01-26 04:30:07.430"
+        },
+        {
+          "skill": "LongBlade",
+          "level": "1",
+          "timestamp": "16-01-26 05:14:36.991"
         }
       ],
-      "last_seen": "16-01-26 04:56:29.743",
+      "last_seen": "16-01-26 05:14:36.991",
       "connections": 3
     },
     "ExpiredPork": {
@@ -7041,5 +7046,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-16T05:10:01.337683"
+  "timestamp": "2026-01-16T05:15:01.119386"
 }
