@@ -273,18 +273,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "15-01-26 10:02:07.641",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1356",
-      "y": "11213",
-      "z": "0",
-      "hours_survived": 119,
-      "event_type": "level_up",
-      "skill": "Blacksmith",
-      "level": "4"
-    },
-    {
       "timestamp": "15-01-26 10:03:25.042",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -841,6 +829,18 @@
       "event_type": "level_up",
       "skill": "LongBlade",
       "level": "2"
+    },
+    {
+      "timestamp": "16-01-26 05:44:52.156",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1364",
+      "y": "11212",
+      "z": "0",
+      "hours_survived": 153,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1145,5 +1145,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-16T05:40:02.102931"
+  "timestamp": "2026-01-16T05:45:01.509229"
 }
