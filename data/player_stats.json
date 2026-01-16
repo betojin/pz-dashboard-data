@@ -972,6 +972,21 @@
           "skill": "Reloading",
           "level": "1",
           "timestamp": "16-01-26 04:08:14.847"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "1",
+          "timestamp": "16-01-26 04:21:10.135"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "2",
+          "timestamp": "16-01-26 04:21:10.144"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "3",
+          "timestamp": "16-01-26 04:21:44.630"
         }
       ],
       "last_seen": "31-12-25 06:27:44.672",
@@ -6892,9 +6907,14 @@
           "skill": "Aiming",
           "level": "3",
           "timestamp": "16-01-26 04:19:59.324"
+        },
+        {
+          "skill": "Aiming",
+          "level": "4",
+          "timestamp": "16-01-26 04:24:54.659"
         }
       ],
-      "last_seen": "16-01-26 04:19:59.324",
+      "last_seen": "16-01-26 04:24:54.659",
       "connections": 2
     },
     "ExpiredPork": {
@@ -7006,5 +7026,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-16T04:20:01.120235"
+  "timestamp": "2026-01-16T04:25:01.471822"
 }
