@@ -165,18 +165,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "15-01-26 08:58:12.627",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1357",
-      "y": "11217",
-      "z": "0",
-      "hours_survived": 93,
-      "event_type": "level_up",
-      "skill": "Glassmaking",
-      "level": "2"
-    },
-    {
       "timestamp": "15-01-26 09:00:30.641",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -628,6 +616,18 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "1"
+    },
+    {
+      "timestamp": "16-01-26 04:19:59.324",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "594",
+      "y": "9842",
+      "z": "0",
+      "hours_survived": 44,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -642,7 +642,67 @@
       "chat_type": "Local",
       "author": "RottenEgg",
       "text": "not working"
+    },
+    {
+      "timestamp": "16-01-26 04:19:16.212",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "16-01-26 04:19:16.212",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "16-01-26 04:19:19.720",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "16-01-26 04:19:19.720",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "16-01-26 04:19:22.158",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "16-01-26 04:19:22.158",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "16-01-26 04:19:26.773",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "16-01-26 04:19:26.773",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "16-01-26 04:19:32.304",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "16-01-26 04:19:32.304",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-16T04:15:01.764532"
+  "timestamp": "2026-01-16T04:20:01.176930"
 }
