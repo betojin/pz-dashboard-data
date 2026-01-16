@@ -273,30 +273,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "15-01-26 10:03:25.042",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1356",
-      "y": "11213",
-      "z": "0",
-      "hours_survived": 119,
-      "event_type": "level_up",
-      "skill": "Blacksmith",
-      "level": "5"
-    },
-    {
-      "timestamp": "15-01-26 10:06:10.148",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1356",
-      "y": "11213",
-      "z": "0",
-      "hours_survived": 121,
-      "event_type": "level_up",
-      "skill": "Blacksmith",
-      "level": "6"
-    },
-    {
       "timestamp": "15-01-26 10:09:49.942",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -841,6 +817,30 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "3"
+    },
+    {
+      "timestamp": "16-01-26 05:46:15.958",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1364",
+      "y": "11212",
+      "z": "0",
+      "hours_survived": 153,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "4"
+    },
+    {
+      "timestamp": "16-01-26 05:48:28.757",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1364",
+      "y": "11212",
+      "z": "0",
+      "hours_survived": 154,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "5"
     }
   ],
   "chat_messages": [
@@ -1145,5 +1145,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-16T05:45:01.509229"
+  "timestamp": "2026-01-16T05:50:01.874909"
 }
