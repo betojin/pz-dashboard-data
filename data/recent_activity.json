@@ -363,53 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "16-01-26 03:46:18.120",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10098",
-      "y": "8260",
-      "z": "0",
-      "hours_survived": 38,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 2,
-        "Fitness": 5,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 1,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 2,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "16-01-26 03:49:48.638",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -966,22 +919,22 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "16-01-26 07:27:25.922",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "5571",
+      "y": "12501",
+      "z": "-15",
+      "hours_survived": 115,
+      "event_type": "level_up",
+      "skill": "Doctor",
+      "level": "1"
     }
   ],
   "chat_messages": [
     {
-      "timestamp": "16-01-26 06:52:17.568",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "16-01-26 06:52:17.568",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
-    {
       "timestamp": "16-01-26 06:52:17.913",
       "chat_type": "Local",
       "author": "RottenEgg",
@@ -1265,10 +1218,22 @@
     },
     {
       "timestamp": "16-01-26 07:17:37.759",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "16-01-26 07:26:37.046",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "16-01-26 07:26:37.047",
       "chat_type": "Local",
       "author": "BetoJinn",
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-16T07:25:01.364961"
+  "timestamp": "2026-01-16T07:30:01.528630"
 }
