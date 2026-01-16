@@ -165,30 +165,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "15-01-26 08:42:42.128",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1363",
-      "y": "11210",
-      "z": "0",
-      "hours_survived": 87,
-      "event_type": "level_up",
-      "skill": "Pottery",
-      "level": "1"
-    },
-    {
-      "timestamp": "15-01-26 08:57:49.542",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1357",
-      "y": "11217",
-      "z": "0",
-      "hours_survived": 93,
-      "event_type": "level_up",
-      "skill": "Glassmaking",
-      "level": "1"
-    },
-    {
       "timestamp": "15-01-26 08:58:12.627",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -628,6 +604,30 @@
       "event_type": "level_up",
       "skill": "Butchering",
       "level": "2"
+    },
+    {
+      "timestamp": "16-01-26 04:06:53.735",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "9775",
+      "y": "7831",
+      "z": "0",
+      "hours_survived": 46,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "1"
+    },
+    {
+      "timestamp": "16-01-26 04:08:14.847",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "9784",
+      "y": "7816",
+      "z": "0",
+      "hours_survived": 46,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -644,5 +644,5 @@
       "text": "not working"
     }
   ],
-  "timestamp": "2026-01-16T04:05:01.932448"
+  "timestamp": "2026-01-16T04:10:01.353277"
 }
