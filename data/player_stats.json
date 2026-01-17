@@ -5930,7 +5930,7 @@
     "Bobaa": {
       "username": "Bobaa",
       "steam_id": "76561199317533255",
-      "total_hours": 152,
+      "total_hours": 171,
       "deaths": 1,
       "skills": {
         "Cooking": 3,
@@ -5957,7 +5957,7 @@
         "Spear": 0,
         "Maintenance": 2,
         "SmallBlade": 0,
-        "LongBlade": 0,
+        "LongBlade": 1,
         "SmallBlunt": 4,
         "Tailoring": 0,
         "Tracking": 0,
@@ -5999,9 +5999,14 @@
           "skill": "Cooking",
           "level": "3",
           "timestamp": "17-01-26 03:32:32.125"
+        },
+        {
+          "skill": "LongBlade",
+          "level": "1",
+          "timestamp": "17-01-26 04:19:16.055"
         }
       ],
-      "last_seen": "17-01-26 03:32:32.125",
+      "last_seen": "17-01-26 04:19:16.055",
       "connections": 1
     },
     "RottenEgg": {
@@ -6691,7 +6696,7 @@
         "Spear": 0,
         "Maintenance": 2,
         "SmallBlade": 0,
-        "LongBlade": 2,
+        "LongBlade": 3,
         "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
@@ -7038,9 +7043,19 @@
           "skill": "Aiming",
           "level": "6",
           "timestamp": "17-01-26 04:11:48.817"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "1",
+          "timestamp": "17-01-26 04:18:53.607"
+        },
+        {
+          "skill": "LongBlade",
+          "level": "3",
+          "timestamp": "17-01-26 04:19:48.030"
         }
       ],
-      "last_seen": "17-01-26 04:11:48.817",
+      "last_seen": "17-01-26 04:19:48.030",
       "connections": 11
     },
     "ExpiredPork": {
@@ -7153,5 +7168,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-17T04:15:01.200399"
+  "timestamp": "2026-01-17T04:20:01.624624"
 }

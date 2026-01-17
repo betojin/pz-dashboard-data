@@ -360,77 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "16-01-26 05:53:13.254",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1362",
-      "y": "11218",
-      "z": "0",
-      "hours_survived": 156,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "4"
-    },
-    {
-      "timestamp": "16-01-26 05:56:06.546",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1362",
-      "y": "11218",
-      "z": "0",
-      "hours_survived": 157,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "5"
-    },
-    {
-      "timestamp": "16-01-26 06:15:44.051",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1364",
-      "y": "11212",
-      "z": "0",
-      "hours_survived": 165,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 4,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 3,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 10,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 5,
-        "Blacksmith": 10,
-        "MetalWelding": 0,
-        "Mechanics": 2,
-        "Spear": 0,
-        "Maintenance": 5,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 0,
-        "Masonry": 4,
-        "Pottery": 4,
-        "Carving": 5,
-        "Butchering": 0,
-        "Glassmaking": 7
-      }
-    },
-    {
       "timestamp": "16-01-26 06:42:34.181",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -1173,21 +1102,45 @@
       "event_type": "level_up",
       "skill": "Aiming",
       "level": "6"
+    },
+    {
+      "timestamp": "17-01-26 04:18:53.607",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "2087",
+      "y": "6226",
+      "z": "0",
+      "hours_survived": 189,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "1"
+    },
+    {
+      "timestamp": "17-01-26 04:19:16.055",
+      "steam_id": "76561199317533255",
+      "username": "Bobaa",
+      "x": "2088",
+      "y": "6216",
+      "z": "0",
+      "hours_survived": 171,
+      "event_type": "level_up",
+      "skill": "LongBlade",
+      "level": "1"
+    },
+    {
+      "timestamp": "17-01-26 04:19:48.030",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "2083",
+      "y": "6223",
+      "z": "0",
+      "hours_survived": 189,
+      "event_type": "level_up",
+      "skill": "LongBlade",
+      "level": "3"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "17-01-26 03:18:12.685",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "17-01-26 03:18:12.685",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
     {
       "timestamp": "17-01-26 03:18:15.039",
       "chat_type": "Local",
@@ -1475,7 +1428,19 @@
       "chat_type": "Local",
       "author": "RottenEgg",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "17-01-26 04:15:48.894",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "17-01-26 04:15:48.894",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-17T04:15:01.260716"
+  "timestamp": "2026-01-17T04:20:01.683889"
 }
