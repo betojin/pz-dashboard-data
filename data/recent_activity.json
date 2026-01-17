@@ -300,18 +300,6 @@
       "hours_survived": 152,
       "event_type": "level_up",
       "skill": "Cooking",
-      "level": "1"
-    },
-    {
-      "timestamp": "17-01-26 03:32:27.029",
-      "steam_id": "76561199317533255",
-      "username": "Bobaa",
-      "x": "1382",
-      "y": "11204",
-      "z": "0",
-      "hours_survived": 152,
-      "event_type": "level_up",
-      "skill": "Cooking",
       "level": "2"
     },
     {
@@ -1209,6 +1197,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "17-01-26 07:13:23.406",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1362",
+      "y": "11218",
+      "z": "0",
+      "hours_survived": 321,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "8"
     }
   ],
   "chat_messages": [
@@ -1235,7 +1235,19 @@
       "chat_type": "Local",
       "author": "RottenEgg",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "17-01-26 07:14:45.748",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "17-01-26 07:14:45.749",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-17T07:10:01.344519"
+  "timestamp": "2026-01-17T07:15:01.844148"
 }
