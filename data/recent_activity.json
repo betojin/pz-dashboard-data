@@ -1,54 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "17-01-26 00:56:00.228",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "17-01-26 00:56:07.227",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "17-01-26 00:57:26.892",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "fully connected",
-      "x": "1362",
-      "y": "11208",
-      "z": "0"
-    },
-    {
-      "timestamp": "17-01-26 01:09:14.334",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "disconnected",
-      "x": "1398",
-      "y": "11164",
-      "z": "0"
-    },
-    {
-      "timestamp": "17-01-26 02:13:21.845",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "17-01-26 02:13:21.846",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "17-01-26 02:13:29.506",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "17-01-26 02:14:03.744",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -353,6 +305,54 @@
       "x": "1391",
       "y": "5817",
       "z": "0"
+    },
+    {
+      "timestamp": "17-01-26 06:08:09.442",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "disconnected",
+      "x": "1468",
+      "y": "5813",
+      "z": "0"
+    },
+    {
+      "timestamp": "17-01-26 06:08:49.215",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "17-01-26 06:08:49.216",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "17-01-26 06:09:09.017",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "disconnected",
+      "x": "1470",
+      "y": "5893",
+      "z": "0"
+    },
+    {
+      "timestamp": "17-01-26 06:09:27.233",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "17-01-26 06:09:42.857",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "17-01-26 06:09:42.858",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -1104,30 +1104,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "17-01-26 05:35:30.334",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "17-01-26 05:35:30.334",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "17-01-26 05:35:30.487",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "17-01-26 05:35:30.487",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
-    {
       "timestamp": "17-01-26 05:35:30.653",
       "chat_type": "Local",
       "author": "RottenEgg",
@@ -1402,7 +1378,31 @@
       "chat_type": "Local",
       "author": "RottenEgg",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "17-01-26 06:05:14.202",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "17-01-26 06:05:14.202",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "17-01-26 06:05:18.215",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "17-01-26 06:05:18.215",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-17T06:05:01.599859"
+  "timestamp": "2026-01-17T06:10:02.017788"
 }
