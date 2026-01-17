@@ -6666,7 +6666,7 @@
         "Electricity": 2,
         "Blacksmith": 0,
         "MetalWelding": 0,
-        "Mechanics": 0,
+        "Mechanics": 2,
         "Spear": 0,
         "Maintenance": 2,
         "SmallBlade": 0,
@@ -6977,9 +6977,19 @@
           "skill": "Doctor",
           "level": "1",
           "timestamp": "16-01-26 07:27:25.922"
+        },
+        {
+          "skill": "Mechanics",
+          "level": "1",
+          "timestamp": "17-01-26 00:43:46.547"
+        },
+        {
+          "skill": "Mechanics",
+          "level": "2",
+          "timestamp": "17-01-26 00:44:14.038"
         }
       ],
-      "last_seen": "17-01-26 00:40:01.328",
+      "last_seen": "17-01-26 00:44:14.038",
       "connections": 7
     },
     "ExpiredPork": {
@@ -7091,5 +7101,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-17T00:40:01.738360"
+  "timestamp": "2026-01-17T00:45:01.220967"
 }

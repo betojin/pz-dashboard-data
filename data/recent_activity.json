@@ -363,30 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "16-01-26 03:58:39.454",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10092",
-      "y": "8238",
-      "z": "0",
-      "hours_survived": 42,
-      "event_type": "level_up",
-      "skill": "Butchering",
-      "level": "2"
-    },
-    {
-      "timestamp": "16-01-26 04:06:53.735",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "9775",
-      "y": "7831",
-      "z": "0",
-      "hours_survived": 46,
-      "event_type": "level_up",
-      "skill": "Aiming",
-      "level": "1"
-    },
-    {
       "timestamp": "16-01-26 04:08:14.847",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1036,6 +1012,30 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "17-01-26 00:43:46.547",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1357",
+      "y": "11207",
+      "z": "0",
+      "hours_survived": 147,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "1"
+    },
+    {
+      "timestamp": "17-01-26 00:44:14.038",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1357",
+      "y": "11207",
+      "z": "0",
+      "hours_survived": 147,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1340,5 +1340,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-17T00:40:01.795250"
+  "timestamp": "2026-01-17T00:45:01.283255"
 }
