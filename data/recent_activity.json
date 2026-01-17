@@ -345,18 +345,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "17-01-26 03:50:27.059",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1362",
-      "y": "11218",
-      "z": "0",
-      "hours_survived": 246,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "6"
-    },
-    {
       "timestamp": "17-01-26 04:09:13.968",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -1263,6 +1251,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "17-01-26 08:30:01.345",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1364",
+      "y": "11211",
+      "z": "0",
+      "hours_survived": 352,
+      "event_type": "level_up",
+      "skill": "Pottery",
+      "level": "5"
     }
   ],
   "chat_messages": [
@@ -1567,5 +1567,5 @@
       "text": "ganna seed some plants on a new land to see if its still buggy"
     }
   ],
-  "timestamp": "2026-01-17T08:30:01.330787"
+  "timestamp": "2026-01-17T08:35:01.770515"
 }
