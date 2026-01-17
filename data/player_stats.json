@@ -6040,7 +6040,7 @@
         "MetalWelding": 3,
         "Mechanics": 2,
         "Spear": 0,
-        "Maintenance": 6,
+        "Maintenance": 7,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
@@ -6704,9 +6704,14 @@
           "skill": "Maintenance",
           "level": "6",
           "timestamp": "17-01-26 09:42:37.378"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "7",
+          "timestamp": "17-01-26 09:45:35.807"
         }
       ],
-      "last_seen": "17-01-26 09:42:37.378",
+      "last_seen": "17-01-26 09:45:35.807",
       "connections": 3
     },
     "BetoJinn": {
@@ -7216,5 +7221,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-17T09:45:01.079275"
+  "timestamp": "2026-01-17T09:50:01.461671"
 }

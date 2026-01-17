@@ -354,18 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "17-01-26 04:11:48.817",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "2059",
-      "y": "5873",
-      "z": "0",
-      "hours_survived": 186,
-      "event_type": "level_up",
-      "skill": "Aiming",
-      "level": "6"
-    },
-    {
       "timestamp": "17-01-26 04:18:53.607",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -1272,6 +1260,18 @@
       "event_type": "level_up",
       "skill": "Maintenance",
       "level": "6"
+    },
+    {
+      "timestamp": "17-01-26 09:45:35.807",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1364",
+      "y": "11212",
+      "z": "0",
+      "hours_survived": 382,
+      "event_type": "level_up",
+      "skill": "Maintenance",
+      "level": "7"
     }
   ],
   "chat_messages": [
@@ -1576,5 +1576,5 @@
       "text": "ganna seed some plants on a new land to see if its still buggy"
     }
   ],
-  "timestamp": "2026-01-17T09:45:01.135943"
+  "timestamp": "2026-01-17T09:50:01.519339"
 }
