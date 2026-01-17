@@ -309,18 +309,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "17-01-26 03:32:32.125",
-      "steam_id": "76561199317533255",
-      "username": "Bobaa",
-      "x": "1382",
-      "y": "11204",
-      "z": "0",
-      "hours_survived": 152,
-      "event_type": "level_up",
-      "skill": "Cooking",
-      "level": "3"
-    },
-    {
       "timestamp": "17-01-26 03:39:38.070",
       "steam_id": "76561199510927772",
       "username": "ExpiredPork",
@@ -1227,6 +1215,18 @@
       "event_type": "level_up",
       "skill": "Carving",
       "level": "9"
+    },
+    {
+      "timestamp": "17-01-26 07:31:48.337",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1360",
+      "y": "11218",
+      "z": "0",
+      "hours_survived": 329,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "10"
     }
   ],
   "chat_messages": [
@@ -1303,5 +1303,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-17T07:30:01.671485"
+  "timestamp": "2026-01-17T07:35:02.074189"
 }
