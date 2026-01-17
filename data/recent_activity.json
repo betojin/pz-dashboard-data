@@ -305,56 +305,45 @@
       "x": "1378",
       "y": "11214",
       "z": "0"
+    },
+    {
+      "timestamp": "17-01-26 08:06:48.221",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "disconnected",
+      "x": "1359",
+      "y": "11191",
+      "z": "0"
+    },
+    {
+      "timestamp": "17-01-26 08:08:21.080",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "17-01-26 08:08:21.081",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "17-01-26 08:08:27.870",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "17-01-26 08:08:50.631",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "fully connected",
+      "x": "1359",
+      "y": "11191",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "17-01-26 03:39:38.070",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "x": "1383",
-      "y": "11206",
-      "z": "0",
-      "hours_survived": 156,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 4,
-        "Strength": 7,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 2,
-        "Nimble": 2,
-        "Sprinting": 1,
-        "Sneak": 2,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "17-01-26 03:50:27.059",
       "steam_id": "76561199511597958",
@@ -1227,6 +1216,53 @@
       "event_type": "level_up",
       "skill": "Carving",
       "level": "10"
+    },
+    {
+      "timestamp": "17-01-26 08:08:51.665",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1359",
+      "y": "11191",
+      "z": "0",
+      "hours_survived": 277,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 8,
+        "Strength": 9,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 10,
+        "Aiming": 6,
+        "Reloading": 6,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 2,
+        "Mechanics": 3,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 3,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1531,5 +1567,5 @@
       "text": "ganna seed some plants on a new land to see if its still buggy"
     }
   ],
-  "timestamp": "2026-01-17T08:05:01.527022"
+  "timestamp": "2026-01-17T08:10:01.871475"
 }
