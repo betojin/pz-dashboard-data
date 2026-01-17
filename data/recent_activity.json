@@ -360,53 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "16-01-26 06:42:34.181",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "5632",
-      "y": "12498",
-      "z": "0",
-      "hours_survived": 99,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 8,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 10,
-        "Aiming": 5,
-        "Reloading": 5,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 2,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "16-01-26 06:53:04.901",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1138,6 +1091,18 @@
       "event_type": "level_up",
       "skill": "LongBlade",
       "level": "3"
+    },
+    {
+      "timestamp": "17-01-26 04:49:59.539",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "2028",
+      "y": "6374",
+      "z": "0",
+      "hours_survived": 270,
+      "event_type": "level_up",
+      "skill": "Doctor",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1442,5 +1407,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-17T04:45:01.638341"
+  "timestamp": "2026-01-17T04:50:02.021486"
 }
