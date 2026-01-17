@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "16-01-26 04:24:54.659",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "576",
-      "y": "9774",
-      "z": "0",
-      "hours_survived": 46,
-      "event_type": "level_up",
-      "skill": "Aiming",
-      "level": "4"
-    },
-    {
       "timestamp": "16-01-26 04:28:33.073",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1106,6 +1094,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "17-01-26 02:21:27.847",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1391",
+      "y": "11189",
+      "z": "0",
+      "hours_survived": 159,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1410,5 +1410,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-17T02:20:01.507610"
+  "timestamp": "2026-01-17T02:25:01.852795"
 }
