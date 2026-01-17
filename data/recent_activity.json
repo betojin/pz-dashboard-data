@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "17-01-26 04:19:16.055",
-      "steam_id": "76561199317533255",
-      "username": "Bobaa",
-      "x": "2088",
-      "y": "6216",
-      "z": "0",
-      "hours_survived": 171,
-      "event_type": "level_up",
-      "skill": "LongBlade",
-      "level": "1"
-    },
-    {
       "timestamp": "17-01-26 04:19:48.030",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -1316,6 +1304,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "17-01-26 23:09:53.246",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "2955",
+      "y": "12463",
+      "z": "0",
+      "hours_survived": 304,
+      "event_type": "level_up",
+      "skill": "MetalWelding",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1620,5 +1620,5 @@
       "text": "ganna seed some plants on a new land to see if its still buggy"
     }
   ],
-  "timestamp": "2026-01-17T23:05:01.202532"
+  "timestamp": "2026-01-17T23:10:01.630919"
 }

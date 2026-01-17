@@ -6739,7 +6739,7 @@
         "Doctor": 1,
         "Electricity": 2,
         "Blacksmith": 0,
-        "MetalWelding": 2,
+        "MetalWelding": 3,
         "Mechanics": 3,
         "Spear": 0,
         "Maintenance": 2,
@@ -7106,9 +7106,14 @@
           "skill": "Reloading",
           "level": "6",
           "timestamp": "17-01-26 06:24:42.985"
+        },
+        {
+          "skill": "MetalWelding",
+          "level": "3",
+          "timestamp": "17-01-26 23:09:53.246"
         }
       ],
-      "last_seen": "17-01-26 22:33:02.152",
+      "last_seen": "17-01-26 23:09:53.246",
       "connections": 3
     },
     "ExpiredPork": {
@@ -7221,5 +7226,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-17T23:05:01.145483"
+  "timestamp": "2026-01-17T23:10:01.573712"
 }
