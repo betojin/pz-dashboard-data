@@ -5930,10 +5930,10 @@
     "Bobaa": {
       "username": "Bobaa",
       "steam_id": "76561199317533255",
-      "total_hours": 148,
+      "total_hours": 152,
       "deaths": 1,
       "skills": {
-        "Cooking": 0,
+        "Cooking": 3,
         "Fitness": 7,
         "Strength": 7,
         "Blunt": 0,
@@ -5984,9 +5984,24 @@
           "skill": "Maintenance",
           "level": "2",
           "timestamp": "11-01-26 07:31:42.202"
+        },
+        {
+          "skill": "Cooking",
+          "level": "1",
+          "timestamp": "17-01-26 03:32:27.029"
+        },
+        {
+          "skill": "Cooking",
+          "level": "2",
+          "timestamp": "17-01-26 03:32:27.029"
+        },
+        {
+          "skill": "Cooking",
+          "level": "3",
+          "timestamp": "17-01-26 03:32:32.125"
         }
       ],
-      "last_seen": "17-01-26 03:21:24.314",
+      "last_seen": "17-01-26 03:32:32.125",
       "connections": 1
     },
     "RottenEgg": {
@@ -7122,5 +7137,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-17T03:30:01.420597"
+  "timestamp": "2026-01-17T03:35:01.867769"
 }
