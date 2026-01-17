@@ -107,21 +107,54 @@
       "x": "1483",
       "y": "5898",
       "z": "0"
+    },
+    {
+      "timestamp": "17-01-26 06:30:11.268",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "disconnected",
+      "x": "1416",
+      "y": "5872",
+      "z": "0"
+    },
+    {
+      "timestamp": "17-01-26 06:30:41.131",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "17-01-26 06:30:41.131",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "17-01-26 06:31:25.451",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "17-01-26 06:32:42.224",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "fully connected",
+      "x": "1416",
+      "y": "5872",
+      "z": "0"
+    },
+    {
+      "timestamp": "17-01-26 06:33:29.286",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "disconnected",
+      "x": "1416",
+      "y": "5872",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "17-01-26 02:21:27.847",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "1391",
-      "y": "11189",
-      "z": "0",
-      "hours_survived": 159,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "1"
-    },
     {
       "timestamp": "17-01-26 03:10:50.869",
       "steam_id": "76561199511597958",
@@ -994,6 +1027,53 @@
       "event_type": "level_up",
       "skill": "Reloading",
       "level": "6"
+    },
+    {
+      "timestamp": "17-01-26 06:32:42.748",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "x": "1416",
+      "y": "5872",
+      "z": "0",
+      "hours_survived": 220,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 7,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 1,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1008,7 +1088,19 @@
       "chat_type": "Local",
       "author": "BetoJinn",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "17-01-26 06:31:00.376",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "17-01-26 06:31:00.377",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-17T06:30:01.531474"
+  "timestamp": "2026-01-17T06:35:01.172124"
 }
