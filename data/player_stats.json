@@ -5928,7 +5928,7 @@
     "Bobaa": {
       "username": "Bobaa",
       "steam_id": "76561199317533255",
-      "total_hours": 212,
+      "total_hours": 217,
       "deaths": 1,
       "skills": {
         "Cooking": 3,
@@ -6009,7 +6009,8 @@
           "timestamp": "17-01-26 06:03:17.484"
         }
       ],
-      "last_seen": "17-01-26 06:03:17.484"
+      "last_seen": "17-01-26 06:20:36.472",
+      "connections": 1
     },
     "RottenEgg": {
       "username": "RottenEgg",
@@ -6680,7 +6681,8 @@
           "timestamp": "17-01-26 04:54:11.669"
         }
       ],
-      "last_seen": "17-01-26 06:10:18.709"
+      "last_seen": "17-01-26 06:20:47.814",
+      "connections": 1
     },
     "BetoJinn": {
       "username": "BetoJinn",
@@ -7069,15 +7071,20 @@
           "skill": "LongBlade",
           "level": "3",
           "timestamp": "17-01-26 04:19:48.030"
+        },
+        {
+          "skill": "Reloading",
+          "level": "6",
+          "timestamp": "17-01-26 06:24:42.985"
         }
       ],
-      "last_seen": "17-01-26 06:18:39.779",
+      "last_seen": "17-01-26 06:24:42.985",
       "connections": 1
     },
     "ExpiredPork": {
       "username": "ExpiredPork",
       "steam_id": "76561199510927772",
-      "total_hours": 216,
+      "total_hours": 217,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -7128,7 +7135,8 @@
           "timestamp": "11-01-26 07:25:54.804"
         }
       ],
-      "last_seen": "17-01-26 06:12:52.069"
+      "last_seen": "17-01-26 06:23:15.139",
+      "connections": 1
     },
     "Mors Deus": {
       "username": "Mors Deus",
@@ -7183,5 +7191,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-17T06:20:01.724939"
+  "timestamp": "2026-01-17T06:25:01.793716"
 }
