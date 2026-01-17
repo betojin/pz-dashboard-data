@@ -363,42 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "16-01-26 04:08:14.847",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "9784",
-      "y": "7816",
-      "z": "0",
-      "hours_survived": 46,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "1"
-    },
-    {
-      "timestamp": "16-01-26 04:19:59.324",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "594",
-      "y": "9842",
-      "z": "0",
-      "hours_survived": 44,
-      "event_type": "level_up",
-      "skill": "Aiming",
-      "level": "3"
-    },
-    {
-      "timestamp": "16-01-26 04:21:10.135",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10097",
-      "y": "8263",
-      "z": "1",
-      "hours_survived": 51,
-      "event_type": "level_up",
-      "skill": "Woodwork",
-      "level": "1"
-    },
-    {
       "timestamp": "16-01-26 04:21:10.144",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1036,6 +1000,42 @@
       "event_type": "level_up",
       "skill": "Mechanics",
       "level": "2"
+    },
+    {
+      "timestamp": "17-01-26 00:45:26.449",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1357",
+      "y": "11207",
+      "z": "0",
+      "hours_survived": 147,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "3"
+    },
+    {
+      "timestamp": "17-01-26 00:47:41.245",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1357",
+      "y": "11207",
+      "z": "0",
+      "hours_survived": 148,
+      "event_type": "level_up",
+      "skill": "MetalWelding",
+      "level": "1"
+    },
+    {
+      "timestamp": "17-01-26 00:47:41.245",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "1357",
+      "y": "11207",
+      "z": "0",
+      "hours_survived": 148,
+      "event_type": "level_up",
+      "skill": "MetalWelding",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1340,5 +1340,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-17T00:45:01.283255"
+  "timestamp": "2026-01-17T00:50:01.686631"
 }
