@@ -360,18 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "16-01-26 05:48:28.757",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1364",
-      "y": "11212",
-      "z": "0",
-      "hours_survived": 154,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "5"
-    },
-    {
       "timestamp": "16-01-26 05:53:13.254",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1173,21 +1161,21 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "1"
+    },
+    {
+      "timestamp": "17-01-26 04:11:48.817",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "2059",
+      "y": "5873",
+      "z": "0",
+      "hours_survived": 186,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "6"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "17-01-26 03:18:04.760",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "yoo"
-    },
-    {
-      "timestamp": "17-01-26 03:18:04.760",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "yoo"
-    },
     {
       "timestamp": "17-01-26 03:18:12.685",
       "chat_type": "Local",
@@ -1475,7 +1463,19 @@
       "chat_type": "Local",
       "author": "Bobaa",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "17-01-26 04:14:51.717",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "17-01-26 04:14:51.717",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-17T04:10:01.778685"
+  "timestamp": "2026-01-17T04:15:01.260716"
 }
