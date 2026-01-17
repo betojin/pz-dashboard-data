@@ -360,65 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "16-01-26 06:53:04.901",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "5579",
-      "y": "12483",
-      "z": "0",
-      "hours_survived": 180,
-      "event_type": "level_up",
-      "skill": "Axe",
-      "level": "4"
-    },
-    {
-      "timestamp": "16-01-26 06:53:39.620",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "5592",
-      "y": "12484",
-      "z": "0",
-      "hours_survived": 102,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 8,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 10,
-        "Aiming": 5,
-        "Reloading": 5,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 2,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "16-01-26 07:27:25.922",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -1103,6 +1044,30 @@
       "event_type": "level_up",
       "skill": "Doctor",
       "level": "1"
+    },
+    {
+      "timestamp": "17-01-26 04:54:00.754",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "2059",
+      "y": "6381",
+      "z": "0",
+      "hours_survived": 271,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "7"
+    },
+    {
+      "timestamp": "17-01-26 04:54:11.669",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "2058",
+      "y": "6383",
+      "z": "0",
+      "hours_survived": 272,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1407,5 +1372,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-17T04:50:02.021486"
+  "timestamp": "2026-01-17T04:55:01.408264"
 }
