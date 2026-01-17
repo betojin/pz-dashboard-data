@@ -1,36 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "16-01-26 06:42:32.262",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "fully connected",
-      "x": "5632",
-      "y": "12498",
-      "z": "0"
-    },
-    {
-      "timestamp": "16-01-26 06:48:07.725",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "disconnected",
-      "x": "5592",
-      "y": "12484",
-      "z": "0"
-    },
-    {
-      "timestamp": "16-01-26 06:53:02.818",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "16-01-26 06:53:02.818",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "16-01-26 06:53:11.502",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -359,21 +329,36 @@
       "x": "1398",
       "y": "11222",
       "z": "0"
+    },
+    {
+      "timestamp": "17-01-26 03:38:34.615",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "17-01-26 03:38:34.616",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "17-01-26 03:38:51.874",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "17-01-26 03:39:37.425",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "fully connected",
+      "x": "1383",
+      "y": "11206",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "16-01-26 05:22:39.762",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "390",
-      "y": "9677",
-      "z": "0",
-      "hours_survived": 68,
-      "event_type": "level_up",
-      "skill": "LongBlade",
-      "level": "2"
-    },
     {
       "timestamp": "16-01-26 05:44:52.156",
       "steam_id": "76561199511597958",
@@ -1141,6 +1126,53 @@
       "event_type": "level_up",
       "skill": "Cooking",
       "level": "3"
+    },
+    {
+      "timestamp": "17-01-26 03:39:38.070",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "x": "1383",
+      "y": "11206",
+      "z": "0",
+      "hours_survived": 156,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 4,
+        "Strength": 7,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 1,
+        "Sneak": 2,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1445,5 +1477,5 @@
       "text": "get on the call"
     }
   ],
-  "timestamp": "2026-01-17T03:35:01.925319"
+  "timestamp": "2026-01-17T03:40:01.314248"
 }
