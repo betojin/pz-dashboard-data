@@ -1,36 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "17-01-26 06:19:12.328",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "17-01-26 06:19:12.329",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "17-01-26 06:19:58.597",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "17-01-26 06:20:02.867",
-      "steam_id": "76561199317533255",
-      "username": "Bobaa",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "17-01-26 06:20:02.867",
-      "steam_id": "76561199317533255",
-      "username": "Bobaa",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "17-01-26 06:20:14.185",
       "steam_id": "76561199317533255",
       "username": "Bobaa",
@@ -359,21 +329,45 @@
       "x": "1140",
       "y": "10853",
       "z": "0"
+    },
+    {
+      "timestamp": "17-01-26 23:23:30.203",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "disconnected",
+      "x": "3528",
+      "y": "12754",
+      "z": "0"
+    },
+    {
+      "timestamp": "17-01-26 23:24:38.972",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "17-01-26 23:24:38.972",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "17-01-26 23:24:44.423",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "17-01-26 23:24:57.277",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "fully connected",
+      "x": "5881",
+      "y": "12331",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "17-01-26 04:19:48.030",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "2083",
-      "y": "6223",
-      "z": "0",
-      "hours_survived": 189,
-      "event_type": "level_up",
-      "skill": "LongBlade",
-      "level": "3"
-    },
     {
       "timestamp": "17-01-26 04:49:59.539",
       "steam_id": "76561199511597958",
@@ -1316,6 +1310,53 @@
       "event_type": "level_up",
       "skill": "MetalWelding",
       "level": "3"
+    },
+    {
+      "timestamp": "17-01-26 23:24:57.912",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "x": "5881",
+      "y": "12331",
+      "z": "0",
+      "hours_survived": 168,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 2,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 10,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1620,5 +1661,5 @@
       "text": "ganna seed some plants on a new land to see if its still buggy"
     }
   ],
-  "timestamp": "2026-01-17T23:20:01.376473"
+  "timestamp": "2026-01-17T23:25:01.759691"
 }
