@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "16-01-26 04:46:07.667",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "16-01-26 04:46:19.698",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "16-01-26 04:46:42.328",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -362,6 +350,18 @@
       "x": "1391",
       "y": "11189",
       "z": "0"
+    },
+    {
+      "timestamp": "17-01-26 03:10:01.056",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "17-01-26 03:10:01.057",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "allowed to join"
     }
   ],
   "perk_events": [
@@ -1413,5 +1413,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-17T03:05:01.452456"
+  "timestamp": "2026-01-17T03:10:01.869408"
 }
