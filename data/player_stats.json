@@ -6740,7 +6740,7 @@
         "Doctor": 1,
         "Electricity": 2,
         "Blacksmith": 0,
-        "MetalWelding": 3,
+        "MetalWelding": 4,
         "Mechanics": 3,
         "Spear": 0,
         "Maintenance": 2,
@@ -7112,10 +7112,15 @@
           "skill": "MetalWelding",
           "level": "3",
           "timestamp": "17-01-26 23:09:53.246"
+        },
+        {
+          "skill": "MetalWelding",
+          "level": "4",
+          "timestamp": "17-01-26 23:58:39.539"
         }
       ],
-      "last_seen": "17-01-26 23:32:27.290",
-      "connections": 4
+      "last_seen": "17-01-26 23:58:39.539",
+      "connections": 5
     },
     "ExpiredPork": {
       "username": "ExpiredPork",
@@ -7227,5 +7232,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-17T23:55:01.296899"
+  "timestamp": "2026-01-18T00:00:01.687033"
 }
