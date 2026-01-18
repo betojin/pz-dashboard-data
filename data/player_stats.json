@@ -7267,7 +7267,7 @@
     "Doug": {
       "username": "Doug",
       "steam_id": "76561198205566729",
-      "total_hours": 25,
+      "total_hours": 28,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -7285,7 +7285,7 @@
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
-        "PlantScavenging": 1,
+        "PlantScavenging": 2,
         "Doctor": 0,
         "Electricity": 1,
         "Blacksmith": 0,
@@ -7311,12 +7311,17 @@
           "skill": "PlantScavenging",
           "level": "1",
           "timestamp": "18-01-26 07:04:37.150"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "2",
+          "timestamp": "18-01-26 07:20:47.827"
         }
       ],
-      "last_seen": "18-01-26 07:12:14.171",
+      "last_seen": "18-01-26 07:20:47.827",
       "connections": 4
     }
   },
   "total_players": 48,
-  "timestamp": "2026-01-18T07:20:01.331067"
+  "timestamp": "2026-01-18T07:25:01.698173"
 }

@@ -312,18 +312,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "17-01-26 08:30:01.345",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1364",
-      "y": "11211",
-      "z": "0",
-      "hours_survived": 352,
-      "event_type": "level_up",
-      "skill": "Pottery",
-      "level": "5"
-    },
-    {
       "timestamp": "17-01-26 09:42:37.378",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1265,6 +1253,18 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "18-01-26 07:20:47.827",
+      "steam_id": "76561198205566729",
+      "username": "Doug",
+      "x": "11555",
+      "y": "9315",
+      "z": "0",
+      "hours_survived": 28,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1569,5 +1569,5 @@
       "text": "I suppose i should ask, is there anything that you guys are needing or looking for that I can give?"
     }
   ],
-  "timestamp": "2026-01-18T07:20:01.391372"
+  "timestamp": "2026-01-18T07:25:01.757310"
 }
