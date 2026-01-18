@@ -6021,7 +6021,7 @@
         "Fitness": 9,
         "Strength": 10,
         "Blunt": 1,
-        "Axe": 5,
+        "Axe": 6,
         "Lightfoot": 0,
         "Nimble": 0,
         "Sprinting": 3,
@@ -6713,9 +6713,14 @@
           "skill": "MetalWelding",
           "level": "1",
           "timestamp": "18-01-26 05:53:50.428"
+        },
+        {
+          "skill": "Axe",
+          "level": "6",
+          "timestamp": "18-01-26 06:03:45.252"
         }
       ],
-      "last_seen": "18-01-26 05:53:50.428",
+      "last_seen": "18-01-26 06:03:45.252",
       "connections": 1
     },
     "BetoJinn": {
@@ -7252,8 +7257,54 @@
         }
       ],
       "last_seen": "11-01-26 18:57:07.520"
+    },
+    "Doug": {
+      "username": "Doug",
+      "steam_id": "76561198205566729",
+      "total_hours": 0,
+      "deaths": 0,
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 1,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 1,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 2,
+        "Butchering": 0,
+        "Glassmaking": 0
+      },
+      "level_ups": [],
+      "last_seen": "18-01-26 06:02:18.995",
+      "connections": 1
     }
   },
-  "total_players": 47,
-  "timestamp": "2026-01-18T06:00:01.814227"
+  "total_players": 48,
+  "timestamp": "2026-01-18T06:05:01.801335"
 }
