@@ -231,18 +231,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "17-01-26 07:28:34.547",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1360",
-      "y": "11218",
-      "z": "0",
-      "hours_survived": 327,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "9"
-    },
-    {
       "timestamp": "17-01-26 07:31:48.337",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1149,33 +1137,21 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "18-01-26 07:04:37.150",
+      "steam_id": "76561198205566729",
+      "username": "Doug",
+      "x": "10837",
+      "y": "9642",
+      "z": "0",
+      "hours_survived": 23,
+      "event_type": "level_up",
+      "skill": "PlantScavenging",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "18-01-26 06:34:24.709",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "18-01-26 06:34:24.710",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "18-01-26 06:34:26.409",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "18-01-26 06:34:26.410",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
     {
       "timestamp": "18-01-26 06:34:28.378",
       "chat_type": "Local",
@@ -1451,7 +1427,31 @@
       "chat_type": "General",
       "author": "Doug",
       "text": "nice"
+    },
+    {
+      "timestamp": "18-01-26 07:02:45.539",
+      "chat_type": "General",
+      "author": "BetoJinn",
+      "text": "so you can get some loot to start your journey from here"
+    },
+    {
+      "timestamp": "18-01-26 07:02:45.539",
+      "chat_type": "General",
+      "author": "BetoJinn",
+      "text": "so you can get some loot to start your journey from here"
+    },
+    {
+      "timestamp": "18-01-26 07:04:24.343",
+      "chat_type": "General",
+      "author": "BetoJinn",
+      "text": "strong one i see"
+    },
+    {
+      "timestamp": "18-01-26 07:04:24.343",
+      "chat_type": "General",
+      "author": "BetoJinn",
+      "text": "strong one i see"
     }
   ],
-  "timestamp": "2026-01-18T07:00:01.868959"
+  "timestamp": "2026-01-18T07:05:01.241723"
 }
