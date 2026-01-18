@@ -321,18 +321,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "17-01-26 09:42:37.378",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1364",
-      "y": "11212",
-      "z": "0",
-      "hours_survived": 381,
-      "event_type": "level_up",
-      "skill": "Maintenance",
-      "level": "6"
-    },
-    {
       "timestamp": "17-01-26 09:45:35.807",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1274,6 +1262,18 @@
       "event_type": "level_up",
       "skill": "PlantScavenging",
       "level": "2"
+    },
+    {
+      "timestamp": "18-01-26 07:32:11.873",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1365",
+      "y": "11207",
+      "z": "0",
+      "hours_survived": 467,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1578,5 +1578,5 @@
       "text": "I suppose i should ask, is there anything that you guys are needing or looking for that I can give?"
     }
   ],
-  "timestamp": "2026-01-18T07:30:01.232150"
+  "timestamp": "2026-01-18T07:35:01.596569"
 }
