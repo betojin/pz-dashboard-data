@@ -6044,7 +6044,7 @@
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
-        "Tailoring": 3,
+        "Tailoring": 4,
         "Tracking": 0,
         "Husbandry": 2,
         "FlintKnapping": 0,
@@ -6739,9 +6739,14 @@
           "skill": "Tailoring",
           "level": "3",
           "timestamp": "18-01-26 07:50:30.136"
+        },
+        {
+          "skill": "Tailoring",
+          "level": "4",
+          "timestamp": "18-01-26 08:08:44.641"
         }
       ],
-      "last_seen": "18-01-26 07:50:30.136",
+      "last_seen": "18-01-26 08:08:44.641",
       "connections": 1
     },
     "BetoJinn": {
@@ -7348,5 +7353,5 @@
     }
   },
   "total_players": 48,
-  "timestamp": "2026-01-18T08:05:01.665188"
+  "timestamp": "2026-01-18T08:10:02.025454"
 }

@@ -357,53 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "17-01-26 23:57:21.655",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "3916",
-      "y": "13822",
-      "z": "0",
-      "hours_survived": 319,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 8,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 1,
-        "Sneak": 0,
-        "Woodwork": 10,
-        "Aiming": 6,
-        "Reloading": 6,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 3,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 3,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "17-01-26 23:58:39.539",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -1240,6 +1193,18 @@
       "event_type": "level_up",
       "skill": "Tailoring",
       "level": "3"
+    },
+    {
+      "timestamp": "18-01-26 08:08:44.641",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1365",
+      "y": "11207",
+      "z": "0",
+      "hours_survived": 482,
+      "event_type": "level_up",
+      "skill": "Tailoring",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1544,5 +1509,5 @@
       "text": "alright"
     }
   ],
-  "timestamp": "2026-01-18T08:05:01.723882"
+  "timestamp": "2026-01-18T08:10:02.084635"
 }
