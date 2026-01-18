@@ -6037,7 +6037,7 @@
         "Doctor": 2,
         "Electricity": 5,
         "Blacksmith": 10,
-        "MetalWelding": 4,
+        "MetalWelding": 5,
         "Mechanics": 2,
         "Spear": 0,
         "Maintenance": 8,
@@ -6759,9 +6759,14 @@
           "skill": "Maintenance",
           "level": "8",
           "timestamp": "18-01-26 09:05:19.295"
+        },
+        {
+          "skill": "MetalWelding",
+          "level": "5",
+          "timestamp": "18-01-26 09:26:05.498"
         }
       ],
-      "last_seen": "18-01-26 09:05:19.295",
+      "last_seen": "18-01-26 09:26:05.498",
       "connections": 1
     },
     "BetoJinn": {
@@ -7383,5 +7388,5 @@
     }
   },
   "total_players": 48,
-  "timestamp": "2026-01-18T09:25:01.377665"
+  "timestamp": "2026-01-18T09:30:01.768565"
 }
