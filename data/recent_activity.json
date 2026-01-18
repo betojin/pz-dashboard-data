@@ -227,21 +227,45 @@
       "x": "10946",
       "y": "9767",
       "z": "0"
+    },
+    {
+      "timestamp": "18-01-26 07:06:11.201",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "action": "disconnected",
+      "x": "1398",
+      "y": "11164",
+      "z": "0"
+    },
+    {
+      "timestamp": "18-01-26 07:06:32.167",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "18-01-26 07:06:32.167",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "18-01-26 07:06:37.435",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "18-01-26 07:06:51.714",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "fully connected",
+      "x": "5880",
+      "y": "12331",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "17-01-26 07:31:48.337",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1360",
-      "y": "11218",
-      "z": "0",
-      "hours_survived": 329,
-      "event_type": "level_up",
-      "skill": "Carving",
-      "level": "10"
-    },
     {
       "timestamp": "17-01-26 08:08:51.665",
       "steam_id": "76561198065774641",
@@ -1149,21 +1173,56 @@
       "event_type": "level_up",
       "skill": "PlantScavenging",
       "level": "1"
+    },
+    {
+      "timestamp": "18-01-26 07:06:52.410",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "x": "5880",
+      "y": "12331",
+      "z": "0",
+      "hours_survived": 170,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 2,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 10,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 1,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "18-01-26 06:34:28.378",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "18-01-26 06:34:28.378",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "18-01-26 06:36:17.338",
       "chat_type": "Local",
@@ -1451,7 +1510,19 @@
       "chat_type": "General",
       "author": "BetoJinn",
       "text": "strong one i see"
+    },
+    {
+      "timestamp": "18-01-26 07:05:06.661",
+      "chat_type": "General",
+      "author": "Doug",
+      "text": "well i got a gas can, a hose and a dream so let us pray"
+    },
+    {
+      "timestamp": "18-01-26 07:05:06.661",
+      "chat_type": "General",
+      "author": "Doug",
+      "text": "well i got a gas can, a hose and a dream so let us pray"
     }
   ],
-  "timestamp": "2026-01-18T07:05:01.241723"
+  "timestamp": "2026-01-18T07:10:01.604326"
 }
