@@ -7287,7 +7287,7 @@
     "Doug": {
       "username": "Doug",
       "steam_id": "76561198205566729",
-      "total_hours": 49,
+      "total_hours": 54,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -7315,7 +7315,7 @@
         "Maintenance": 0,
         "SmallBlade": 0,
         "LongBlade": 0,
-        "SmallBlunt": 1,
+        "SmallBlunt": 2,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
@@ -7356,12 +7356,17 @@
           "skill": "Carving",
           "level": "4",
           "timestamp": "18-01-26 08:21:20.900"
+        },
+        {
+          "skill": "SmallBlunt",
+          "level": "2",
+          "timestamp": "18-01-26 08:33:55.840"
         }
       ],
-      "last_seen": "18-01-26 08:21:20.900",
+      "last_seen": "18-01-26 08:33:55.840",
       "connections": 5
     }
   },
   "total_players": 48,
-  "timestamp": "2026-01-18T08:30:01.664756"
+  "timestamp": "2026-01-18T08:35:01.073777"
 }

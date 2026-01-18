@@ -357,18 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "18-01-26 00:11:54.153",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "3836",
-      "y": "14421",
-      "z": "0",
-      "hours_survived": 325,
-      "event_type": "level_up",
-      "skill": "Electricity",
-      "level": "1"
-    },
-    {
       "timestamp": "18-01-26 03:48:45.866",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1205,6 +1193,18 @@
       "event_type": "level_up",
       "skill": "Carving",
       "level": "4"
+    },
+    {
+      "timestamp": "18-01-26 08:33:55.840",
+      "steam_id": "76561198205566729",
+      "username": "Doug",
+      "x": "12092",
+      "y": "7164",
+      "z": "0",
+      "hours_survived": 54,
+      "event_type": "level_up",
+      "skill": "SmallBlunt",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1509,5 +1509,5 @@
       "text": "alright"
     }
   ],
-  "timestamp": "2026-01-18T08:30:01.723388"
+  "timestamp": "2026-01-18T08:35:01.133746"
 }
