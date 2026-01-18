@@ -357,18 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "17-01-26 23:58:39.539",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "3915",
-      "y": "13821",
-      "z": "0",
-      "hours_survived": 320,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "4"
-    },
-    {
       "timestamp": "18-01-26 00:09:12.923",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -1205,6 +1193,18 @@
       "event_type": "level_up",
       "skill": "Tailoring",
       "level": "4"
+    },
+    {
+      "timestamp": "18-01-26 08:15:13.282",
+      "steam_id": "76561198205566729",
+      "username": "Doug",
+      "x": "10043",
+      "y": "8062",
+      "z": "0",
+      "hours_survived": 46,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1509,5 +1509,5 @@
       "text": "alright"
     }
   ],
-  "timestamp": "2026-01-18T08:15:01.469337"
+  "timestamp": "2026-01-18T08:20:01.892961"
 }
