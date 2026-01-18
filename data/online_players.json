@@ -1,12 +1,12 @@
 {
-  "count": 2,
+  "count": 3,
   "players": [
     {
       "username": "BetoJinn",
       "steam_id": "76561198065774641",
       "connected_at": "18-01-26 04:33:15.781",
-      "x": 1833,
-      "y": 14191,
+      "x": 1851,
+      "y": 14135,
       "z": 0,
       "online": true
     },
@@ -18,7 +18,16 @@
       "y": 11190,
       "z": 0,
       "online": true
+    },
+    {
+      "username": "ExpiredPork",
+      "steam_id": "76561199510927772",
+      "connected_at": "18-01-26 05:00:09.081",
+      "x": 1378,
+      "y": 11214,
+      "z": 0,
+      "online": true
     }
   ],
-  "timestamp": "2026-01-18T05:00:02.011535"
+  "timestamp": "2026-01-18T05:05:01.440600"
 }
