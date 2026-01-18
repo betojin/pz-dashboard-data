@@ -299,6 +299,15 @@
       "x": "10843",
       "y": "9630",
       "z": "0"
+    },
+    {
+      "timestamp": "18-01-26 07:16:50.468",
+      "steam_id": "76561198065774641",
+      "username": "admin",
+      "action": "disconnected",
+      "x": "11597",
+      "y": "9293",
+      "z": "0"
     }
   ],
   "perk_events": [
@@ -1260,18 +1269,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "18-01-26 06:36:17.338",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "18-01-26 06:36:17.338",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
       "timestamp": "18-01-26 06:36:17.543",
       "chat_type": "Local",
       "author": "ExpiredPork",
@@ -1558,7 +1555,19 @@
       "chat_type": "General",
       "author": "Doug",
       "text": "well i got a gas can, a hose and a dream so let us pray"
+    },
+    {
+      "timestamp": "18-01-26 07:18:32.303",
+      "chat_type": "General",
+      "author": "Doug",
+      "text": "I suppose i should ask, is there anything that you guys are needing or looking for that I can give?"
+    },
+    {
+      "timestamp": "18-01-26 07:18:32.304",
+      "chat_type": "General",
+      "author": "Doug",
+      "text": "I suppose i should ask, is there anything that you guys are needing or looking for that I can give?"
     }
   ],
-  "timestamp": "2026-01-18T07:15:01.983879"
+  "timestamp": "2026-01-18T07:20:01.391372"
 }
