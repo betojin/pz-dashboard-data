@@ -7133,7 +7133,7 @@
     "ExpiredPork": {
       "username": "ExpiredPork",
       "steam_id": "76561199510927772",
-      "total_hours": 231,
+      "total_hours": 251,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -7160,7 +7160,7 @@
         "Spear": 0,
         "Maintenance": 0,
         "SmallBlade": 0,
-        "LongBlade": 0,
+        "LongBlade": 1,
         "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
@@ -7182,9 +7182,14 @@
           "skill": "SmallBlunt",
           "level": "1",
           "timestamp": "11-01-26 07:25:54.804"
+        },
+        {
+          "skill": "LongBlade",
+          "level": "1",
+          "timestamp": "18-01-26 05:49:26.410"
         }
       ],
-      "last_seen": "18-01-26 05:00:09.731",
+      "last_seen": "18-01-26 05:49:26.410",
       "connections": 1
     },
     "Mors Deus": {
@@ -7240,5 +7245,5 @@
     }
   },
   "total_players": 47,
-  "timestamp": "2026-01-18T05:45:01.607998"
+  "timestamp": "2026-01-18T05:50:02.043955"
 }
