@@ -7287,7 +7287,7 @@
     "Doug": {
       "username": "Doug",
       "steam_id": "76561198205566729",
-      "total_hours": 46,
+      "total_hours": 49,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -7322,7 +7322,7 @@
         "FlintKnapping": 0,
         "Masonry": 1,
         "Pottery": 0,
-        "Carving": 3,
+        "Carving": 4,
         "Butchering": 0,
         "Glassmaking": 0
       },
@@ -7351,12 +7351,17 @@
           "skill": "Carving",
           "level": "3",
           "timestamp": "18-01-26 08:15:13.282"
+        },
+        {
+          "skill": "Carving",
+          "level": "4",
+          "timestamp": "18-01-26 08:21:20.900"
         }
       ],
-      "last_seen": "18-01-26 08:15:13.282",
+      "last_seen": "18-01-26 08:21:20.900",
       "connections": 5
     }
   },
   "total_players": 48,
-  "timestamp": "2026-01-18T08:20:01.832877"
+  "timestamp": "2026-01-18T08:25:01.219952"
 }

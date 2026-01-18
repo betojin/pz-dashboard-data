@@ -357,18 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "18-01-26 00:09:12.923",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "3838",
-      "y": "14431",
-      "z": "0",
-      "hours_survived": 324,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "2"
-    },
-    {
       "timestamp": "18-01-26 00:11:54.153",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -1205,6 +1193,18 @@
       "event_type": "level_up",
       "skill": "Carving",
       "level": "3"
+    },
+    {
+      "timestamp": "18-01-26 08:21:20.900",
+      "steam_id": "76561198205566729",
+      "username": "Doug",
+      "x": "10043",
+      "y": "8060",
+      "z": "0",
+      "hours_survived": 49,
+      "event_type": "level_up",
+      "skill": "Carving",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1509,5 +1509,5 @@
       "text": "alright"
     }
   ],
-  "timestamp": "2026-01-18T08:20:01.892961"
+  "timestamp": "2026-01-18T08:25:01.279762"
 }
