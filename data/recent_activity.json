@@ -1,72 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "17-01-26 07:03:07.182",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "17-01-26 07:03:14.257",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "17-01-26 07:03:14.258",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "17-01-26 07:03:27.198",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "17-01-26 07:03:52.106",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "17-01-26 07:03:58.671",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "fully connected",
-      "x": "1387",
-      "y": "11219",
-      "z": "0"
-    },
-    {
-      "timestamp": "17-01-26 07:05:56.170",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "fully connected",
-      "x": "1379",
-      "y": "11221",
-      "z": "0"
-    },
-    {
-      "timestamp": "17-01-26 07:16:39.078",
-      "steam_id": "76561199317533255",
-      "username": "Bobaa",
-      "action": "disconnected",
-      "x": "1383",
-      "y": "11205",
-      "z": "1"
-    },
-    {
-      "timestamp": "17-01-26 07:17:13.547",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "action": "disconnected",
-      "x": "1378",
-      "y": "11214",
-      "z": "0"
-    },
-    {
       "timestamp": "17-01-26 08:06:48.221",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -362,6 +296,60 @@
       "x": "1369",
       "y": "11216",
       "z": "0"
+    },
+    {
+      "timestamp": "18-01-26 04:10:15.351",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "18-01-26 04:10:15.351",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "18-01-26 04:10:59.911",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "18-01-26 04:13:26.192",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "18-01-26 04:13:26.193",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "18-01-26 04:13:55.059",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "18-01-26 04:13:55.059",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "18-01-26 04:14:33.932",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "18-01-26 04:14:50.933",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1693,5 +1681,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-18T04:10:01.334917"
+  "timestamp": "2026-01-18T04:15:01.708942"
 }
