@@ -191,6 +191,33 @@
       "x": "10921",
       "y": "10132",
       "z": "0"
+    },
+    {
+      "timestamp": "18-01-26 06:43:46.646",
+      "steam_id": "76561198205566729",
+      "username": "Doug",
+      "action": "disconnected",
+      "x": "10946",
+      "y": "9767",
+      "z": "0"
+    },
+    {
+      "timestamp": "18-01-26 06:44:20.619",
+      "steam_id": "76561198205566729",
+      "username": "Doug",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "18-01-26 06:44:20.619",
+      "steam_id": "76561198205566729",
+      "username": "Doug",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "18-01-26 06:44:45.893",
+      "steam_id": "76561198205566729",
+      "username": "Doug",
+      "action": "attempting to join"
     }
   ],
   "perk_events": [
@@ -1082,18 +1109,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "18-01-26 06:26:32.176",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "18-01-26 06:26:32.177",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
       "timestamp": "18-01-26 06:26:32.342",
       "chat_type": "Local",
       "author": "ExpiredPork",
@@ -1380,7 +1395,19 @@
       "chat_type": "Local",
       "author": "ExpiredPork",
       "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "18-01-26 06:43:45.628",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "18-01-26 06:43:45.628",
+      "chat_type": "Local",
+      "author": "ExpiredPork",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-18T06:40:01.256311"
+  "timestamp": "2026-01-18T06:45:01.589271"
 }
