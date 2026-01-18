@@ -1,12 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "18-01-26 04:28:07.739",
-      "steam_id": "76561198065774641",
-      "username": "Betojinn",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "18-01-26 04:30:25.439",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -355,6 +349,15 @@
       "action": "disconnected",
       "x": "12126",
       "y": "6990",
+      "z": "0"
+    },
+    {
+      "timestamp": "18-01-26 10:25:14.956",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "disconnected",
+      "x": "1363",
+      "y": "11211",
       "z": "0"
     }
   ],
@@ -1372,5 +1375,5 @@
       "text": "alright"
     }
   ],
-  "timestamp": "2026-01-18T10:25:01.762750"
+  "timestamp": "2026-01-18T10:30:01.209063"
 }
