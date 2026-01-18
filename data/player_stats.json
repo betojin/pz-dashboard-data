@@ -6044,7 +6044,7 @@
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 0,
-        "Tailoring": 1,
+        "Tailoring": 2,
         "Tracking": 0,
         "Husbandry": 2,
         "FlintKnapping": 0,
@@ -6729,9 +6729,14 @@
           "skill": "Tailoring",
           "level": "1",
           "timestamp": "18-01-26 07:32:11.873"
+        },
+        {
+          "skill": "Tailoring",
+          "level": "2",
+          "timestamp": "18-01-26 07:37:39.082"
         }
       ],
-      "last_seen": "18-01-26 07:32:11.873",
+      "last_seen": "18-01-26 07:37:39.082",
       "connections": 1
     },
     "BetoJinn": {
@@ -7272,7 +7277,7 @@
     "Doug": {
       "username": "Doug",
       "steam_id": "76561198205566729",
-      "total_hours": 28,
+      "total_hours": 32,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -7290,7 +7295,7 @@
         "Farming": 0,
         "Fishing": 0,
         "Trapping": 0,
-        "PlantScavenging": 2,
+        "PlantScavenging": 3,
         "Doctor": 0,
         "Electricity": 1,
         "Blacksmith": 0,
@@ -7300,7 +7305,7 @@
         "Maintenance": 0,
         "SmallBlade": 0,
         "LongBlade": 0,
-        "SmallBlunt": 0,
+        "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
@@ -7321,12 +7326,22 @@
           "skill": "PlantScavenging",
           "level": "2",
           "timestamp": "18-01-26 07:20:47.827"
+        },
+        {
+          "skill": "PlantScavenging",
+          "level": "3",
+          "timestamp": "18-01-26 07:38:23.674"
+        },
+        {
+          "skill": "SmallBlunt",
+          "level": "1",
+          "timestamp": "18-01-26 07:39:36.943"
         }
       ],
-      "last_seen": "18-01-26 07:20:47.827",
-      "connections": 4
+      "last_seen": "18-01-26 07:39:36.943",
+      "connections": 5
     }
   },
   "total_players": 48,
-  "timestamp": "2026-01-18T07:35:01.538599"
+  "timestamp": "2026-01-18T07:40:01.906949"
 }
