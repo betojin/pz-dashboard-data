@@ -6014,7 +6014,7 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 536,
+      "total_hours": 541,
       "deaths": 1,
       "skills": {
         "Cooking": 5,
@@ -6763,9 +6763,14 @@
           "skill": "MetalWelding",
           "level": "5",
           "timestamp": "18-01-26 09:26:05.498"
+        },
+        {
+          "skill": "Sprinting",
+          "level": "3",
+          "timestamp": "19-01-26 05:50:45.440"
         }
       ],
-      "last_seen": "19-01-26 05:38:09.922",
+      "last_seen": "19-01-26 05:50:45.440",
       "connections": 1
     },
     "BetoJinn": {
@@ -7385,5 +7390,5 @@
     }
   },
   "total_players": 48,
-  "timestamp": "2026-01-19T05:50:01.437083"
+  "timestamp": "2026-01-19T05:55:01.830186"
 }
