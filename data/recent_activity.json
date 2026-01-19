@@ -66,18 +66,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "18-01-26 05:49:26.410",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "x": "2878",
-      "y": "12552",
-      "z": "0",
-      "hours_survived": 251,
-      "event_type": "level_up",
-      "skill": "LongBlade",
-      "level": "1"
-    },
-    {
       "timestamp": "18-01-26 05:53:50.428",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -739,6 +727,18 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "3"
+    },
+    {
+      "timestamp": "19-01-26 09:05:57.968",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1406",
+      "y": "11189",
+      "z": "0",
+      "hours_survived": 619,
+      "event_type": "level_up",
+      "skill": "Butchering",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -755,5 +755,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-19T09:05:01.819541"
+  "timestamp": "2026-01-19T09:10:01.256445"
 }
