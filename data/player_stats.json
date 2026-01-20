@@ -447,7 +447,7 @@
         "Woodwork": 10,
         "Aiming": 4,
         "Reloading": 5,
-        "Farming": 0,
+        "Farming": 2,
         "Fishing": 4,
         "Trapping": 0,
         "PlantScavenging": 6,
@@ -986,9 +986,20 @@
           "skill": "Woodwork",
           "level": "3",
           "timestamp": "16-01-26 04:21:44.630"
+        },
+        {
+          "skill": "Farming",
+          "level": "1",
+          "timestamp": "20-01-26 01:47:33.174"
+        },
+        {
+          "skill": "Farming",
+          "level": "2",
+          "timestamp": "20-01-26 01:47:39.976"
         }
       ],
-      "last_seen": "31-12-25 06:27:44.672"
+      "last_seen": "31-12-25 06:27:44.672",
+      "connections": 1
     },
     "Firestorm3050": {
       "username": "Firestorm3050",
@@ -7395,5 +7406,5 @@
     }
   },
   "total_players": 48,
-  "timestamp": "2026-01-20T01:45:01.109311"
+  "timestamp": "2026-01-20T01:50:01.517391"
 }

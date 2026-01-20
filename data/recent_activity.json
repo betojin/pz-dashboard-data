@@ -71,80 +71,36 @@
       "x": "1361",
       "y": "11216",
       "z": "0"
+    },
+    {
+      "timestamp": "20-01-26 01:45:30.924",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "20-01-26 01:45:30.924",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "20-01-26 01:45:45.737",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "20-01-26 01:46:23.668",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "fully connected",
+      "x": "10085",
+      "y": "8262",
+      "z": "1"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "18-01-26 05:53:50.428",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "2925",
-      "y": "12614",
-      "z": "0",
-      "hours_survived": 428,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "1"
-    },
-    {
-      "timestamp": "18-01-26 05:58:16.650",
-      "steam_id": "76561199510927772",
-      "username": "ExpiredPork",
-      "x": "2926",
-      "y": "12500",
-      "z": "0",
-      "hours_survived": 255,
-      "event_type": "level_up",
-      "skill": "Sprinting",
-      "level": "2"
-    },
-    {
-      "timestamp": "18-01-26 06:02:18.995",
-      "steam_id": "76561198205566729",
-      "username": "Doug",
-      "x": "10916",
-      "y": "10133",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 1,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 1,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 2,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "18-01-26 06:03:45.252",
       "steam_id": "76561199511597958",
@@ -748,6 +704,77 @@
       "event_type": "level_up",
       "skill": "Butchering",
       "level": "1"
+    },
+    {
+      "timestamp": "20-01-26 01:46:24.466",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10085",
+      "y": "8262",
+      "z": "1",
+      "hours_survived": 57,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 2,
+        "Fitness": 5,
+        "Strength": 9,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 2,
+        "Sprinting": 1,
+        "Sneak": 2,
+        "Woodwork": 3,
+        "Aiming": 1,
+        "Reloading": 1,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 2,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 2,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "20-01-26 01:47:33.174",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10088",
+      "y": "8247",
+      "z": "0",
+      "hours_survived": 57,
+      "event_type": "level_up",
+      "skill": "Farming",
+      "level": "1"
+    },
+    {
+      "timestamp": "20-01-26 01:47:39.976",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10087",
+      "y": "8248",
+      "z": "0",
+      "hours_survived": 57,
+      "event_type": "level_up",
+      "skill": "Farming",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -764,5 +791,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-20T01:45:01.167648"
+  "timestamp": "2026-01-20T01:50:01.575044"
 }
