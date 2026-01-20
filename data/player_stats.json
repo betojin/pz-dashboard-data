@@ -6025,7 +6025,7 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 630,
+      "total_hours": 637,
       "deaths": 1,
       "skills": {
         "Cooking": 5,
@@ -6048,7 +6048,7 @@
         "Electricity": 5,
         "Blacksmith": 10,
         "MetalWelding": 5,
-        "Mechanics": 2,
+        "Mechanics": 3,
         "Spear": 0,
         "Maintenance": 8,
         "SmallBlade": 0,
@@ -6784,9 +6784,14 @@
           "skill": "Butchering",
           "level": "1",
           "timestamp": "19-01-26 09:05:57.968"
+        },
+        {
+          "skill": "Mechanics",
+          "level": "3",
+          "timestamp": "20-01-26 05:56:41.175"
         }
       ],
-      "last_seen": "20-01-26 05:38:40.020",
+      "last_seen": "20-01-26 05:56:41.175",
       "connections": 2
     },
     "BetoJinn": {
@@ -7406,5 +7411,5 @@
     }
   },
   "total_players": 48,
-  "timestamp": "2026-01-20T05:55:01.207435"
+  "timestamp": "2026-01-20T06:00:01.625911"
 }
