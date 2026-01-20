@@ -138,18 +138,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "18-01-26 06:07:09.943",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "2945",
-      "y": "12606",
-      "z": "0",
-      "hours_survived": 433,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "2"
-    },
-    {
       "timestamp": "18-01-26 06:45:14.981",
       "steam_id": "76561198205566729",
       "username": "Doug",
@@ -811,6 +799,18 @@
       "event_type": "level_up",
       "skill": "Mechanics",
       "level": "3"
+    },
+    {
+      "timestamp": "20-01-26 06:35:38.083",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "7257",
+      "y": "8335",
+      "z": "0",
+      "hours_survived": 652,
+      "event_type": "level_up",
+      "skill": "Nimble",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -861,7 +861,55 @@
       "chat_type": "Local",
       "author": "RottenEgg",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "20-01-26 06:36:14.307",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "20-01-26 06:36:14.308",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "20-01-26 06:38:04.502",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "20-01-26 06:38:04.502",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "20-01-26 06:38:50.351",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "hey"
+    },
+    {
+      "timestamp": "20-01-26 06:38:50.351",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "hey"
+    },
+    {
+      "timestamp": "20-01-26 06:38:53.120",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "pssst!"
+    },
+    {
+      "timestamp": "20-01-26 06:38:53.121",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "pssst!"
     }
   ],
-  "timestamp": "2026-01-20T06:35:01.935476"
+  "timestamp": "2026-01-20T06:40:01.490547"
 }
