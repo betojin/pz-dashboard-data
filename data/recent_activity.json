@@ -266,21 +266,45 @@
       "steam_id": "76561197967011914",
       "username": "polecat",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "21-01-26 08:33:11.460",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "disconnected",
+      "x": "6109",
+      "y": "9482",
+      "z": "0"
+    },
+    {
+      "timestamp": "21-01-26 08:33:31.986",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-01-26 08:33:31.987",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "21-01-26 08:33:41.289",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "21-01-26 08:33:57.640",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "fully connected",
+      "x": "6109",
+      "y": "9482",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "18-01-26 07:32:11.873",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1365",
-      "y": "11207",
-      "z": "0",
-      "hours_survived": 467,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "1"
-    },
     {
       "timestamp": "18-01-26 07:36:44.089",
       "steam_id": "76561198205566729",
@@ -943,6 +967,53 @@
       "event_type": "level_up",
       "skill": "Axe",
       "level": "7"
+    },
+    {
+      "timestamp": "21-01-26 08:33:58.368",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "6109",
+      "y": "9482",
+      "z": "0",
+      "hours_survived": 803,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 5,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 7,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 3,
+        "Sneak": 0,
+        "Woodwork": 10,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 5,
+        "Blacksmith": 10,
+        "MetalWelding": 5,
+        "Mechanics": 3,
+        "Spear": 0,
+        "Maintenance": 8,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 4,
+        "Tracking": 0,
+        "Husbandry": 2,
+        "FlintKnapping": 0,
+        "Masonry": 4,
+        "Pottery": 5,
+        "Carving": 10,
+        "Butchering": 1,
+        "Glassmaking": 7
+      }
     }
   ],
   "chat_messages": [
@@ -1247,5 +1318,5 @@
       "text": "psst"
     }
   ],
-  "timestamp": "2026-01-21T08:30:01.174866"
+  "timestamp": "2026-01-21T08:35:01.668330"
 }
