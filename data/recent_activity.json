@@ -222,53 +222,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "18-01-26 07:06:52.410",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "x": "5880",
-      "y": "12331",
-      "z": "0",
-      "hours_survived": 170,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 2,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 10,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 1,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "18-01-26 07:12:14.171",
       "steam_id": "76561198205566729",
       "username": "Doug",
@@ -930,6 +883,18 @@
         "Butchering": 1,
         "Glassmaking": 7
       }
+    },
+    {
+      "timestamp": "21-01-26 04:45:17.043",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1383",
+      "y": "11204",
+      "z": "0",
+      "hours_survived": 713,
+      "event_type": "level_up",
+      "skill": "Cooking",
+      "level": "5"
     }
   ],
   "chat_messages": [
@@ -1234,5 +1199,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-21T04:45:01.809533"
+  "timestamp": "2026-01-21T04:50:01.231789"
 }
