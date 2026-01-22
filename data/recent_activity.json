@@ -354,18 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "18-01-26 08:42:05.817",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1359",
-      "y": "11218",
-      "z": "0",
-      "hours_survived": 495,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "3"
-    },
-    {
       "timestamp": "18-01-26 08:53:00.904",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1167,6 +1155,18 @@
       "event_type": "level_up",
       "skill": "Aiming",
       "level": "3"
+    },
+    {
+      "timestamp": "22-01-26 01:56:39.253",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "8548",
+      "y": "14357",
+      "z": "0",
+      "hours_survived": 111,
+      "event_type": "level_up",
+      "skill": "Reloading",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1471,5 +1471,5 @@
       "text": "psst"
     }
   ],
-  "timestamp": "2026-01-22T01:55:01.242301"
+  "timestamp": "2026-01-22T02:00:01.675167"
 }
