@@ -1,18 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "20-01-26 01:45:30.924",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "20-01-26 01:45:45.737",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "20-01-26 01:46:23.668",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -350,6 +338,18 @@
     },
     {
       "timestamp": "21-01-26 22:42:44.415",
+      "steam_id": "76561199062691479",
+      "username": "HowHigh",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "22-01-26 00:01:27.389",
+      "steam_id": "76561199062691479",
+      "username": "HowHigh",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "22-01-26 00:01:27.390",
       "steam_id": "76561199062691479",
       "username": "HowHigh",
       "action": "allowed to join"
@@ -1439,5 +1439,5 @@
       "text": "psst"
     }
   ],
-  "timestamp": "2026-01-22T00:00:01.928042"
+  "timestamp": "2026-01-22T00:05:01.538477"
 }
