@@ -354,18 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "18-01-26 08:08:44.641",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1365",
-      "y": "11207",
-      "z": "0",
-      "hours_survived": 482,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "4"
-    },
-    {
       "timestamp": "18-01-26 08:15:13.282",
       "steam_id": "76561198205566729",
       "username": "Doug",
@@ -1167,6 +1155,18 @@
       "event_type": "level_up",
       "skill": "Blunt",
       "level": "1"
+    },
+    {
+      "timestamp": "22-01-26 01:22:50.125",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10082",
+      "y": "12807",
+      "z": "0",
+      "hours_survived": 98,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1471,5 +1471,5 @@
       "text": "psst"
     }
   ],
-  "timestamp": "2026-01-22T01:20:02.022223"
+  "timestamp": "2026-01-22T01:25:01.502858"
 }
