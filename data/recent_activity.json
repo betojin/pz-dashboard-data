@@ -354,18 +354,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "18-01-26 07:50:30.136",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1365",
-      "y": "11207",
-      "z": "0",
-      "hours_survived": 475,
-      "event_type": "level_up",
-      "skill": "Tailoring",
-      "level": "3"
-    },
-    {
       "timestamp": "18-01-26 08:08:44.641",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1167,6 +1155,18 @@
         "Butchering": 2,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "22-01-26 01:14:21.598",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10113",
+      "y": "12809",
+      "z": "0",
+      "hours_survived": 94,
+      "event_type": "level_up",
+      "skill": "Blunt",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1471,5 +1471,5 @@
       "text": "psst"
     }
   ],
-  "timestamp": "2026-01-22T01:10:01.184142"
+  "timestamp": "2026-01-22T01:15:01.639086"
 }
