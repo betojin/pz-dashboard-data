@@ -4,12 +4,6 @@
       "timestamp": "21-01-26 04:35:29.338",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "21-01-26 04:35:29.338",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
       "action": "allowed to join"
     },
     {
@@ -349,6 +343,15 @@
       "action": "fully connected",
       "x": "1359",
       "y": "11222",
+      "z": "0"
+    },
+    {
+      "timestamp": "22-01-26 22:35:38.229",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "disconnected",
+      "x": "3796",
+      "y": "13499",
       "z": "0"
     }
   ],
@@ -1506,5 +1509,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-22T22:35:01.576925"
+  "timestamp": "2026-01-22T22:40:02.137222"
 }
