@@ -357,53 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "21-01-26 08:33:58.368",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "6109",
-      "y": "9482",
-      "z": "0",
-      "hours_survived": 803,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 5,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 7,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 10,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 5,
-        "Blacksmith": 10,
-        "MetalWelding": 5,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 8,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 4,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 0,
-        "Masonry": 4,
-        "Pottery": 5,
-        "Carving": 10,
-        "Butchering": 1,
-        "Glassmaking": 7
-      }
-    },
-    {
       "timestamp": "21-01-26 08:36:56.213",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1240,105 +1193,21 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "3"
+    },
+    {
+      "timestamp": "23-01-26 06:07:46.024",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "438",
+      "y": "9792",
+      "z": "0",
+      "hours_survived": 466,
+      "event_type": "level_up",
+      "skill": "Electricity",
+      "level": "2"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "22-01-26 07:53:31.123",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "22-01-26 07:53:31.123",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "22-01-26 07:53:41.905",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "22-01-26 07:53:41.906",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "22-01-26 07:53:50.404",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "22-01-26 07:53:50.404",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "22-01-26 07:53:57.675",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-01-26 07:53:57.675",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-01-26 07:54:01.674",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-01-26 07:54:01.674",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-01-26 07:54:09.957",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "22-01-26 07:54:09.957",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "22-01-26 07:54:25.056",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-01-26 07:54:25.056",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-01-26 07:54:54.789",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "22-01-26 07:54:54.789",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "22-01-26 08:03:51.890",
       "chat_type": "Local",
@@ -1542,7 +1411,103 @@
       "chat_type": "Local",
       "author": "RottenEgg",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-01-26 06:05:29.528",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-01-26 06:05:29.528",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-01-26 06:05:40.500",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-01-26 06:05:40.500",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-01-26 06:05:50.524",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-01-26 06:05:50.524",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-01-26 06:05:55.170",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-01-26 06:05:55.170",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-01-26 06:05:56.818",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-01-26 06:05:56.818",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-01-26 06:06:10.127",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-01-26 06:06:10.127",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "23-01-26 06:06:16.539",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-01-26 06:06:16.539",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-01-26 06:06:22.776",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-01-26 06:06:22.776",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-23T06:05:01.348283"
+  "timestamp": "2026-01-23T06:10:01.790154"
 }
