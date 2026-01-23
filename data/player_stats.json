@@ -334,7 +334,7 @@
     "admin": {
       "username": "admin",
       "steam_id": "76561198065774641",
-      "total_hours": 170,
+      "total_hours": 174,
       "deaths": 0,
       "skills": {
         "Cooking": 2,
@@ -426,8 +426,9 @@
         }
       ],
       "last_seen": "30-12-25 08:03:20.509",
+      "connections": 1,
       "role_id": 7,
-      "last_connection_db": "2026-01-18 07:06:32"
+      "last_connection_db": "2026-01-23 07:06:05"
     },
     "Sully": {
       "username": "Sully",
@@ -7516,5 +7517,5 @@
     }
   },
   "total_players": 48,
-  "timestamp": "2026-01-23T07:05:01.809410"
+  "timestamp": "2026-01-23T07:10:01.243756"
 }
