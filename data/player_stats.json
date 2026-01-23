@@ -6872,7 +6872,7 @@
     "BetoJinn": {
       "username": "BetoJinn",
       "steam_id": "76561198065774641",
-      "total_hours": 466,
+      "total_hours": 474,
       "deaths": 1,
       "skills": {
         "Cooking": 8,
@@ -6899,7 +6899,7 @@
         "Spear": 0,
         "Maintenance": 2,
         "SmallBlade": 0,
-        "LongBlade": 3,
+        "LongBlade": 4,
         "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
@@ -7301,9 +7301,14 @@
           "skill": "Electricity",
           "level": "2",
           "timestamp": "23-01-26 06:07:46.024"
+        },
+        {
+          "skill": "LongBlade",
+          "level": "4",
+          "timestamp": "23-01-26 06:25:59.745"
         }
       ],
-      "last_seen": "23-01-26 06:07:46.024",
+      "last_seen": "23-01-26 06:25:59.745",
       "connections": 2
     },
     "ExpiredPork": {
@@ -7506,5 +7511,5 @@
     }
   },
   "total_players": 48,
-  "timestamp": "2026-01-23T06:25:01.108794"
+  "timestamp": "2026-01-23T06:30:01.587910"
 }

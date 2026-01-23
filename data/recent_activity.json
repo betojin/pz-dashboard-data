@@ -357,53 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "21-01-26 08:36:56.213",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "6109",
-      "y": "9482",
-      "z": "0",
-      "hours_survived": 803,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 5,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 7,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 3,
-        "Sneak": 0,
-        "Woodwork": 10,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 5,
-        "Blacksmith": 10,
-        "MetalWelding": 5,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 8,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 4,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 0,
-        "Masonry": 4,
-        "Pottery": 5,
-        "Carving": 10,
-        "Butchering": 1,
-        "Glassmaking": 7
-      }
-    },
-    {
       "timestamp": "21-01-26 08:40:11.668",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1205,33 +1158,21 @@
       "event_type": "level_up",
       "skill": "Electricity",
       "level": "2"
+    },
+    {
+      "timestamp": "23-01-26 06:25:59.745",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "535",
+      "y": "9581",
+      "z": "0",
+      "hours_survived": 474,
+      "event_type": "level_up",
+      "skill": "LongBlade",
+      "level": "4"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-01-26 06:24:04.742",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "23-01-26 06:24:04.742",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "23-01-26 06:24:07.932",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "23-01-26 06:24:07.932",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "23-01-26 06:24:08.724",
       "chat_type": "Local",
@@ -1507,7 +1448,31 @@
       "chat_type": "Local",
       "author": "RottenEgg",
       "text": "HEY!"
+    },
+    {
+      "timestamp": "23-01-26 06:25:52.860",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-01-26 06:25:52.860",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY!"
+    },
+    {
+      "timestamp": "23-01-26 06:26:06.996",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "23-01-26 06:26:06.996",
+      "chat_type": "Local",
+      "author": "BetoJinn",
+      "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-23T06:25:01.176850"
+  "timestamp": "2026-01-23T06:30:01.658221"
 }
