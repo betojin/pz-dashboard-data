@@ -6867,7 +6867,7 @@
     "BetoJinn": {
       "username": "BetoJinn",
       "steam_id": "76561198065774641",
-      "total_hours": 411,
+      "total_hours": 424,
       "deaths": 1,
       "skills": {
         "Cooking": 8,
@@ -6876,7 +6876,7 @@
         "Blunt": 0,
         "Axe": 0,
         "Lightfoot": 0,
-        "Nimble": 0,
+        "Nimble": 1,
         "Sprinting": 2,
         "Sneak": 0,
         "Woodwork": 10,
@@ -7276,9 +7276,14 @@
           "skill": "Electricity",
           "level": "1",
           "timestamp": "18-01-26 00:11:54.153"
+        },
+        {
+          "skill": "Nimble",
+          "level": "1",
+          "timestamp": "23-01-26 04:20:01.963"
         }
       ],
-      "last_seen": "23-01-26 03:29:51.000",
+      "last_seen": "23-01-26 04:20:01.963",
       "connections": 2
     },
     "ExpiredPork": {
@@ -7481,5 +7486,5 @@
     }
   },
   "total_players": 48,
-  "timestamp": "2026-01-23T04:20:01.231289"
+  "timestamp": "2026-01-23T04:25:01.781032"
 }

@@ -357,18 +357,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "20-01-26 01:47:39.976",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10087",
-      "y": "8248",
-      "z": "0",
-      "hours_survived": 57,
-      "event_type": "level_up",
-      "skill": "Farming",
-      "level": "2"
-    },
-    {
       "timestamp": "20-01-26 05:38:40.020",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1205,6 +1193,18 @@
       "event_type": "level_up",
       "skill": "Masonry",
       "level": "5"
+    },
+    {
+      "timestamp": "23-01-26 04:20:01.963",
+      "steam_id": "76561198065774641",
+      "username": "BetoJinn",
+      "x": "3799",
+      "y": "14440",
+      "z": "0",
+      "hours_survived": 424,
+      "event_type": "level_up",
+      "skill": "Nimble",
+      "level": "1"
     }
   ],
   "chat_messages": [
@@ -1509,5 +1509,5 @@
       "text": "HEY YOU!"
     }
   ],
-  "timestamp": "2026-01-23T04:20:01.298665"
+  "timestamp": "2026-01-23T04:25:01.846467"
 }
