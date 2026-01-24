@@ -360,18 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-01-26 02:31:09.070",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "8877",
-      "y": "14948",
-      "z": "0",
-      "hours_survived": 125,
-      "event_type": "level_up",
-      "skill": "Nimble",
-      "level": "3"
-    },
-    {
       "timestamp": "22-01-26 06:57:13.733",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1173,6 +1161,18 @@
       "event_type": "level_up",
       "skill": "Sprinting",
       "level": "3"
+    },
+    {
+      "timestamp": "24-01-26 01:56:04.035",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "7102",
+      "y": "9071",
+      "z": "0",
+      "hours_survived": 191,
+      "event_type": "level_up",
+      "skill": "Butchering",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1477,5 +1477,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-24T01:55:02.100887"
+  "timestamp": "2026-01-24T02:00:01.491918"
 }
