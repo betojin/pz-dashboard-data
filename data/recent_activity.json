@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-01-26 00:36:49.753",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "disconnected",
-      "x": "1359",
-      "y": "11222",
-      "z": "0"
-    },
-    {
-      "timestamp": "23-01-26 03:27:40.904",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-01-26 03:27:40.905",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "23-01-26 03:27:52.033",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "23-01-26 03:27:54.565",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -356,21 +329,36 @@
       "x": "10043",
       "y": "8262",
       "z": "0"
+    },
+    {
+      "timestamp": "24-01-26 01:05:09.026",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-01-26 01:05:09.026",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "24-01-26 01:05:43.361",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "24-01-26 01:06:29.382",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "fully connected",
+      "x": "10043",
+      "y": "8262",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "22-01-26 01:41:11.851",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "8530",
-      "y": "14372",
-      "z": "0",
-      "hours_survived": 105,
-      "event_type": "level_up",
-      "skill": "Aiming",
-      "level": "2"
-    },
     {
       "timestamp": "22-01-26 01:54:09.439",
       "steam_id": "76561198119296623",
@@ -1138,6 +1126,53 @@
       "event_type": "level_up",
       "skill": "Woodwork",
       "level": "5"
+    },
+    {
+      "timestamp": "24-01-26 01:06:30.062",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10043",
+      "y": "8262",
+      "z": "0",
+      "hours_survived": 171,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 2,
+        "Fitness": 5,
+        "Strength": 9,
+        "Blunt": 1,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 3,
+        "Sprinting": 2,
+        "Sneak": 2,
+        "Woodwork": 5,
+        "Aiming": 3,
+        "Reloading": 3,
+        "Farming": 2,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 2,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 2,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1442,5 +1477,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-24T01:05:01.199541"
+  "timestamp": "2026-01-24T01:10:01.747416"
 }
