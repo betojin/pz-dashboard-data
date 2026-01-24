@@ -360,30 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "22-01-26 01:54:09.439",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "8551",
-      "y": "14394",
-      "z": "0",
-      "hours_survived": 110,
-      "event_type": "level_up",
-      "skill": "Aiming",
-      "level": "3"
-    },
-    {
-      "timestamp": "22-01-26 01:56:39.253",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "8548",
-      "y": "14357",
-      "z": "0",
-      "hours_survived": 111,
-      "event_type": "level_up",
-      "skill": "Reloading",
-      "level": "3"
-    },
-    {
       "timestamp": "22-01-26 02:31:09.070",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1173,6 +1149,30 @@
         "Butchering": 2,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "24-01-26 01:41:31.208",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "8626",
+      "y": "8867",
+      "z": "0",
+      "hours_survived": 185,
+      "event_type": "level_up",
+      "skill": "Blunt",
+      "level": "2"
+    },
+    {
+      "timestamp": "24-01-26 01:41:53.540",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "8636",
+      "y": "8873",
+      "z": "0",
+      "hours_survived": 185,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "3"
     }
   ],
   "chat_messages": [
@@ -1477,5 +1477,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-24T01:40:01.388774"
+  "timestamp": "2026-01-24T01:45:01.769101"
 }
