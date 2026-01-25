@@ -1,21 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-01-26 05:17:11.205",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "fully connected",
-      "x": "3799",
-      "y": "14428",
-      "z": "0"
-    },
-    {
-      "timestamp": "23-01-26 05:26:26.307",
-      "steam_id": "76561199175108004",
-      "username": "Zion",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "23-01-26 05:26:26.308",
       "steam_id": "76561199175108004",
       "username": "Zion",
@@ -353,57 +338,27 @@
       "x": "10944",
       "y": "9374",
       "z": "0"
+    },
+    {
+      "timestamp": "25-01-26 03:35:45.277",
+      "steam_id": "76561199021109045",
+      "username": "Rmt_72",
+      "action": "disconnected",
+      "x": "10893",
+      "y": "9478",
+      "z": "0"
+    },
+    {
+      "timestamp": "25-01-26 03:35:47.431",
+      "steam_id": "76561199021109045",
+      "username": "Rmt_72",
+      "action": "fully connected",
+      "x": "6057",
+      "y": "5349",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-01-26 03:45:04.950",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1358",
-      "y": "11207",
-      "z": "0",
-      "hours_survived": 1015,
-      "event_type": "level_up",
-      "skill": "Farming",
-      "level": "1"
-    },
-    {
-      "timestamp": "23-01-26 03:45:11.660",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1358",
-      "y": "11207",
-      "z": "0",
-      "hours_survived": 1015,
-      "event_type": "level_up",
-      "skill": "Farming",
-      "level": "2"
-    },
-    {
-      "timestamp": "23-01-26 03:49:25.260",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1415",
-      "y": "11208",
-      "z": "0",
-      "hours_survived": 1017,
-      "event_type": "level_up",
-      "skill": "Masonry",
-      "level": "5"
-    },
-    {
-      "timestamp": "23-01-26 04:20:01.963",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "3799",
-      "y": "14440",
-      "z": "0",
-      "hours_survived": 424,
-      "event_type": "level_up",
-      "skill": "Nimble",
-      "level": "1"
-    },
     {
       "timestamp": "23-01-26 04:38:35.999",
       "steam_id": "76561199511597958",
@@ -1205,21 +1160,86 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "25-01-26 03:35:11.315",
+      "steam_id": "76561199021109045",
+      "username": "Rmt_72",
+      "x": "10893",
+      "y": "9478",
+      "z": "0",
+      "hours_survived": 2,
+      "event_type": "died"
+    },
+    {
+      "timestamp": "25-01-26 03:35:11.635",
+      "steam_id": "76561199505293051",
+      "username": "Dannharito",
+      "x": "10889",
+      "y": "9480",
+      "z": "0",
+      "hours_survived": 2,
+      "event_type": "died"
+    },
+    {
+      "timestamp": "25-01-26 03:35:47.566",
+      "steam_id": "76561199021109045",
+      "username": "Rmt_72",
+      "x": "6057",
+      "y": "5349",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 9,
+        "Strength": 9,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 0,
+        "Nimble": 0,
+        "Sprinting": 1,
+        "Sneak": 0,
+        "Woodwork": 0,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 0,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "25-01-26 03:37:18.894",
+      "steam_id": "76561199505293051",
+      "username": "Dannharito",
+      "x": "6351",
+      "y": "5420",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "created"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "23-01-26 06:24:36.921",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY YOU!"
-    },
-    {
-      "timestamp": "23-01-26 06:24:36.921",
-      "chat_type": "Local",
-      "author": "RottenEgg",
-      "text": "HEY YOU!"
-    },
     {
       "timestamp": "23-01-26 06:24:50.823",
       "chat_type": "Local",
@@ -1507,7 +1527,19 @@
       "chat_type": "Local",
       "author": "Dannharito",
       "text": "q"
+    },
+    {
+      "timestamp": "25-01-26 03:38:24.230",
+      "chat_type": "Local",
+      "author": "Dannharito",
+      "text": "\u00a1EH T\u00da!"
+    },
+    {
+      "timestamp": "25-01-26 03:38:24.230",
+      "chat_type": "Local",
+      "author": "Dannharito",
+      "text": "\u00a1EH T\u00da!"
     }
   ],
-  "timestamp": "2026-01-25T03:35:01.424546"
+  "timestamp": "2026-01-25T03:40:01.834502"
 }
