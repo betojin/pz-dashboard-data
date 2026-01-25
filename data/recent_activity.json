@@ -1,30 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-01-26 05:29:27.382",
-      "steam_id": "76561199175108004",
-      "username": "Zion",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-01-26 05:29:27.382",
-      "steam_id": "76561199175108004",
-      "username": "Zion",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "23-01-26 06:32:33.439",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-01-26 06:32:33.439",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "23-01-26 06:32:48.265",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -359,56 +335,36 @@
       "x": "6048",
       "y": "5392",
       "z": "0"
+    },
+    {
+      "timestamp": "25-01-26 04:42:32.905",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-01-26 04:42:32.905",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "25-01-26 04:42:43.693",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-01-26 04:43:15.228",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "fully connected",
+      "x": "1361",
+      "y": "11208",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-01-26 04:38:35.999",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1367",
-      "y": "11200",
-      "z": "0",
-      "hours_survived": 1036,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 5,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 7,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 4,
-        "Sneak": 0,
-        "Woodwork": 10,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 2,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 5,
-        "Blacksmith": 10,
-        "MetalWelding": 5,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 8,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 4,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 0,
-        "Masonry": 5,
-        "Pottery": 5,
-        "Carving": 10,
-        "Butchering": 1,
-        "Glassmaking": 7
-      }
-    },
     {
       "timestamp": "23-01-26 04:41:41.250",
       "steam_id": "76561199511597958",
@@ -1240,6 +1196,53 @@
       "z": "0",
       "hours_survived": 0,
       "event_type": "created"
+    },
+    {
+      "timestamp": "25-01-26 04:43:17.759",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1361",
+      "y": "11208",
+      "z": "0",
+      "hours_survived": 1155,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 5,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 7,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 4,
+        "Sneak": 0,
+        "Woodwork": 10,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 2,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 5,
+        "Blacksmith": 10,
+        "MetalWelding": 5,
+        "Mechanics": 3,
+        "Spear": 0,
+        "Maintenance": 9,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 4,
+        "Tracking": 0,
+        "Husbandry": 2,
+        "FlintKnapping": 0,
+        "Masonry": 5,
+        "Pottery": 5,
+        "Carving": 10,
+        "Butchering": 2,
+        "Glassmaking": 7
+      }
     }
   ],
   "chat_messages": [
@@ -1544,5 +1547,5 @@
       "text": "\u00a1EH T\u00da!"
     }
   ],
-  "timestamp": "2026-01-25T04:40:02.108061"
+  "timestamp": "2026-01-25T04:45:01.577959"
 }
