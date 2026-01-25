@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-01-26 07:40:47.469",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "disconnected",
-      "x": "1359",
-      "y": "11222",
-      "z": "0"
-    },
-    {
       "timestamp": "23-01-26 07:41:09.913",
       "steam_id": "76561198065774641",
       "username": "admin",
@@ -359,6 +350,15 @@
       "x": "10085",
       "y": "8261",
       "z": "1"
+    },
+    {
+      "timestamp": "25-01-26 20:13:56.489",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "disconnected",
+      "x": "10082",
+      "y": "8260",
+      "z": "0"
     }
   ],
   "perk_events": [
@@ -1544,5 +1544,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-25T20:10:01.687818"
+  "timestamp": "2026-01-25T20:15:02.109706"
 }
