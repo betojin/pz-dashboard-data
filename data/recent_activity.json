@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "23-01-26 07:06:05.422",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-01-26 07:06:05.422",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "23-01-26 07:06:10.795",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "23-01-26 07:06:27.779",
-      "steam_id": "76561198065774641",
-      "username": "admin",
-      "action": "fully connected",
-      "x": "11597",
-      "y": "9293",
-      "z": "0"
-    },
-    {
       "timestamp": "23-01-26 07:40:47.469",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -359,56 +332,36 @@
       "x": "1359",
       "y": "11222",
       "z": "0"
+    },
+    {
+      "timestamp": "25-01-26 19:58:45.260",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-01-26 19:58:45.261",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "25-01-26 19:59:14.853",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "25-01-26 19:59:55.803",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "action": "fully connected",
+      "x": "10085",
+      "y": "8261",
+      "z": "1"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "23-01-26 04:46:03.382",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "1358",
-      "y": "11199",
-      "z": "0",
-      "hours_survived": 1039,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 5,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 7,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 4,
-        "Sneak": 0,
-        "Woodwork": 10,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 2,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 5,
-        "Blacksmith": 10,
-        "MetalWelding": 5,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 8,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 4,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 0,
-        "Masonry": 5,
-        "Pottery": 5,
-        "Carving": 10,
-        "Butchering": 2,
-        "Glassmaking": 7
-      }
-    },
     {
       "timestamp": "23-01-26 05:09:02.568",
       "steam_id": "76561199511597958",
@@ -1240,6 +1193,53 @@
       "event_type": "level_up",
       "skill": "Butchering",
       "level": "3"
+    },
+    {
+      "timestamp": "25-01-26 19:59:57.528",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10085",
+      "y": "8261",
+      "z": "1",
+      "hours_survived": 231,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 2,
+        "Fitness": 5,
+        "Strength": 9,
+        "Blunt": 2,
+        "Axe": 0,
+        "Lightfoot": 2,
+        "Nimble": 3,
+        "Sprinting": 3,
+        "Sneak": 2,
+        "Woodwork": 5,
+        "Aiming": 3,
+        "Reloading": 3,
+        "Farming": 2,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 2,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 0,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 0,
+        "Pottery": 0,
+        "Carving": 0,
+        "Butchering": 3,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1544,5 +1544,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-25T19:55:01.262719"
+  "timestamp": "2026-01-25T20:00:01.662598"
 }
