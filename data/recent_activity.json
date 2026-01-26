@@ -360,53 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "23-01-26 05:17:12.229",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "x": "3799",
-      "y": "14428",
-      "z": "0",
-      "hours_survived": 1050,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 5,
-        "Fitness": 9,
-        "Strength": 10,
-        "Blunt": 0,
-        "Axe": 7,
-        "Lightfoot": 0,
-        "Nimble": 1,
-        "Sprinting": 4,
-        "Sneak": 0,
-        "Woodwork": 10,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 2,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 1,
-        "Electricity": 5,
-        "Blacksmith": 10,
-        "MetalWelding": 5,
-        "Mechanics": 3,
-        "Spear": 0,
-        "Maintenance": 8,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 4,
-        "Tracking": 0,
-        "Husbandry": 2,
-        "FlintKnapping": 0,
-        "Masonry": 5,
-        "Pottery": 5,
-        "Carving": 10,
-        "Butchering": 2,
-        "Glassmaking": 7
-      }
-    },
-    {
       "timestamp": "23-01-26 05:40:35.917",
       "steam_id": "76561198065774641",
       "username": "BetoJinn",
@@ -1202,6 +1155,18 @@
       "event_type": "level_up",
       "skill": "Mechanics",
       "level": "1"
+    },
+    {
+      "timestamp": "26-01-26 00:15:19.000",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "10097",
+      "y": "8263",
+      "z": "1",
+      "hours_survived": 244,
+      "event_type": "level_up",
+      "skill": "Mechanics",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1506,5 +1471,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-26T00:15:01.383944"
+  "timestamp": "2026-01-26T00:20:01.909381"
 }
