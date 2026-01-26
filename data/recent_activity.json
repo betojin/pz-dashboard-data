@@ -360,18 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "23-01-26 06:25:59.745",
-      "steam_id": "76561198065774641",
-      "username": "BetoJinn",
-      "x": "535",
-      "y": "9581",
-      "z": "0",
-      "hours_survived": 474,
-      "event_type": "level_up",
-      "skill": "LongBlade",
-      "level": "4"
-    },
-    {
       "timestamp": "23-01-26 06:33:25.780",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1202,6 +1190,18 @@
       "event_type": "level_up",
       "skill": "MetalWelding",
       "level": "2"
+    },
+    {
+      "timestamp": "26-01-26 01:44:17.659",
+      "steam_id": "76561198119296623",
+      "username": "Sully",
+      "x": "12509",
+      "y": "4314",
+      "z": "0",
+      "hours_survived": 277,
+      "event_type": "level_up",
+      "skill": "Aiming",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1506,5 +1506,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-26T01:40:01.383503"
+  "timestamp": "2026-01-26T01:45:01.776206"
 }
