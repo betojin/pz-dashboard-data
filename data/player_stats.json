@@ -6127,14 +6127,14 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 1216,
+      "total_hours": 1233,
       "deaths": 1,
       "skills": {
         "Cooking": 5,
         "Fitness": 9,
         "Strength": 10,
         "Blunt": 1,
-        "Axe": 7,
+        "Axe": 8,
         "Lightfoot": 0,
         "Nimble": 1,
         "Sprinting": 4,
@@ -6941,9 +6941,14 @@
           "skill": "Butchering",
           "level": "3",
           "timestamp": "25-01-26 06:30:40.216"
+        },
+        {
+          "skill": "Axe",
+          "level": "8",
+          "timestamp": "27-01-26 08:11:10.716"
         }
       ],
-      "last_seen": "27-01-26 07:27:33.664",
+      "last_seen": "27-01-26 08:11:10.716",
       "connections": 22
     },
     "BetoJinn": {
@@ -7679,5 +7684,5 @@
     }
   },
   "total_players": 50,
-  "timestamp": "2026-01-27T08:10:01.384664"
+  "timestamp": "2026-01-27T08:15:01.852742"
 }
