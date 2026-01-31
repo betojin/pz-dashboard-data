@@ -363,18 +363,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "26-01-26 02:15:24.737",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "12063",
-      "y": "2686",
-      "z": "0",
-      "hours_survived": 289,
-      "event_type": "level_up",
-      "skill": "Blunt",
-      "level": "3"
-    },
-    {
       "timestamp": "26-01-26 02:19:30.616",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -1456,6 +1444,18 @@
         "Butchering": 3,
         "Glassmaking": 7
       }
+    },
+    {
+      "timestamp": "31-01-26 22:13:50.253",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1475",
+      "y": "11132",
+      "z": "0",
+      "hours_survived": 1499,
+      "event_type": "level_up",
+      "skill": "Trapping",
+      "level": "4"
     }
   ],
   "chat_messages": [
@@ -1760,5 +1760,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-31T22:10:01.227791"
+  "timestamp": "2026-01-31T22:15:01.677856"
 }

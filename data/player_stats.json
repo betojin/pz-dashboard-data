@@ -6127,7 +6127,7 @@
     "RottenEgg": {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
-      "total_hours": 1493,
+      "total_hours": 1499,
       "deaths": 1,
       "skills": {
         "Cooking": 5,
@@ -6144,7 +6144,7 @@
         "Reloading": 0,
         "Farming": 2,
         "Fishing": 0,
-        "Trapping": 3,
+        "Trapping": 4,
         "PlantScavenging": 0,
         "Doctor": 2,
         "Electricity": 6,
@@ -6976,9 +6976,14 @@
           "skill": "Sprinting",
           "level": "5",
           "timestamp": "31-01-26 09:08:18.957"
+        },
+        {
+          "skill": "Trapping",
+          "level": "4",
+          "timestamp": "31-01-26 22:13:50.253"
         }
       ],
-      "last_seen": "31-01-26 22:00:46.769",
+      "last_seen": "31-01-26 22:13:50.253",
       "connections": 38
     },
     "BetoJinn": {
@@ -7766,5 +7771,5 @@
     }
   },
   "total_players": 51,
-  "timestamp": "2026-01-31T22:10:01.150205"
+  "timestamp": "2026-01-31T22:15:01.591926"
 }
