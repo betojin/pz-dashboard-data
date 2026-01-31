@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "31-01-26 02:14:28.162",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "fully connected",
-      "x": "1372",
-      "y": "11218",
-      "z": "0"
-    },
-    {
       "timestamp": "31-01-26 02:59:05.710",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -359,21 +350,18 @@
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "31-01-26 09:00:20.272",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "fully connected",
+      "x": "1480",
+      "y": "11144",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "26-01-26 00:15:19.000",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "10097",
-      "y": "8263",
-      "z": "1",
-      "hours_survived": 244,
-      "event_type": "level_up",
-      "skill": "Mechanics",
-      "level": "2"
-    },
     {
       "timestamp": "26-01-26 00:50:46.832",
       "steam_id": "76561198119296623",
@@ -1351,6 +1339,53 @@
         "Butchering": 3,
         "Glassmaking": 7
       }
+    },
+    {
+      "timestamp": "31-01-26 09:00:21.139",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1480",
+      "y": "11144",
+      "z": "0",
+      "hours_survived": 1473,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 5,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 8,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 4,
+        "Sneak": 0,
+        "Woodwork": 10,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 2,
+        "Fishing": 0,
+        "Trapping": 3,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 6,
+        "Blacksmith": 10,
+        "MetalWelding": 5,
+        "Mechanics": 3,
+        "Spear": 0,
+        "Maintenance": 9,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 4,
+        "Tracking": 0,
+        "Husbandry": 3,
+        "FlintKnapping": 0,
+        "Masonry": 5,
+        "Pottery": 5,
+        "Carving": 10,
+        "Butchering": 3,
+        "Glassmaking": 7
+      }
     }
   ],
   "chat_messages": [
@@ -1655,5 +1690,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-31T09:00:01.927261"
+  "timestamp": "2026-01-31T09:05:01.429851"
 }
