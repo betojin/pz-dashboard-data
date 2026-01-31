@@ -4,12 +4,6 @@
       "timestamp": "31-01-26 05:15:51.361",
       "steam_id": "76561198289276535",
       "username": "karter",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "31-01-26 05:15:51.361",
-      "steam_id": "76561198289276535",
-      "username": "karter",
       "action": "allowed to join"
     },
     {
@@ -358,6 +352,15 @@
       "action": "fully connected",
       "x": "10781",
       "y": "9875",
+      "z": "0"
+    },
+    {
+      "timestamp": "31-01-26 21:16:34.289",
+      "steam_id": "76561198289276535",
+      "username": "karter",
+      "action": "disconnected",
+      "x": "10621",
+      "y": "9908",
       "z": "0"
     }
   ],
@@ -1725,5 +1728,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-31T21:15:01.682835"
+  "timestamp": "2026-01-31T21:20:01.244758"
 }
