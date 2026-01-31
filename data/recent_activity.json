@@ -1,33 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "26-01-26 02:20:17.466",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "disconnected",
-      "x": "12050",
-      "y": "2711",
-      "z": "0"
-    },
-    {
-      "timestamp": "26-01-26 02:20:41.089",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "26-01-26 02:20:41.090",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "26-01-26 02:20:55.132",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
       "timestamp": "26-01-26 02:23:41.888",
       "steam_id": "76561198119296623",
       "username": "Sully",
@@ -353,56 +326,36 @@
       "x": "1385",
       "y": "11227",
       "z": "0"
+    },
+    {
+      "timestamp": "31-01-26 05:15:51.361",
+      "steam_id": "76561198289276535",
+      "username": "karter",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "31-01-26 05:15:51.361",
+      "steam_id": "76561198289276535",
+      "username": "karter",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "31-01-26 05:17:01.452",
+      "steam_id": "76561198289276535",
+      "username": "karter",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "31-01-26 05:17:56.955",
+      "steam_id": "76561198289276535",
+      "username": "karter",
+      "action": "fully connected",
+      "x": "10851",
+      "y": "9846",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "25-01-26 03:30:07.404",
-      "steam_id": "76561199505293051",
-      "username": "Dannharito",
-      "x": "10951",
-      "y": "9490",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 9,
-        "Strength": 9,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 0,
-        "Nimble": 0,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 0,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 0,
-        "Spear": 0,
-        "Maintenance": 0,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 0,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 0,
-        "Pottery": 0,
-        "Carving": 0,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
     {
       "timestamp": "25-01-26 03:35:11.315",
       "steam_id": "76561199021109045",
@@ -1269,6 +1222,53 @@
         "Butchering": 3,
         "Glassmaking": 7
       }
+    },
+    {
+      "timestamp": "31-01-26 05:17:57.389",
+      "steam_id": "76561198289276535",
+      "username": "karter",
+      "x": "10851",
+      "y": "9846",
+      "z": "0",
+      "hours_survived": 0,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 3,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
     }
   ],
   "chat_messages": [
@@ -1573,5 +1573,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-31T05:15:01.312560"
+  "timestamp": "2026-01-31T05:20:01.801516"
 }
