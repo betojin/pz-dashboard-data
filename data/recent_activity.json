@@ -1,15 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "31-01-26 05:13:44.913",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "fully connected",
-      "x": "1385",
-      "y": "11227",
-      "z": "0"
-    },
-    {
       "timestamp": "31-01-26 05:15:51.361",
       "steam_id": "76561198289276535",
       "username": "karter",
@@ -359,33 +350,18 @@
       "steam_id": "76561198289276535",
       "username": "karter",
       "action": "attempting to join"
+    },
+    {
+      "timestamp": "31-01-26 21:00:50.569",
+      "steam_id": "76561198289276535",
+      "username": "karter",
+      "action": "fully connected",
+      "x": "10781",
+      "y": "9875",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "26-01-26 01:17:45.124",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "12515",
-      "y": "4541",
-      "z": "0",
-      "hours_survived": 266,
-      "event_type": "level_up",
-      "skill": "MetalWelding",
-      "level": "2"
-    },
-    {
-      "timestamp": "26-01-26 01:44:17.659",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "x": "12509",
-      "y": "4314",
-      "z": "0",
-      "hours_survived": 277,
-      "event_type": "level_up",
-      "skill": "Aiming",
-      "level": "4"
-    },
     {
       "timestamp": "26-01-26 01:51:02.893",
       "steam_id": "76561198119296623",
@@ -1386,6 +1362,65 @@
         "Butchering": 3,
         "Glassmaking": 7
       }
+    },
+    {
+      "timestamp": "31-01-26 21:00:51.311",
+      "steam_id": "76561198289276535",
+      "username": "karter",
+      "x": "10781",
+      "y": "9875",
+      "z": "0",
+      "hours_survived": 3,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 0,
+        "Fitness": 5,
+        "Strength": 5,
+        "Blunt": 0,
+        "Axe": 0,
+        "Lightfoot": 1,
+        "Nimble": 1,
+        "Sprinting": 0,
+        "Sneak": 0,
+        "Woodwork": 3,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 0,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 0,
+        "Electricity": 0,
+        "Blacksmith": 0,
+        "MetalWelding": 0,
+        "Mechanics": 1,
+        "Spear": 0,
+        "Maintenance": 1,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 1,
+        "Tailoring": 0,
+        "Tracking": 0,
+        "Husbandry": 0,
+        "FlintKnapping": 0,
+        "Masonry": 1,
+        "Pottery": 0,
+        "Carving": 1,
+        "Butchering": 0,
+        "Glassmaking": 0
+      }
+    },
+    {
+      "timestamp": "31-01-26 21:03:08.804",
+      "steam_id": "76561198289276535",
+      "username": "karter",
+      "x": "10748",
+      "y": "9860",
+      "z": "0",
+      "hours_survived": 4,
+      "event_type": "level_up",
+      "skill": "SmallBlunt",
+      "level": "2"
     }
   ],
   "chat_messages": [
@@ -1690,5 +1725,5 @@
       "text": "HEY!"
     }
   ],
-  "timestamp": "2026-01-31T21:00:01.479704"
+  "timestamp": "2026-01-31T21:05:01.890088"
 }

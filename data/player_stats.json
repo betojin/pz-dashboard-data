@@ -7715,7 +7715,7 @@
     "karter": {
       "username": "karter",
       "steam_id": "76561198289276535",
-      "total_hours": 0,
+      "total_hours": 4,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -7743,7 +7743,7 @@
         "Maintenance": 1,
         "SmallBlade": 0,
         "LongBlade": 0,
-        "SmallBlunt": 1,
+        "SmallBlunt": 2,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
@@ -7754,11 +7754,17 @@
         "Butchering": 0,
         "Glassmaking": 0
       },
-      "level_ups": [],
-      "last_seen": "31-01-26 05:17:57.389",
-      "connections": 1
+      "level_ups": [
+        {
+          "skill": "SmallBlunt",
+          "level": "2",
+          "timestamp": "31-01-26 21:03:08.804"
+        }
+      ],
+      "last_seen": "31-01-26 21:03:08.804",
+      "connections": 2
     }
   },
   "total_players": 51,
-  "timestamp": "2026-01-31T21:00:01.402649"
+  "timestamp": "2026-01-31T21:05:01.813428"
 }
