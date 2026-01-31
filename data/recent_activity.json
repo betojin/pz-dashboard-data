@@ -1,48 +1,6 @@
 {
   "user_events": [
     {
-      "timestamp": "26-01-26 02:23:41.888",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "allowed to join"
-    },
-    {
-      "timestamp": "26-01-26 02:23:55.889",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "26-01-26 02:24:35.941",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "fully connected",
-      "x": "12050",
-      "y": "2711",
-      "z": "0"
-    },
-    {
-      "timestamp": "26-01-26 02:44:02.484",
-      "steam_id": "76561198119296623",
-      "username": "Sully",
-      "action": "disconnected",
-      "x": "12199",
-      "y": "1610",
-      "z": "0"
-    },
-    {
-      "timestamp": "27-01-26 07:26:43.954",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "27-01-26 07:26:43.954",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
-      "action": "allowed to join"
-    },
-    {
       "timestamp": "27-01-26 07:27:08.576",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -356,19 +314,54 @@
       "x": "10781",
       "y": "9875",
       "z": "0"
+    },
+    {
+      "timestamp": "31-01-26 05:38:38.834",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "disconnected",
+      "x": "1491",
+      "y": "11150",
+      "z": "0"
+    },
+    {
+      "timestamp": "31-01-26 05:38:55.124",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "31-01-26 05:38:55.124",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "allowed to join"
+    },
+    {
+      "timestamp": "31-01-26 05:39:01.934",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "attempting to join"
+    },
+    {
+      "timestamp": "31-01-26 05:39:15.369",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "fully connected",
+      "x": "1491",
+      "y": "11150",
+      "z": "0"
+    },
+    {
+      "timestamp": "31-01-26 05:39:43.329",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "action": "disconnected",
+      "x": "1486",
+      "y": "11150",
+      "z": "0"
     }
   ],
   "perk_events": [
-    {
-      "timestamp": "25-01-26 03:35:11.315",
-      "steam_id": "76561199021109045",
-      "username": "Rmt_72",
-      "x": "10893",
-      "y": "9478",
-      "z": "0",
-      "hours_survived": 2,
-      "event_type": "died"
-    },
     {
       "timestamp": "25-01-26 03:35:11.635",
       "steam_id": "76561199505293051",
@@ -1272,6 +1265,53 @@
         "Butchering": 0,
         "Glassmaking": 0
       }
+    },
+    {
+      "timestamp": "31-01-26 05:39:16.000",
+      "steam_id": "76561199511597958",
+      "username": "RottenEgg",
+      "x": "1491",
+      "y": "11150",
+      "z": "0",
+      "hours_survived": 1397,
+      "event_type": "login",
+      "skills": {
+        "Cooking": 5,
+        "Fitness": 9,
+        "Strength": 10,
+        "Blunt": 0,
+        "Axe": 8,
+        "Lightfoot": 0,
+        "Nimble": 1,
+        "Sprinting": 4,
+        "Sneak": 0,
+        "Woodwork": 10,
+        "Aiming": 0,
+        "Reloading": 0,
+        "Farming": 2,
+        "Fishing": 0,
+        "Trapping": 0,
+        "PlantScavenging": 0,
+        "Doctor": 1,
+        "Electricity": 6,
+        "Blacksmith": 10,
+        "MetalWelding": 5,
+        "Mechanics": 3,
+        "Spear": 0,
+        "Maintenance": 9,
+        "SmallBlade": 0,
+        "LongBlade": 0,
+        "SmallBlunt": 0,
+        "Tailoring": 4,
+        "Tracking": 0,
+        "Husbandry": 3,
+        "FlintKnapping": 0,
+        "Masonry": 5,
+        "Pottery": 5,
+        "Carving": 10,
+        "Butchering": 3,
+        "Glassmaking": 7
+      }
     }
   ],
   "chat_messages": [
@@ -1576,5 +1616,5 @@
       "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-01-31T05:35:01.311964"
+  "timestamp": "2026-01-31T05:40:01.684336"
 }
