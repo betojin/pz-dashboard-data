@@ -1,15 +1,24 @@
 {
-  "count": 1,
+  "count": 2,
   "players": [
     {
       "username": "RottenEgg",
       "steam_id": "76561199511597958",
       "connected_at": "01-02-26 03:13:34.252",
-      "x": 1390,
-      "y": 11215,
+      "x": 1379,
+      "y": 11225,
       "z": 0,
+      "online": true
+    },
+    {
+      "username": "ExpiredPork",
+      "steam_id": "76561199510927772",
+      "connected_at": "01-02-26 03:18:46.714",
+      "x": 1382,
+      "y": 11206,
+      "z": 1,
       "online": true
     }
   ],
-  "timestamp": "2026-02-01T03:15:01.853876"
+  "timestamp": "2026-02-01T03:20:01.372525"
 }
