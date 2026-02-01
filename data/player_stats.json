@@ -7431,7 +7431,7 @@
     "ExpiredPork": {
       "username": "ExpiredPork",
       "steam_id": "76561199510927772",
-      "total_hours": 297,
+      "total_hours": 313,
       "deaths": 1,
       "skills": {
         "Cooking": 0,
@@ -7458,7 +7458,7 @@
         "Spear": 0,
         "Maintenance": 0,
         "SmallBlade": 0,
-        "LongBlade": 1,
+        "LongBlade": 2,
         "SmallBlunt": 1,
         "Tailoring": 0,
         "Tracking": 0,
@@ -7490,6 +7490,11 @@
           "skill": "Sprinting",
           "level": "2",
           "timestamp": "18-01-26 05:58:16.650"
+        },
+        {
+          "skill": "LongBlade",
+          "level": "2",
+          "timestamp": "01-02-26 03:57:54.480"
         }
       ],
       "last_seen": "18-01-26 05:58:16.650",
@@ -7772,5 +7777,5 @@
     }
   },
   "total_players": 51,
-  "timestamp": "2026-02-01T03:55:01.710509"
+  "timestamp": "2026-02-01T04:00:01.105157"
 }
