@@ -4,12 +4,6 @@
       "timestamp": "31-01-26 07:17:29.521",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
-      "action": "attempting to join"
-    },
-    {
-      "timestamp": "31-01-26 07:17:29.521",
-      "steam_id": "76561199511597958",
-      "username": "RottenEgg",
       "action": "allowed to join"
     },
     {
@@ -353,6 +347,15 @@
       "steam_id": "76561199097366166",
       "username": "Brandon",
       "action": "allowed to join"
+    },
+    {
+      "timestamp": "01-02-26 04:31:21.493",
+      "steam_id": "76561199510927772",
+      "username": "ExpiredPork",
+      "action": "disconnected",
+      "x": "1382",
+      "y": "11205",
+      "z": "1"
     }
   ],
   "perk_events": [
@@ -1454,30 +1457,6 @@
   ],
   "chat_messages": [
     {
-      "timestamp": "01-02-26 04:03:40.939",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "01-02-26 04:03:40.939",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "01-02-26 04:03:41.092",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
-      "timestamp": "01-02-26 04:03:41.093",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "HEY!"
-    },
-    {
       "timestamp": "01-02-26 04:03:41.298",
       "chat_type": "Local",
       "author": "ExpiredPork",
@@ -1752,7 +1731,31 @@
       "chat_type": "Local",
       "author": "RottenEgg",
       "text": "hi my love"
+    },
+    {
+      "timestamp": "01-02-26 04:33:41.639",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "01-02-26 04:33:41.640",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "01-02-26 04:33:44.477",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "01-02-26 04:33:44.478",
+      "chat_type": "Local",
+      "author": "RottenEgg",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-02-01T04:30:01.870865"
+  "timestamp": "2026-02-01T04:35:01.264840"
 }
