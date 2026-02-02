@@ -360,53 +360,6 @@
   ],
   "perk_events": [
     {
-      "timestamp": "31-01-26 05:17:57.389",
-      "steam_id": "76561198289276535",
-      "username": "karter",
-      "x": "10851",
-      "y": "9846",
-      "z": "0",
-      "hours_survived": 0,
-      "event_type": "login",
-      "skills": {
-        "Cooking": 0,
-        "Fitness": 5,
-        "Strength": 5,
-        "Blunt": 0,
-        "Axe": 0,
-        "Lightfoot": 1,
-        "Nimble": 1,
-        "Sprinting": 0,
-        "Sneak": 0,
-        "Woodwork": 3,
-        "Aiming": 0,
-        "Reloading": 0,
-        "Farming": 0,
-        "Fishing": 0,
-        "Trapping": 0,
-        "PlantScavenging": 0,
-        "Doctor": 0,
-        "Electricity": 0,
-        "Blacksmith": 0,
-        "MetalWelding": 0,
-        "Mechanics": 1,
-        "Spear": 0,
-        "Maintenance": 1,
-        "SmallBlade": 0,
-        "LongBlade": 0,
-        "SmallBlunt": 1,
-        "Tailoring": 0,
-        "Tracking": 0,
-        "Husbandry": 0,
-        "FlintKnapping": 0,
-        "Masonry": 1,
-        "Pottery": 0,
-        "Carving": 1,
-        "Butchering": 0,
-        "Glassmaking": 0
-      }
-    },
-    {
       "timestamp": "31-01-26 05:39:16.000",
       "steam_id": "76561199511597958",
       "username": "RottenEgg",
@@ -1383,21 +1336,21 @@
       "event_type": "level_up",
       "skill": "SmallBlunt",
       "level": "3"
+    },
+    {
+      "timestamp": "02-02-26 22:42:42.438",
+      "steam_id": "76561198289276535",
+      "username": "karter",
+      "x": "10612",
+      "y": "9480",
+      "z": "0",
+      "hours_survived": 55,
+      "event_type": "level_up",
+      "skill": "Sprinting",
+      "level": "1"
     }
   ],
   "chat_messages": [
-    {
-      "timestamp": "01-02-26 04:08:15.478",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
-    {
-      "timestamp": "01-02-26 04:08:15.478",
-      "chat_type": "Local",
-      "author": "ExpiredPork",
-      "text": "OVER HERE!"
-    },
     {
       "timestamp": "01-02-26 04:08:15.623",
       "chat_type": "Local",
@@ -1685,7 +1638,19 @@
       "chat_type": "Local",
       "author": "karter",
       "text": "HEY YOU!"
+    },
+    {
+      "timestamp": "02-02-26 22:42:22.622",
+      "chat_type": "Local",
+      "author": "karter",
+      "text": "OVER HERE!"
+    },
+    {
+      "timestamp": "02-02-26 22:42:22.622",
+      "chat_type": "Local",
+      "author": "karter",
+      "text": "OVER HERE!"
     }
   ],
-  "timestamp": "2026-02-02T22:40:01.725298"
+  "timestamp": "2026-02-02T22:45:01.482783"
 }
