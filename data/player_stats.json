@@ -7726,7 +7726,7 @@
     "karter": {
       "username": "karter",
       "steam_id": "76561198289276535",
-      "total_hours": 16,
+      "total_hours": 21,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -7751,7 +7751,7 @@
         "MetalWelding": 0,
         "Mechanics": 1,
         "Spear": 0,
-        "Maintenance": 1,
+        "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 0,
         "SmallBlunt": 2,
@@ -7775,6 +7775,11 @@
           "skill": "Blunt",
           "level": "1",
           "timestamp": "02-02-26 20:38:45.205"
+        },
+        {
+          "skill": "Maintenance",
+          "level": "2",
+          "timestamp": "02-02-26 20:50:12.344"
         }
       ],
       "last_seen": "31-01-26 21:03:08.804",
@@ -7782,5 +7787,5 @@
     }
   },
   "total_players": 51,
-  "timestamp": "2026-02-02T20:50:01.359696"
+  "timestamp": "2026-02-02T20:55:01.895371"
 }
