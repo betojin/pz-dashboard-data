@@ -7726,13 +7726,13 @@
     "karter": {
       "username": "karter",
       "steam_id": "76561198289276535",
-      "total_hours": 13,
+      "total_hours": 16,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
         "Fitness": 5,
         "Strength": 5,
-        "Blunt": 0,
+        "Blunt": 1,
         "Axe": 0,
         "Lightfoot": 1,
         "Nimble": 1,
@@ -7770,12 +7770,17 @@
           "skill": "SmallBlunt",
           "level": "2",
           "timestamp": "31-01-26 21:03:08.804"
+        },
+        {
+          "skill": "Blunt",
+          "level": "1",
+          "timestamp": "02-02-26 20:38:45.205"
         }
       ],
       "last_seen": "31-01-26 21:03:08.804",
-      "connections": 4
+      "connections": 5
     }
   },
   "total_players": 51,
-  "timestamp": "2026-02-02T20:35:01.862048"
+  "timestamp": "2026-02-02T20:40:01.365634"
 }
