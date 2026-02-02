@@ -7726,7 +7726,7 @@
     "karter": {
       "username": "karter",
       "steam_id": "76561198289276535",
-      "total_hours": 41,
+      "total_hours": 49,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -7754,7 +7754,7 @@
         "Maintenance": 2,
         "SmallBlade": 0,
         "LongBlade": 0,
-        "SmallBlunt": 2,
+        "SmallBlunt": 3,
         "Tailoring": 0,
         "Tracking": 0,
         "Husbandry": 0,
@@ -7785,6 +7785,11 @@
           "skill": "Woodwork",
           "level": "4",
           "timestamp": "02-02-26 22:08:10.054"
+        },
+        {
+          "skill": "SmallBlunt",
+          "level": "3",
+          "timestamp": "02-02-26 22:26:42.645"
         }
       ],
       "last_seen": "31-01-26 21:03:08.804",
@@ -7792,5 +7797,5 @@
     }
   },
   "total_players": 51,
-  "timestamp": "2026-02-02T22:25:02.043343"
+  "timestamp": "2026-02-02T22:30:01.512065"
 }
