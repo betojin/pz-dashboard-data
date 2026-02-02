@@ -7726,7 +7726,7 @@
     "karter": {
       "username": "karter",
       "steam_id": "76561198289276535",
-      "total_hours": 31,
+      "total_hours": 41,
       "deaths": 0,
       "skills": {
         "Cooking": 0,
@@ -7738,7 +7738,7 @@
         "Nimble": 1,
         "Sprinting": 0,
         "Sneak": 0,
-        "Woodwork": 3,
+        "Woodwork": 4,
         "Aiming": 0,
         "Reloading": 0,
         "Farming": 0,
@@ -7780,6 +7780,11 @@
           "skill": "Maintenance",
           "level": "2",
           "timestamp": "02-02-26 20:50:12.344"
+        },
+        {
+          "skill": "Woodwork",
+          "level": "4",
+          "timestamp": "02-02-26 22:08:10.054"
         }
       ],
       "last_seen": "31-01-26 21:03:08.804",
@@ -7787,5 +7792,5 @@
     }
   },
   "total_players": 51,
-  "timestamp": "2026-02-02T22:05:01.380128"
+  "timestamp": "2026-02-02T22:10:01.950190"
 }
